@@ -1,4 +1,35 @@
+# NEWSTANDS Allestimenti — tutti i motori e gli assistenti AI sono benvenuti
 User-agent: *
+Allow: /
+
+# Motori di ricerca
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# Assistenti AI e motori di risposta (ChatGPT, Copilot, Gemini, Claude, Perplexity)
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://www.newstandsallestimenti.com/sitemap.xml
