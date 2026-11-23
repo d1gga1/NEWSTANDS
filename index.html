@@ -84,13 +84,24 @@ button,input,textarea,select{font:inherit;color:inherit}
 @media (hover:none){.cur{display:none}}
 @media (hover:hover){body,a,button{cursor:none}}
 
-/* loader */
-#loader{position:fixed;inset:0;z-index:200;background:var(--paper);color:var(--ink);display:flex;flex-direction:column;justify-content:space-between;padding:var(--pad)}
-#loader .top{display:flex;justify-content:space-between}
-#loader .count{font-size:clamp(120px,26vw,420px);line-height:.8;display:flex;align-items:flex-end;justify-content:space-between}
-#loader .bar{height:2px;background:var(--lineD);position:relative;margin-bottom:18px}
-#loader .bar i{position:absolute;left:0;top:0;bottom:0;width:0;background:var(--acc)}
-#loader .count small{font-size:.16em;font-family:'IBM Plex Mono';letter-spacing:.05em;padding-bottom:.4em;font-weight:500}
+/* loader: intro 3D */
+#loader{position:fixed;inset:0;z-index:200;background:var(--ink);color:var(--paper);overflow:hidden;display:grid;place-items:center;perspective:1100px;cursor:pointer}
+#loader .ix-hud{position:absolute;left:var(--pad);right:var(--pad);display:flex;justify-content:space-between;color:var(--mute)}
+#loader .ix-hud.t{top:var(--pad)}#loader .ix-hud.b{bottom:var(--pad)}
+#loader .ix-hud b{color:var(--acc);font-weight:500}
+#loader .ix-floor{position:absolute;left:50%;top:62%;width:260vmax;height:260vmax;margin:-130vmax 0 0 -130vmax;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:64px 64px;background-position:center;transform:rotateX(78deg);-webkit-mask-image:radial-gradient(closest-side,#000 8%,transparent 46%);mask-image:radial-gradient(closest-side,#000 8%,transparent 46%);opacity:0;pointer-events:none}
+#loader .ix-stage{position:relative;display:flex;flex-direction:column;align-items:center;gap:clamp(18px,3.4vmin,34px);transform-style:preserve-3d}
+#loader .ix-mark{width:clamp(120px,30vmin,230px);aspect-ratio:1;position:relative;transform-style:preserve-3d}
+#loader .ix-p{position:absolute;inset:0;transform-style:preserve-3d}
+#loader .ix-p i{position:absolute;inset:0;clip-path:var(--cp);background:var(--c);backface-visibility:visible}
+#loader .ix-word{display:flex;font-family:'Big Shoulders Display',sans-serif;font-weight:800;font-size:clamp(46px,11vmin,96px);line-height:.82;letter-spacing:.02em;text-transform:uppercase}
+#loader .ix-word span{display:block;overflow:hidden;padding-top:.06em}
+#loader .ix-word span i{display:block;font-style:normal}
+#loader .ix-sub{display:flex;align-items:center;gap:14px;color:var(--acc);letter-spacing:.5em}
+#loader .ix-sub span{margin-right:-.5em}
+#loader .ix-p,#loader .ix-sub{opacity:0}#loader .ix-word span i{transform:translateY(115%)}
+#loader .ix-sub u{display:block;width:clamp(30px,7vmin,64px);height:1px;background:var(--acc);text-decoration:none}
+@media (max-width:600px){#loader .ix-sub{letter-spacing:.3em}#loader .ix-hud.b span:first-child{display:none}}
 
 /* nav */
 nav{position:fixed;top:0;left:0;right:0;z-index:80;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:18px var(--pad);mix-blend-mode:difference;color:#fff}
@@ -405,17 +416,24 @@ footer{padding:60px var(--pad) 26px;position:relative;overflow:hidden}
 <div class="grain"></div>
 <div class="cur" id="cur"><div class="ring"></div><div class="x"></div><div class="y"></div><div class="lbl mono" id="curL">X 0000 · Y 0000</div></div>
 
-<div id="loader">
-  <div class="top mono"><span>NEWSTANDS / Allestimenti</span><span id="ldStat">Carico cantiere</span></div>
-  <div>
-    <div class="bar"><i id="ldBar"></i></div>
-    <div class="count disp"><span id="ldNum">000</span><small>%&nbsp;montato</small></div>
+<div id="loader" aria-hidden="true">
+  <div class="ix-floor"></div>
+  <div class="ix-hud t mono"><span>NEWSTANDS / Allestimenti</span><span id="ldStat">Pedana</span></div>
+  <div class="ix-stage">
+    <div class="ix-mark" id="ixMark">
+      <div class="ix-p" id="ixL" data-cp="polygon(12% 12%,30% 12%,30% 88%,12% 88%)" data-f="#ece8df" data-s="#6f6b63"></div>
+      <div class="ix-p" id="ixR" data-cp="polygon(70% 12%,88% 12%,88% 88%,70% 88%)" data-f="#ece8df" data-s="#6f6b63"></div>
+      <div class="ix-p" id="ixB" data-cp="polygon(12% 12%,30% 12%,88% 88%,70% 88%)" data-f="#ff4f1f" data-s="#a8300c" data-dz="3"></div>
+    </div>
+    <div class="ix-word" id="ixWord"></div>
+    <div class="ix-sub mono" id="ixSub"><u></u><span>Allestimenti</span><u></u></div>
   </div>
+  <div class="ix-hud b mono"><span>Progettato · Prodotto · Montato</span><span>Tocca per entrare <b>&rarr;</b></span></div>
 </div>
 
 <nav aria-label="Menu principale">
   <a href="#build" class="logo" aria-label="NEWSTANDS">
-    <svg viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="1" y="1" width="24" height="24"/><path d="M6 20V6l14 14V6"/><path d="M6 6l4 0M16 20h4" stroke-width="1"/></svg>
+    <svg viewBox="0 0 100 100" fill="currentColor" aria-hidden="true"><rect x="12" y="12" width="18" height="76" opacity=".5"/><rect x="70" y="12" width="18" height="76" opacity=".5"/><path d="M12 12H30L88 88H70Z"/></svg>
     NEWSTANDS
   </a>
   <div class="nav-links mono">
@@ -1249,21 +1267,61 @@ function scrollFX(){
   gsap.to('#contatti h2',{xPercent:-4,ease:'none',scrollTrigger:{trigger:'#contatti',start:'top bottom',end:'bottom top',scrub:true}});
 }
 
-/* ---------- loader ---------- */
-const ldNum=$('#ldNum'),ldBar=$('#ldBar'),ldStat=$('#ldStat');
-const stat=['Carico cantiere','Pedana','Americane','Pareti','Luci'];
+/* ---------- loader: intro 3D ---------- */
+const ldStat=$('#ldStat');
 function finishLoad(){
   document.body.classList.remove('locked');if(lenis)lenis.start();
   scrollFX();
   if(hasGSAP){
-    gsap.to('#loader',{clipPath:'inset(0 0 100% 0)',duration:1.1,ease:'expo.inOut',onComplete:()=>$('#loader').remove()});
-    gsap.from(chars,{yPercent:110,duration:1.4,stagger:.05,ease:'expo.out',delay:.45,clearProps:'transform'});
-    gsap.from('#heroTop>*,#heroMeta',{y:20,opacity:0,duration:1,stagger:.08,ease:'expo.out',delay:.8});
-  }else $('#loader').remove();
+    gsap.to('#loader .ix-stage',{yPercent:-18,opacity:0,duration:.9,ease:'expo.in'});
+    gsap.to('#loader',{clipPath:'inset(0 0 100% 0)',duration:1.1,ease:'expo.inOut',delay:.15,onComplete:()=>{const l=$('#loader');if(l)l.remove()}});
+    gsap.from(chars,{yPercent:110,duration:1.4,stagger:.05,ease:'expo.out',delay:.6,clearProps:'transform'});
+    gsap.from('#heroTop>*,#heroMeta',{y:20,opacity:0,duration:1,stagger:.08,ease:'expo.out',delay:.95});
+  }else{const l=$('#loader');if(l)l.remove()}
 }
+function buildIntro(){
+  const mark=$('#ixMark'),size=mark.offsetWidth,L=14,step=size*.0115;
+  $$('#loader .ix-p').forEach(p=>{
+    const dz=(+p.dataset.dz||0)*step;let h='';
+    for(let k=L-1;k>=0;k--){
+      const c=k===0?p.dataset.f:p.dataset.s, sh=k===0?1:(.75+.25*(1-k/L));
+      h+=`<i style="--cp:${p.dataset.cp};--c:${c};filter:brightness(${sh.toFixed(2)});transform:translateZ(${(dz-k*step).toFixed(2)}px)"></i>`;
+    }
+    p.innerHTML=h;
+  });
+  $('#ixWord').innerHTML='NEWSTANDS'.split('').map(c=>`<span><i>${c}</i></span>`).join('');
+}
+let introDone=false;
+function endIntro(){if(introDone)return;introDone=true;finishLoad()}
 if(hasGSAP&&!REDUCE){
-  const o={v:0};
-  gsap.to(o,{v:100,duration:1.7,ease:'power2.inOut',onUpdate:()=>{const v=Math.round(o.v);ldNum.textContent=String(v).padStart(3,'0');ldBar.style.width=v+'%';ldStat.textContent=stat[Math.min(4,Math.floor(v/20))]},onComplete:finishLoad});
+  buildIntro();
+  const st=['Pedana','Pareti','Traversa','Luci','Pronto'];
+  gsap.set('#ixMark',{rotationX:58,rotationZ:-38,scale:.78});
+  gsap.set('#ixL',{xPercent:-150,z:260,rotationY:-85,opacity:0});
+  gsap.set('#ixR',{xPercent:150,z:260,rotationY:85,opacity:0});
+  gsap.set('#ixB',{yPercent:-170,z:420,rotationX:-80,opacity:0});
+  gsap.set('#ixWord i',{y:0,yPercent:115});
+  gsap.set('#ixSub',{opacity:0});gsap.set('#ixSub u',{scaleX:0});
+  const tl=gsap.timeline({paused:true,onComplete:endIntro});
+  tl.to('#loader .ix-floor',{opacity:1,duration:.7,ease:'power2.out'},0)
+    .call(()=>ldStat.textContent=st[1],null,.2)
+    .to('#ixL',{xPercent:0,z:0,rotationY:0,opacity:1,duration:.85,ease:'expo.out'},.1)
+    .to('#ixR',{xPercent:0,z:0,rotationY:0,opacity:1,duration:.85,ease:'expo.out'},.22)
+    .call(()=>ldStat.textContent=st[2],null,.42)
+    .to('#ixB',{yPercent:0,z:0,rotationX:0,opacity:1,duration:.8,ease:'back.out(1.3)'},.4)
+    .call(()=>ldStat.textContent=st[3],null,.9)
+    .to('#ixMark',{rotationX:0,rotationZ:0,scale:1,duration:1.05,ease:'expo.inOut'},.95)
+    .fromTo('#ixMark',{rotationY:0},{rotationY:-28,duration:.55,ease:'sine.inOut',yoyo:true,repeat:1},.95)
+    .to('#loader .ix-floor',{opacity:0,duration:.6},1.4)
+    .call(()=>ldStat.textContent=st[4],null,1.6)
+    .to('#ixWord i',{yPercent:0,duration:.75,stagger:.035,ease:'expo.out'},1.55)
+    .to('#ixSub',{opacity:1,duration:.4},1.8)
+    .to('#ixSub u',{scaleX:1,duration:.6,ease:'expo.out'},1.8)
+    .to({},{duration:.45});
+  $('#loader').addEventListener('click',()=>tl.progress(1));
+  addEventListener('keydown',function k(){removeEventListener('keydown',k);if(!introDone)tl.progress(1)});
+  const go=()=>tl.play();
+  (document.fonts&&document.fonts.ready?Promise.race([document.fonts.ready,new Promise(r=>setTimeout(r,700))]):Promise.resolve()).then(go);
 }else finishLoad();
 })();
 </script>
