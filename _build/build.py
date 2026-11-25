@@ -357,7 +357,7 @@ def build_page(code, pid):
 </footer>
 {wa_float(code)}
 {panel}{LANG_JS}'''
-    out = f'<!DOCTYPE html>\n<html lang="{L[1]}"{RTL if L[3] == "rtl" else ""}>\n<head>\n{head}\n</head>\n<body>\n{body}\n</body>\n</html>\n'
+    out = f'<!DOCTYPE html>\n<html lang="{L[1]}"{RTL if L[3] == "rtl" else ""}>\n<head>\n{head}\n<script src="/assets/js/ds-live.js?v=3" defer></script>\n</head>\n<body>\n{body}\n</body>\n</html>\n'
     return out
 
 # ---------------- write ----------------
