@@ -1,0 +1,987 @@
+{
+ "_lang": "pt",
+ "meta": {
+  "title": "Stands para feiras em Milão e em toda a Europa | NEWSTANDS",
+  "desc": "Montagem de stands para feiras na zona de Milão: projetamos, produzimos e montamos stands chave na mão na Fiera Milano e em qualquer feira da Europa.",
+  "ogTitle": "NEWSTANDS — Stands para feiras de Milão para toda a Europa",
+  "ogDesc": "Stands para feiras chave na mão, eventos e congressos: base na zona de Milão, equipas de montagem em todos os recintos de feiras europeus.",
+  "ogAlt": "NEWSTANDS — montagem de stands para feiras de Milão para toda a Europa",
+  "orgDesc": "Empresa de montagem de stands para feiras com base na zona de Milão (sede em Tromello, PV). Projeta, produz e monta stands chave na mão, cenografias para eventos, congressos, showrooms e lojas temporárias na Fiera Milano e em todos os recintos de feiras da Europa.",
+  "slogan": "Projetado, produzido, montado."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Estrado",
+  "h003": "Allestimenti",
+  "h004": "Projetado · Produzido · Montado",
+  "h005": "Toque para entrar",
+  "h006": "Processo",
+  "h007": "Serviços",
+  "h008": "Projetos",
+  "h009": "Configurar",
+  "h009b": "Configurar",
+  "h010": "Europa",
+  "h011": "Orçamento",
+  "h012": "Stands para feiras em Milão · Eventos · Congressos",
+  "h013": "Projeto → Produção → Montagem",
+  "h014": "Com base na zona de Milão, o coração das feiras na Europa, construímos stands do zero e montamo-los em qualquer recinto de feiras europeu. Um único interlocutor do primeiro esboço ao último parafuso.",
+  "h015": "Deslize e monte o stand",
+  "h016": "Fl. 00 — Planta do stand 8.000 × 6.000",
+  "h017": "Escala 1:50",
+  "h018": "Projeto",
+  "h019": "Avanço da obra",
+  "h020": "Fl. 05 — Entrega",
+  "h021": "Chave na mão.",
+  "h022": "Configure o seu",
+  "h023": "Pedir orçamento",
+  "h024": "§ 01 — Quem somos",
+  "h025": "Não vendemos metros quadrados. Construímos o lugar onde a sua *marca* encontra o mercado: do *primeiro* *esboço* ao último parafuso, em qualquer pavilhão da Europa.",
+  "h026": "O método",
+  "h027": "Projetamos, produzimos e montamos internamente cada componente: estruturas, painéis, gráficos, mobiliário e iluminação. Menos intermediários, menos surpresas, prazos cumpridos.",
+  "h028": "Do nada",
+  "h029": "ao stand.",
+  "h030": "Seis fases, uma só direção.",
+  "h031": "Deslize na horizontal →",
+  "h032": "Fase 01",
+  "h033": "Objetivos, orçamento, feira e regulamento técnico do recinto. Começamos pelo que tem de acontecer no seu stand.",
+  "h034": "Fase 02",
+  "h035": "Conceito e 3D",
+  "h036": "Renders fotorrealistas e desenhos de execução: vê o stand pronto antes de ser cortado um único painel.",
+  "h037": "Fase 03",
+  "h038": "Produção",
+  "h039": "Carpintaria, serralharia, impressão de grande formato, iluminação. Cada peça nasce à medida.",
+  "h040": "Fase 04",
+  "h041": "Logística",
+  "h042": "Embalagem, transporte e formalidades de acesso para qualquer recinto de feiras europeu. Chegamos nós, a horas.",
+  "h043": "Fase 05",
+  "h044": "Montagem",
+  "h045": "Equipas especializadas em obra, chefe de montagem dedicado e verificação final. O stand é-lhe entregue pronto.",
+  "h046": "Fase 06",
+  "h047": "Feira e desmontagem",
+  "h048": "Assistência técnica durante a feira, desmontagem, armazenamento e reutilização na feira seguinte.",
+  "h049": "Resultado",
+  "h050": "Você pensa",
+  "h051": "nos clientes.",
+  "h052": "Do resto",
+  "h053": "tratamos nós.",
+  "h054": "Vamos falar da sua próxima feira",
+  "h055": "O que",
+  "h056": "construímos",
+  "h057": "§ 03 — Serviços",
+  "h058": "Todo o tipo de feiras e eventos, do stand em linha de 16 m² à ilha de dois pisos. Produção e montagem sempre internas.",
+  "h059": "Stands",
+  "h060": "realizados",
+  "h061": "§ 04 — Projetos",
+  "h062": "Uma seleção de stands projetados, produzidos e montados pelas nossas equipas: pavilhões nacionais, ilhas de marca e stands técnicos em toda a Europa.",
+  "h063": "O próximo pode ser o seu",
+  "h064": "o seu stand",
+  "h065": "§ 05 — Configurador 3D",
+  "h066": "Escolha o tipo e a área: veja o volume ganhar forma e envie-nos a configuração como base para o orçamento.",
+  "h067": "↔ Arraste para rodar",
+  "h068": "Vista axonométrica",
+  "h069": "Az 000°",
+  "h070": "01 — Tipo",
+  "h071": "Lados abertos",
+  "h072": "02 — Área",
+  "h073": "Dimensões aprox.",
+  "h074": "Usar esta configuração",
+  "h075": "Próxima",
+  "h076": "partida",
+  "h077": "§ 06 — De Milão para toda a Europa",
+  "h078": "Partimos de Milão, a cidade das grandes feiras internacionais, e levamos o stand a qualquer recinto de feiras europeu: Alemanha, França, Espanha, Benelux, Áustria, Suíça. Se há um pavilhão, nós chegamos lá.",
+  "h079": "Cidade",
+  "h080": "Recinto de feiras",
+  "h081": "País",
+  "h082": "Estado",
+  "h083": "Equipas de montagem operacionais",
+  "h084": "+ qualquer outro recinto a pedido",
+  "h085": "Perguntas",
+  "h086": "frequentes",
+  "h087": "§ 07 — FAQ",
+  "h088": "Custos, prazos, cidades e serviços: as respostas às perguntas que mais nos fazem antes de uma feira.",
+  "h089": "Tem uma feira",
+  "h090": "na agenda?",
+  "h091": "Fale-nos do evento, das datas e dos metros quadrados. Respondemos com uma primeira proposta e um orçamento claro.",
+  "h092": "Telefone",
+  "h093": "Telefone 2",
+  "h094": "Sede",
+  "h095": "Área",
+  "h096": "Milão + toda a Europa",
+  "h097": "Serviço",
+  "h098": "Chave na mão",
+  "h099": "Stand de feira",
+  "h100": "Evento",
+  "h101": "Congresso",
+  "h102": "Showroom / pop-up",
+  "h103": "Só montagem",
+  "h104": "Nome completo",
+  "h105": "Empresa",
+  "h106": "Feira / evento e cidade",
+  "h107": "Fale-nos do projeto",
+  "h108": "Enviar pedido",
+  "h109": "Pedido pronto no seu email: carregue em enviar.",
+  "h110": "Não abriu nada? Escreva para",
+  "h111": "ou ligue para o",
+  "h112": "Estúdio",
+  "h113": "Stands para feiras em Milão e na Europa, eventos, congressos",
+  "h114": "27020 Tromello (PV), Lombardia",
+  "h115": "Navegar",
+  "h116": "Configurador",
+  "h117": "Redes sociais",
+  "h118": "Contactos",
+  "h119": "Peça um orçamento →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia",
+  "h121": "Projetado, produzido, montado.",
+  "h122": "Voltar ao topo ↑",
+  "h123": "Menu principal",
+  "h124": "Filtrar por setor",
+  "h125": "Galeria do projeto",
+  "h126": "Fechar galeria",
+  "h127": "Foto anterior",
+  "h128": "Foto seguinte",
+  "h129": "Área em metros quadrados",
+  "h130": "Pedido de orçamento de stand",
+  "h131": "Tipo de projeto",
+  "h132": "Fale connosco no WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Quanto custa um stand de feira?",
+   "a": "O preço de um stand depende da área, do tipo (em linha, esquina, península ou ilha), dos materiais, dos gráficos, do mobiliário e do recinto de feiras. Depois de um breve briefing sobre a feira, as datas e os metros quadrados, enviamos-lhe uma primeira proposta e um orçamento claro e detalhado. Pode começar pelo configurador 3D acima ou ligar-nos ou escrever-nos no WhatsApp para o <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Onde fica a NEWSTANDS e em que feiras trabalham?",
+   "a": "Somos uma empresa de montagem de stands da zona de Milão, com sede e oficina em Tromello (PV), na Lombardia: uma localização estratégica a pouca distância da Fiera Milano Rho e do Allianz MiCo, que acolhem algumas das feiras mais importantes da Europa. Daqui, as nossas equipas deslocam-se a qualquer recinto de feiras: Bolonha, Verona, Rimini, Düsseldorf, Colónia, Frankfurt, Munique, Paris, Lyon, Barcelona, Madrid, Amesterdão, Bruxelas, Viena, Genebra e muito mais."
+  },
+  {
+   "q": "O que inclui o serviço chave na mão?",
+   "a": "Um único interlocutor para tudo: briefing, conceito e renders 3D, desenhos de execução, produção interna de estruturas, painéis, gráficos de grande formato, mobiliário e iluminação, logística e transporte, montagem com chefe de obra dedicado, assistência durante a feira, desmontagem e armazenamento para reutilização."
+  },
+  {
+   "q": "Também fazem eventos, congressos e showrooms?",
+   "a": "Sim. Além de stands para feiras personalizados e modulares, projetamos e montamos eventos corporativos, congressos, convenções, lançamentos de produto, palcos e cenografias, showrooms, lojas temporárias e pop-ups, com estruturas truss, ecrãs LED e iluminação."
+  },
+  {
+   "q": "Com quanta antecedência devemos contactar-vos?",
+   "a": "Quanto mais cedo nos contactar, mais margem teremos para o projeto, os renders e a produção: para um stand personalizado, convém começar assim que tiver confirmado a participação na feira. Para stands modulares e só montagem podemos trabalhar com prazos mais apertados: escreva-nos e verificamos de imediato a viabilidade."
+  },
+  {
+   "q": "Como peço um orçamento?",
+   "a": "Preencha o formulário na secção de contactos, escreva para <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> ou ligue-nos ou escreva-nos no WhatsApp para o <a href=\"tel:+393884706887\">+39 388 470 6887</a> (em alternativa, <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Indique a feira ou o evento, a cidade, as datas e os metros quadrados: entramos em contacto consigo com uma primeira proposta."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projeto",
+    "Cada stand nasce de um desenho técnico: medidas, regulamento do recinto, fluxos de visitantes."
+   ],
+   [
+    "Estrutura",
+    "Estrado, truss, caixilhos. A parte que não se vê, mas que segura tudo."
+   ],
+   [
+    "Paredes e gráficos",
+    "Painéis produzidos à medida, impressão de grande formato, acabamentos."
+   ],
+   [
+    "Mobiliário e tecnologia",
+    "Balcões, totens, ecrãs LED, zonas de reunião, ring suspenso. Produzidos e montados por nós."
+   ],
+   [
+    "Luzes acesas",
+    "Verificação, limpeza, entrega. O stand está pronto a abrir."
+   ]
+  ],
+  "lbl": [
+   "L 8.000 mm",
+   "P 6.000 mm",
+   "Truss 29×29 — A 4.500",
+   "Parede 3.400 + gráfico",
+   "Ledwall 3,4 × 1,9 m",
+   "Balcão de receção",
+   "Ring suspenso Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Em linha",
+   "angolo": "Esquina",
+   "penisola": "Península",
+   "isola": "Ilha",
+   "doppio": "Dois pisos"
+  },
+  "sides": "lados",
+  "side": "lado",
+  "openSides": "lados abertos",
+  "openSide": "lado aberto",
+  "cfgMsg": "Configuração do site: stand {type}, {n} {sides}, cerca de {area} m² ({dim} m).",
+  "axo": "Vista axonométrica",
+  "cfgFb": "Configurador 3D indisponível neste dispositivo.<br>Escreva-nos: enviamos-lhe o render.",
+  "mq": [
+   "Stands à medida",
+   "Eventos",
+   "Congressos",
+   "Showrooms",
+   "Pop-up",
+   "Ledwall",
+   "Truss",
+   "Gráficos",
+   "Mobiliário"
+  ],
+  "svc": [
+   {
+    "t": "Stands personalizados",
+    "d": "Projetos únicos construídos do zero em torno da sua marca: carpintaria, metal, vidro, tecido e acabamentos de qualidade.",
+    "tags": [
+     "Conceito",
+     "Render 3D",
+     "Produção",
+     "Montagem"
+    ]
+   },
+   {
+    "t": "Stands modulares",
+    "d": "Sistemas reutilizáveis e pré-montados para quem participa em várias feiras por ano: imagem coerente e custos controlados.",
+    "tags": [
+     "Reutilização",
+     "Armazenamento",
+     "Rapidez"
+    ]
+   },
+   {
+    "t": "Eventos e congressos",
+    "d": "Palcos, cenografias, salas plenárias, convenções corporativas e lançamentos de produto, com direção técnica completa.",
+    "tags": [
+     "Palcos",
+     "Cenografia",
+     "Áudio/Vídeo"
+    ]
+   },
+   {
+    "t": "Showrooms e lojas temporárias",
+    "d": "Espaços de retalho temporários, pop-ups e showrooms permanentes: o mesmo rigor de uma montagem em feira.",
+    "tags": [
+     "Pop-up",
+     "Retalho",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Gráficos de grande formato",
+    "d": "Impressão em forex, tecido retroiluminado, PVC, autocolantes e vinis para montras. Produzidos e aplicados por nós.",
+    "tags": [
+     "Lightbox",
+     "Tecido",
+     "Autocolantes"
+    ]
+   },
+   {
+    "t": "Truss e ecrãs LED",
+    "d": "Estruturas truss, rings suspensos, rigging, ecrãs LED e iluminação para stands que se veem de todo o pavilhão.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Luzes"
+    ]
+   },
+   {
+    "t": "Mobiliário e aluguer",
+    "d": "Balcões, bancadas, assentos, vitrinas, cozinhas e arrumos: mobiliário à medida ou de aluguer para qualquer área.",
+    "tags": [
+     "À medida",
+     "Aluguer",
+     "Arrumos"
+    ]
+   }
+  ],
+  "more": "Conhecer o serviço",
+  "tav": "Fl.",
+  "avail": "DISPONÍVEL",
+  "form": {
+   "type": "Tipo de projeto",
+   "name": "Nome completo",
+   "company": "Empresa",
+   "fair": "Feira / evento e cidade",
+   "project": "Projeto",
+   "subj": "Pedido de orçamento de stand"
+  },
+  "ariaW": "{t} — abrir galeria ({n} fotos)",
+  "altW": "Stand de feira {t} — {c}, montagem NEWSTANDS",
+  "nPh": "{n} fotos",
+  "altLb": "Stand de feira {t} ({c}) — foto {i} de {n}",
+  "phN": "Foto {i}",
+  "all": "Todos",
+  "ld": [
+   "Estrado",
+   "Paredes",
+   "Travessa",
+   "Luzes",
+   "Pronto"
+  ],
+  "c3": [
+   "DO ZERO",
+   "AO STAND.",
+   "PROJETO · PRODUÇÃO · MONTAGEM · EUROPA",
+   "STANDS PARA FEIRAS",
+   "STANDS · EVENTOS · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Cristais e iluminação",
+   "g": "Design",
+   "d": "Ilha total white envolvida por cortinas de fios de cristal, candeeiros suspensos e mobiliário lacado: o stand torna-se uma montra luminosa."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Suplementos desportivos",
+   "g": "Alimentação e saúde",
+   "d": "Ilha aberta em vários lados com gráficos de produto em toda a parede, sinalética suspensa e balcões de degustação para gerir grandes fluxos de público."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turismo",
+   "g": "Turismo",
+   "d": "Pavilhão institucional com arcos e minaretes inspirados na arquitetura de Telangana, balcões para operadores e gráficos imersivos."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turismo",
+   "g": "Turismo",
+   "d": "Pórticos em falsa terracota, arcos esculpidos e postos B2B: um pavilhão regional que apresenta o território num relance."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Pavilhão nacional alimentar",
+   "g": "Alimentação e saúde",
+   "d": "Pavilhão coletivo branco e vermelho com decorações rendilhadas, balcões para expositores e zona de show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Indústria",
+   "d": "Stand corporativo com salas de reunião envidraçadas, paredes retroiluminadas e receção aberta para o corredor."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motos",
+   "g": "Motos",
+   "d": "Total white com pórticos vermelhos e estrados para as motos: grafismo limpo que deixa as máquinas falar."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Motos elétricas",
+   "g": "Motos",
+   "d": "Cenografia total black com pavimento branco brilhante, motos em exposição e zona de reuniões."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Lounge expositivo",
+   "g": "Design",
+   "d": "Lounge aberto com uma grande impressão panorâmica, teto falso suspenso, balcão e assentos para receber os visitantes."
+  },
+  {
+   "t": "Plastona",
+   "c": "Casa e jardim",
+   "g": "Design",
+   "d": "Ilha com sinalética cúbica sobre estrutura treliçada, estantes brancas e ambientes de produto."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motos e motores",
+   "g": "Motos",
+   "d": "Stand de esquina com paredes expositivas pretas e brancas, veículos em estrado e zona de mesas."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Indústria energética",
+   "g": "Indústria",
+   "d": "Molduras arredondadas retroiluminadas, painéis técnicos e zona de reuniões para um público B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Capacetes",
+   "g": "Motos",
+   "d": "Paredes expositivas para capacetes, gráficos racing e balcão de receção: design italiano em poucos metros quadrados."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Acessórios para motos",
+   "g": "Motos",
+   "d": "Colunas tricolores, vitrinas iluminadas e paredes de produto para uma presença racing de grande visibilidade."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Capacetes",
+   "g": "Motos",
+   "d": "Parede em losangos com capacetes em exposição, sinalética em grande escala e zona de mesas para negociações."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Peças e vestuário para motos",
+   "g": "Motos",
+   "d": "Totens gráficos de altura total, vitrinas de produto e paredes de vestuário em torno de uma zona de reuniões."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Indústria",
+   "g": "Indústria",
+   "d": "Stand corporativo em azul com gráficos de processo, zona técnica e postos de reunião."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turismo",
+   "g": "Turismo",
+   "d": "Pórtico cenográfico com decorações tradicionais e grandes imagens do território."
+  },
+  {
+   "t": "Uttar Pradesh — Agricultura",
+   "c": "Agroalimentar",
+   "g": "Alimentação e saúde",
+   "d": "Stand branco com molduras luminosas no pavimento e painéis de produto, essencial e luminoso."
+  },
+  {
+   "t": "Tunísia — Medica Düsseldorf",
+   "c": "Pavilhão nacional da saúde",
+   "g": "Setor médico",
+   "d": "Pavilhão nacional na Medica Düsseldorf com sinalética suspensa, balcões para as empresas expositoras e zona lounge."
+  }
+ ],
+ "ui": {
+  "langName": "Português",
+  "langLabel": "Idioma",
+  "home": "Início",
+  "services": "Serviços",
+  "works": "Projetos",
+  "contacts": "Contactos",
+  "quote": "Orçamento",
+  "requestQuote": "Peça um orçamento",
+  "whatsapp": "Fale connosco no WhatsApp",
+  "call": "Ligue-nos",
+  "phone": "Telefone / WhatsApp",
+  "phone2": "Telefone 2",
+  "email": "Email",
+  "address": "Sede",
+  "serviceN": "Serviço",
+  "locationK": "De Milão para toda a Europa",
+  "includesTitle": "O que inclui",
+  "whyTitle": "Porquê a NEWSTANDS",
+  "why": [
+   {
+    "t": "Base em Milão",
+    "d": "Trabalhamos a partir da zona de Milão, a pouca distância da Fiera Milano Rho e do Allianz MiCo: visitas técnicas rápidas, logística simples e equipas sempre perto dos grandes recintos de feiras."
+   },
+   {
+    "t": "Produção interna",
+    "d": "Estruturas, painéis, gráficos, mobiliário e iluminação nascem na nossa oficina: menos intermediários, menos surpresas, prazos cumpridos."
+   },
+   {
+    "t": "Em qualquer recinto de feiras europeu",
+    "d": "As nossas equipas de montagem viajam com o stand: Alemanha, França, Espanha, Benelux, Áustria, Suíça e qualquer outro recinto a pedido."
+   },
+   {
+    "t": "Um único interlocutor",
+    "d": "Do briefing à desmontagem fala sempre com a mesma pessoa, com um chefe de obra dedicado na feira."
+   }
+  ],
+  "galleryTitle": "Alguns stands realizados",
+  "faqTitle": "Perguntas frequentes",
+  "otherTitle": "Outros serviços",
+  "ctaTitle": "Tem uma feira na agenda?",
+  "ctaText": "Fale-nos da feira, da cidade, das datas e dos metros quadrados: respondemos com uma primeira proposta e um orçamento claro.",
+  "whereTitle": "De Milão para qualquer recinto de feiras",
+  "whereText": "Estamos na zona de Milão, a cidade que acolhe algumas das feiras mais importantes do mundo. Daqui chegamos com as nossas equipas a qualquer recinto de feiras de Itália e da Europa.",
+  "milanLink": "Stands para feiras em Milão",
+  "europeLink": "Stands para feiras na Europa",
+  "photos": "fotos",
+  "backHome": "Voltar ao início",
+  "footerTag": "Stands para feiras em Milão e em toda a Europa. Projetado, produzido, montado.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · Zona de Milão",
+  "breadcrumb": "Percurso",
+  "skip": "Ir para o conteúdo",
+  "menu": "Menu principal"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "stands-feiras-personalizados",
+   "nav": "Stands personalizados",
+   "title": "Stands personalizados para feiras em Milão e Europa | NEWSTANDS",
+   "desc": "Stands para feiras personalizados, projetados, produzidos e montados pela NEWSTANDS: base na zona de Milão e montagens em todos os recintos de feiras da Europa.",
+   "h1": "Stands personalizados para feiras",
+   "lead": "Um stand único, construído do zero em torno da sua marca: projetamo-lo, produzimo-lo na nossa oficina perto de Milão e montamo-lo em qualquer feira da Europa.",
+   "body": [
+    "Um stand personalizado é a forma mais forte de se apresentar numa feira: cada parede, cada luz e cada percurso de visita são pensados para os seus produtos e para os seus objetivos comerciais. Partimos do regulamento técnico do recinto e dos fluxos do pavilhão e transformamos a ideia em renders 3D fotorrealistas e desenhos de execução.",
+    "Produzimos internamente estruturas em madeira e metal, painéis, gráficos, mobiliário e iluminação, o que nos permite controlar a qualidade e os prazos em todas as fases. Seja a feira na Fiera Milano Rho, em Düsseldorf ou em Paris, a equipa que construiu o seu stand é a mesma que o monta."
+   ],
+   "inc": [
+    {
+     "t": "Conceito e renders 3D",
+     "d": "Proposta criativa, renders fotorrealistas e revisões até o stand ficar exatamente como o quer."
+    },
+    {
+     "t": "Projeto de execução",
+     "d": "Desenhos técnicos, cálculos e documentação em conformidade com o regulamento de cada recinto de feiras."
+    },
+    {
+     "t": "Produção à medida",
+     "d": "Carpintaria, serralharia, vidro, tecido e acabamentos de qualidade realizados na nossa oficina."
+    },
+    {
+     "t": "Gráficos e iluminação",
+     "d": "Impressão de grande formato, lightboxes, ecrãs LED e projeto de iluminação integrados na arquitetura do stand."
+    },
+    {
+     "t": "Montagem e desmontagem",
+     "d": "Transporte, montagem com chefe de obra dedicado, assistência na feira, desmontagem e armazenamento."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Quanto tempo é preciso para realizar um stand personalizado?",
+     "a": "Depende das dimensões e da complexidade: para um stand à medida, convém começar logo que a participação na feira esteja confirmada, para haver margem para projeto, renders e produção."
+    },
+    {
+     "q": "Um stand personalizado pode ser reutilizado?",
+     "a": "Sim. Projetamos os componentes para serem armazenados e voltarem a ser montados: na feira seguinte adaptamos o stand a novas áreas e a novos gráficos."
+    },
+    {
+     "q": "Também fazem stands personalizados fora de Itália?",
+     "a": "Sim, a partir da zona de Milão levamos o stand e as nossas equipas a todos os principais recintos de feiras europeus, da Alemanha a Espanha."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "stands-modulares",
+   "nav": "Stands modulares",
+   "title": "Stands modulares para feiras em Milão e Europa | NEWSTANDS",
+   "desc": "Stands modulares e reutilizáveis para quem participa em várias feiras por ano: imagem coerente e custos controlados, de Milão para toda a Europa.",
+   "h1": "Stands modulares e reutilizáveis",
+   "lead": "Sistemas modulares pensados para quem expõe em várias feiras por ano: a mesma imagem de marca, custos controlados e montagens rápidas, em Milão como em qualquer recinto europeu.",
+   "body": [
+    "Um stand modular é um investimento que dura: estruturas, painéis e mobiliário reconfiguram-se para se adaptarem a áreas e tipos diferentes, do stand em linha à ilha. Mudam os gráficos, mantém-se a qualidade.",
+    "Projetamos o sistema uma vez, produzimo-lo na nossa oficina e somos nós que o gerimos entre uma feira e outra: armazenamento, manutenção, atualização dos gráficos e transporte até ao pavilhão seguinte, em Itália ou no estrangeiro."
+   ],
+   "inc": [
+    {
+     "t": "Sistema à medida",
+     "d": "Módulos projetados de acordo com a sua imagem, combináveis para stands de poucos metros quadrados até grandes ilhas."
+    },
+    {
+     "t": "Gráficos intercambiáveis",
+     "d": "Tecidos e painéis impressos que se substituem rapidamente para cada feira, produto ou mercado."
+    },
+    {
+     "t": "Armazenamento e manutenção",
+     "d": "Guardamos o stand no nosso armazém e verificamo-lo antes de cada nova partida."
+    },
+    {
+     "t": "Montagens rápidas",
+     "d": "Tempos de montagem reduzidos, ideais também para feiras com janelas de montagem apertadas."
+    },
+    {
+     "t": "Calendário de feiras gerido",
+     "d": "Planeamos consigo a temporada de feiras e organizamos a logística e as equipas para cada etapa."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Um stand modular custa menos do que um personalizado?",
+     "a": "Ao longo de várias feiras, normalmente sim: o investimento inicial reparte-se por cada participação e os custos seguintes reduzem-se a gráficos e logística."
+    },
+    {
+     "q": "O stand modular adapta-se a áreas diferentes?",
+     "a": "Sim, os módulos recombinam-se para stands em linha, de esquina, em península ou em ilha e para áreas diferentes."
+    },
+    {
+     "q": "Podem gerir todo o nosso calendário de feiras?",
+     "a": "Sim: a partir da zona de Milão coordenamos armazenamento, transporte e montagem para cada feira da temporada, em Itália e na Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "montagem-eventos-congressos",
+   "nav": "Eventos e congressos",
+   "title": "Montagem de eventos e congressos em Milão | NEWSTANDS",
+   "desc": "Montagens para eventos corporativos, congressos, convenções e lançamentos de produto em Milão e na Europa: palcos, cenografias e direção técnica completa.",
+   "h1": "Montagem de eventos e congressos",
+   "lead": "Palcos, cenografias, salas plenárias, convenções corporativas e lançamentos de produto: montamos eventos e congressos em Milão e em toda a Europa com a mesma precisão de uma obra em feira.",
+   "body": [
+    "Milão é uma das capitais europeias de eventos e congressos, com espaços como o Allianz MiCo e os grandes locais corporativos da cidade. Por trabalharmos a partir da zona de Milão, conhecemos os prazos, as regras e a logística destes espaços e conseguimos tratar de visitas técnicas e montagens com grande rapidez.",
+    "Projetamos a montagem completa: palco, cenografia, sala plenária, áreas expositivas, receção, sinalética e iluminação. Somos nós que coordenamos os fornecedores técnicos, para que tenha um único interlocutor para todo o evento."
+   ],
+   "inc": [
+    {
+     "t": "Palcos e cenografias",
+     "d": "Palcos à medida, fundos, ecrãs LED e cenografias pensadas para a sua mensagem."
+    },
+    {
+     "t": "Salas plenárias e congressos",
+     "d": "Montagem de salas, áreas de pósteres, balcões de acolhimento e espaços para patrocinadores."
+    },
+    {
+     "t": "Convenções e lançamentos",
+     "d": "Ambientes para apresentar um produto ou reunir a rede comercial de forma memorável."
+    },
+    {
+     "t": "Áudio, vídeo e iluminação",
+     "d": "Direção técnica, truss, ecrãs LED e iluminação integrados no projeto."
+    },
+    {
+     "t": "Sinalética e gráficos",
+     "d": "Percursos, totens, backdrops e gráficos coordenados, impressos e instalados por nós."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Também montam eventos fora dos recintos de feiras?",
+     "a": "Sim: hotéis, centros de congressos, espaços industriais e locais privados, em Milão, em Itália e no estrangeiro."
+    },
+    {
+     "q": "Podem tratar também da parte técnica de áudio e vídeo?",
+     "a": "Sim, coordenamos palco, ecrãs LED, iluminação e som como parte de um único projeto, com um só responsável."
+    },
+    {
+     "q": "Com quanta antecedência se deve organizar um evento?",
+     "a": "Quanto mais cedo, melhor: com algumas semanas de margem fazemos a visita técnica, o projeto e a produção com calma. Para necessidades urgentes, contacte-nos e avaliamos a viabilidade."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-loja-temporaria-pop-up",
+   "nav": "Showrooms e pop-ups",
+   "title": "Showrooms, lojas temporárias e pop-ups em Milão | NEWSTANDS",
+   "desc": "Projeto e montagem de showrooms, lojas temporárias, pop-up stores e shop-in-shops em Milão e na Europa, com produção e montagem internas.",
+   "h1": "Showrooms, lojas temporárias e pop-ups",
+   "lead": "Espaços de retalho temporários, pop-ups e showrooms permanentes montados com o mesmo rigor de uma obra em feira, em Milão e em toda a Europa.",
+   "body": [
+    "Uma loja temporária ou um pop-up tem de ficar pronto em poucos dias e deixar marca: projetamos espaços que contam a história da marca, valorizam o produto e se montam rapidamente, também em centros comerciais e ruas de comércio.",
+    "Para showrooms permanentes realizamos mobiliário à medida, paredes expositivas, vitrinas e iluminação com materiais duradouros. A produção e a montagem são internas, por isso prazos e qualidade ficam sempre sob controlo."
+   ],
+   "inc": [
+    {
+     "t": "Conceito de retalho",
+     "d": "Layout, percurso do cliente e exposição dos produtos pensados para vender."
+    },
+    {
+     "t": "Lojas temporárias e pop-ups",
+     "d": "Estruturas leves e rápidas de montar, desmontar e reutilizar noutras cidades."
+    },
+    {
+     "t": "Showrooms permanentes",
+     "d": "Mobiliário à medida, paredes equipadas, vitrinas e acabamentos de qualidade."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Corners de marca dentro de lojas e grandes armazéns, coerentes com a sua imagem."
+    },
+    {
+     "t": "Iluminação e gráficos",
+     "d": "Iluminação dos produtos, sinalética, vinis para montras e gráficos produzidos por nós."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Quanto tempo demora a montar uma loja temporária?",
+     "a": "Depende do espaço e do projeto: graças à produção interna, conseguimos montar um pop-up em poucos dias."
+    },
+    {
+     "q": "Um pop-up pode ser levado para outras cidades?",
+     "a": "Sim, projetamos estruturas modulares que se desmontam e voltam a montar noutros locais, em Itália e na Europa."
+    },
+    {
+     "q": "Também tratam de showrooms permanentes?",
+     "a": "Sim, do projeto à instalação de mobiliário, vitrinas, iluminação e gráficos."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "impressao-grande-formato",
+   "nav": "Gráficos de grande formato",
+   "title": "Gráficos de grande formato para stands e feiras | NEWSTANDS",
+   "desc": "Impressão de grande formato para stands e eventos: forex, tecido retroiluminado, lightboxes, PVC, autocolantes e vinis, produzidos e aplicados por nós.",
+   "h1": "Gráficos de grande formato para stands e eventos",
+   "lead": "Impressão em forex, tecido retroiluminado, PVC, autocolantes e vinis para montras: os gráficos do seu stand produzidos e aplicados pelas mesmas equipas que o montam.",
+   "body": [
+    "Os gráficos são a primeira coisa que os visitantes veem, muitas vezes do outro lado do pavilhão. Por isso tratamo-los como parte da arquitetura do stand: formatos, materiais e iluminação são projetados em conjunto com as estruturas.",
+    "Somos nós que imprimimos e aplicamos, em Milão como em qualquer feira europeia: sem passagens entre fornecedores diferentes, com cores controladas e gráficos perfeitamente alinhados no momento da abertura."
+   ],
+   "inc": [
+    {
+     "t": "Tecido retroiluminado",
+     "d": "Lightboxes e paredes luminosas em tecido, leves e de grande impacto."
+    },
+    {
+     "t": "Painéis rígidos",
+     "d": "Impressão em forex, dibond e PVC para paredes, totens e balcões."
+    },
+    {
+     "t": "Autocolantes e vinis",
+     "d": "Pavimentos, vidros e superfícies personalizados com autocolantes técnicos."
+    },
+    {
+     "t": "Sinalética suspensa",
+     "d": "Banners e estruturas gráficas suspensas, visíveis ao longe no pavilhão."
+    },
+    {
+     "t": "Aplicação na feira",
+     "d": "Instalamos nós os gráficos, com verificação final antes da abertura."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Também imprimem gráficos para stands feitos por outros?",
+     "a": "Sim, podemos produzir e aplicar apenas os gráficos, respeitando as medidas e o regulamento do recinto de feiras."
+    },
+    {
+     "q": "Que ficheiros são necessários para a impressão?",
+     "a": "Ficheiros vetoriais ou imagens em alta resolução com sangria: enviamos-lhe as especificações técnicas para cada formato."
+    },
+    {
+     "q": "Os gráficos em tecido podem ser reutilizados?",
+     "a": "Sim, o tecido lava-se, dobra-se e volta a montar-se: é ideal para quem participa em várias feiras."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ecras-led-iluminacao",
+   "nav": "Truss e ecrãs LED",
+   "title": "Truss, ecrãs LED e iluminação para stands | NEWSTANDS",
+   "desc": "Estruturas truss, rings suspensos, rigging, ecrãs LED e iluminação para stands de feira e eventos em Milão e em toda a Europa, instalados pelas nossas equipas.",
+   "h1": "Truss, ecrãs LED e iluminação",
+   "lead": "Estruturas truss, rings suspensos, rigging, ecrãs LED e iluminação para stands que se veem de todo o pavilhão, na Fiera Milano e em qualquer recinto europeu.",
+   "body": [
+    "Um ring suspenso com o logótipo, um ecrã LED para os vídeos de produto, uma luz estudada sobre as superfícies: são estes os elementos que tornam um stand reconhecível à distância. Projetamo-los em conjunto com o stand, verificando cargas, pontos de suspensão e o regulamento do recinto.",
+    "Fornecemos e instalamos truss, motores, ecrãs LED e luminárias com pessoal qualificado, coordenando os pedidos de rigging com a organização da feira."
+   ],
+   "inc": [
+    {
+     "t": "Estruturas truss",
+     "d": "Estruturas de chão e suspensas de qualquer dimensão, também como base para gráficos e iluminação."
+    },
+    {
+     "t": "Rings e sinalética suspensa",
+     "d": "Elementos suspensos circulares ou à medida com gráficos, visíveis de todo o pavilhão."
+    },
+    {
+     "t": "Rigging",
+     "d": "Cálculos, pontos de suspensão e formalidades com o recinto de feiras."
+    },
+    {
+     "t": "Ecrãs LED",
+     "d": "Ecrãs LED de várias dimensões integrados nas paredes ou em estruturas próprias."
+    },
+    {
+     "t": "Iluminação",
+     "d": "Projeto de iluminação para produtos, gráficos e ambiente do stand."
+    }
+   ],
+   "faq": [
+    {
+     "q": "São vocês que tratam das autorizações de rigging?",
+     "a": "Sim, preparamos a documentação técnica e gerimos os pedidos junto da organização da feira."
+    },
+    {
+     "q": "Também alugam ecrãs LED para eventos?",
+     "a": "Sim, ecrãs LED, truss e iluminação estão também disponíveis para eventos, congressos e lançamentos de produto."
+    },
+    {
+     "q": "Também trabalham em recintos de feiras no estrangeiro?",
+     "a": "Sim, instalamos estruturas e ecrãs LED em todos os principais recintos de feiras europeus."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "mobiliario-aluguer-stands",
+   "nav": "Mobiliário e aluguer",
+   "title": "Mobiliário à medida e aluguer para stands | NEWSTANDS",
+   "desc": "Balcões, bancadas, assentos, vitrinas, cozinhas e arrumos para stands de feira: mobiliário à medida ou de aluguer, de Milão para toda a Europa.",
+   "h1": "Mobiliário à medida e aluguer para stands",
+   "lead": "Balcões, bancadas, assentos, vitrinas, cozinhas e arrumos: mobiliário feito à medida na nossa oficina ou de aluguer, para stands de qualquer dimensão.",
+   "body": [
+    "É o mobiliário que faz o stand funcionar: receção, exposição, reuniões, degustações e arrumos têm de estar no sítio certo. Projetamo-lo em conjunto com o layout, a pensar nos fluxos de visitantes e no trabalho da sua equipa na feira.",
+    "Podemos realizar peças únicas à medida, com os acabamentos e as cores da sua marca, ou fornecer mobiliário de aluguer para conter os custos. A entrega, a montagem e a recolha ficam sempre a nosso cargo."
+   ],
+   "inc": [
+    {
+     "t": "Balcões e receção",
+     "d": "Balcões de receção à medida, com logótipo, iluminação e compartimentos técnicos."
+    },
+    {
+     "t": "Zonas de reunião e lounge",
+     "d": "Mesas, assentos e recantos lounge para receber os clientes no stand."
+    },
+    {
+     "t": "Vitrinas e expositores",
+     "d": "Vitrinas, prateleiras e paredes equipadas para valorizar os produtos."
+    },
+    {
+     "t": "Cozinhas e arrumos",
+     "d": "Arrecadações, cozinhas e zonas de serviço integradas no stand."
+    },
+    {
+     "t": "Aluguer de mobiliário",
+     "d": "Mobiliário de aluguer para todos os estilos e orçamentos, entregue e recolhido por nós."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Posso alugar apenas o mobiliário?",
+     "a": "Sim, também fornecemos apenas mobiliário de aluguer, com entrega e recolha na feira."
+    },
+    {
+     "q": "O mobiliário à medida pode ser reutilizado?",
+     "a": "Sim, guardamo-lo no nosso armazém e levamo-lo de novo à feira seguinte."
+    },
+    {
+     "q": "Também entregam mobiliário no estrangeiro?",
+     "a": "Sim, entregamos e montamos mobiliário em todos os principais recintos de feiras europeus."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montagem-desmontagem-stands",
+   "nav": "Montagem e desmontagem",
+   "title": "Montagem e desmontagem de stands em Milão e Europa | NEWSTANDS",
+   "desc": "Equipas especializadas na montagem e desmontagem de stands de feira na Fiera Milano Rho e em todos os recintos de feiras europeus. Também só montagem.",
+   "h1": "Montagem e desmontagem de stands de feira",
+   "lead": "Equipas especializadas e chefe de obra dedicado para montar e desmontar o seu stand na Fiera Milano Rho, no Allianz MiCo e em qualquer recinto de feiras da Europa. Também só montagem.",
+   "body": [
+    "A montagem é o momento em que um projeto se torna um stand: são precisas equipas experientes, equipamento e o cumprimento dos horários e das normas de segurança do recinto. A partir da nossa base na zona de Milão chegamos rapidamente aos recintos milaneses e partimos com o stand para as feiras de toda a Europa.",
+    "Montamos stands produzidos por nós e também stands de outros fornecedores ou propriedade do cliente: receção do material, montagem, verificação final, assistência durante a feira, desmontagem e regresso ao armazém."
+   ],
+   "inc": [
+    {
+     "t": "Equipas especializadas",
+     "d": "Montadores experientes com equipamento próprio e chefe de obra dedicado."
+    },
+    {
+     "t": "Formalidades de acesso",
+     "d": "Credenciais, documentação de segurança e licenças exigidas pelo recinto de feiras."
+    },
+    {
+     "t": "Verificação e entrega",
+     "d": "Controlo final de estruturas, iluminação e gráficos antes da abertura."
+    },
+    {
+     "t": "Assistência na feira",
+     "d": "Técnicos contactáveis durante toda a feira para qualquer necessidade."
+    },
+    {
+     "t": "Desmontagem e armazenamento",
+     "d": "Desmontagem nos prazos previstos, transporte e armazenamento para reutilização."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Também fazem só a montagem de stands que não são vossos?",
+     "a": "Sim, também montamos e desmontamos stands de outras empresas de montagem ou propriedade do expositor."
+    },
+    {
+     "q": "Em que recintos de feiras trabalham?",
+     "a": "Na Fiera Milano Rho e no Allianz MiCo, em Bolonha, Verona e Rimini, e nos principais recintos europeus: Düsseldorf, Colónia, Frankfurt, Munique, Paris, Barcelona, Madrid, Amesterdão e muito mais."
+    },
+    {
+     "q": "Cumprem as normas de segurança dos recintos?",
+     "a": "Sim, os nossos montadores trabalham de acordo com as normas de segurança e os regulamentos técnicos de cada recinto de feiras."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "stands-feiras-milao",
+   "nav": "Stands em Milão",
+   "title": "Stands para feiras em Milão: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Montagem de stands para feiras na zona de Milão: stands chave na mão para a Fiera Milano Rho, o Allianz MiCo e eventos na cidade, da ideia à montagem.",
+   "h1": "Stands para feiras em Milão",
+   "lead": "Milão é um dos centros de feiras mais importantes da Europa e nós trabalhamos a partir daqui: projetamos, produzimos e montamos stands para as feiras da Fiera Milano Rho, do Allianz MiCo e para os eventos na cidade.",
+   "body": [
+    "A Fiera Milano Rho acolhe todos os anos certames internacionais como o Salone del Mobile.Milano, a EICMA, a HostMilano, a TUTTOFOOD, a MIDO e a MICAM, enquanto o Allianz MiCo é um dos maiores centros de congressos da Europa. Para um expositor, isto significa uma concorrência altíssima: o stand tem de se destacar.",
+    "Ter a empresa de montagem na zona de Milão significa visitas técnicas rápidas, logística simples, equipas de montagem por perto e assistência imediata durante a feira. E se depois de Milão a sua temporada continuar no estrangeiro, a mesma equipa leva o stand a qualquer recinto de feiras europeu."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stands para as grandes feiras internacionais do recinto de Rho, dos pavilhões de design aos das motos e da alimentação."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Montagens para congressos, convenções e feiras no centro de congressos de Milão."
+    },
+    {
+     "t": "Eventos na cidade",
+     "d": "Lançamentos de produto, Fuorisalone, showrooms e lojas temporárias em espaços de Milão."
+    },
+    {
+     "t": "Visitas técnicas rápidas",
+     "d": "A partir da nossa base chegamos rapidamente aos recintos de Milão, antes e durante a feira."
+    },
+    {
+     "t": "Armazenamento por perto",
+     "d": "O seu stand fica no nosso armazém na Lombardia, pronto para a próxima edição."
+    }
+   ],
+   "faq": [
+    {
+     "q": "São uma empresa de montagem de stands de Milão?",
+     "a": "Sim, trabalhamos a partir da zona de Milão, com sede e oficina em Tromello (PV), na Lombardia, a pouca distância da Fiera Milano Rho."
+    },
+    {
+     "q": "Para que feiras de Milão fazem stands?",
+     "a": "Para todos os certames da Fiera Milano Rho e do Allianz MiCo, bem como para eventos e para o Fuorisalone na cidade."
+    },
+    {
+     "q": "Podem acompanhar-nos também em feiras no estrangeiro?",
+     "a": "Sim, a partir de Milão levamos stands e equipas a todos os principais recintos de feiras europeus."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "stands-feiras-europa",
+   "nav": "Stands na Europa",
+   "title": "Stands para feiras na Europa: Alemanha, França | NEWSTANDS",
+   "desc": "De Milão para todos os recintos de feiras europeus: stands chave na mão em Düsseldorf, Colónia, Frankfurt, Munique, Paris, Barcelona, Madrid e Amesterdão.",
+   "h1": "Stands para feiras em toda a Europa",
+   "lead": "Partimos de Milão e deslocamo-nos a qualquer recinto de feiras da Europa: um único fornecedor para projeto, produção, transporte e montagem, onde quer que seja a sua feira.",
+   "body": [
+    "Expor no estrangeiro com uma empresa de montagem local diferente em cada país significa novos interlocutores, padrões diferentes e mais riscos. Com a NEWSTANDS tem uma única equipa: projetamos e produzimos na nossa oficina perto de Milão, organizamos o transporte e as formalidades de acesso e montamos com as nossas próprias equipas.",
+    "Trabalhamos nos grandes recintos de feiras da Alemanha, França, Espanha, Benelux, Áustria e Suíça, e em qualquer outro a pedido. Já realizámos pavilhões nacionais e stands de marca, como o pavilhão da Tunísia na MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Alemanha",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt e Messe München."
+    },
+    {
+     "t": "França",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles e Eurexpo Lyon."
+    },
+    {
+     "t": "Espanha",
+     "d": "Fira de Barcelona Gran Via e IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam e Brussels Expo."
+    },
+    {
+     "t": "Áustria, Suíça e mais",
+     "d": "Messe Wien, Palexpo Genève e qualquer outro recinto de feiras europeu a pedido."
+    }
+   ],
+   "faq": [
+    {
+     "q": "São vocês que tratam do transporte e das formalidades para as feiras no estrangeiro?",
+     "a": "Sim: embalagem, transporte, credenciais, documentação de segurança e contactos com a organização da feira ficam a nosso cargo."
+    },
+    {
+     "q": "As equipas de montagem são vossas?",
+     "a": "Sim, o stand é montado pelas nossas próprias equipas com um chefe de obra dedicado, também no estrangeiro."
+    },
+    {
+     "q": "Em que línguas podemos comunicar?",
+     "a": "Em italiano e em inglês; para a documentação da feira coordenamo-nos com o organizador na língua local."
+    }
+   ]
+  }
+ }
+}

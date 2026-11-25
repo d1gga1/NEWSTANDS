@@ -1,0 +1,987 @@
+{
+ "_lang": "lv",
+ "meta": {
+  "title": "Izstāžu stendi Milānā un visā Eiropā | NEWSTANDS",
+  "desc": "Izstāžu stendu būvētājs Milānas reģionā: projektējam, ražojam un uzstādām stendus „atslēga rokā” izstāžu centrā Fiera Milano un visā Eiropā.",
+  "ogTitle": "NEWSTANDS — izstāžu stendi no Milānas visā Eiropā",
+  "ogDesc": "Izstāžu stendi „atslēga rokā”, pasākumi un kongresi: bāze Milānas reģionā, savas montāžas brigādes katrā Eiropas izstāžu centrā.",
+  "ogAlt": "NEWSTANDS — izstāžu stendu būvniecība no Milānas visā Eiropā",
+  "orgDesc": "Izstāžu stendu būvētājs ar bāzi Milānas reģionā (birojs Tromello, PV). Projektē, ražo un uzstāda izstāžu stendus „atslēga rokā”, pasākumu un kongresu noformējumu, šovrūmus un pagaidu veikalus izstāžu centrā Fiera Milano un visos Eiropas izstāžu centros.",
+  "slogan": "Projektēts, ražots, uzstādīts."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podests",
+  "h003": "Izstāžu stendi",
+  "h004": "Projektēts · Ražots · Uzstādīts",
+  "h005": "Pieskarieties, lai ieietu",
+  "h006": "Process",
+  "h007": "Pakalpojumi",
+  "h008": "Darbi",
+  "h009": "Konfigurējiet",
+  "h009b": "Konfigurējiet",
+  "h010": "Eiropa",
+  "h011": "Tāme",
+  "h012": "Izstāžu stendu būvētājs Milānā · Pasākumi · Kongresi",
+  "h013": "Projektēšana → Ražošana → Montāža",
+  "h014": "Mūsu bāze ir Milānas reģionā, Eiropas izstāžu dzīves sirdī: būvējam stendus no nulles un uzstādām tos katrā Eiropas izstāžu centrā. Viena kontaktpersona no pirmās skices līdz pēdējai skrūvei.",
+  "h015": "Ritiniet un salieciet stendu",
+  "h016": "Lapa 00 — Stenda plāns 8000 × 6000",
+  "h017": "Mērogs 1:50",
+  "h018": "Projekts",
+  "h019": "Būvdarbu gaita",
+  "h020": "Lapa 05 — Nodošana",
+  "h021": "Atslēga rokā.",
+  "h022": "Konfigurējiet savu",
+  "h023": "Pieprasīt tāmi",
+  "h024": "§ 01 — Par mums",
+  "h025": "Mēs nepārdodam kvadrātmetrus. Mēs būvējam vietu, kur jūsu *zīmols* satiek tirgu — no *pirmās* *skices* līdz pēdējai skrūvei, jebkurā Eiropas izstāžu paviljonā.",
+  "h026": "Metode",
+  "h027": "Katru komponentu projektējam, ražojam un uzstādām paši: konstrukcijas, paneļus, grafiku, mēbeles un apgaismojumu. Mazāk starpposmu, mazāk pārsteigumu, termiņi tiek ievēroti.",
+  "h028": "No nulles",
+  "h029": "līdz stendam.",
+  "h030": "Seši posmi, viena vadība.",
+  "h031": "Ritiniet horizontāli →",
+  "h032": "Posms 01",
+  "h033": "Mērķi, budžets, izstāde, izstāžu centra tehniskie noteikumi. Sākam ar to, kam jānotiek jūsu stendā.",
+  "h034": "Posms 02",
+  "h035": "Koncepcija & 3D",
+  "h036": "Fotoreālistiskas vizualizācijas un darba rasējumi: jūs redzat gatavu stendu, pirms nogriezts kaut viens panelis.",
+  "h037": "Posms 03",
+  "h038": "Ražošana",
+  "h039": "Galdniecība, metālapstrāde, lielformāta druka, apgaismojuma tehnika. Katra detaļa top pēc mēra.",
+  "h040": "Posms 04",
+  "h041": "Loģistika",
+  "h042": "Iepakošana, transports un piekļuves formalitātes jebkurā Eiropas izstāžu centrā. Ieradīsimies paši un laikā.",
+  "h043": "Posms 05",
+  "h044": "Montāža",
+  "h045": "Specializētas brigādes, savs montāžas vadītājs, pieņemšanas pārbaude. Stends jums tiek nodots gatavs.",
+  "h046": "Posms 06",
+  "h047": "Izstāde & demontāža",
+  "h048": "Tehniskais atbalsts izstādes laikā, demontāža, uzglabāšana un atkārtota izmantošana nākamajā izstādē.",
+  "h049": "Rezultāts",
+  "h050": "Jūs domājat",
+  "h051": "par klientiem.",
+  "h052": "Par visu pārējo",
+  "h053": "parūpēsimies mēs.",
+  "h054": "Parunāsim par jūsu nākamo izstādi",
+  "h055": "Ko",
+  "h056": "mēs būvējam",
+  "h057": "§ 03 — Pakalpojumi",
+  "h058": "Jebkura veida izstādes un pasākumi — no 16 m² rindas stenda līdz divstāvu salas stendam. Ražošana un montāža vienmēr pašu spēkiem.",
+  "h059": "Uzbūvētie",
+  "h060": "stendi",
+  "h061": "§ 04 — Darbi",
+  "h062": "Mūsu brigāžu projektētu, ražotu un uzstādītu stendu izlase: nacionālie paviljoni, zīmolu salas stendi un tehniskie stendi visā Eiropā.",
+  "h063": "Nākamais var būt jūsu",
+  "h064": "savu stendu",
+  "h065": "§ 05 — 3D konfigurators",
+  "h066": "Izvēlieties tipu un platību: vērojiet, kā veidojas apjoms, un nosūtiet mums konfigurāciju kā pamatu tāmei.",
+  "h067": "↔ Velciet, lai pagrieztu",
+  "h068": "Aksonometrisks skats",
+  "h069": "Az 000°",
+  "h070": "01 — Tips",
+  "h071": "Atvērtās malas",
+  "h072": "02 — Platība",
+  "h073": "Izmēri apt.",
+  "h074": "Izmantot šo konfigurāciju",
+  "h075": "Nākamais",
+  "h076": "reiss",
+  "h077": "§ 06 — No Milānas visā Eiropā",
+  "h078": "Sākam Milānā, lielo starptautisko izstāžu pilsētā, un dodamies ar stendu uz jebkuru Eiropas izstāžu centru: Vācija, Francija, Spānija, Beniluksa valstis, Austrija, Šveice. Ja tur ir paviljons, mēs tur nokļūsim.",
+  "h079": "Pilsēta",
+  "h080": "Izstāžu centrs",
+  "h081": "Valsts",
+  "h082": "Statuss",
+  "h083": "Montāžas brigādes darbā",
+  "h084": "+ jebkurš cits izstāžu centrs pēc pieprasījuma",
+  "h085": "Biežāk uzdotie",
+  "h086": "jautājumi",
+  "h087": "§ 07 — BUJ",
+  "h088": "Izmaksas, termiņi, pilsētas un pakalpojumi: atbildes uz jautājumiem, ko mums visbiežāk uzdod pirms izstādes.",
+  "h089": "Jūsu kalendārā",
+  "h090": "ir izstāde?",
+  "h091": "Pastāstiet mums par pasākumu, datumiem un kvadrātmetriem. Atbildēsim ar pirmo piedāvājumu un skaidru tāmi.",
+  "h092": "Tālrunis",
+  "h093": "Tālrunis 2",
+  "h094": "Birojs",
+  "h095": "Reģions",
+  "h096": "Milāna + visa Eiropa",
+  "h097": "Pakalpojums",
+  "h098": "Atslēga rokā",
+  "h099": "Izstāžu stends",
+  "h100": "Pasākums",
+  "h101": "Kongress",
+  "h102": "Šovrūms / pagaidu veikals",
+  "h103": "Tikai montāža",
+  "h104": "Vārds un uzvārds",
+  "h105": "Uzņēmums",
+  "h106": "Izstāde / pasākums un pilsēta",
+  "h107": "Pastāstiet par projektu",
+  "h108": "Nosūtīt pieprasījumu",
+  "h109": "Pieprasījums ir sagatavots jūsu e-pastā: nospiediet „Sūtīt”.",
+  "h110": "Nekas neatvērās? Rakstiet uz",
+  "h111": "vai zvaniet",
+  "h112": "Studija",
+  "h113": "Izstāžu stendi Milānā un Eiropā, pasākumi, kongresi",
+  "h114": "27020 Tromello (PV), Lombardija",
+  "h115": "Navigācija",
+  "h116": "Konfigurators",
+  "h117": "Sociālie tīkli",
+  "h118": "Kontakti",
+  "h119": "Pieprasīt tāmi →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija",
+  "h121": "Projektēts, ražots, uzstādīts.",
+  "h122": "Uz augšu ↑",
+  "h123": "Galvenā izvēlne",
+  "h124": "Filtrēt pēc nozares",
+  "h125": "Projekta galerija",
+  "h126": "Aizvērt galeriju",
+  "h127": "Iepriekšējais foto",
+  "h128": "Nākamais foto",
+  "h129": "Platība kvadrātmetros",
+  "h130": "Izstāžu stenda tāmes pieprasījums",
+  "h131": "Projekta veids",
+  "h132": "Rakstiet mums WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Cik maksā izstāžu stends?",
+   "a": "Stenda cena ir atkarīga no platības, tipa (rindas, stūra, pussalas vai salas stends), materiāliem, grafikas, mēbelēm un izstāžu centra. Pēc īsas sarunas par izstādi, datumiem un kvadrātmetriem mēs nosūtīsim jums pirmo piedāvājumu un skaidru, detalizētu tāmi. Varat sākt ar 3D konfiguratoru augstāk vai zvanīt un rakstīt mums WhatsApp uz <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Kur atrodas NEWSTANDS un kurās izstādēs jūs strādājat?",
+   "a": "Mēs esam izstāžu stendu būvētājs Milānas reģionā, ar biroju un darbnīcu Tromello (PV), Lombardijā: stratēģiska atrašanās vieta netālu no izstāžu centriem Fiera Milano Rho un Allianz MiCo, kuros notiek dažas no nozīmīgākajām Eiropas izstādēm. No šejienes mūsu brigādes dodas uz jebkuru izstāžu centru: Boloņa, Verona, Rimini, Diseldorfa, Ķelne, Frankfurte, Minhene, Parīze, Liona, Barselona, Madride, Amsterdama, Brisele, Vīne, Ženēva un citur."
+  },
+  {
+   "q": "Ko ietver pakalpojums „atslēga rokā”?",
+   "a": "Viena kontaktpersona visam: darba uzdevums, koncepcija un 3D vizualizācijas, darba rasējumi, konstrukciju, paneļu, lielformāta grafikas, mēbeļu un apgaismojuma ražošana mūsu darbnīcā, loģistika un transports, montāža ar savu būvdarbu vadītāju, atbalsts izstādes laikā, demontāža un uzglabāšana atkārtotai izmantošanai."
+  },
+  {
+   "q": "Vai jūs veidojat arī pasākumus, kongresus un šovrūmus?",
+   "a": "Jā. Papildus individuāliem un modulāriem izstāžu stendiem mēs projektējam un noformējam uzņēmumu pasākumus, kongresus, konferences, produktu prezentācijas, skatuves un scenogrāfiju, šovrūmus, pagaidu un pop-up veikalus, izmantojot fermas, LED ekrānus un apgaismojuma tehniku."
+  },
+  {
+   "q": "Cik laicīgi ir vērts ar jums sazināties?",
+   "a": "Jo agrāk sazināsieties, jo vairāk laika paliks projektam, vizualizācijām un ražošanai: individuāla stenda gadījumā ieteicams sākt, tiklīdz dalība izstādē ir apstiprināta. Modulāriem stendiem un tikai montāžai varam strādāt arī ar īsākiem termiņiem: rakstiet mums, un mēs uzreiz pārbaudīsim, vai tas ir iespējams."
+  },
+  {
+   "q": "Kā pieprasīt tāmi?",
+   "a": "Aizpildiet veidlapu sadaļā „Kontakti”, rakstiet uz <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> vai zvaniet un rakstiet mums WhatsApp uz <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternatīvi <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Norādiet izstādi vai pasākumu, pilsētu, datumus un kvadrātmetrus: mēs sazināsimies ar jums ar pirmo piedāvājumu."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekts",
+    "Katrs stends sākas ar tehnisko rasējumu: izmēri, izstāžu centra noteikumi, apmeklētāju plūsmas."
+   ],
+   [
+    "Konstrukcija",
+    "Podests, fermas, karkasi. Daļa, kas nav redzama, bet tur visu."
+   ],
+   [
+    "Sienas & grafika",
+    "Pēc mēra izgatavoti paneļi, lielformāta druka, apdare."
+   ],
+   [
+    "Mēbeles & tehnika",
+    "Letes, totēmi, LED ekrāni, tikšanās zonas, piekārts gredzens. Ražojam un uzstādām paši."
+   ],
+   [
+    "Gaismas ieslēgtas",
+    "Pārbaude, uzkopšana, nodošana. Stends ir gatavs atvēršanai."
+   ]
+  ],
+  "lbl": [
+   "P 8000 mm",
+   "D 6000 mm",
+   "Ferma 29×29 — A 4500",
+   "Siena 3400 + grafika",
+   "LED ekrāns 3,4 × 1,9 m",
+   "Reģistrācijas lete",
+   "Piekārts gredzens Ø 4400"
+  ],
+  "ty": {
+   "linea": "Rindas",
+   "angolo": "Stūra",
+   "penisola": "Pussalas",
+   "isola": "Salas",
+   "doppio": "Divstāvu"
+  },
+  "sides": "malas",
+  "side": "mala",
+  "openSides": "atvērtas malas",
+  "openSide": "atvērta mala",
+  "cfgMsg": "Konfigurācija no vietnes: {type} stends, {n} {sides}, aptuveni {area} m² ({dim} m).",
+  "axo": "Aksonometrisks skats",
+  "cfgFb": "3D konfigurators šajā ierīcē nav pieejams.<br>Rakstiet mums: vizualizāciju nosūtīsim mēs.",
+  "mq": [
+   "Individuāli stendi",
+   "Pasākumi",
+   "Kongresi",
+   "Šovrūmi",
+   "Pagaidu veikali",
+   "LED ekrāni",
+   "Fermas",
+   "Grafika",
+   "Mēbeles"
+  ],
+  "svc": [
+   {
+    "t": "Individuāli stendi",
+    "d": "Unikāli projekti, kas no nulles būvēti ap jūsu zīmolu: koks, metāls, stikls, tekstils, augstvērtīga apdare.",
+    "tags": [
+     "Koncepcija",
+     "3D vizualizācija",
+     "Ražošana",
+     "Montāža"
+    ]
+   },
+   {
+    "t": "Modulāri stendi",
+    "d": "Atkārtoti izmantojamas, iepriekš sagatavotas sistēmas tiem, kas piedalās vairākās izstādēs gadā: vienots tēls, kontrolētas izmaksas.",
+    "tags": [
+     "Daudzreizēji",
+     "Uzglabāšana",
+     "Ātrums"
+    ]
+   },
+   {
+    "t": "Pasākumi & kongresi",
+    "d": "Skatuves, scenogrāfija, plenārsēžu zāles, uzņēmumu konferences un produktu prezentācijas ar pilnu tehnisko režiju.",
+    "tags": [
+     "Skatuves",
+     "Scenogrāfija",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Šovrūmi & pagaidu veikali",
+    "d": "Pagaidu tirdzniecības telpas, pop-up veikali un pastāvīgi šovrūmi: tāda pati precizitāte kā izstāžu būvlaukumā.",
+    "tags": [
+     "Pop-up",
+     "Tirdzniecība",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Lielformāta grafika",
+    "d": "Druka uz forex, izgaismota tekstila, PVC, uzlīmes un logu uzlīmes. Ražojam un uzklājam paši.",
+    "tags": [
+     "Gaismas kaste",
+     "Tekstils",
+     "Uzlīmes"
+    ]
+   },
+   {
+    "t": "Fermas & LED ekrāni",
+    "d": "Fermu konstrukcijas, piekārti gredzeni, rigings, LED ekrāni un apgaismojuma tehnika stendiem, kas redzami no visa paviljona.",
+    "tags": [
+     "Fermas",
+     "Rigings",
+     "LED ekrāni",
+     "Gaismas"
+    ]
+   },
+   {
+    "t": "Mēbeles & noma",
+    "d": "Letes, bāra letes, sēdvietas, vitrīnas, virtuves un noliktavas: mēbeles pēc mēra vai nomā jebkuras platības stendam.",
+    "tags": [
+     "Pēc mēra",
+     "Noma",
+     "Noliktava"
+    ]
+   }
+  ],
+  "more": "Uzzināt vairāk",
+  "tav": "Lapa",
+  "avail": "PIEEJAMS",
+  "form": {
+   "type": "Projekta veids",
+   "name": "Vārds un uzvārds",
+   "company": "Uzņēmums",
+   "fair": "Izstāde / pasākums un pilsēta",
+   "project": "Projekts",
+   "subj": "Izstāžu stenda tāmes pieprasījums"
+  },
+  "ariaW": "{t} — atvērt galeriju ({n} foto)",
+  "altW": "Izstāžu stends {t} — {c}, būvējis NEWSTANDS",
+  "nPh": "{n} foto",
+  "altLb": "Izstāžu stends {t} ({c}) — foto {i} no {n}",
+  "phN": "Foto {i}",
+  "all": "Visi",
+  "ld": [
+   "Podests",
+   "Sienas",
+   "Sija",
+   "Gaismas",
+   "Gatavs"
+  ],
+  "c3": [
+   "NO NULLES",
+   "LĪDZ STENDAM.",
+   "PROJEKTS · RAŽOŠANA · MONTĀŽA · EIROPA",
+   "IZSTĀŽU STENDI",
+   "STENDI · PASĀKUMI · EIROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristāli un apgaismojums",
+   "g": "Dizains",
+   "d": "Pilnīgi balts salas stends, ko ieskauj kristāla diegu aizkari, piekārtas lustras un lakotas mēbeles: stends kļūst par mirdzošu vitrīnu."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sporta uztura bagātinātāji",
+   "g": "Pārtika & veselība",
+   "d": "No vairākām pusēm atvērts salas stends ar sienas lieluma produktu grafiku, piekārtām izkārtnēm un degustācijas letēm lielām apmeklētāju plūsmām."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Tūrisms",
+   "g": "Tūrisms",
+   "d": "Institucionāls paviljons ar Telanganas arhitektūras iedvesmotām arkām un minaretiem, operatoru letēm un iespaidīgu grafiku."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Tūrisms",
+   "g": "Tūrisms",
+   "d": "Terakotas imitācijas portāli, kokgrieztas arkas un B2B darba vietas: reģionāls paviljons, kas novadu atklāj ar pirmo acu uzmetienu."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nacionālais pārtikas paviljons",
+   "g": "Pārtika & veselība",
+   "d": "Balti sarkans kopīgais paviljons ar ažūra rotājumiem, eksponentu letēm un šovu virtuves zonu."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Rūpniecība",
+   "d": "Korporatīvs stends ar stiklotām sanāksmju telpām, izgaismotām sienām un uz eju atvērtu uzņemšanas zonu."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motocikli",
+   "g": "Moto",
+   "d": "Pilnīgi balts noformējums ar sarkaniem portāliem un motociklu podestiem: tīra grafika, kas ļauj runāt pašiem braucamajiem."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektriskie motocikli",
+   "g": "Moto",
+   "d": "Pilnīgi melna scenogrāfija ar spīdīgi baltu grīdu, eksponētiem motocikliem un tikšanās zonu."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Izstāžu atpūtas zona",
+   "g": "Dizains",
+   "d": "Atvērta atpūtas zona ar lielu panorāmas druku, piekārtiem griestiem, leti un sēdvietām apmeklētāju uzņemšanai."
+  },
+  {
+   "t": "Plastona",
+   "c": "Māja un dārzs",
+   "g": "Dizains",
+   "d": "Salas stends ar kubveida izkārtnēm uz fermām, baltiem plauktiem un produktu iekārtojumiem."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motocikli un dzinēji",
+   "g": "Moto",
+   "d": "Stūra stends ar melnām un baltām ekspozīcijas sienām, braucamajiem uz podesta un galdu zonu."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Enerģētikas nozare",
+   "g": "Rūpniecība",
+   "d": "Noapaļoti izgaismoti rāmji, tehniskie paneļi un tikšanās zona B2B apmeklētājiem."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Ķiveres",
+   "g": "Moto",
+   "d": "Ekspozīcijas sienas ķiverēm, sacīkšu grafika un reģistrācijas lete: itāļu dizains dažos kvadrātmetros."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Moto aksesuāri",
+   "g": "Moto",
+   "d": "Trīskrāsu kolonnas, izgaismotas vitrīnas un produktu sienas ļoti pamanāmai sacīkšu stila klātbūtnei."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Ķiveres",
+   "g": "Moto",
+   "d": "Rombveida siena ar eksponētām ķiverēm, lielizmēra izkārtnes un galdu zona sarunām."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Moto rezerves daļas un apģērbs",
+   "g": "Moto",
+   "d": "Pilnaugstuma grafiskie totēmi, produktu vitrīnas un apģērbu sienas ap tikšanās zonu."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Rūpniecība",
+   "g": "Rūpniecība",
+   "d": "Zils korporatīvs stends ar procesu grafiku, tehnisko zonu un tikšanās vietām."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Tūrisms",
+   "g": "Tūrisms",
+   "d": "Scenogrāfisks portāls ar tradicionāliem rotājumiem un lieliem reģiona attēliem."
+  },
+  {
+   "t": "Uttar Pradesh — Lauksaimniecība",
+   "c": "Agropārtika",
+   "g": "Pārtika & veselība",
+   "d": "Balts stends ar gaismas rāmjiem uz grīdas un produktu paneļiem — lakonisks un gaišs."
+  },
+  {
+   "t": "Tunisija — Medica Düsseldorf",
+   "c": "Nacionālais medicīnas paviljons",
+   "g": "Medicīna",
+   "d": "Valsts paviljons izstādē Medica Düsseldorf ar piekārtu izkārtni, letēm eksponentu uzņēmumiem un atpūtas zonu."
+  }
+ ],
+ "ui": {
+  "langName": "Latviešu",
+  "langLabel": "Valoda",
+  "home": "Sākums",
+  "services": "Pakalpojumi",
+  "works": "Darbi",
+  "contacts": "Kontakti",
+  "quote": "Tāme",
+  "requestQuote": "Pieprasīt tāmi",
+  "whatsapp": "Rakstiet mums WhatsApp",
+  "call": "Zvaniet mums",
+  "phone": "Tālrunis / WhatsApp",
+  "phone2": "Tālrunis 2",
+  "email": "E-pasts",
+  "address": "Birojs",
+  "serviceN": "Pakalpojums",
+  "locationK": "No Milānas visā Eiropā",
+  "includesTitle": "Ko tas ietver",
+  "whyTitle": "Kāpēc NEWSTANDS",
+  "why": [
+   {
+    "t": "Bāze Milānā",
+    "d": "Strādājam no Milānas reģiona, netālu no izstāžu centriem Fiera Milano Rho un Allianz MiCo: ātras apsekošanas, vienkārša loģistika, brigādes vienmēr tuvu lielajiem izstāžu centriem."
+   },
+   {
+    "t": "Sava ražotne",
+    "d": "Konstrukcijas, paneļi, grafika, mēbeles un apgaismojums top mūsu darbnīcā: mazāk starpposmu, mazāk pārsteigumu, termiņi tiek ievēroti."
+   },
+   {
+    "t": "Katrā Eiropas izstāžu centrā",
+    "d": "Mūsu montāžas brigādes ceļo kopā ar stendu: Vācija, Francija, Spānija, Beniluksa valstis, Austrija, Šveice un pēc pieprasījuma jebkurš cits izstāžu centrs."
+   },
+   {
+    "t": "Viena kontaktpersona",
+    "d": "No darba uzdevuma līdz demontāžai jūs vienmēr sazināties ar vienu un to pašu cilvēku, un izstādē jums ir savs būvdarbu vadītājs."
+   }
+  ],
+  "galleryTitle": "Daži mūsu uzbūvētie stendi",
+  "faqTitle": "Biežāk uzdotie jautājumi",
+  "otherTitle": "Citi pakalpojumi",
+  "ctaTitle": "Jūsu kalendārā ir izstāde?",
+  "ctaText": "Pastāstiet mums par izstādi, pilsētu, datumiem un kvadrātmetriem: atbildēsim ar pirmo piedāvājumu un skaidru tāmi.",
+  "whereTitle": "No Milānas uz jebkuru izstāžu centru",
+  "whereText": "Mēs atrodamies Milānas reģionā — pilsētā, kurā notiek dažas no nozīmīgākajām izstādēm pasaulē. No šejienes mūsu brigādes nokļūst jebkurā Itālijas un Eiropas izstāžu centrā.",
+  "milanLink": "Izstāžu stendi Milānā",
+  "europeLink": "Izstāžu stendi Eiropā",
+  "photos": "foto",
+  "backHome": "Atpakaļ uz sākumu",
+  "footerTag": "Izstāžu stendi Milānā un visā Eiropā. Projektēts, ražots, uzstādīts.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija · Milānas reģions",
+  "breadcrumb": "Ceļš",
+  "skip": "Pāriet uz saturu",
+  "menu": "Galvenā izvēlne"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "individuali-izstazu-stendi",
+   "nav": "Individuāli stendi",
+   "title": "Individuāli izstāžu stendi Milānā un Eiropā | NEWSTANDS",
+   "desc": "Individuāli izstāžu stendi, ko NEWSTANDS projektē, ražo un uzstāda: bāze Milānas reģionā, montāžas darbi visos Eiropas izstāžu centros.",
+   "h1": "Individuāli izstāžu stendi",
+   "lead": "Unikāls stends, kas no nulles būvēts ap jūsu zīmolu: mēs to projektējam, ražojam savā darbnīcā netālu no Milānas un uzstādām jebkurā Eiropas izstādē.",
+   "body": [
+    "Individuāls stends ir spēcīgākais veids, kā sevi parādīt izstādē: katra siena, katrs gaismeklis un katrs apmeklētāja maršruts ir pārdomāts jūsu produktiem un komerciālajiem mērķiem. Sākam ar izstāžu centra tehniskajiem noteikumiem un paviljona apmeklētāju plūsmām, pēc tam ideju pārvēršam fotoreālistiskās 3D vizualizācijās un darba rasējumos.",
+    "Koka un metāla konstrukcijas, paneļus, grafiku, mēbeles un apgaismojumu ražojam paši, tāpēc kontrolējam kvalitāti un termiņus katrā posmā. Lai izstāde notiktu izstāžu centrā Fiera Milano Rho, Diseldorfā vai Parīzē — jūsu stendu uzstāda tā pati komanda, kas to uzbūvēja."
+   ],
+   "inc": [
+    {
+     "t": "Koncepcija un 3D vizualizācijas",
+     "d": "Radošais piedāvājums, fotoreālistiskas vizualizācijas un labojumi, līdz stends ir tieši tāds, kādu to vēlaties."
+    },
+    {
+     "t": "Tehniskais projekts",
+     "d": "Tehniskie rasējumi, aprēķini un dokumentācija atbilstoši katra izstāžu centra noteikumiem."
+    },
+    {
+     "t": "Ražošana pēc mēra",
+     "d": "Galdniecība, metāla konstrukcijas, stikls, tekstils un augstvērtīga apdare mūsu darbnīcā."
+    },
+    {
+     "t": "Grafika un apgaismojums",
+     "d": "Lielformāta druka, gaismas kastes, LED ekrāni un apgaismojuma projekts, kas iekļauts stenda arhitektūrā."
+    },
+    {
+     "t": "Montāža un demontāža",
+     "d": "Transports, montāža ar savu būvdarbu vadītāju, atbalsts izstādē, demontāža un uzglabāšana."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Cik ilgs laiks nepieciešams individuāla stenda izgatavošanai?",
+     "a": "Tas atkarīgs no izmēra un sarežģītības: individuāla stenda gadījumā ieteicams sākt, tiklīdz dalība izstādē ir apstiprināta, lai pietiktu laika projektam, vizualizācijām un ražošanai."
+    },
+    {
+     "q": "Vai individuālu stendu var izmantot atkārtoti?",
+     "a": "Jā. Komponentus projektējam tā, lai tos varētu uzglabāt un salikt no jauna: nākamajā izstādē pielāgojam stendu jaunai platībai un jaunai grafikai."
+    },
+    {
+     "q": "Vai individuālus stendus būvējat arī ārpus Itālijas?",
+     "a": "Jā, no Milānas reģiona mēs vedam stendu un savas brigādes uz visiem galvenajiem Eiropas izstāžu centriem — no Vācijas līdz Spānijai."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulari-izstazu-stendi",
+   "nav": "Modulāri stendi",
+   "title": "Modulāri izstāžu stendi Milānā un Eiropā | NEWSTANDS",
+   "desc": "Modulāri, atkārtoti izmantojami izstāžu stendi tiem, kas piedalās vairākās izstādēs gadā: vienots tēls un kontrolētas izmaksas, no Milānas visā Eiropā.",
+   "h1": "Modulāri, atkārtoti izmantojami stendi",
+   "lead": "Modulāras sistēmas tiem, kas piedalās vairākās izstādēs gadā: vienots zīmola tēls, kontrolētas izmaksas un ātra montāža — gan Milānā, gan jebkurā Eiropas izstāžu centrā.",
+   "body": [
+    "Modulārs stends ir ilgtermiņa ieguldījums: konstrukcijas, paneļus un mēbeles var pārkonfigurēt dažādām platībām un stendu tipiem — no rindas līdz salas stendam. Grafika mainās, kvalitāte paliek.",
+    "Sistēmu projektējam vienreiz, ražojam savā darbnīcā un pārvaldām paši starp izstādēm: uzglabāšana, apkope, grafikas atjaunošana un transports uz nākamo paviljonu Itālijā vai ārzemēs."
+   ],
+   "inc": [
+    {
+     "t": "Sistēma pēc mēra",
+     "d": "Moduļi, kas veidoti atbilstoši jūsu tēlam un kombinējami stendiem no dažiem kvadrātmetriem līdz lielām salām."
+    },
+    {
+     "t": "Maināma grafika",
+     "d": "Apdrukātus tekstilus un paneļus var ātri nomainīt katrai izstādei, produktam vai tirgum."
+    },
+    {
+     "t": "Uzglabāšana un apkope",
+     "d": "Glabājam stendu savā noliktavā un pārbaudām to pirms katra jauna brauciena."
+    },
+    {
+     "t": "Ātra montāža",
+     "d": "Īss uzstādīšanas laiks, ideāli arī izstādēm ar šauriem montāžas logiem."
+    },
+    {
+     "t": "Izstāžu kalendāra vadība",
+     "d": "Kopā ar jums plānojam izstāžu sezonu un organizējam loģistiku un brigādes katram posmam."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai modulārs stends maksā mazāk nekā individuāls?",
+     "a": "Vairāku izstāžu griezumā parasti jā: sākotnējais ieguldījums sadalās pa katru dalību, un turpmākās ražošanas izmaksas aprobežojas ar grafiku un loģistiku."
+    },
+    {
+     "q": "Vai modulārs stends pielāgojas dažādām platībām?",
+     "a": "Jā, moduļus var pārkombinēt rindas, stūra, pussalas vai salas stendam un dažādām platībām."
+    },
+    {
+     "q": "Vai varat pārvaldīt visu mūsu izstāžu kalendāru?",
+     "a": "Jā: no Milānas reģiona koordinējam uzglabāšanu, transportu un montāžu katrai sezonas izstādei Itālijā un Eiropā."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "pasakumu-un-kongresu-noformejums",
+   "nav": "Pasākumi & kongresi",
+   "title": "Pasākumu un kongresu noformējums Milānā | NEWSTANDS",
+   "desc": "Uzņēmumu pasākumu, kongresu, konferenču un produktu prezentāciju noformējums Milānā un Eiropā: skatuves, scenogrāfija un pilna tehniskā režija.",
+   "h1": "Pasākumu un kongresu noformējums",
+   "lead": "Skatuves, scenogrāfija, plenārsēžu zāles, uzņēmumu konferences un produktu prezentācijas: noformējam pasākumus un kongresus Milānā un visā Eiropā ar tādu pašu precizitāti kā izstāžu stendus.",
+   "body": [
+    "Milāna ir viena no Eiropas pasākumu un kongresu galvaspilsētām, kur atrodas tādas vietas kā Allianz MiCo un pilsētas lielās korporatīvo pasākumu norises vietas. Strādājot no Milānas reģiona, mēs pārzinām šo vietu grafikus, noteikumus un loģistiku un varam ļoti ātri veikt apsekošanu un montāžu.",
+    "Projektējam visu noformējumu: skatuvi, scenogrāfiju, plenārsēžu zāli, ekspozīcijas zonas, reģistrāciju, norādes un apgaismojuma tehniku. Tehniskos piegādātājus koordinējam paši, tāpēc visam pasākumam jums ir viena kontaktpersona."
+   ],
+   "inc": [
+    {
+     "t": "Skatuves un scenogrāfija",
+     "d": "Skatuves pēc mēra, foni, LED ekrāni un scenogrāfija, kas veidota jūsu vēstījumam."
+    },
+    {
+     "t": "Plenārsēžu zāles un kongresi",
+     "d": "Zāļu, posteru zonu, reģistrācijas lešu un sponsoru zonu iekārtošana."
+    },
+    {
+     "t": "Konferences un produktu prezentācijas",
+     "d": "Vide, kurā prezentēt produktu vai pulcēt tirdzniecības tīklu tā, lai tas paliktu atmiņā."
+    },
+    {
+     "t": "Audio, video un gaismas",
+     "d": "Tehniskā režija, fermas, LED ekrāni un apgaismojuma tehnika kā daļa no projekta."
+    },
+    {
+     "t": "Norādes un grafika",
+     "d": "Maršruti, totēmi, preses sienas un vienota grafika, ko drukājam un uzstādām paši."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai noformējat pasākumus arī ārpus izstāžu centriem?",
+     "a": "Jā: viesnīcās, kongresu centros, industriālās telpās un privātās norises vietās Milānā, Itālijā un ārzemēs."
+    },
+    {
+     "q": "Vai varat parūpēties arī par audio un video tehniku?",
+     "a": "Jā, skatuvi, LED ekrānus, gaismas un skaņu koordinējam kā vienu projektu ar vienu atbildīgo personu."
+    },
+    {
+     "q": "Cik laicīgi jāsāk organizēt pasākums?",
+     "a": "Jo agrāk, jo labāk: ar dažu nedēļu rezervi varam mierīgi veikt apsekošanu, projektu un ražošanu. Steidzamos gadījumos sazinieties ar mums, un mēs izvērtēsim iespējas."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "sovrumi-un-pop-up-veikali",
+   "nav": "Šovrūmi & pop-up",
+   "title": "Šovrūmi, pagaidu un pop-up veikali Milānā | NEWSTANDS",
+   "desc": "Šovrūmu, pagaidu veikalu, pop-up un shop-in-shop telpu projektēšana un iekārtošana Milānā un Eiropā ar savu ražošanu un montāžu.",
+   "h1": "Šovrūmi, pagaidu un pop-up veikali",
+   "lead": "Pagaidu tirdzniecības telpas, pop-up veikali un pastāvīgi šovrūmi, kas tapuši ar tādu pašu precizitāti kā izstāžu stendi — Milānā un visā Eiropā.",
+   "body": [
+    "Pagaidu vai pop-up veikalam jābūt gatavam dažās dienās un jāatstāj iespaids: projektējam telpas, kas izstāsta zīmola stāstu, izceļ produktu un ir ātri uzstādāmas — arī tirdzniecības centros un iepirkšanās ielās.",
+    "Pastāvīgiem šovrūmiem izgatavojam mēbeles pēc mēra, ekspozīcijas sienas, vitrīnas un apgaismojumu no izturīgiem materiāliem. Ražošana un montāža notiek pašu spēkiem, tāpēc termiņi un kvalitāte paliek kontrolēti."
+   ],
+   "inc": [
+    {
+     "t": "Tirdzniecības koncepcija",
+     "d": "Plānojums, klienta maršruts un produktu izvietojums, kas radīts pārdošanai."
+    },
+    {
+     "t": "Pagaidu un pop-up veikali",
+     "d": "Vieglas konstrukcijas, ko ātri uzstādīt, demontēt un atkārtoti izmantot citās pilsētās."
+    },
+    {
+     "t": "Pastāvīgi šovrūmi",
+     "d": "Mēbeles pēc mēra, aprīkotas sienas, vitrīnas un augstvērtīga apdare."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Zīmola stūrīši veikalos un universālveikalos, kas atbilst jūsu tēlam."
+    },
+    {
+     "t": "Gaismas un grafika",
+     "d": "Produktu apgaismojums, izkārtnes, logu uzlīmes un grafika no mūsu ražotnes."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Cik ātri var iekārtot pagaidu veikalu?",
+     "a": "Tas atkarīgs no telpas un projekta: pateicoties pašu ražošanai, pop-up veikalu varam uzstādīt pat dažās dienās."
+    },
+    {
+     "q": "Vai pop-up veikalu var pārvietot uz citām pilsētām?",
+     "a": "Jā, projektējam modulāras konstrukcijas, ko var demontēt un no jauna uzstādīt citās vietās Itālijā un Eiropā."
+    },
+    {
+     "q": "Vai strādājat arī ar pastāvīgiem šovrūmiem?",
+     "a": "Jā, no projektēšanas līdz mēbeļu, vitrīnu, gaismu un grafikas uzstādīšanai."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "liela-formata-grafika",
+   "nav": "Lielformāta grafika",
+   "title": "Lielformāta grafika izstāžu stendiem | NEWSTANDS Milāna",
+   "desc": "Lielformāta druka izstāžu stendiem un pasākumiem: forex, izgaismots tekstils, gaismas kastes, PVC, uzlīmes un logu uzlīmes — ražojam un uzklājam paši.",
+   "h1": "Lielformāta grafika stendiem un pasākumiem",
+   "lead": "Druka uz forex, izgaismota tekstila, PVC, uzlīmes un logu uzlīmes: jūsu stenda grafiku ražo un uzklāj tās pašas brigādes, kas stendu uzstāda.",
+   "body": [
+    "Grafika ir pirmais, ko apmeklētāji ierauga, bieži vien no visa paviljona. Tāpēc mēs to uztveram kā stenda arhitektūras daļu: formāti, materiāli un gaismas tiek projektēti kopā ar konstrukcijām.",
+    "Drukājam un uzklājam paši — gan Milānā, gan jebkurā Eiropas izstādē: nekādu starpposmu starp dažādiem piegādātājiem, kontrolētas krāsas un nevainojami salāgota grafika atvēršanas brīdī."
+   ],
+   "inc": [
+    {
+     "t": "Izgaismots tekstils",
+     "d": "Tekstila gaismas kastes un mirdzošas sienas — vieglas un ar lielu efektu."
+    },
+    {
+     "t": "Cietie paneļi",
+     "d": "Druka uz forex, dibond un PVC sienām, totēmiem un letēm."
+    },
+    {
+     "t": "Uzlīmes un logu uzlīmes",
+     "d": "Grīdas, stikla virsmas un citas virsmas, personalizētas ar tehniskajām uzlīmēm."
+    },
+    {
+     "t": "Piekārtas izkārtnes",
+     "d": "Baneri un piekārtas grafiskās konstrukcijas, kas paviljonā redzamas no tālienes."
+    },
+    {
+     "t": "Uzklāšana izstādē",
+     "d": "Grafiku uzstādām paši un pirms atvēršanas veicam gala pārbaudi."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai drukājat grafiku arī citu būvētiem stendiem?",
+     "a": "Jā, varam saražot un uzklāt tikai grafiku, ievērojot izstāžu centra izmērus un noteikumus."
+    },
+    {
+     "q": "Kādi faili nepieciešami drukai?",
+     "a": "Vektorfaili vai augstas izšķirtspējas attēli ar pārlaidēm: katram formātam nosūtīsim jums tehniskās specifikācijas."
+    },
+    {
+     "q": "Vai tekstila grafiku var izmantot atkārtoti?",
+     "a": "Jā, tekstilu var mazgāt, salocīt un uzstādīt no jauna: tas ir ideāli tiem, kas piedalās vairākās izstādēs."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "fermas-led-ekrani-apgaismojums",
+   "nav": "Fermas & LED ekrāni",
+   "title": "Fermas, LED ekrāni un gaismas izstāžu stendiem | NEWSTANDS",
+   "desc": "Fermu konstrukcijas, piekārti gredzeni, rigings, LED ekrāni un apgaismojuma tehnika izstāžu stendiem un pasākumiem Milānā un visā Eiropā.",
+   "h1": "Fermas, LED ekrāni un apgaismojuma tehnika",
+   "lead": "Fermu konstrukcijas, piekārti gredzeni, rigings, LED ekrāni un gaismas stendiem, kas redzami no visa paviljona — izstāžu centrā Fiera Milano un jebkurā Eiropas izstāžu centrā.",
+   "body": [
+    "Piekārts gredzens ar logotipu, LED ekrāns produktu video, pārdomāta virsmu gaisma — tieši šie elementi padara stendu atpazīstamu no attāluma. Mēs tos projektējam kopā ar stendu, pārbaudot slodzes, piekāršanas punktus un izstāžu centra noteikumus.",
+    "Piegādājam un uzstādām fermas, motorus, LED ekrānus un gaismekļus ar kvalificētu personālu un koordinējam riginga pieteikumus ar izstādes rīkotāju."
+   ],
+   "inc": [
+    {
+     "t": "Fermas un truss konstrukcijas",
+     "d": "Grīdas un piekārtas jebkura izmēra konstrukcijas, arī kā pamats grafikai un gaismām."
+    },
+    {
+     "t": "Piekārti gredzeni un izkārtnes",
+     "d": "Apaļi vai pēc mēra izgatavoti piekārti elementi ar grafiku, redzami no visa paviljona."
+    },
+    {
+     "t": "Rigings",
+     "d": "Aprēķini, piekāršanas punkti un formalitātes ar izstāžu centru."
+    },
+    {
+     "t": "LED ekrāni",
+     "d": "Dažāda izmēra LED ekrāni, iebūvēti sienās vai uz atsevišķām konstrukcijām."
+    },
+    {
+     "t": "Apgaismojuma tehnika",
+     "d": "Apgaismojuma projekts produktiem, grafikai un stenda atmosfērai."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai riginga atļaujas kārtojat jūs?",
+     "a": "Jā, sagatavojam tehnisko dokumentāciju un kārtojam pieteikumus ar izstādes rīkotāju."
+    },
+    {
+     "q": "Vai iznomājat LED ekrānus arī pasākumiem?",
+     "a": "Jā, LED ekrāni, fermas un gaismas ir pieejamas arī pasākumiem, kongresiem un produktu prezentācijām."
+    },
+    {
+     "q": "Vai strādājat arī ārzemju izstāžu centros?",
+     "a": "Jā, uzstādām konstrukcijas un LED ekrānus visos galvenajos Eiropas izstāžu centros."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "stendu-mebeles-un-noma",
+   "nav": "Mēbeles & noma",
+   "title": "Mēbeles pēc mēra un mēbeļu noma stendiem | NEWSTANDS",
+   "desc": "Letes, bāra letes, sēdvietas, vitrīnas, virtuves un noliktavas izstāžu stendiem: mēbeles pēc mēra vai nomā, no Milānas visā Eiropā.",
+   "h1": "Stendu mēbeles pēc mēra un nomā",
+   "lead": "Letes, bāra letes, sēdvietas, vitrīnas, virtuves un noliktavas: mēbeles, kas izgatavotas pēc mēra mūsu darbnīcā vai pieejamas nomā, jebkuras platības stendiem.",
+   "body": [
+    "Mēbeles liek stendam darboties: uzņemšanai, ekspozīcijai, sanāksmēm, degustācijām un noliktavai jābūt īstajā vietā. Mēs tās projektējam kopā ar plānojumu, domājot par apmeklētāju plūsmām un jūsu komandas darbu izstādē.",
+    "Varam izgatavot unikālus priekšmetus pēc mēra ar jūsu zīmola apdari un krāsām vai piedāvāt mēbeles nomā, lai ietaupītu izmaksas. Piegāde, montāža un savākšana vienmēr ir mūsu ziņā."
+   ],
+   "inc": [
+    {
+     "t": "Letes un reģistrācija",
+     "d": "Uzņemšanas letes pēc mēra ar logotipu, apgaismojumu un tehniskajiem nodalījumiem."
+    },
+    {
+     "t": "Tikšanās un atpūtas zonas",
+     "d": "Galdi, sēdvietas un mīkstās mēbeles tikšanās reizēm ar klientiem stendā."
+    },
+    {
+     "t": "Vitrīnas un ekspozīcija",
+     "d": "Stikla vitrīnas, plaukti un aprīkotas sienas produktu izcelšanai."
+    },
+    {
+     "t": "Virtuves un noliktavas",
+     "d": "Glabātuves, virtuves un apkalpošanas zonas, kas integrētas stendā."
+    },
+    {
+     "t": "Mēbeļu noma",
+     "d": "Mēbeles nomā jebkuram stilam un budžetam, piegādājam un savācam paši."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai varu iznomāt tikai mēbeles?",
+     "a": "Jā, piedāvājam arī tikai mēbeļu nomu ar piegādi un savākšanu izstādē."
+    },
+    {
+     "q": "Vai mēbeles pēc mēra var izmantot atkārtoti?",
+     "a": "Jā, glabājam tās savā noliktavā un atvedam uz nākamo izstādi."
+    },
+    {
+     "q": "Vai piegādājat mēbeles arī uz ārzemēm?",
+     "a": "Jā, piegādājam un uzstādām mēbeles visos galvenajos Eiropas izstāžu centros."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "stendu-montaza-un-demontaza",
+   "nav": "Montāža & demontāža",
+   "title": "Stendu montāža un demontāža Milānā un Eiropā | NEWSTANDS",
+   "desc": "Specializētas brigādes izstāžu stendu montāžai un demontāžai izstāžu centrā Fiera Milano Rho un visos Eiropas izstāžu centros. Arī tikai montāža.",
+   "h1": "Izstāžu stendu montāža un demontāža",
+   "lead": "Specializētas brigādes un savs būvdarbu vadītājs jūsu stenda montāžai un demontāžai izstāžu centros Fiera Milano Rho, Allianz MiCo un jebkurā Eiropas izstāžu centrā. Arī tikai montāža.",
+   "body": [
+    "Montāža ir brīdis, kad projekts kļūst par stendu: nepieciešamas pieredzējušas brigādes, aprīkojums, izstāžu centra laika logu un drošības noteikumu ievērošana. No mūsu bāzes Milānas reģionā ātri nokļūstam Milānas izstāžu centros un dodamies ar stendu uz izstādēm visā Eiropā.",
+    "Uzstādām gan pašu ražotus stendus, gan citu piegādātāju vai klientam piederošus stendus: materiāla pieņemšana, montāža, pārbaude, atbalsts izstādes laikā, demontāža un atgriešana noliktavā."
+   ],
+   "inc": [
+    {
+     "t": "Specializētas brigādes",
+     "d": "Pieredzējuši montētāji ar savu aprīkojumu un savu būvdarbu vadītāju."
+    },
+    {
+     "t": "Piekļuves formalitātes",
+     "d": "Caurlaides, drošības dokumentācija un izstāžu centra pieprasītās atļaujas."
+    },
+    {
+     "t": "Pārbaude un nodošana",
+     "d": "Konstrukciju, gaismu un grafikas gala pārbaude pirms atvēršanas."
+    },
+    {
+     "t": "Atbalsts izstādē",
+     "d": "Tehniķi pieejami visu izstādes laiku jebkurai vajadzībai."
+    },
+    {
+     "t": "Demontāža un uzglabāšana",
+     "d": "Demontāža paredzētajā laikā, transports un uzglabāšana atkārtotai izmantošanai."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai veicat arī tikai citu būvētu stendu montāžu?",
+     "a": "Jā, uzstādām un demontējam arī citu stendu būvētāju vai eksponentam piederošus stendus."
+    },
+    {
+     "q": "Kuros izstāžu centros jūs strādājat?",
+     "a": "Izstāžu centros Fiera Milano Rho un Allianz MiCo, Boloņā, Veronā un Rimini, kā arī galvenajos Eiropas centros: Diseldorfā, Ķelnē, Frankfurtē, Minhenē, Parīzē, Barselonā, Madridē, Amsterdamā un citur."
+    },
+    {
+     "q": "Vai ievērojat izstāžu centru drošības noteikumus?",
+     "a": "Jā, mūsu montētāji strādā saskaņā ar katra izstāžu centra drošības noteikumiem un tehniskajiem noteikumiem."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "izstazu-stendi-milana",
+   "nav": "Stendi Milānā",
+   "title": "Izstāžu stendu būvētājs Milānā: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Izstāžu stendu būvētājs Milānas reģionā: stendi „atslēga rokā” izstāžu centriem Fiera Milano Rho, Allianz MiCo un pasākumiem pilsētā.",
+   "h1": "Izstāžu stendi Milānā",
+   "lead": "Milāna ir viens no nozīmīgākajiem izstāžu centriem Eiropā, un mēs strādājam tieši šeit: projektējam, ražojam un uzstādām stendus izstādēm izstāžu centros Fiera Milano Rho un Allianz MiCo, kā arī pasākumiem pilsētā.",
+   "body": [
+    "Fiera Milano Rho katru gadu uzņem tādas starptautiskas izstādes kā Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO un MICAM, savukārt Allianz MiCo ir viens no lielākajiem kongresu centriem Eiropā. Eksponentam tas nozīmē ļoti augstu konkurenci: stendam jāizceļas.",
+    "Stendu būvētājs Milānas reģionā nozīmē ātras apsekošanas, vienkāršu loģistiku, tuvumā esošas montāžas brigādes un tūlītēju atbalstu izstādes laikā. Un, ja pēc Milānas jūsu sezona turpinās ārzemēs, tā pati komanda aizved stendu uz jebkuru Eiropas izstāžu centru."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stendi lielajām starptautiskajām izstādēm Rho izstāžu centrā — no dizaina paviljoniem līdz motociklu un pārtikas paviljoniem."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Noformējums kongresiem, konferencēm un izstādēm Milānas kongresu centrā."
+    },
+    {
+     "t": "Pasākumi pilsētā",
+     "d": "Produktu prezentācijas, Fuorisalone, šovrūmi un pagaidu veikali Milānas norises vietās."
+    },
+    {
+     "t": "Ātras apsekošanas",
+     "d": "No savas bāzes Milānas izstāžu centros nokļūstam ātri — gan pirms izstādes, gan tās laikā."
+    },
+    {
+     "t": "Noliktava tuvumā",
+     "d": "Jūsu stends paliek mūsu noliktavā Lombardijā, gatavs nākamajai izstādei."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai esat Milānas stendu būvētājs?",
+     "a": "Jā, strādājam no Milānas reģiona, ar biroju un darbnīcu Tromello (PV), Lombardijā, netālu no izstāžu centra Fiera Milano Rho."
+    },
+    {
+     "q": "Kurām Milānas izstādēm jūs būvējat stendus?",
+     "a": "Visām izstādēm izstāžu centros Fiera Milano Rho un Allianz MiCo, kā arī pasākumiem un Fuorisalone pilsētā."
+    },
+    {
+     "q": "Vai varat mūs pavadīt arī izstādēs ārzemēs?",
+     "a": "Jā, no Milānas vedam stendus un brigādes uz visiem galvenajiem Eiropas izstāžu centriem."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "izstazu-stendi-eiropa",
+   "nav": "Stendi Eiropā",
+   "title": "Izstāžu stendi Eiropā: Vācija, Francija, Spānija | NEWSTANDS",
+   "desc": "No Milānas uz visiem Eiropas izstāžu centriem: stendi „atslēga rokā” Diseldorfā, Ķelnē, Frankfurtē, Minhenē, Parīzē, Barselonā, Madridē un citur.",
+   "h1": "Izstāžu stendi visā Eiropā",
+   "lead": "Sākam Milānā un dodamies uz jebkuru Eiropas izstāžu centru: viens piegādātājs projektam, ražošanai, transportam un montāžai, lai kur notiktu jūsu izstāde.",
+   "body": [
+    "Piedalīties izstādēs ārzemēs ar atšķirīgu vietējo stendu būvētāju katrā valstī nozīmē jaunas kontaktpersonas, dažādus standartus un lielākus riskus. Ar NEWSTANDS jums ir viena komanda: projektējam un ražojam savā darbnīcā netālu no Milānas, organizējam transportu un piekļuves formalitātes un uzstādām ar savām brigādēm.",
+    "Strādājam lielajos Vācijas, Francijas, Spānijas, Beniluksa valstu, Austrijas un Šveices izstāžu centros, kā arī pēc pieprasījuma jebkurā citā centrā. Esam būvējuši nacionālos paviljonus un zīmolu stendus, piemēram, Tunisijas paviljonu izstādē MEDICA Diseldorfā."
+   ],
+   "inc": [
+    {
+     "t": "Vācija",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt un Messe München."
+    },
+    {
+     "t": "Francija",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles un Eurexpo Lyon."
+    },
+    {
+     "t": "Spānija",
+     "d": "Fira de Barcelona Gran Via un IFEMA Madrid."
+    },
+    {
+     "t": "Beniluksa valstis",
+     "d": "RAI Amsterdam un Brussels Expo."
+    },
+    {
+     "t": "Austrija, Šveice un citur",
+     "d": "Messe Wien, Palexpo Genève un pēc pieprasījuma jebkurš cits Eiropas izstāžu centrs."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vai transportu un formalitātes ārzemju izstādēm kārtojat jūs?",
+     "a": "Jā: iepakošana, transports, caurlaides, drošības dokumentācija un saziņa ar izstādes rīkotājiem ir mūsu ziņā."
+    },
+    {
+     "q": "Vai montāžas brigādes ir jūsu pašu?",
+     "a": "Jā, stendu uzstāda mūsu pašu brigādes ar savu būvdarbu vadītāju, arī ārzemēs."
+    },
+    {
+     "q": "Kādās valodās varam sazināties?",
+     "a": "Itāļu un angļu valodā; izstādes dokumentācijas jautājumos sazināmies ar rīkotāju vietējā valodā."
+    }
+   ]
+  }
+ }
+}

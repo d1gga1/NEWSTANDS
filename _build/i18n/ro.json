@@ -1,0 +1,987 @@
+{
+ "_lang": "ro",
+ "meta": {
+  "title": "Standuri expoziționale Milano și Europa | NEWSTANDS",
+  "desc": "Constructor de standuri expoziționale din zona Milano: proiectăm, producem și montăm standuri la cheie la Fiera Milano și în orice centru expozițional european.",
+  "ogTitle": "NEWSTANDS — Standuri expoziționale din Milano în toată Europa",
+  "ogDesc": "Standuri expoziționale la cheie, evenimente și congrese: bază în zona Milano, echipe de montaj în fiecare centru expozițional european.",
+  "ogAlt": "NEWSTANDS — amenajări expoziționale din Milano în toată Europa",
+  "orgDesc": "Constructor de standuri expoziționale cu bază în zona Milano (sediul la Tromello, PV). Proiectează, produce și montează standuri expoziționale la cheie, amenajări pentru evenimente, congrese, showroomuri și magazine temporare la Fiera Milano și în toate centrele expoziționale din Europa.",
+  "slogan": "Proiectat, produs, montat."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podină",
+  "h003": "Amenajări",
+  "h004": "Proiectat · Produs · Montat",
+  "h005": "Atinge pentru a intra",
+  "h006": "Proces",
+  "h007": "Servicii",
+  "h008": "Proiecte",
+  "h009": "Configurează",
+  "h009b": "Configurează",
+  "h010": "Europa",
+  "h011": "Ofertă",
+  "h012": "Constructor de standuri expoziționale în Milano · Evenimente · Congrese",
+  "h013": "Proiectare → Producție → Montaj",
+  "h014": "Cu baza în zona Milano, inima expozițională a Europei, construim standuri de la zero și le montăm în orice centru expozițional european. Un singur interlocutor, de la prima schiță până la ultimul șurub.",
+  "h015": "Derulează și montează standul",
+  "h016": "Planșa 00 — Plan stand 8.000 × 6.000",
+  "h017": "Scara 1:50",
+  "h018": "Proiect",
+  "h019": "Stadiul lucrărilor",
+  "h020": "Planșa 05 — Predare",
+  "h021": "La cheie.",
+  "h022": "Configurează-l pe al tău",
+  "h023": "Cere o ofertă",
+  "h024": "§ 01 — Despre noi",
+  "h025": "Nu vindem metri pătrați. Construim locul în care *brandul* tău întâlnește piața — de la *prima* *schiță* până la ultimul șurub, în orice pavilion din Europa.",
+  "h026": "Metoda",
+  "h027": "Proiectăm, producem și montăm în regie proprie fiecare componentă: structuri, panouri, grafică, mobilier și lumini. Mai puțini intermediari, mai puține surprize, termene respectate.",
+  "h028": "De la zero",
+  "h029": "la stand.",
+  "h030": "Șase etape, o singură coordonare.",
+  "h031": "Derulează pe orizontală →",
+  "h032": "Etapa 01",
+  "h033": "Obiective, buget, târg, regulamentul tehnic al centrului expozițional. Pornim de la ce trebuie să se întâmple în standul tău.",
+  "h034": "Etapa 02",
+  "h035": "Concept & 3D",
+  "h036": "Randări fotorealiste și planșe de execuție: vezi standul finit înainte să fie tăiat un singur panou.",
+  "h037": "Etapa 03",
+  "h038": "Producție",
+  "h039": "Tâmplărie, confecții metalice, print de format mare, iluminat. Fiecare piesă este făcută pe comandă.",
+  "h040": "Etapa 04",
+  "h041": "Logistică",
+  "h042": "Ambalare, transport și formalități de acces pentru fiecare centru expozițional european. Ajungem noi, la timp.",
+  "h043": "Etapa 05",
+  "h044": "Montaj",
+  "h045": "Echipe specializate pe șantier, șef de montaj dedicat, recepție finală. Primești standul gata de deschidere.",
+  "h046": "Etapa 06",
+  "h047": "Târg & demontaj",
+  "h048": "Asistență tehnică pe durata târgului, demontaj, depozitare și reutilizare la următorul târg.",
+  "h049": "Rezultat",
+  "h050": "Tu te ocupi",
+  "h051": "de clienți.",
+  "h052": "De rest",
+  "h053": "ne ocupăm noi.",
+  "h054": "Hai să vorbim despre următorul târg",
+  "h055": "Ce",
+  "h056": "construim",
+  "h057": "§ 03 — Servicii",
+  "h058": "Orice tip de târg și eveniment, de la standul în linie de 16 m² la insula cu etaj. Producția și montajul rămân mereu în casă.",
+  "h059": "Standuri",
+  "h060": "realizate",
+  "h061": "§ 04 — Proiecte",
+  "h062": "O selecție de standuri proiectate, produse și montate de echipele noastre: pavilioane naționale, insule de brand și standuri tehnice în toată Europa.",
+  "h063": "Următorul poate fi al tău",
+  "h064": "standul tău",
+  "h065": "§ 05 — Configurator 3D",
+  "h066": "Alege tipul și suprafața: urmărește cum prinde formă volumul și trimite-ne configurația ca punct de plecare pentru ofertă.",
+  "h067": "↔ Trage pentru a roti",
+  "h068": "Vedere axonometrică",
+  "h069": "Az 000°",
+  "h070": "01 — Tip",
+  "h071": "Laturi deschise",
+  "h072": "02 — Suprafață",
+  "h073": "Dim. orientative",
+  "h074": "Folosește această configurație",
+  "h075": "Următoarea",
+  "h076": "plecare",
+  "h077": "§ 06 — Din Milano în toată Europa",
+  "h078": "Plecăm din Milano, orașul marilor târguri internaționale, și ne deplasăm cu standul în orice centru expozițional european: Germania, Franța, Spania, Benelux, Austria, Elveția. Oriunde există un pavilion, ajungem și noi.",
+  "h079": "Oraș",
+  "h080": "Centru expozițional",
+  "h081": "Țară",
+  "h082": "Status",
+  "h083": "Echipe de montaj operaționale",
+  "h084": "+ orice alt centru expozițional, la cerere",
+  "h085": "Întrebări",
+  "h086": "frecvente",
+  "h087": "§ 07 — FAQ",
+  "h088": "Costuri, termene, orașe și servicii: răspunsurile la întrebările pe care le primim cel mai des înainte de un târg.",
+  "h089": "Ai un târg",
+  "h090": "în calendar?",
+  "h091": "Spune-ne evenimentul, datele și suprafața în metri pătrați. Îți răspundem cu o primă propunere și o ofertă clară.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Sediu",
+  "h095": "Zonă",
+  "h096": "Milano + toată Europa",
+  "h097": "Serviciu",
+  "h098": "La cheie",
+  "h099": "Stand expozițional",
+  "h100": "Eveniment",
+  "h101": "Congres",
+  "h102": "Showroom / temporar",
+  "h103": "Doar montaj",
+  "h104": "Nume și prenume",
+  "h105": "Companie",
+  "h106": "Târg / eveniment și oraș",
+  "h107": "Descrie-ne proiectul",
+  "h108": "Trimite cererea",
+  "h109": "Cererea e gata în aplicația ta de email: apasă trimite.",
+  "h110": "Nu s-a deschis nimic? Scrie-ne la",
+  "h111": "sau sună la",
+  "h112": "Studio",
+  "h113": "Standuri expoziționale în Milano și în Europa, evenimente, congrese",
+  "h114": "27020 Tromello (PV), Lombardia",
+  "h115": "Navigare",
+  "h116": "Configurator",
+  "h117": "Social",
+  "h118": "Contact",
+  "h119": "Cere o ofertă →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia, Italia",
+  "h121": "Proiectat, produs, montat.",
+  "h122": "Înapoi sus ↑",
+  "h123": "Meniu principal",
+  "h124": "Filtrează după sector",
+  "h125": "Galerie proiect",
+  "h126": "Închide galeria",
+  "h127": "Fotografia anterioară",
+  "h128": "Fotografia următoare",
+  "h129": "Suprafața în metri pătrați",
+  "h130": "Cerere de ofertă pentru stand",
+  "h131": "Tip de proiect",
+  "h132": "Scrie-ne pe WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Cât costă un stand expozițional?",
+   "a": "Prețul unui stand depinde de suprafață, tip (în linie, de colț, peninsulă sau insulă), materiale, grafică, mobilier și centrul expozițional. După un scurt briefing despre târg, date și metri pătrați îți trimitem o primă propunere și o ofertă clară și detaliată. Poți porni de la configuratorul 3D de mai sus sau ne poți suna ori scrie pe WhatsApp la <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Unde se află NEWSTANDS și la ce târguri lucrați?",
+   "a": "Suntem un constructor de standuri expoziționale din zona Milano, cu sediul și atelierul la Tromello (PV), în Lombardia: o poziție strategică, aproape de Fiera Milano Rho și Allianz MiCo, care găzduiesc unele dintre cele mai importante târguri din Europa. De aici, echipele noastre se deplasează în orice centru expozițional: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Paris, Lyon, Barcelona, Madrid, Amsterdam, Bruxelles, Viena, Geneva și nu numai."
+  },
+  {
+   "q": "Ce include serviciul la cheie?",
+   "a": "Un singur interlocutor pentru tot: briefing, concept și randări 3D, planșe de execuție, producție proprie de structuri, panouri, grafică de format mare, mobilier și lumini, logistică și transport, montaj cu șef de șantier dedicat, asistență pe durata târgului, demontaj și depozitare pentru reutilizare."
+  },
+  {
+   "q": "Realizați și evenimente, congrese și showroomuri?",
+   "a": "Da. Pe lângă standurile expoziționale personalizate și modulare, proiectăm și amenajăm evenimente corporate, congrese, convenții, lansări de produs, scene și decoruri, showroomuri, magazine temporare și pop-up-uri, cu structuri truss, ecrane LED și iluminat profesional."
+  },
+  {
+   "q": "Cu cât timp înainte ar trebui să vă contactăm?",
+   "a": "Cu cât ne contactezi mai devreme, cu atât avem mai multă marjă pentru proiect, randări și producție: pentru un stand personalizat e bine să începi imediat ce ți-ai confirmat participarea la târg. Pentru standuri modulare și servicii doar de montaj putem lucra și cu termene mai strânse: scrie-ne și verificăm imediat fezabilitatea."
+  },
+  {
+   "q": "Cum cer o ofertă?",
+   "a": "Completează formularul din secțiunea de contact, scrie la <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> sau sună-ne ori scrie-ne pe WhatsApp la <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativ <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Menționează târgul sau evenimentul, orașul, datele și metri pătrați: revenim cu o primă propunere."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Proiect",
+    "Fiecare stand pornește de la o planșă tehnică: dimensiuni, regulamentul centrului expozițional, fluxuri de vizitatori."
+   ],
+   [
+    "Structură",
+    "Podină, truss, cadre. Partea care nu se vede, dar care susține totul."
+   ],
+   [
+    "Pereți & grafică",
+    "Panouri produse pe comandă, print de format mare, finisaje."
+   ],
+   [
+    "Mobilier & tehnologie",
+    "Desk-uri, totemuri, ecrane LED, zone de meeting, ring suspendat. Produse și montate de noi."
+   ],
+   [
+    "Luminile aprinse",
+    "Recepție, curățenie, predare. Standul e gata de deschidere."
+   ]
+  ],
+  "lbl": [
+   "L 8.000 mm",
+   "A 6.000 mm",
+   "Truss 29×29 — Î 4.500",
+   "Perete 3.400 + grafică",
+   "Ecran LED 3,4 × 1,9 m",
+   "Desk recepție",
+   "Ring suspendat Ø 4.400"
+  ],
+  "ty": {
+   "linea": "În linie",
+   "angolo": "Colț",
+   "penisola": "Peninsulă",
+   "isola": "Insulă",
+   "doppio": "Cu etaj"
+  },
+  "sides": "laturi",
+  "side": "latură",
+  "openSides": "laturi deschise",
+  "openSide": "latură deschisă",
+  "cfgMsg": "Configurație de pe site: stand {type}, {n} {sides}, aproximativ {area} m² ({dim} m).",
+  "axo": "Vedere axonometrică",
+  "cfgFb": "Configuratorul 3D nu este disponibil pe acest dispozitiv.<br>Scrie-ne: îți trimitem noi randarea.",
+  "mq": [
+   "Standuri la comandă",
+   "Evenimente",
+   "Congrese",
+   "Showroom",
+   "Temporar",
+   "Ecrane LED",
+   "Truss",
+   "Grafică",
+   "Mobilier"
+  ],
+  "svc": [
+   {
+    "t": "Standuri personalizate",
+    "d": "Proiecte unice, construite de la zero în jurul brandului tău: tâmplărie, metal, sticlă, textil, finisaje de calitate.",
+    "tags": [
+     "Concept",
+     "Randare 3D",
+     "Producție",
+     "Montaj"
+    ]
+   },
+   {
+    "t": "Standuri modulare",
+    "d": "Sisteme reutilizabile și pre-asamblate pentru cine participă la mai multe târguri pe an: imagine coerentă, costuri sub control.",
+    "tags": [
+     "Reutilizare",
+     "Depozitare",
+     "Rapiditate"
+    ]
+   },
+   {
+    "t": "Evenimente & congrese",
+    "d": "Scene, decoruri, săli de plen, convenții corporate și lansări de produs, cu regie tehnică completă.",
+    "tags": [
+     "Scene",
+     "Decoruri",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Showroom & temporar",
+    "d": "Spații retail temporare, pop-up-uri și showroomuri permanente: aceeași rigoare ca pe un șantier expozițional.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Grafică de format mare",
+    "d": "Print pe forex, textil retroiluminat, PVC, autocolante și colantări pe sticlă. Produse și aplicate de noi.",
+    "tags": [
+     "Lightbox",
+     "Textil",
+     "Autocolante"
+    ]
+   },
+   {
+    "t": "Truss & ecrane LED",
+    "d": "Structuri truss, ringuri suspendate, rigging, ecrane LED și iluminat pentru standuri care se văd din tot pavilionul.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ecrane LED",
+     "Lumini"
+    ]
+   },
+   {
+    "t": "Mobilier & închiriere",
+    "d": "Desk-uri, tejghele, scaune, vitrine, bucătării și depozite: mobilier la comandă sau închiriat, pentru orice suprafață.",
+    "tags": [
+     "La comandă",
+     "Închiriere",
+     "Depozitare"
+    ]
+   }
+  ],
+  "more": "Descoperă serviciul",
+  "tav": "Planșa",
+  "avail": "DISPONIBIL",
+  "form": {
+   "type": "Tip de proiect",
+   "name": "Nume și prenume",
+   "company": "Companie",
+   "fair": "Târg / eveniment și oraș",
+   "project": "Proiect",
+   "subj": "Cerere de ofertă pentru stand"
+  },
+  "ariaW": "{t} — deschide galeria ({n} fotografii)",
+  "altW": "Stand expozițional {t} — {c}, amenajare NEWSTANDS",
+  "nPh": "{n} fotografii",
+  "altLb": "Stand expozițional {t} ({c}) — fotografia {i} din {n}",
+  "phN": "Fotografia {i}",
+  "all": "Toate",
+  "ld": [
+   "Podină",
+   "Pereți",
+   "Grindă",
+   "Lumini",
+   "Gata"
+  ],
+  "c3": [
+   "DE LA ZERO",
+   "LA STAND.",
+   "PROIECT · PRODUCȚIE · MONTAJ · EUROPA",
+   "AMENAJĂRI EXPOZIȚIONALE",
+   "STANDURI · EVENIMENTE · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Cristale și iluminat",
+   "g": "Design",
+   "d": "Insulă total white învăluită de perdele din fire de cristal, candelabre suspendate și mobilier lăcuit: standul devine o vitrină luminoasă."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Suplimente sportive",
+   "g": "Alimentație & sănătate",
+   "d": "Insulă cu mai multe laturi deschise, grafică de produs pe toată suprafața pereților, însemne suspendate și tejghele de degustare pentru fluxuri mari de vizitatori."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Pavilion instituțional cu arcade și minarete inspirate de arhitectura din Telangana, desk-uri pentru operatori și grafică imersivă."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Portaluri din imitație de teracotă, arcade sculptate și posturi B2B: un pavilion regional care prezintă teritoriul dintr-o privire."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Pavilion național alimentar",
+   "g": "Alimentație & sănătate",
+   "d": "Pavilion colectiv alb-roșu cu decoruri traforate, desk-uri pentru expozanți și zonă de show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrie",
+   "d": "Stand corporate cu săli de ședință din sticlă, pereți retroiluminați și zonă de primire deschisă spre culoar."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motociclete",
+   "g": "Moto",
+   "d": "Total white cu portaluri roșii și podiumuri pentru motociclete: o grafică curată care lasă vehiculele să vorbească."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Motociclete electrice",
+   "g": "Moto",
+   "d": "Decor total black cu pardoseală albă lucioasă, motociclete expuse și zonă de meeting."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Lounge expozițional",
+   "g": "Design",
+   "d": "Lounge deschis cu un print panoramic de mari dimensiuni, plafon suspendat, tejghea și locuri de ședere pentru primirea vizitatorilor."
+  },
+  {
+   "t": "Plastona",
+   "c": "Casă și grădină",
+   "g": "Design",
+   "d": "Insulă cu însemne cubice pe structură truss, rafturi albe și ambientări de produs."
+  },
+  {
+   "t": "Topsun",
+   "c": "Moto și motoare",
+   "g": "Moto",
+   "d": "Stand de colț cu pereți expoziționali negri și albi, vehicule pe podium și zonă cu mese."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Industria energetică",
+   "g": "Industrie",
+   "d": "Rame rotunjite retroiluminate, panouri tehnice și zonă de meeting pentru un public B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Căști",
+   "g": "Moto",
+   "d": "Pereți expoziționali pentru căști, grafică racing și desk de recepție: design italian pe doar câțiva metri pătrați."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Accesorii moto",
+   "g": "Moto",
+   "d": "Coloane tricolore, vitrine iluminate și pereți de produs pentru o prezență racing de mare vizibilitate."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Căști",
+   "g": "Moto",
+   "d": "Perete cu romburi și căști expuse, însemne supradimensionate și zonă cu mese pentru negocieri."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Piese și îmbrăcăminte moto",
+   "g": "Moto",
+   "d": "Totemuri grafice pe toată înălțimea, vitrine de produs și pereți de îmbrăcăminte în jurul unei zone de meeting."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrie",
+   "g": "Industrie",
+   "d": "Stand corporate în albastru cu grafică de proces, zonă tehnică și posturi de întâlnire."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Portal scenografic cu decoruri tradiționale și imagini mari ale regiunii."
+  },
+  {
+   "t": "Uttar Pradesh — Agricultură",
+   "c": "Agroalimentar",
+   "g": "Alimentație & sănătate",
+   "d": "Stand alb cu rame luminoase la nivelul pardoselii și panouri de produs, simplu și luminos."
+  },
+  {
+   "t": "Tunisia — Medica Düsseldorf",
+   "c": "Pavilion național medical",
+   "g": "Medical",
+   "d": "Pavilion național la Medica Düsseldorf, cu însemn suspendat, desk-uri pentru companiile expozante și zonă lounge."
+  }
+ ],
+ "ui": {
+  "langName": "Română",
+  "langLabel": "Limbă",
+  "home": "Acasă",
+  "services": "Servicii",
+  "works": "Proiecte",
+  "contacts": "Contact",
+  "quote": "Ofertă",
+  "requestQuote": "Cere o ofertă",
+  "whatsapp": "Scrie-ne pe WhatsApp",
+  "call": "Sună-ne",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "Email",
+  "address": "Sediu",
+  "serviceN": "Serviciu",
+  "locationK": "Din Milano în toată Europa",
+  "includesTitle": "Ce include",
+  "whyTitle": "De ce NEWSTANDS",
+  "why": [
+   {
+    "t": "Bază în Milano",
+    "d": "Lucrăm din zona Milano, aproape de Fiera Milano Rho și Allianz MiCo: inspecții rapide pe teren, logistică simplă, echipe mereu aproape de marile centre expoziționale."
+   },
+   {
+    "t": "Producție proprie",
+    "d": "Structurile, panourile, grafica, mobilierul și luminile se nasc în atelierul nostru: mai puțini intermediari, mai puține surprize, termene respectate."
+   },
+   {
+    "t": "În orice centru expozițional european",
+    "d": "Echipele noastre de montaj călătoresc odată cu standul: Germania, Franța, Spania, Benelux, Austria, Elveția și orice alt centru expozițional, la cerere."
+   },
+   {
+    "t": "Un singur interlocutor",
+    "d": "De la briefing la demontaj vorbești mereu cu aceeași persoană, cu un șef de șantier dedicat la târg."
+   }
+  ],
+  "galleryTitle": "Câteva standuri realizate",
+  "faqTitle": "Întrebări frecvente",
+  "otherTitle": "Alte servicii",
+  "ctaTitle": "Ai un târg în calendar?",
+  "ctaText": "Spune-ne târgul, orașul, datele și metri pătrați: îți răspundem cu o primă propunere și o ofertă clară.",
+  "whereTitle": "Din Milano în orice centru expozițional",
+  "whereText": "Suntem în zona Milano, orașul care găzduiește unele dintre cele mai importante târguri din lume. De aici ajungem cu echipele noastre în orice centru expozițional din Italia și din Europa.",
+  "milanLink": "Standuri expoziționale în Milano",
+  "europeLink": "Standuri expoziționale în Europa",
+  "photos": "fotografii",
+  "backHome": "Înapoi la pagina principală",
+  "footerTag": "Standuri expoziționale în Milano și în toată Europa. Proiectat, produs, montat.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · Zona Milano",
+  "breadcrumb": "Traseu",
+  "skip": "Salt la conținut",
+  "menu": "Meniu principal"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "standuri-expozitionale-personalizate",
+   "nav": "Standuri personalizate",
+   "title": "Standuri expoziționale personalizate Milano, Europa | NEWSTANDS",
+   "desc": "Standuri expoziționale personalizate, proiectate, produse și montate de NEWSTANDS: bază în zona Milano, montaj în toate centrele expoziționale din Europa.",
+   "h1": "Standuri expoziționale personalizate",
+   "lead": "Un stand unic, construit de la zero în jurul brandului tău: îl proiectăm, îl producem în atelierul nostru de lângă Milano și îl montăm la orice târg din Europa.",
+   "body": [
+    "Un stand personalizat este cel mai puternic mod de a te prezenta la un târg: fiecare perete, fiecare lumină și fiecare traseu de vizită sunt gândite pentru produsele și obiectivele tale comerciale. Pornim de la regulamentul tehnic al centrului expozițional și de la fluxurile din pavilion, apoi transformăm ideea în randări 3D fotorealiste și planșe de execuție.",
+    "Producem în regie proprie structuri din lemn și metal, panouri, grafică, mobilier și iluminat, astfel încât controlăm calitatea și termenele în fiecare etapă. Fie că târgul are loc la Fiera Milano Rho, la Düsseldorf sau la Paris, echipa care ți-a construit standul este aceeași care îl montează."
+   ],
+   "inc": [
+    {
+     "t": "Concept și randări 3D",
+     "d": "Propunere creativă, randări fotorealiste și revizii până când standul arată exact așa cum îl vrei."
+    },
+    {
+     "t": "Proiect de execuție",
+     "d": "Planșe tehnice, calcule și documentație conformă cu regulamentul fiecărui centru expozițional."
+    },
+    {
+     "t": "Producție la comandă",
+     "d": "Tâmplărie, confecții metalice, sticlă, textil și finisaje de calitate realizate în atelierul nostru."
+    },
+    {
+     "t": "Grafică și iluminat",
+     "d": "Print de format mare, lightbox-uri, ecrane LED și proiect de iluminat integrate în arhitectura standului."
+    },
+    {
+     "t": "Montaj și demontaj",
+     "d": "Transport, montaj cu șef de șantier dedicat, asistență la târg, demontaj și depozitare."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Cât timp durează realizarea unui stand personalizat?",
+     "a": "Depinde de dimensiuni și complexitate: pentru un stand la comandă e bine să începi imediat ce participarea la târg este confirmată, ca să existe marjă pentru proiect, randări și producție."
+    },
+    {
+     "q": "Standul personalizat poate fi reutilizat?",
+     "a": "Da. Proiectăm componentele astfel încât să poată fi depozitate și remontate: la următorul târg adaptăm standul la noi suprafețe și la o grafică nouă."
+    },
+    {
+     "q": "Realizați standuri personalizate și în afara Italiei?",
+     "a": "Da, din zona Milano ducem standul și echipele noastre în toate centrele expoziționale importante din Europa, din Germania până în Spania."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "standuri-expozitionale-modulare",
+   "nav": "Standuri modulare",
+   "title": "Standuri modulare pentru târguri, Milano și Europa | NEWSTANDS",
+   "desc": "Standuri expoziționale modulare și reutilizabile pentru cine expune la mai multe târguri pe an: imagine coerentă și costuri sub control, din Milano în Europa.",
+   "h1": "Standuri modulare și reutilizabile",
+   "lead": "Sisteme modulare gândite pentru cine expune la mai multe târguri pe an: aceeași imagine de brand, costuri sub control și montaj rapid, la Milano ca în orice centru expozițional european.",
+   "body": [
+    "Un stand modular este o investiție pe termen lung: structurile, panourile și mobilierul se reconfigurează pentru a se adapta la suprafețe și tipuri diferite, de la standul în linie la insulă. Grafica se schimbă, calitatea rămâne.",
+    "Proiectăm sistemul o singură dată, îl producem în atelierul nostru și ne ocupăm noi de el între un târg și altul: depozitare, întreținere, actualizarea graficii și transport spre următorul pavilion, în Italia sau în străinătate."
+   ],
+   "inc": [
+    {
+     "t": "Sistem la comandă",
+     "d": "Module proiectate pe imaginea ta, combinabile pentru standuri de la câțiva metri pătrați până la insule mari."
+    },
+    {
+     "t": "Grafică interschimbabilă",
+     "d": "Textile și panouri imprimate care se înlocuiesc rapid pentru fiecare târg, produs sau piață."
+    },
+    {
+     "t": "Depozitare și întreținere",
+     "d": "Păstrăm standul în depozitul nostru și îl verificăm înainte de fiecare nouă plecare."
+    },
+    {
+     "t": "Montaj rapid",
+     "d": "Timpi de amenajare reduși, ideali și pentru târgurile cu ferestre de montaj strânse."
+    },
+    {
+     "t": "Calendar de târguri gestionat",
+     "d": "Planificăm împreună sezonul de târguri și organizăm logistica și echipele pentru fiecare etapă."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Un stand modular costă mai puțin decât unul personalizat?",
+     "a": "Pe parcursul mai multor târguri, de regulă da: investiția inițială se împarte pe fiecare participare, iar costurile de producție ulterioare se reduc la grafică și logistică."
+    },
+    {
+     "q": "Standul modular se adaptează la suprafețe diferite?",
+     "a": "Da, modulele se recombină pentru standuri în linie, de colț, peninsulă sau insulă și pentru suprafețe diferite."
+    },
+    {
+     "q": "Puteți gestiona tot calendarul nostru de târguri?",
+     "a": "Da: din zona Milano coordonăm depozitarea, transportul și montajul pentru fiecare târg din sezon, în Italia și în Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "amenajari-evenimente-congrese",
+   "nav": "Evenimente & congrese",
+   "title": "Amenajări pentru evenimente și congrese în Milano | NEWSTANDS",
+   "desc": "Amenajări pentru evenimente corporate, congrese, convenții și lansări de produs în Milano și în Europa: scene, decoruri și regie tehnică completă.",
+   "h1": "Amenajări pentru evenimente și congrese",
+   "lead": "Scene, decoruri, săli de plen, convenții corporate și lansări de produs: amenajăm evenimente și congrese în Milano și în toată Europa cu aceeași precizie ca pe un șantier expozițional.",
+   "body": [
+    "Milano este una dintre capitalele europene ale evenimentelor și congreselor, cu spații precum Allianz MiCo și marile locații corporate ale orașului. Lucrând din zona Milano, cunoaștem termenele, regulile și logistica acestor spații și putem gestiona inspecțiile pe teren și montajele foarte rapid.",
+    "Proiectăm amenajarea completă: scenă, decor, sală de plen, zone expoziționale, recepție, semnalistică și iluminat. Coordonăm noi furnizorii tehnici, astfel încât ai un singur interlocutor pentru tot evenimentul."
+   ],
+   "inc": [
+    {
+     "t": "Scene și decoruri",
+     "d": "Scene la comandă, fundaluri, ecrane LED și decoruri proiectate pentru mesajul tău."
+    },
+    {
+     "t": "Săli de plen și congrese",
+     "d": "Amenajarea sălilor, zone de postere, desk-uri de primire și spații pentru sponsori."
+    },
+    {
+     "t": "Convenții și lansări de produs",
+     "d": "Ambientări pentru a prezenta un produs sau a reuni rețeaua de vânzări într-un mod memorabil."
+    },
+    {
+     "t": "Audio, video și lumini",
+     "d": "Regie tehnică, structuri truss, ecrane LED și iluminat integrate în proiect."
+    },
+    {
+     "t": "Semnalistică și grafică",
+     "d": "Trasee, totemuri, backdrop-uri și grafică coordonată, imprimate și instalate de noi."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Amenajați evenimente și în afara centrelor expoziționale?",
+     "a": "Da: hoteluri, centre de congrese, spații industriale și locații private, în Milano, în Italia și în străinătate."
+    },
+    {
+     "q": "Vă puteți ocupa și de partea tehnică audio și video?",
+     "a": "Da, coordonăm scena, ecranele LED, luminile și sunetul ca parte a unui singur proiect, cu o singură persoană de contact."
+    },
+    {
+     "q": "Cu cât timp înainte trebuie organizat un eveniment?",
+     "a": "Cu cât mai devreme, cu atât mai bine: cu câteva săptămâni de marjă putem face inspecția pe teren, proiectul și producția fără grabă. Pentru situații urgente, contactează-ne și evaluăm fezabilitatea."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-magazine-temporare-pop-up",
+   "nav": "Showroom & temporar",
+   "title": "Showroomuri, magazine temporare și pop-up Milano | NEWSTANDS",
+   "desc": "Proiectare și amenajare de showroomuri, magazine temporare, pop-up-uri și shop-in-shop în Milano și în Europa, cu producție și montaj în regie proprie.",
+   "h1": "Showroomuri, magazine temporare și pop-up",
+   "lead": "Spații retail temporare, pop-up-uri și showroomuri permanente, amenajate cu aceeași rigoare ca un șantier expozițional, în Milano și în toată Europa.",
+   "body": [
+    "Un magazin temporar sau un pop-up trebuie să fie gata în câteva zile și să lase o impresie puternică: proiectăm spații care spun povestea brandului, pun în valoare produsul și se montează rapid, inclusiv în centre comerciale și pe străzile de shopping.",
+    "Pentru showroomurile permanente realizăm mobilier la comandă, pereți expoziționali, vitrine și iluminat din materiale durabile. Producția și montajul sunt în regie proprie, deci termenele și calitatea rămân sub control."
+   ],
+   "inc": [
+    {
+     "t": "Concept retail",
+     "d": "Layout, traseul clientului și expunerea produselor gândite pentru a vinde."
+    },
+    {
+     "t": "Temporar și pop-up",
+     "d": "Structuri ușoare, rapid de montat, demontat și reutilizat în alte orașe."
+    },
+    {
+     "t": "Showroomuri permanente",
+     "d": "Mobilier la comandă, pereți echipați, vitrine și finisaje de calitate."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Corner-uri de brand în magazine și department store-uri, coerente cu imaginea ta."
+    },
+    {
+     "t": "Lumini și grafică",
+     "d": "Iluminarea produselor, firme luminoase, colantări pe vitrine și grafică produse de noi."
+    }
+   ],
+   "faq": [
+    {
+     "q": "În cât timp se amenajează un magazin temporar?",
+     "a": "Depinde de spațiu și de proiect: datorită producției proprii putem monta un pop-up chiar și în câteva zile."
+    },
+    {
+     "q": "Un pop-up poate fi mutat în alte orașe?",
+     "a": "Da, proiectăm structuri modulare care se demontează și se remontează în alte locații, în Italia și în Europa."
+    },
+    {
+     "q": "Vă ocupați și de showroomuri permanente?",
+     "a": "Da, de la proiectare până la instalarea mobilierului, a vitrinelor, a luminilor și a graficii."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grafica-format-mare-standuri",
+   "nav": "Grafică de format mare",
+   "title": "Grafică de format mare pentru standuri | NEWSTANDS Milano",
+   "desc": "Print de format mare pentru standuri și evenimente: forex, textil retroiluminat, lightbox, PVC, autocolante și colantări, produse și aplicate de noi.",
+   "h1": "Grafică de format mare pentru standuri și evenimente",
+   "lead": "Print pe forex, textil retroiluminat, PVC, autocolante și colantări pe sticlă: grafica standului tău, produsă și aplicată de aceleași echipe care îl montează.",
+   "body": [
+    "Grafica este primul lucru pe care îl văd vizitatorii, adesea din tot pavilionul. De aceea o tratăm ca parte din arhitectura standului: formatele, materialele și luminile sunt proiectate împreună cu structurile.",
+    "Imprimăm și aplicăm direct noi, la Milano ca la orice târg european: fără treceri între furnizori diferiți, culori controlate și grafică perfect aliniată în momentul deschiderii."
+   ],
+   "inc": [
+    {
+     "t": "Textil retroiluminat",
+     "d": "Lightbox-uri și pereți luminoși din textil, ușori și cu impact puternic."
+    },
+    {
+     "t": "Panouri rigide",
+     "d": "Print pe forex, dibond și PVC pentru pereți, totemuri și desk-uri."
+    },
+    {
+     "t": "Autocolante și colantări",
+     "d": "Pardoseli, vitraje și suprafețe personalizate cu autocolante tehnice."
+    },
+    {
+     "t": "Însemne suspendate",
+     "d": "Bannere și structuri grafice suspendate, vizibile de departe în pavilion."
+    },
+    {
+     "t": "Aplicare la târg",
+     "d": "Instalăm noi grafica, cu verificare finală înainte de deschidere."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Imprimați grafică și pentru standuri realizate de alții?",
+     "a": "Da, putem produce și aplica doar grafica, respectând dimensiunile și regulamentele centrului expozițional."
+    },
+    {
+     "q": "Ce fișiere sunt necesare pentru print?",
+     "a": "Fișiere vectoriale sau imagini de înaltă rezoluție cu bleed: îți trimitem noi specificațiile tehnice pentru fiecare format."
+    },
+    {
+     "q": "Grafica pe textil poate fi reutilizată?",
+     "a": "Da, textilul se spală, se pliază și se remontează: este ideal pentru cine participă la mai multe târguri."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "structuri-truss-ecrane-led-iluminat",
+   "nav": "Truss & ecrane LED",
+   "title": "Truss, ecrane LED și iluminat pentru standuri | NEWSTANDS",
+   "desc": "Structuri truss, ringuri suspendate, rigging, ecrane LED și iluminat pentru standuri expoziționale și evenimente în Milano și în toată Europa.",
+   "h1": "Structuri truss, ecrane LED și iluminat",
+   "lead": "Structuri truss, ringuri suspendate, rigging, ecrane LED și lumini pentru standuri care se văd din tot pavilionul, la Fiera Milano și în orice centru expozițional european.",
+   "body": [
+    "Un ring suspendat cu logoul, un ecran LED pentru videoclipurile de produs, o lumină gândită pentru fiecare suprafață: sunt elementele care fac un stand recognoscibil de la distanță. Le proiectăm împreună cu standul, verificând sarcinile, punctele de suspendare și regulamentele centrului expozițional.",
+    "Furnizăm și instalăm structuri truss, motoare, ecrane LED și corpuri de iluminat cu personal calificat, coordonând cererile de rigging cu organizatorul târgului."
+   ],
+   "inc": [
+    {
+     "t": "Structuri truss",
+     "d": "Structuri pe sol și suspendate de orice dimensiune, inclusiv ca suport pentru grafică și lumini."
+    },
+    {
+     "t": "Ringuri și însemne suspendate",
+     "d": "Elemente suspendate circulare sau la comandă, cu grafică, vizibile din tot pavilionul."
+    },
+    {
+     "t": "Rigging",
+     "d": "Calcule, puncte de suspendare și formalități cu centrul expozițional."
+    },
+    {
+     "t": "Ecrane LED",
+     "d": "Ecrane LED de diferite dimensiuni, integrate în pereți sau pe structuri dedicate."
+    },
+    {
+     "t": "Iluminat",
+     "d": "Proiect de iluminat pentru produse, grafică și atmosfera standului."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vă ocupați voi de autorizațiile pentru rigging?",
+     "a": "Da, pregătim documentația tehnică și gestionăm cererile cu organizatorul târgului."
+    },
+    {
+     "q": "Închiriați ecrane LED și pentru evenimente?",
+     "a": "Da, ecranele LED, structurile truss și luminile sunt disponibile și pentru evenimente, congrese și lansări de produs."
+    },
+    {
+     "q": "Lucrați și în centrele expoziționale din străinătate?",
+     "a": "Da, instalăm structuri și ecrane LED în toate centrele expoziționale importante din Europa."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "mobilier-inchiriere-standuri",
+   "nav": "Mobilier & închiriere",
+   "title": "Mobilier la comandă și închiriere pentru standuri | NEWSTANDS",
+   "desc": "Desk-uri, tejghele, scaune, vitrine, bucătării și depozite pentru standuri expoziționale: mobilier la comandă sau închiriat, din Milano în toată Europa.",
+   "h1": "Mobilier la comandă și închiriere pentru standuri",
+   "lead": "Desk-uri, tejghele, scaune, vitrine, bucătării și depozite: mobilier realizat la comandă în atelierul nostru sau închiriat, pentru standuri de orice suprafață.",
+   "body": [
+    "Mobilierul face standul să funcționeze: primirea, expunerea, întâlnirile, degustările și depozitul trebuie să fie fiecare la locul potrivit. Îl proiectăm împreună cu layoutul, gândindu-ne la fluxurile de vizitatori și la munca echipei tale la târg.",
+    "Putem realiza piese unice la comandă, în finisajele și culorile brandului tău, sau putem furniza mobilier închiriat pentru a ține costurile sub control. Livrarea, montajul și ridicarea sunt mereu în grija noastră."
+   ],
+   "inc": [
+    {
+     "t": "Desk-uri și recepție",
+     "d": "Tejghele de primire la comandă, cu logo, lumini și compartimente tehnice."
+    },
+    {
+     "t": "Zone de meeting și lounge",
+     "d": "Mese, scaune și colțuri lounge pentru întâlnirile cu clienții în stand."
+    },
+    {
+     "t": "Vitrine și expozitoare",
+     "d": "Vitrine, rafturi și pereți echipați pentru a pune în valoare produsele."
+    },
+    {
+     "t": "Bucătării și depozite",
+     "d": "Debarale, bucătării și zone de serviciu integrate în stand."
+    },
+    {
+     "t": "Închiriere mobilier",
+     "d": "Mobilier de închiriat pentru orice stil și buget, livrat și ridicat de noi."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Pot închiria doar mobilierul?",
+     "a": "Da, oferim și doar mobilier de închiriat, cu livrare și ridicare la târg."
+    },
+    {
+     "q": "Mobilierul la comandă poate fi reutilizat?",
+     "a": "Da, îl păstrăm în depozitul nostru și îl aducem la următorul târg."
+    },
+    {
+     "q": "Livrați mobilier și în străinătate?",
+     "a": "Da, livrăm și montăm mobilier în toate centrele expoziționale importante din Europa."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montaj-demontaj-standuri",
+   "nav": "Montaj & demontaj",
+   "title": "Montaj și demontaj standuri în Milano și Europa | NEWSTANDS",
+   "desc": "Echipe specializate în montajul și demontajul standurilor expoziționale la Fiera Milano Rho și în toate centrele expoziționale din Europa. Și doar montaj.",
+   "h1": "Montaj și demontaj standuri expoziționale",
+   "lead": "Echipe specializate și un șef de șantier dedicat pentru montajul și demontajul standului tău la Fiera Milano Rho, Allianz MiCo și în orice centru expozițional din Europa. Inclusiv servicii doar de montaj.",
+   "body": [
+    "Montajul este momentul în care un proiect devine stand: ai nevoie de echipe experimentate, echipament, respectarea intervalelor orare și a normelor de siguranță ale centrului expozițional. Din baza noastră din zona Milano ajungem rapid în centrele expoziționale milaneze și plecăm cu standul spre târgurile din toată Europa.",
+    "Montăm standuri produse de noi, dar și standuri ale altor furnizori sau aflate în proprietatea clientului: recepția materialelor, montaj, recepție finală, asistență pe durata târgului, demontaj și readucere în depozit."
+   ],
+   "inc": [
+    {
+     "t": "Echipe specializate",
+     "d": "Montatori experimentați, cu echipament propriu și șef de șantier dedicat."
+    },
+    {
+     "t": "Formalități de acces",
+     "d": "Permise, documentație de siguranță și autorizații cerute de centrul expozițional."
+    },
+    {
+     "t": "Recepție și predare",
+     "d": "Verificarea finală a structurilor, luminilor și graficii înainte de deschidere."
+    },
+    {
+     "t": "Asistență la târg",
+     "d": "Tehnicieni disponibili pe durata evenimentului pentru orice nevoie."
+    },
+    {
+     "t": "Demontaj și depozitare",
+     "d": "Demontaj în termenele stabilite, transport și depozitare pentru reutilizare."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Faceți și doar montajul unor standuri care nu sunt realizate de voi?",
+     "a": "Da, montăm și demontăm și standuri ale altor constructori sau aflate în proprietatea expozantului."
+    },
+    {
+     "q": "În ce centre expoziționale lucrați?",
+     "a": "La Fiera Milano Rho și Allianz MiCo, la Bologna, Verona și Rimini, precum și în principalele centre europene: Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam și nu numai."
+    },
+    {
+     "q": "Respectați normele de siguranță ale centrelor expoziționale?",
+     "a": "Da, montatorii noștri lucrează conform normelor de siguranță și regulamentelor tehnice ale fiecărui centru expozițional."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "standuri-expozitionale-milano",
+   "nav": "Standuri în Milano",
+   "title": "Standuri expoziționale Milano: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Constructor de standuri expoziționale în zona Milano: standuri la cheie la Fiera Milano Rho, Allianz MiCo și evenimente din oraș, proiectate și montate de noi.",
+   "h1": "Standuri expoziționale în Milano",
+   "lead": "Milano este unul dintre cele mai importante centre expoziționale din Europa, iar noi lucrăm de aici: proiectăm, producem și montăm standuri pentru târgurile de la Fiera Milano Rho, Allianz MiCo și pentru evenimentele din oraș.",
+   "body": [
+    "Fiera Milano Rho găzduiește în fiecare an manifestări internaționale precum Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO și MICAM, iar Allianz MiCo este unul dintre cele mai mari centre de congrese din Europa. Pentru un expozant, asta înseamnă o concurență foarte mare: standul trebuie să iasă în evidență.",
+    "Un constructor de standuri în zona Milano înseamnă inspecții rapide pe teren, logistică simplă, echipe de montaj aproape și asistență imediată pe durata târgului. Iar dacă după Milano sezonul tău continuă în străinătate, aceeași echipă duce standul în orice centru expozițional european."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Standuri pentru marile târguri internaționale de la Rho, de la pavilioanele de design până la cele de moto și food."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Amenajări pentru congrese, convenții și târguri în centrul de congrese din Milano."
+    },
+    {
+     "t": "Evenimente în oraș",
+     "d": "Lansări de produs, Fuorisalone, showroomuri și magazine temporare în locațiile din Milano."
+    },
+    {
+     "t": "Inspecții rapide",
+     "d": "Din baza noastră ajungem repede în centrele expoziționale din Milano, înainte și în timpul târgului."
+    },
+    {
+     "t": "Depozitare în apropiere",
+     "d": "Standul tău rămâne în depozitul nostru din Lombardia, gata pentru următoarea ediție."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Sunteți un constructor de standuri din Milano?",
+     "a": "Da, lucrăm din zona Milano, cu sediul și atelierul la Tromello (PV), în Lombardia, aproape de Fiera Milano Rho."
+    },
+    {
+     "q": "Pentru ce târguri din Milano realizați standuri?",
+     "a": "Pentru toate manifestările de la Fiera Milano Rho și Allianz MiCo, dar și pentru evenimente și Fuorisalone în oraș."
+    },
+    {
+     "q": "Ne puteți însoți și la târgurile din străinătate?",
+     "a": "Da, din Milano ducem standuri și echipe în toate centrele expoziționale importante din Europa."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "standuri-expozitionale-europa",
+   "nav": "Standuri în Europa",
+   "title": "Standuri expoziționale în Europa: Germania, Franța | NEWSTANDS",
+   "desc": "Din Milano în toate centrele expoziționale europene: standuri la cheie la Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam și altele.",
+   "h1": "Standuri expoziționale în toată Europa",
+   "lead": "Plecăm din Milano și ne deplasăm în orice centru expozițional din Europa: un singur furnizor pentru proiect, producție, transport și montaj, oriunde ar fi târgul tău.",
+   "body": [
+    "A expune în străinătate cu un alt constructor local în fiecare țară înseamnă interlocutori noi, standarde diferite și mai multe riscuri. Cu NEWSTANDS ai o singură echipă: proiectăm și producem în atelierul nostru de lângă Milano, organizăm transportul și formalitățile de acces și montăm cu echipele noastre.",
+    "Lucrăm în marile centre expoziționale din Germania, Franța, Spania, Benelux, Austria și Elveția, precum și în orice alt centru, la cerere. Am realizat pavilioane naționale și standuri de brand, precum pavilionul Tunisiei la MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Germania",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt și Messe München."
+    },
+    {
+     "t": "Franța",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles și Eurexpo Lyon."
+    },
+    {
+     "t": "Spania",
+     "d": "Fira de Barcelona Gran Via și IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam și Brussels Expo."
+    },
+    {
+     "t": "Austria, Elveția și nu numai",
+     "d": "Messe Wien, Palexpo Genève și orice alt centru expozițional european, la cerere."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vă ocupați voi de transport și formalități pentru târgurile din străinătate?",
+     "a": "Da: ambalarea, transportul, permisele, documentația de siguranță și relația cu organizatorii târgului sunt în grija noastră."
+    },
+    {
+     "q": "Echipele de montaj sunt ale voastre?",
+     "a": "Da, standul este montat de echipele noastre, cu un șef de șantier dedicat, inclusiv în străinătate."
+    },
+    {
+     "q": "În ce limbi putem comunica?",
+     "a": "În italiană și engleză; pentru documentația târgului ne coordonăm cu organizatorul în limba locală."
+    }
+   ]
+  }
+ }
+}

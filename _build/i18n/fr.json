@@ -1,0 +1,987 @@
+{
+ "_lang": "fr",
+ "meta": {
+  "title": "Stands salon et d'exposition à Milan et en Europe | NEWSTANDS",
+  "desc": "Standiste basé près de Milan : nous concevons, fabriquons et montons des stands clé en main à Fiera Milano et dans tous les parcs des expositions d'Europe.",
+  "ogTitle": "NEWSTANDS — Stands d'exposition de Milan à toute l'Europe",
+  "ogDesc": "Stands salon clé en main, événements et congrès : basés près de Milan, nos équipes de montage interviennent dans tous les parcs des expositions d'Europe.",
+  "ogAlt": "NEWSTANDS — stands d'exposition de Milan à toute l'Europe",
+  "orgDesc": "Standiste basé dans la région de Milan (siège à Tromello, PV). Conçoit, fabrique et monte des stands d'exposition clé en main, des aménagements pour événements et congrès, des showrooms et des boutiques éphémères à Fiera Milano et dans tous les parcs des expositions d'Europe.",
+  "slogan": "Conçu, fabriqué, monté."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Stands d'exposition",
+  "h002": "Plancher",
+  "h003": "Stands d'exposition",
+  "h004": "Conçu · Fabriqué · Monté",
+  "h005": "Touchez pour entrer",
+  "h006": "Méthode",
+  "h007": "Services",
+  "h008": "Réalisations",
+  "h009": "Configurer",
+  "h009b": "Configurer",
+  "h010": "Europe",
+  "h011": "Devis",
+  "h012": "Standiste à Milan · Événements · Congrès",
+  "h013": "Conception → Fabrication → Montage",
+  "h014": "Basés dans la région de Milan, cœur des salons européens, nous construisons des stands de A à Z et les montons dans tous les parcs des expositions d'Europe. Un seul interlocuteur, de la première esquisse à la dernière vis.",
+  "h015": "Faites défiler pour monter le stand",
+  "h016": "Pl. 00 — Plan du stand 8000 × 6000",
+  "h017": "Échelle 1:50",
+  "h018": "Projet",
+  "h019": "Avancement du chantier",
+  "h020": "Pl. 05 — Livraison",
+  "h021": "Clé en main.",
+  "h022": "Configurez le vôtre",
+  "h023": "Demander un devis",
+  "h024": "§ 01 — Qui sommes-nous",
+  "h025": "Nous ne vendons pas des mètres carrés. Nous construisons le lieu où votre *marque* rencontre son marché — de la *première* *esquisse* à la dernière vis, dans n'importe quel hall d'Europe.",
+  "h026": "La méthode",
+  "h027": "Nous concevons, fabriquons et montons nous-mêmes chaque élément : structures, cloisons, graphismes, mobilier et éclairage. Moins d'intermédiaires, moins de surprises, des délais tenus.",
+  "h028": "De rien",
+  "h029": "au stand.",
+  "h030": "Six étapes, une seule direction.",
+  "h031": "Faites défiler horizontalement →",
+  "h032": "Étape 01",
+  "h033": "Objectifs, budget, salon, règlement technique du parc des expositions. Nous partons de ce qui doit se passer sur votre stand.",
+  "h034": "Étape 02",
+  "h035": "Concept & 3D",
+  "h036": "Rendus photoréalistes et plans d'exécution : vous voyez le stand fini avant même qu'un seul panneau soit découpé.",
+  "h037": "Étape 03",
+  "h038": "Fabrication",
+  "h039": "Menuiserie, serrurerie, impression grand format, éclairagisme. Chaque pièce est fabriquée sur mesure.",
+  "h040": "Étape 04",
+  "h041": "Logistique",
+  "h042": "Emballage, transport et formalités d'accès pour chaque parc des expositions européen. Nous livrons nous-mêmes, à l'heure.",
+  "h043": "Étape 05",
+  "h044": "Montage",
+  "h045": "Équipes spécialisées sur site, chef de chantier dédié, contrôle final. Votre stand vous est livré prêt à ouvrir.",
+  "h046": "Étape 06",
+  "h047": "Salon & démontage",
+  "h048": "Assistance technique pendant le salon, démontage, stockage et réutilisation pour le prochain événement.",
+  "h049": "Résultat",
+  "h050": "Vous pensez",
+  "h051": "à vos clients.",
+  "h052": "Nous pensons",
+  "h053": "à tout le reste.",
+  "h054": "Parlons de votre prochain salon",
+  "h055": "Ce que nous",
+  "h056": "construisons",
+  "h057": "§ 03 — Services",
+  "h058": "Tous types de salons et d'événements, du stand en ligne de 16 m² à l'îlot à étage. Fabrication et montage toujours en interne.",
+  "h059": "Stands",
+  "h060": "réalisés",
+  "h061": "§ 04 — Réalisations",
+  "h062": "Une sélection de stands conçus, fabriqués et montés par nos équipes : pavillons nationaux, îlots de marque et stands techniques dans toute l'Europe.",
+  "h063": "Le prochain pourrait être le vôtre",
+  "h064": "votre stand",
+  "h065": "§ 05 — Configurateur 3D",
+  "h066": "Choisissez le type de stand et la surface : regardez le volume prendre forme et envoyez-nous la configuration comme base de votre devis.",
+  "h067": "↔ Faites glisser pour pivoter",
+  "h068": "Vue axonométrique",
+  "h069": "Az 000°",
+  "h070": "01 — Type de stand",
+  "h071": "Côtés ouverts",
+  "h072": "02 — Surface",
+  "h073": "Dimensions ind.",
+  "h074": "Utiliser cette configuration",
+  "h075": "Prochain",
+  "h076": "départ",
+  "h077": "§ 06 — De Milan à toute l'Europe",
+  "h078": "Nous partons de Milan, la ville des grands salons internationaux, et nous déplaçons avec votre stand dans tous les parcs des expositions d'Europe : Allemagne, France, Espagne, Benelux, Autriche, Suisse. S'il y a un hall, nous y allons.",
+  "h079": "Ville",
+  "h080": "Parc des expositions",
+  "h081": "Pays",
+  "h082": "Statut",
+  "h083": "Équipes de montage opérationnelles",
+  "h084": "+ tout autre site sur demande",
+  "h085": "Questions",
+  "h086": "fréquentes",
+  "h087": "§ 07 — FAQ",
+  "h088": "Coûts, délais, villes et services : les réponses aux questions qu'on nous pose le plus souvent avant un salon.",
+  "h089": "Un salon",
+  "h090": "au programme ?",
+  "h091": "Parlez-nous de l'événement, des dates et de la surface. Nous vous répondons avec une première proposition et un devis clair.",
+  "h092": "Téléphone",
+  "h093": "Téléphone 2",
+  "h094": "Siège",
+  "h095": "Zone",
+  "h096": "Milan + toute l'Europe",
+  "h097": "Service",
+  "h098": "Clé en main",
+  "h099": "Stand d'exposition",
+  "h100": "Événement",
+  "h101": "Congrès",
+  "h102": "Showroom / éphémère",
+  "h103": "Montage seul",
+  "h104": "Prénom et nom",
+  "h105": "Entreprise",
+  "h106": "Salon / événement et ville",
+  "h107": "Parlez-nous de votre projet",
+  "h108": "Envoyer la demande",
+  "h109": "Votre demande est prête dans votre messagerie : il ne reste qu'à l'envoyer.",
+  "h110": "Rien ne s'est ouvert ? Écrivez à",
+  "h111": "ou appelez le",
+  "h112": "Studio",
+  "h113": "Stands d'exposition à Milan et en Europe, événements, congrès",
+  "h114": "27020 Tromello (PV), Lombardie",
+  "h115": "Navigation",
+  "h116": "Configurateur",
+  "h117": "Réseaux",
+  "h118": "Contact",
+  "h119": "Demander un devis →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardie",
+  "h121": "Conçu, fabriqué, monté.",
+  "h122": "Haut de page ↑",
+  "h123": "Menu principal",
+  "h124": "Filtrer par secteur",
+  "h125": "Galerie du projet",
+  "h126": "Fermer la galerie",
+  "h127": "Photo précédente",
+  "h128": "Photo suivante",
+  "h129": "Surface en mètres carrés",
+  "h130": "Demande de devis stand",
+  "h131": "Type de projet",
+  "h132": "Écrivez-nous sur WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Combien coûte un stand de salon ?",
+   "a": "Le prix d'un stand dépend de la surface, du type de stand (en ligne, d'angle, en péninsule ou en îlot), des matériaux, des graphismes, du mobilier et du parc des expositions. Après un bref briefing sur le salon, les dates et la surface, nous vous envoyons une première proposition et un devis clair et détaillé. Vous pouvez commencer par le configurateur 3D ci-dessus, ou nous appeler ou nous écrire sur WhatsApp au <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Où se trouve NEWSTANDS et sur quels salons intervenez-vous ?",
+   "a": "Nous sommes un standiste de la région de Milan, avec siège et atelier à Tromello (PV), en Lombardie : un emplacement stratégique à courte distance de Fiera Milano Rho et d'Allianz MiCo, qui accueillent certains des plus grands salons d'Europe. De là, nos équipes se déplacent dans tous les parcs des expositions : Bologne, Vérone, Rimini, Düsseldorf, Cologne, Francfort, Munich, Paris, Lyon, Barcelone, Madrid, Amsterdam, Bruxelles, Vienne, Genève et au-delà."
+  },
+  {
+   "q": "Que comprend le service clé en main ?",
+   "a": "Un seul interlocuteur pour tout : briefing, concept et rendus 3D, plans d'exécution, fabrication interne des structures, cloisons, graphismes grand format, mobilier et éclairage, logistique et transport, montage avec un chef de chantier dédié, assistance pendant le salon, démontage et stockage en vue d'une réutilisation."
+  },
+  {
+   "q": "Réalisez-vous aussi des événements, des congrès et des showrooms ?",
+   "a": "Oui. En plus des stands d'exposition sur mesure et modulaires, nous concevons et aménageons des événements d'entreprise, des congrès, des conventions, des lancements de produits, des scènes et des scénographies, des showrooms, des boutiques éphémères et des pop-up stores, avec structures truss, murs LED et éclairage."
+  },
+  {
+   "q": "Combien de temps à l'avance faut-il vous contacter ?",
+   "a": "Plus vous nous contactez tôt, plus nous avons de marge pour la conception, les rendus et la fabrication : pour un stand sur mesure, mieux vaut commencer dès que votre participation au salon est confirmée. Pour les stands modulaires et le montage seul, nous pouvons aussi travailler avec des délais plus serrés : écrivez-nous et nous vérifions immédiatement la faisabilité."
+  },
+  {
+   "q": "Comment demander un devis ?",
+   "a": "Remplissez le formulaire de la section contact, écrivez à <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> ou appelez-nous ou écrivez-nous sur WhatsApp au <a href=\"tel:+393884706887\">+39 388 470 6887</a> (ou au <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Indiquez le salon ou l'événement, la ville, les dates et la surface : nous revenons vers vous avec une première proposition."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projet",
+    "Chaque stand naît d'un plan technique : dimensions, règlement du parc des expositions, flux de visiteurs."
+   ],
+   [
+    "Structure",
+    "Plancher, truss, châssis. La partie qu'on ne voit pas, mais qui porte tout."
+   ],
+   [
+    "Cloisons & graphisme",
+    "Cloisons fabriquées sur mesure, impression grand format, finitions."
+   ],
+   [
+    "Mobilier & technique",
+    "Banques, totems, murs LED, espaces de réunion, ring suspendu. Fabriqués et montés par nous."
+   ],
+   [
+    "Lumières allumées",
+    "Contrôle, nettoyage, livraison. Le stand est prêt à ouvrir."
+   ]
+  ],
+  "lbl": [
+   "L 8000 mm",
+   "P 6000 mm",
+   "Truss 29×29 — H 4500",
+   "Cloison 3400 + graphisme",
+   "Mur LED 3,4 × 1,9 m",
+   "Banque d'accueil",
+   "Ring suspendu Ø 4400"
+  ],
+  "ty": {
+   "linea": "En ligne",
+   "angolo": "Angle",
+   "penisola": "Péninsule",
+   "isola": "Îlot",
+   "doppio": "À étage"
+  },
+  "sides": "côtés",
+  "side": "côté",
+  "openSides": "côtés ouverts",
+  "openSide": "côté ouvert",
+  "cfgMsg": "Configuration depuis le site : type de stand {type}, {n} {sides}, environ {area} m² ({dim} m).",
+  "axo": "Vue axonométrique",
+  "cfgFb": "Le configurateur 3D n'est pas disponible sur cet appareil.<br>Écrivez-nous : nous vous enverrons le rendu.",
+  "mq": [
+   "Stands sur mesure",
+   "Événements",
+   "Congrès",
+   "Showrooms",
+   "Éphémère",
+   "Murs LED",
+   "Truss",
+   "Graphisme",
+   "Mobilier"
+  ],
+  "svc": [
+   {
+    "t": "Stands sur mesure",
+    "d": "Des projets uniques construits de A à Z autour de votre marque : menuiserie, métal, verre, textile, finitions haut de gamme.",
+    "tags": [
+     "Concept",
+     "Rendu 3D",
+     "Fabrication",
+     "Montage"
+    ]
+   },
+   {
+    "t": "Stands modulaires",
+    "d": "Des systèmes réutilisables et pré-assemblés pour ceux qui exposent sur plusieurs salons par an : image cohérente, coûts maîtrisés.",
+    "tags": [
+     "Réutilisation",
+     "Stockage",
+     "Rapidité"
+    ]
+   },
+   {
+    "t": "Événements & congrès",
+    "d": "Scènes, scénographies, salles plénières, conventions d'entreprise et lancements de produits, avec une régie technique complète.",
+    "tags": [
+     "Scènes",
+     "Scénographie",
+     "Audio/Vidéo"
+    ]
+   },
+   {
+    "t": "Showrooms & éphémère",
+    "d": "Espaces retail temporaires, pop-up stores et showrooms permanents : la même rigueur que sur un chantier de salon.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Impression grand format",
+    "d": "Impression sur Forex, textile rétroéclairé, PVC, adhésifs et vitrophanies. Produite et posée par nous.",
+    "tags": [
+     "Caisson lumineux",
+     "Textile",
+     "Adhésifs"
+    ]
+   },
+   {
+    "t": "Truss & murs LED",
+    "d": "Structures truss, rings suspendus, rigging, murs LED et éclairage pour des stands visibles depuis tout le hall.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Mur LED",
+     "Éclairage"
+    ]
+   },
+   {
+    "t": "Mobilier & location",
+    "d": "Banques, comptoirs, assises, vitrines, cuisines et réserves : mobilier sur mesure ou en location pour toutes les surfaces.",
+    "tags": [
+     "Sur mesure",
+     "Location",
+     "Réserve"
+    ]
+   }
+  ],
+  "more": "Découvrir le service",
+  "tav": "Pl.",
+  "avail": "DISPONIBLE",
+  "form": {
+   "type": "Type de projet",
+   "name": "Prénom et nom",
+   "company": "Entreprise",
+   "fair": "Salon / événement et ville",
+   "project": "Projet",
+   "subj": "Demande de devis stand"
+  },
+  "ariaW": "{t} — ouvrir la galerie ({n} photos)",
+  "altW": "Stand d'exposition {t} — {c}, réalisation NEWSTANDS",
+  "nPh": "{n} photos",
+  "altLb": "Stand d'exposition {t} ({c}) — photo {i} sur {n}",
+  "phN": "Photo {i}",
+  "all": "Tous",
+  "ld": [
+   "Plancher",
+   "Cloisons",
+   "Poutre",
+   "Lumières",
+   "Prêt"
+  ],
+  "c3": [
+   "DE RIEN",
+   "AU STAND.",
+   "CONCEPTION · FABRICATION · MONTAGE · EUROPE",
+   "STANDS D'EXPOSITION",
+   "STANDS · ÉVÉNEMENTS · EUROPE"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Cristal et luminaires",
+   "g": "Design",
+   "d": "Un îlot tout blanc enveloppé de rideaux de fils de cristal, avec lustres suspendus et mobilier laqué : le stand devient une vitrine lumineuse."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Compléments sportifs",
+   "g": "Food & Health",
+   "d": "Un îlot ouvert sur plusieurs côtés avec visuels produits pleine paroi, enseignes suspendues et comptoirs de dégustation pour gérer d'importants flux de visiteurs."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Tourisme",
+   "g": "Tourisme",
+   "d": "Un pavillon institutionnel aux arches et minarets inspirés de l'architecture du Telangana, avec comptoirs pour les opérateurs et graphismes immersifs."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Tourisme",
+   "g": "Tourisme",
+   "d": "Portails en faux terre cuite, arches sculptées et postes de rendez-vous B2B : un pavillon régional qui raconte son territoire en un coup d'œil."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Pavillon national alimentaire",
+   "g": "Food & Health",
+   "d": "Un pavillon collectif rouge et blanc aux décors ajourés, avec comptoirs exposants et espace de show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrie",
+   "d": "Un stand corporate avec salles de réunion vitrées, parois rétroéclairées et espace d'accueil ouvert sur l'allée."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Moto",
+   "g": "Moto",
+   "d": "Tout en blanc avec portails rouges et podiums pour les motos : un graphisme épuré qui laisse parler les machines."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Motos électriques",
+   "g": "Moto",
+   "d": "Une scénographie tout en noir avec sol blanc brillant, motos exposées et espace de réunion."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Lounge d'exposition",
+   "g": "Design",
+   "d": "Un lounge ouvert avec grande impression panoramique, faux plafond suspendu, comptoir et assises pour accueillir les visiteurs."
+  },
+  {
+   "t": "Plastona",
+   "c": "Maison et jardin",
+   "g": "Design",
+   "d": "Un îlot avec enseignes cubiques sur structure truss, rayonnages blancs et mises en scène des produits."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motos et moteurs",
+   "g": "Moto",
+   "d": "Un stand d'angle avec parois d'exposition noires et blanches, véhicules sur podium et espace tables."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Industrie énergétique",
+   "g": "Industrie",
+   "d": "Cadres arrondis rétroéclairés, panneaux techniques et espace de réunion pour un public B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Casques",
+   "g": "Moto",
+   "d": "Parois d'exposition pour casques, graphismes racing et banque d'accueil : le design italien en quelques mètres carrés."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Accessoires moto",
+   "g": "Moto",
+   "d": "Colonnes tricolores, vitrines éclairées et murs produits pour une présence racing très visible."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Casques",
+   "g": "Moto",
+   "d": "Une paroi à losanges avec casques exposés, enseignes surdimensionnées et espace tables pour les négociations."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Pièces et vêtements moto",
+   "g": "Moto",
+   "d": "Totems graphiques toute hauteur, vitrines produits et murs de vêtements autour d'un espace de réunion."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrie",
+   "g": "Industrie",
+   "d": "Un stand corporate en bleu avec graphismes de process, espace technique et postes de rencontre."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Tourisme",
+   "g": "Tourisme",
+   "d": "Un portail scénographique aux décors traditionnels et grandes images de la région."
+  },
+  {
+   "t": "Uttar Pradesh — Agriculture",
+   "c": "Agroalimentaire",
+   "g": "Food & Health",
+   "d": "Un stand blanc avec cadres lumineux au sol et panneaux produits, épuré et lumineux."
+  },
+  {
+   "t": "Tunisie — Medica Düsseldorf",
+   "c": "Pavillon national médical",
+   "g": "Médical",
+   "d": "Un pavillon national au salon Medica de Düsseldorf avec enseigne suspendue, comptoirs pour les entreprises exposantes et espace lounge."
+  }
+ ],
+ "ui": {
+  "langName": "Français",
+  "langLabel": "Langue",
+  "home": "Accueil",
+  "services": "Services",
+  "works": "Réalisations",
+  "contacts": "Contact",
+  "quote": "Devis",
+  "requestQuote": "Demander un devis",
+  "whatsapp": "Écrivez-nous sur WhatsApp",
+  "call": "Appelez-nous",
+  "phone": "Téléphone / WhatsApp",
+  "phone2": "Téléphone 2",
+  "email": "E-mail",
+  "address": "Siège",
+  "serviceN": "Service",
+  "locationK": "De Milan à toute l'Europe",
+  "includesTitle": "Ce qui est inclus",
+  "whyTitle": "Pourquoi NEWSTANDS",
+  "why": [
+   {
+    "t": "Basés à Milan",
+    "d": "Nous travaillons depuis la région de Milan, à courte distance de Fiera Milano Rho et d'Allianz MiCo : visites techniques rapides, logistique simple, équipes toujours proches des grands parcs des expositions."
+   },
+   {
+    "t": "Fabrication interne",
+    "d": "Structures, cloisons, graphismes, mobilier et éclairage sortent de notre propre atelier : moins d'intermédiaires, moins de surprises, des délais tenus."
+   },
+   {
+    "t": "Dans tous les parcs des expositions d'Europe",
+    "d": "Nos équipes de montage voyagent avec votre stand : Allemagne, France, Espagne, Benelux, Autriche, Suisse et tout autre site sur demande."
+   },
+   {
+    "t": "Un seul interlocuteur",
+    "d": "Du briefing au démontage, vous parlez toujours à la même personne, avec un chef de chantier dédié sur le salon."
+   }
+  ],
+  "galleryTitle": "Quelques stands réalisés",
+  "faqTitle": "Questions fréquentes",
+  "otherTitle": "Autres services",
+  "ctaTitle": "Un salon au programme ?",
+  "ctaText": "Indiquez-nous le salon, la ville, les dates et la surface : nous vous répondons avec une première proposition et un devis clair.",
+  "whereTitle": "De Milan à tous les parcs des expositions",
+  "whereText": "Nous sommes installés dans la région de Milan, ville qui accueille certains des salons les plus importants au monde. De là, nos équipes rejoignent tous les parcs des expositions d'Italie et d'Europe.",
+  "milanLink": "Stands d'exposition à Milan",
+  "europeLink": "Stands d'exposition en Europe",
+  "photos": "photos",
+  "backHome": "Retour à l'accueil",
+  "footerTag": "Stands d'exposition à Milan et dans toute l'Europe. Conçu, fabriqué, monté.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardie · Région de Milan",
+  "breadcrumb": "Fil d'Ariane",
+  "skip": "Aller au contenu",
+  "menu": "Menu principal"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "stands-salon-sur-mesure",
+   "nav": "Stands sur mesure",
+   "title": "Stands salon sur mesure à Milan et en Europe | NEWSTANDS",
+   "desc": "Stands salon sur mesure conçus, fabriqués et montés par NEWSTANDS : basés dans la région de Milan, nous intervenons dans tous les parcs des expositions d'Europe.",
+   "h1": "Stands d'exposition sur mesure",
+   "lead": "Un stand unique, construit de A à Z autour de votre marque : nous le concevons, le fabriquons dans notre atelier près de Milan et le montons sur n'importe quel salon en Europe.",
+   "body": [
+    "Un stand sur mesure est la façon la plus forte de se présenter sur un salon : chaque cloison, chaque éclairage et chaque parcours de visite sont pensés pour vos produits et vos objectifs commerciaux. Nous partons du règlement technique du parc des expositions et des flux du hall, puis nous transformons l'idée en rendus 3D photoréalistes et en plans d'exécution.",
+    "Nous fabriquons en interne les structures en bois et en métal, les cloisons, les graphismes, le mobilier et l'éclairage : nous maîtrisons ainsi la qualité et les délais à chaque étape. Que le salon ait lieu à Fiera Milano Rho, à Düsseldorf ou à Paris, l'équipe qui a construit votre stand est la même qui le monte."
+   ],
+   "inc": [
+    {
+     "t": "Concept et rendus 3D",
+     "d": "Proposition créative, rendus photoréalistes et ajustements jusqu'à ce que le stand soit exactement comme vous le voulez."
+    },
+    {
+     "t": "Plans d'exécution",
+     "d": "Plans techniques, calculs et documentation conformes au règlement de chaque parc des expositions."
+    },
+    {
+     "t": "Fabrication sur mesure",
+     "d": "Menuiserie, serrurerie, verre, textile et finitions haut de gamme réalisés dans notre atelier."
+    },
+    {
+     "t": "Graphisme et éclairage",
+     "d": "Impression grand format, caissons lumineux, murs LED et éclairage intégrés à l'architecture du stand."
+    },
+    {
+     "t": "Montage et démontage",
+     "d": "Transport, montage avec chef de chantier dédié, assistance pendant le salon, démontage et stockage."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Combien de temps faut-il pour réaliser un stand sur mesure ?",
+     "a": "Cela dépend de la taille et de la complexité : pour un stand sur mesure, mieux vaut commencer dès la confirmation de votre participation au salon, afin de garder de la marge pour la conception, les rendus et la fabrication."
+    },
+    {
+     "q": "Un stand sur mesure est-il réutilisable ?",
+     "a": "Oui. Nous concevons les éléments pour qu'ils puissent être stockés et remontés : au salon suivant, nous adaptons le stand à une nouvelle surface et à de nouveaux visuels."
+    },
+    {
+     "q": "Réalisez-vous des stands sur mesure en dehors de l'Italie ?",
+     "a": "Oui, depuis la région de Milan, nous emmenons votre stand et nos équipes dans tous les grands parcs des expositions européens, de l'Allemagne à l'Espagne."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "stands-modulaires",
+   "nav": "Stands modulaires",
+   "title": "Stands modulaires pour salons à Milan et en Europe | NEWSTANDS",
+   "desc": "Stands d'exposition modulaires et réutilisables pour ceux qui exposent sur plusieurs salons par an : image cohérente, coûts maîtrisés, de Milan à toute l'Europe.",
+   "h1": "Stands modulaires et réutilisables",
+   "lead": "Des systèmes modulaires pensés pour les entreprises qui exposent sur plusieurs salons par an : même image de marque, coûts maîtrisés et montages rapides, à Milan comme dans tous les parcs des expositions européens.",
+   "body": [
+    "Un stand modulaire est un investissement durable : structures, panneaux et mobilier se reconfigurent pour s'adapter à différentes surfaces et différents types de stand, du stand en ligne à l'îlot. Les visuels changent, la qualité reste.",
+    "Nous concevons le système une fois, le fabriquons dans notre atelier et le gérons pour vous d'un salon à l'autre : stockage, entretien, mise à jour des visuels et transport vers le prochain hall, en Italie ou à l'étranger."
+   ],
+   "inc": [
+    {
+     "t": "Un système sur mesure",
+     "d": "Des modules conçus selon votre image, combinables pour des stands de quelques mètres carrés jusqu'aux grands îlots."
+    },
+    {
+     "t": "Visuels interchangeables",
+     "d": "Textiles et panneaux imprimés remplaçables rapidement pour chaque salon, produit ou marché."
+    },
+    {
+     "t": "Stockage et entretien",
+     "d": "Nous conservons votre stand dans notre entrepôt et le contrôlons avant chaque nouveau départ."
+    },
+    {
+     "t": "Montages rapides",
+     "d": "Des temps de montage réduits, idéaux même pour les salons aux créneaux de montage serrés."
+    },
+    {
+     "t": "Calendrier des salons géré",
+     "d": "Nous planifions avec vous la saison des salons et organisons logistique et équipes pour chaque étape."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Un stand modulaire coûte-t-il moins cher qu'un stand sur mesure ?",
+     "a": "Sur plusieurs salons, en général oui : l'investissement initial se répartit sur chaque participation et les coûts suivants se limitent aux visuels et à la logistique."
+    },
+    {
+     "q": "Le stand modulaire s'adapte-t-il à différentes surfaces ?",
+     "a": "Oui, les modules se recombinent pour des stands en ligne, d'angle, en péninsule ou en îlot, et pour différentes surfaces."
+    },
+    {
+     "q": "Pouvez-vous gérer tout notre calendrier de salons ?",
+     "a": "Oui : depuis la région de Milan, nous coordonnons stockage, transport et montage pour chaque salon de la saison, en Italie et en Europe."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "amenagement-evenements-congres",
+   "nav": "Événements & congrès",
+   "title": "Aménagement d'événements et de congrès à Milan | NEWSTANDS",
+   "desc": "Aménagement d'événements d'entreprise, congrès, conventions et lancements de produits à Milan et en Europe : scènes, scénographies, régie technique complète.",
+   "h1": "Aménagement d'événements et de congrès",
+   "lead": "Scènes, scénographies, salles plénières, conventions d'entreprise et lancements de produits : nous aménageons événements et congrès à Milan et dans toute l'Europe avec la précision d'un chantier de salon.",
+   "body": [
+    "Milan est l'une des capitales européennes des événements et des congrès, avec des lieux comme Allianz MiCo et les grands espaces événementiels de la ville. Basés dans la région milanaise, nous connaissons les délais, les règles et la logistique de ces lieux et pouvons assurer visites techniques et montages très rapidement.",
+    "Nous concevons l'aménagement complet : scène, scénographie, salle plénière, espaces d'exposition, accueil, signalétique et éclairage. Nous coordonnons nous-mêmes les prestataires techniques : vous n'avez qu'un seul interlocuteur pour tout l'événement."
+   ],
+   "inc": [
+    {
+     "t": "Scènes et scénographies",
+     "d": "Scènes sur mesure, fonds de scène, murs LED et décors conçus autour de votre message."
+    },
+    {
+     "t": "Salles plénières et congrès",
+     "d": "Aménagement de salles, espaces posters, banques d'accueil et espaces sponsors."
+    },
+    {
+     "t": "Conventions et lancements de produits",
+     "d": "Des mises en scène pour présenter un produit ou réunir votre réseau commercial de façon mémorable."
+    },
+    {
+     "t": "Son, vidéo et éclairage",
+     "d": "Régie technique, structures truss, murs LED et éclairage intégrés au projet."
+    },
+    {
+     "t": "Signalétique et graphisme",
+     "d": "Parcours, totems, backdrops et visuels coordonnés, imprimés et installés par nous."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Aménagez-vous aussi des événements en dehors des parcs des expositions ?",
+     "a": "Oui : hôtels, centres de congrès, sites industriels et lieux privés, à Milan, en Italie et à l'étranger."
+    },
+    {
+     "q": "Pouvez-vous aussi gérer la partie technique son et vidéo ?",
+     "a": "Oui, nous coordonnons scène, murs LED, éclairage et son dans un projet unique, avec un seul référent."
+    },
+    {
+     "q": "Combien de temps à l'avance faut-il organiser un événement ?",
+     "a": "Le plus tôt est le mieux : avec quelques semaines de marge, nous pouvons mener visite technique, conception et fabrication sereinement. Pour les demandes urgentes, contactez-nous et nous évaluons la faisabilité."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-boutique-ephemere",
+   "nav": "Showroom & éphémère",
+   "title": "Showrooms, boutiques éphémères et pop-up à Milan | NEWSTANDS",
+   "desc": "Conception et aménagement de showrooms, boutiques éphémères, pop-up stores et shop-in-shops à Milan et en Europe, avec fabrication et montage en interne.",
+   "h1": "Showrooms, boutiques éphémères et pop-up stores",
+   "lead": "Espaces retail temporaires, pop-up stores et showrooms permanents aménagés avec la même rigueur qu'un chantier de salon, à Milan et dans toute l'Europe.",
+   "body": [
+    "Une boutique éphémère ou un pop-up store doit être prêt en quelques jours et marquer les esprits : nous concevons des espaces qui racontent la marque, mettent le produit en valeur et se montent rapidement, y compris dans les centres commerciaux et les rues commerçantes.",
+    "Pour les showrooms permanents, nous réalisons mobilier sur mesure, murs d'exposition, vitrines et éclairage avec des matériaux durables. Fabrication et montage sont internes : délais et qualité restent sous contrôle."
+   ],
+   "inc": [
+    {
+     "t": "Concept retail",
+     "d": "Agencement, parcours client et présentation des produits pensés pour vendre."
+    },
+    {
+     "t": "Éphémère et pop-up",
+     "d": "Des structures légères, rapides à monter, démonter et réutiliser dans d'autres villes."
+    },
+    {
+     "t": "Showrooms permanents",
+     "d": "Mobilier sur mesure, murs équipés, vitrines et finitions haut de gamme."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Corners de marque dans les boutiques et grands magasins, cohérents avec votre image."
+    },
+    {
+     "t": "Éclairage et graphisme",
+     "d": "Éclairage des produits, enseignes, vitrophanies et visuels produits par nous."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Combien de temps faut-il pour aménager une boutique éphémère ?",
+     "a": "Cela dépend de l'espace et du projet : grâce à notre fabrication interne, nous pouvons monter un pop-up store en quelques jours seulement."
+    },
+    {
+     "q": "Un pop-up store peut-il être déplacé dans d'autres villes ?",
+     "a": "Oui, nous concevons des structures modulaires qui se démontent et se remontent sur d'autres sites, en Italie et en Europe."
+    },
+    {
+     "q": "Réalisez-vous aussi des showrooms permanents ?",
+     "a": "Oui, de la conception à l'installation du mobilier, des vitrines, de l'éclairage et des visuels."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "impression-grand-format",
+   "nav": "Impression grand format",
+   "title": "Impression grand format pour stands et salons | NEWSTANDS",
+   "desc": "Impression grand format pour stands d'exposition et événements : Forex, textile rétroéclairé, caissons lumineux, PVC, adhésifs et vitrophanies, posés par nous.",
+   "h1": "Impression grand format pour stands et événements",
+   "lead": "Impression sur Forex, textile rétroéclairé, PVC, adhésifs et vitrophanies : les visuels de votre stand produits et posés par les mêmes équipes qui le montent.",
+   "body": [
+    "Le graphisme est ce que les visiteurs voient en premier, souvent depuis l'autre bout du hall. C'est pourquoi nous le traitons comme une partie de l'architecture du stand : formats, matériaux et éclairage sont conçus en même temps que les structures.",
+    "Nous imprimons et posons nous-mêmes, à Milan comme sur tous les salons européens : pas de relais entre différents fournisseurs, des couleurs maîtrisées et des visuels parfaitement alignés à l'ouverture."
+   ],
+   "inc": [
+    {
+     "t": "Textile rétroéclairé",
+     "d": "Caissons lumineux et murs lumineux en textile, légers et à fort impact."
+    },
+    {
+     "t": "Panneaux rigides",
+     "d": "Impression sur Forex, Dibond et PVC pour cloisons, totems et banques."
+    },
+    {
+     "t": "Adhésifs et vitrophanies",
+     "d": "Sols, vitrages et surfaces personnalisés avec des adhésifs techniques."
+    },
+    {
+     "t": "Enseignes suspendues",
+     "d": "Bannières et structures graphiques suspendues, visibles de loin dans le hall."
+    },
+    {
+     "t": "Pose sur le salon",
+     "d": "Nous posons nous-mêmes les visuels, avec un contrôle final avant l'ouverture."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Imprimez-vous aussi des visuels pour des stands réalisés par d'autres ?",
+     "a": "Oui, nous pouvons produire et poser uniquement les visuels, dans le respect des dimensions et du règlement du parc des expositions."
+    },
+    {
+     "q": "Quels fichiers faut-il pour l'impression ?",
+     "a": "Des fichiers vectoriels ou des images haute résolution avec fonds perdus : nous vous envoyons les spécifications techniques pour chaque format."
+    },
+    {
+     "q": "Les visuels en textile sont-ils réutilisables ?",
+     "a": "Oui, le textile se lave, se plie et se remonte : il est idéal pour ceux qui exposent sur plusieurs salons."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ecrans-led-eclairage",
+   "nav": "Truss & murs LED",
+   "title": "Truss, murs LED et éclairage pour stands de salon | NEWSTANDS",
+   "desc": "Structures truss, rings suspendus, rigging, murs LED et éclairage pour stands d'exposition et événements à Milan et dans toute l'Europe, installés par nos équipes.",
+   "h1": "Truss, murs LED et éclairage",
+   "lead": "Structures truss, rings suspendus, rigging, murs LED et éclairage pour des stands visibles depuis tout le hall, à Fiera Milano et dans tous les parcs des expositions européens.",
+   "body": [
+    "Un ring suspendu avec votre logo, un mur LED pour vos vidéos produits, un éclairage étudié pour chaque surface : ce sont les éléments qui rendent un stand reconnaissable de loin. Nous les concevons avec le stand, en vérifiant charges, points d'accroche et règlement du parc des expositions.",
+    "Nous fournissons et installons structures truss, moteurs, murs LED et projecteurs avec du personnel qualifié, en coordonnant les demandes d'accroche avec l'organisateur du salon."
+   ],
+   "inc": [
+    {
+     "t": "Structures truss",
+     "d": "Structures au sol et suspendues de toutes tailles, y compris comme support pour visuels et éclairage."
+    },
+    {
+     "t": "Rings et enseignes suspendues",
+     "d": "Éléments suspendus circulaires ou sur mesure avec visuels, visibles depuis tout le hall."
+    },
+    {
+     "t": "Rigging",
+     "d": "Calculs, points d'accroche et démarches auprès du parc des expositions."
+    },
+    {
+     "t": "Murs LED",
+     "d": "Écrans LED de différentes tailles, intégrés aux cloisons ou sur structures dédiées."
+    },
+    {
+     "t": "Éclairage",
+     "d": "Plan d'éclairage pour les produits, les visuels et l'ambiance du stand."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vous occupez-vous des autorisations de rigging ?",
+     "a": "Oui, nous préparons la documentation technique et gérons les demandes auprès de l'organisateur du salon."
+    },
+    {
+     "q": "Louez-vous aussi des murs LED pour des événements ?",
+     "a": "Oui, murs LED, structures truss et éclairage sont aussi disponibles pour événements, congrès et lancements de produits."
+    },
+    {
+     "q": "Intervenez-vous aussi dans les parcs des expositions à l'étranger ?",
+     "a": "Oui, nous installons structures et murs LED dans tous les grands parcs des expositions européens."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "mobilier-stand-location",
+   "nav": "Mobilier & location",
+   "title": "Mobilier de stand sur mesure et en location | NEWSTANDS",
+   "desc": "Banques d'accueil, comptoirs, assises, vitrines, cuisines et réserves pour stands de salon : mobilier sur mesure ou en location, de Milan à toute l'Europe.",
+   "h1": "Mobilier de stand sur mesure et en location",
+   "lead": "Banques d'accueil, comptoirs, assises, vitrines, cuisines et réserves : du mobilier fabriqué sur mesure dans notre atelier ou en location, pour des stands de toutes tailles.",
+   "body": [
+    "Le mobilier fait fonctionner le stand : accueil, exposition, réunions, dégustations et réserve doivent trouver leur juste place. Nous le concevons en même temps que l'agencement, en pensant aux flux de visiteurs et au travail de votre équipe sur le salon.",
+    "Nous pouvons réaliser des pièces uniques sur mesure, aux finitions et couleurs de votre marque, ou fournir du mobilier en location pour maîtriser les coûts. Livraison, montage et reprise sont toujours assurés par nous."
+   ],
+   "inc": [
+    {
+     "t": "Banques et accueil",
+     "d": "Banques d'accueil sur mesure, avec logo, éclairage et compartiments techniques."
+    },
+    {
+     "t": "Espaces réunion et lounge",
+     "d": "Tables, assises et petits salons pour recevoir vos clients sur le stand."
+    },
+    {
+     "t": "Vitrines et présentoirs",
+     "d": "Vitrines, étagères et murs équipés pour mettre vos produits en valeur."
+    },
+    {
+     "t": "Cuisines et réserves",
+     "d": "Réserves, cuisines et espaces de service intégrés au stand."
+    },
+    {
+     "t": "Location de mobilier",
+     "d": "Mobilier en location pour tous les styles et tous les budgets, livré et repris par nous."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Puis-je louer uniquement le mobilier ?",
+     "a": "Oui, nous fournissons aussi uniquement du mobilier en location, avec livraison et reprise sur le salon."
+    },
+    {
+     "q": "Le mobilier sur mesure est-il réutilisable ?",
+     "a": "Oui, nous le conservons dans notre entrepôt et le rapportons au salon suivant."
+    },
+    {
+     "q": "Livrez-vous du mobilier à l'étranger ?",
+     "a": "Oui, nous livrons et installons du mobilier dans tous les grands parcs des expositions européens."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montage-demontage-stand",
+   "nav": "Montage & démontage",
+   "title": "Montage et démontage de stands à Milan et en Europe | NEWSTANDS",
+   "desc": "Équipes spécialisées pour le montage et le démontage de stands à Fiera Milano Rho et dans tous les parcs des expositions d'Europe. Montage seul possible.",
+   "h1": "Montage et démontage de stands d'exposition",
+   "lead": "Des équipes spécialisées et un chef de chantier dédié pour monter et démonter votre stand à Fiera Milano Rho, à Allianz MiCo et dans tous les parcs des expositions d'Europe. Montage seul possible.",
+   "body": [
+    "Le montage est le moment où un projet devient un stand : il faut des équipes expérimentées, du matériel, le respect des créneaux horaires et des règles de sécurité du parc des expositions. Depuis notre base dans la région de Milan, nous rejoignons rapidement les sites milanais et partons avec votre stand vers les salons de toute l'Europe.",
+    "Nous montons les stands que nous fabriquons, mais aussi ceux d'autres fournisseurs ou appartenant au client : réception du matériel, montage, contrôle final, assistance pendant le salon, démontage et retour en entrepôt."
+   ],
+   "inc": [
+    {
+     "t": "Équipes spécialisées",
+     "d": "Monteurs expérimentés avec leur propre matériel et un chef de chantier dédié."
+    },
+    {
+     "t": "Formalités d'accès",
+     "d": "Badges, documents de sécurité et autorisations exigés par le parc des expositions."
+    },
+    {
+     "t": "Contrôle et livraison",
+     "d": "Vérification finale des structures, de l'éclairage et des visuels avant l'ouverture."
+    },
+    {
+     "t": "Assistance sur le salon",
+     "d": "Techniciens joignables pendant toute la manifestation, pour tout besoin."
+    },
+    {
+     "t": "Démontage et stockage",
+     "d": "Démontage dans les délais prévus, transport et stockage en vue d'une réutilisation."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Assurez-vous aussi le montage seul de stands que vous n'avez pas fabriqués ?",
+     "a": "Oui, nous montons et démontons aussi des stands d'autres standistes ou appartenant à l'exposant."
+    },
+    {
+     "q": "Dans quels parcs des expositions intervenez-vous ?",
+     "a": "À Fiera Milano Rho et Allianz MiCo, à Bologne, Vérone et Rimini, et dans les grands pôles européens : Düsseldorf, Cologne, Francfort, Munich, Paris, Barcelone, Madrid, Amsterdam et au-delà."
+    },
+    {
+     "q": "Respectez-vous les règles de sécurité des parcs des expositions ?",
+     "a": "Oui, nos monteurs travaillent selon les règles de sécurité et les règlements techniques de chaque parc des expositions."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "stand-salon-milan",
+   "nav": "Stands à Milan",
+   "title": "Standiste à Milan : stands pour Fiera Milano Rho | NEWSTANDS",
+   "desc": "Standiste dans la région de Milan : stands clé en main pour Fiera Milano Rho, Allianz MiCo et les événements en ville, conçus, fabriqués et montés par nous.",
+   "h1": "Stands d'exposition à Milan",
+   "lead": "Milan est l'un des plus grands centres de salons d'Europe, et c'est d'ici que nous travaillons : nous concevons, fabriquons et montons des stands pour les salons de Fiera Milano Rho et d'Allianz MiCo, et pour les événements en ville.",
+   "body": [
+    "Chaque année, Fiera Milano Rho accueille des salons internationaux comme Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO et MICAM, tandis qu'Allianz MiCo compte parmi les plus grands centres de congrès d'Europe. Pour un exposant, la concurrence est féroce : le stand doit se démarquer.",
+    "Un standiste dans la région de Milan, c'est l'assurance de visites techniques rapides, d'une logistique simple, d'équipes de montage proches et d'une assistance immédiate pendant le salon. Et si votre saison se poursuit à l'étranger après Milan, la même équipe emmène votre stand dans tous les parcs des expositions d'Europe."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stands pour les grands salons internationaux du parc de Rho, des halls du design à ceux de la moto et de l'alimentaire."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Aménagements pour congrès, conventions et salons au centre de congrès de Milan."
+    },
+    {
+     "t": "Événements en ville",
+     "d": "Lancements de produits, Fuorisalone, showrooms et boutiques éphémères dans les lieux milanais."
+    },
+    {
+     "t": "Visites techniques rapides",
+     "d": "Depuis notre base, nous rejoignons les sites milanais en peu de temps, avant et pendant le salon."
+    },
+    {
+     "t": "Stockage à proximité",
+     "d": "Votre stand reste dans notre entrepôt en Lombardie, prêt pour la prochaine édition."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Êtes-vous un standiste milanais ?",
+     "a": "Oui, nous travaillons depuis la région de Milan, avec siège et atelier à Tromello (PV), en Lombardie, à courte distance de Fiera Milano Rho."
+    },
+    {
+     "q": "Pour quels salons de Milan réalisez-vous des stands ?",
+     "a": "Pour toutes les manifestations de Fiera Milano Rho et d'Allianz MiCo, ainsi que pour les événements et le Fuorisalone en ville."
+    },
+    {
+     "q": "Pouvez-vous aussi nous accompagner sur des salons à l'étranger ?",
+     "a": "Oui, depuis Milan, nous emmenons stands et équipes dans tous les grands parcs des expositions européens."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "stand-salon-europe",
+   "nav": "Stands en Europe",
+   "title": "Stands salon en Europe : Allemagne, France, Espagne | NEWSTANDS",
+   "desc": "De Milan à tous les parcs des expositions d'Europe : stands clé en main à Düsseldorf, Cologne, Francfort, Munich, Paris, Barcelone, Madrid, Amsterdam et plus.",
+   "h1": "Stands d'exposition dans toute l'Europe",
+   "lead": "Nous partons de Milan et nous déplaçons dans n'importe quel parc des expositions d'Europe : un seul prestataire pour la conception, la fabrication, le transport et le montage, où que se tienne votre salon.",
+   "body": [
+    "Exposer à l'étranger avec un standiste local différent dans chaque pays, c'est de nouveaux interlocuteurs, des standards différents et plus de risques. Avec NEWSTANDS, vous avez une seule équipe : nous concevons et fabriquons dans notre atelier près de Milan, organisons le transport et les formalités d'accès et montons avec nos propres équipes.",
+    "Nous intervenons dans les grands parcs des expositions d'Allemagne, de France, d'Espagne, du Benelux, d'Autriche et de Suisse, et sur tout autre site sur demande. Nous avons réalisé des pavillons nationaux et des stands de marque, comme le pavillon de la Tunisie au salon MEDICA de Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Allemagne",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt et Messe München."
+    },
+    {
+     "t": "France",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles et Eurexpo Lyon."
+    },
+    {
+     "t": "Espagne",
+     "d": "Fira de Barcelona Gran Via et IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam et Brussels Expo."
+    },
+    {
+     "t": "Autriche, Suisse et au-delà",
+     "d": "Messe Wien, Palexpo Genève et tout autre parc des expositions européen sur demande."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Gérez-vous le transport et les formalités pour les salons à l'étranger ?",
+     "a": "Oui : emballage, transport, badges, documents de sécurité et relations avec l'organisation du salon sont pris en charge par nous."
+    },
+    {
+     "q": "Les équipes de montage sont-elles les vôtres ?",
+     "a": "Oui, votre stand est monté par nos propres équipes avec un chef de chantier dédié, y compris à l'étranger."
+    },
+    {
+     "q": "Dans quelles langues pouvons-nous communiquer ?",
+     "a": "En italien et en anglais ; pour la documentation du salon, nous nous coordonnons avec l'organisateur dans la langue locale."
+    }
+   ]
+  }
+ }
+}

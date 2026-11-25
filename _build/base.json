@@ -1,0 +1,488 @@
+{
+ "works": [
+  {
+   "s": "asfour-crystal",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1800,
+     1350
+    ],
+    [
+     "03",
+     1600,
+     1200
+    ],
+    [
+     "04",
+     1600,
+     1200
+    ],
+    [
+     "05",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "applied-nutrition",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1600,
+     1200
+    ],
+    [
+     "04",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "telangana-tourism",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1600,
+     1340
+    ],
+    [
+     "04",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "uttar-pradesh-tourism",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1200,
+     1600
+    ]
+   ]
+  },
+  {
+   "s": "polska-poland-tastes-good",
+   "i": [
+    [
+     "01",
+     1066,
+     1066
+    ],
+    [
+     "02",
+     1600,
+     1066
+    ],
+    [
+     "03",
+     1066,
+     1066
+    ],
+    [
+     "04",
+     1066,
+     1066
+    ]
+   ]
+  },
+  {
+   "s": "fabtech",
+   "i": [
+    [
+     "01",
+     1152,
+     864
+    ],
+    [
+     "02",
+     864,
+     1152
+    ],
+    [
+     "03",
+     1152,
+     864
+    ],
+    [
+     "04",
+     1152,
+     576
+    ]
+   ]
+  },
+  {
+   "s": "talos-performance",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "thundervolt",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1200,
+     1600
+    ]
+   ]
+  },
+  {
+   "s": "arama-benet",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1200,
+     1600
+    ]
+   ]
+  },
+  {
+   "s": "plastona",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "topsun",
+   "i": [
+    [
+     "01",
+     1600,
+     900
+    ]
+   ]
+  },
+  {
+   "s": "triveni-turbines-refurb",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "gsb-helmets",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "moto-tron-racing",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "hd-helmets",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "wrp-wind-trading",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ],
+    [
+     "02",
+     1600,
+     1200
+    ],
+    [
+     "03",
+     1200,
+     1600
+    ]
+   ]
+  },
+  {
+   "s": "dec-group",
+   "i": [
+    [
+     "01",
+     1600,
+     720
+    ]
+   ]
+  },
+  {
+   "s": "rajasthan-tourism",
+   "i": [
+    [
+     "01",
+     1600,
+     1200
+    ]
+   ]
+  },
+  {
+   "s": "uttar-pradesh-agricoltura",
+   "i": [
+    [
+     "01",
+     1350,
+     1800
+    ],
+    [
+     "02",
+     1350,
+     1800
+    ],
+    [
+     "03",
+     1350,
+     1800
+    ]
+   ]
+  },
+  {
+   "s": "tunisia-medica-dusseldorf",
+   "i": [
+    [
+     "01",
+     1200,
+     1600
+    ],
+    [
+     "02",
+     1200,
+     1600
+    ],
+    [
+     "03",
+     1200,
+     1600
+    ],
+    [
+     "04",
+     1200,
+     1600
+    ],
+    [
+     "05",
+     1200,
+     1600
+    ],
+    [
+     "06",
+     1200,
+     1600
+    ],
+    [
+     "07",
+     1200,
+     1600
+    ],
+    [
+     "08",
+     1200,
+     1600
+    ],
+    [
+     "09",
+     1200,
+     1600
+    ],
+    [
+     "10",
+     1200,
+     1600
+    ]
+   ]
+  }
+ ],
+ "gallery": {
+  "personalizzati": [
+   "asfour-crystal",
+   "telangana-tourism",
+   "fabtech",
+   "applied-nutrition"
+  ],
+  "modulari": [
+   "polska-poland-tastes-good",
+   "uttar-pradesh-agricoltura",
+   "dec-group",
+   "topsun"
+  ],
+  "eventi": [
+   "tunisia-medica-dusseldorf",
+   "uttar-pradesh-tourism",
+   "rajasthan-tourism",
+   "arama-benet"
+  ],
+  "showroom": [
+   "arama-benet",
+   "plastona",
+   "gsb-helmets",
+   "hd-helmets"
+  ],
+  "grafica": [
+   "applied-nutrition",
+   "wrp-wind-trading",
+   "moto-tron-racing",
+   "rajasthan-tourism"
+  ],
+  "americane": [
+   "plastona",
+   "fabtech",
+   "triveni-turbines-refurb",
+   "thundervolt"
+  ],
+  "arredi": [
+   "arama-benet",
+   "asfour-crystal",
+   "talos-performance",
+   "hd-helmets"
+  ],
+  "montaggio": [
+   "tunisia-medica-dusseldorf",
+   "polska-poland-tastes-good",
+   "telangana-tourism",
+   "fabtech"
+  ],
+  "milano": [
+   "asfour-crystal",
+   "talos-performance",
+   "gsb-helmets",
+   "moto-tron-racing"
+  ],
+  "europa": [
+   "tunisia-medica-dusseldorf",
+   "polska-poland-tastes-good",
+   "telangana-tourism",
+   "uttar-pradesh-tourism"
+  ]
+ },
+ "order": [
+  "personalizzati",
+  "modulari",
+  "eventi",
+  "showroom",
+  "grafica",
+  "americane",
+  "arredi",
+  "montaggio",
+  "milano",
+  "europa"
+ ]
+}

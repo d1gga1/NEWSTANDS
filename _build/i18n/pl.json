@@ -1,0 +1,987 @@
+{
+ "_lang": "pl",
+ "meta": {
+  "title": "Stoiska targowe Mediolan i zabudowa w Europie | NEWSTANDS",
+  "desc": "Wykonawca stoisk targowych z okolic Mediolanu: projektujemy, produkujemy i montujemy stoiska pod klucz na Fiera Milano i w każdym centrum targowym Europy.",
+  "ogTitle": "NEWSTANDS — stoiska targowe z Mediolanu dla całej Europy",
+  "ogDesc": "Stoiska targowe pod klucz, eventy i kongresy: baza w okolicach Mediolanu, własne ekipy montażowe w każdym centrum targowym Europy.",
+  "ogAlt": "NEWSTANDS — zabudowa targowa z Mediolanu dla całej Europy",
+  "orgDesc": "Wykonawca zabudowy targowej z bazą w okolicach Mediolanu (siedziba w Tromello, PV). Projektuje, produkuje i montuje stoiska targowe pod klucz, scenografie eventów i kongresów, showroomy i sklepy tymczasowe na Fiera Milano i we wszystkich centrach targowych Europy.",
+  "slogan": "Zaprojektowane, wyprodukowane, zmontowane."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podest",
+  "h003": "Zabudowa targowa",
+  "h004": "Projekt · Produkcja · Montaż",
+  "h005": "Dotknij, aby wejść",
+  "h006": "Proces",
+  "h007": "Usługi",
+  "h008": "Realizacje",
+  "h009": "Skonfiguruj",
+  "h009b": "Skonfiguruj",
+  "h010": "Europa",
+  "h011": "Wycena",
+  "h012": "Stoiska targowe Mediolan · Eventy · Kongresy",
+  "h013": "Projekt → Produkcja → Montaż",
+  "h014": "Działamy z okolic Mediolanu, targowego serca Europy: budujemy stoiska od zera i montujemy je w każdym centrum targowym na kontynencie. Jeden partner od pierwszego szkicu po ostatnią śrubę.",
+  "h015": "Przewiń i zmontuj stoisko",
+  "h016": "Ark. 00 — Rzut stoiska 8.000 × 6.000",
+  "h017": "Skala 1:50",
+  "h018": "Projekt",
+  "h019": "Postęp montażu",
+  "h020": "Ark. 05 — Odbiór",
+  "h021": "Pod klucz.",
+  "h022": "Skonfiguruj własne",
+  "h023": "Zapytaj o wycenę",
+  "h024": "§ 01 — O nas",
+  "h025": "Nie sprzedajemy metrów kwadratowych. Budujemy miejsce, w którym Twoja *marka* spotyka się z rynkiem — od *pierwszego* *szkicu* po ostatnią śrubę, w każdej hali targowej w Europie.",
+  "h026": "Metoda",
+  "h027": "Każdy element projektujemy, produkujemy i montujemy we własnym zakresie: konstrukcje, ściany, grafikę, meble i oświetlenie. Mniej pośredników, mniej niespodzianek, dotrzymane terminy.",
+  "h028": "Od zera",
+  "h029": "do gotowego stoiska.",
+  "h030": "Sześć etapów, jedna koordynacja.",
+  "h031": "Przewiń w poziomie →",
+  "h032": "Etap 01",
+  "h033": "Cele, budżet, targi, regulamin techniczny obiektu. Zaczynamy od tego, co ma się dziać na Twoim stoisku.",
+  "h034": "Etap 02",
+  "h035": "Koncepcja & 3D",
+  "h036": "Fotorealistyczne wizualizacje i rysunki wykonawcze: widzisz gotowe stoisko, zanim zostanie przycięta pierwsza płyta.",
+  "h037": "Etap 03",
+  "h038": "Produkcja",
+  "h039": "Stolarnia, ślusarnia, druk wielkoformatowy, oświetlenie. Każdy element powstaje na wymiar.",
+  "h040": "Etap 04",
+  "h041": "Logistyka",
+  "h042": "Pakowanie, transport i formalności wjazdowe na każdy teren targowy w Europie. Docieramy sami, punktualnie.",
+  "h043": "Etap 05",
+  "h044": "Montaż",
+  "h045": "Wyspecjalizowane ekipy, dedykowany kierownik montażu, odbiór techniczny. Dostajesz stoisko gotowe do pracy.",
+  "h046": "Etap 06",
+  "h047": "Targi & demontaż",
+  "h048": "Wsparcie techniczne w trakcie targów, demontaż, magazynowanie i ponowne użycie na kolejnych targach.",
+  "h049": "Efekt",
+  "h050": "Ty myślisz",
+  "h051": "o klientach.",
+  "h052": "Resztą",
+  "h053": "zajmiemy się my.",
+  "h054": "Porozmawiajmy o Twoich kolejnych targach",
+  "h055": "Co",
+  "h056": "budujemy",
+  "h057": "§ 03 — Usługi",
+  "h058": "Każdy rodzaj targów i eventów, od stoiska rzędowego 16 m² po piętrową wyspę. Produkcja i montaż zawsze we własnym zakresie.",
+  "h059": "Zrealizowane",
+  "h060": "stoiska",
+  "h061": "§ 04 — Realizacje",
+  "h062": "Wybrane stoiska zaprojektowane, wyprodukowane i zmontowane przez nasze ekipy: pawilony narodowe, wyspy marek i stoiska techniczne w całej Europie.",
+  "h063": "Następne może być Twoje",
+  "h064": "swoje stoisko",
+  "h065": "§ 05 — Konfigurator 3D",
+  "h066": "Wybierz typ i powierzchnię: zobacz, jak bryła nabiera kształtu, i wyślij nam konfigurację jako podstawę do wyceny.",
+  "h067": "↔ Przeciągnij, aby obrócić",
+  "h068": "Widok aksonometryczny",
+  "h069": "Az 000°",
+  "h070": "01 — Typ",
+  "h071": "Otwarte boki",
+  "h072": "02 — Powierzchnia",
+  "h073": "Wymiary orient.",
+  "h074": "Użyj tej konfiguracji",
+  "h075": "Najbliższy",
+  "h076": "odjazd",
+  "h077": "§ 06 — Z Mediolanu do całej Europy",
+  "h078": "Wyruszamy z Mediolanu, miasta wielkich międzynarodowych targów, i jedziemy ze stoiskiem do każdego centrum targowego w Europie: Niemcy, Francja, Hiszpania, Benelux, Austria, Szwajcaria. Jeśli jest hala, dojedziemy.",
+  "h079": "Miasto",
+  "h080": "Teren targowy",
+  "h081": "Kraj",
+  "h082": "Status",
+  "h083": "Ekipy montażowe w gotowości",
+  "h084": "+ każdy inny teren targowy na życzenie",
+  "h085": "Najczęstsze",
+  "h086": "pytania",
+  "h087": "§ 07 — FAQ",
+  "h088": "Koszty, terminy, miasta i usługi: odpowiedzi na pytania, które najczęściej słyszymy przed targami.",
+  "h089": "Masz targi",
+  "h090": "w kalendarzu?",
+  "h091": "Opowiedz nam o wydarzeniu, terminach i metrażu. Odpowiemy wstępną propozycją i przejrzystą wyceną.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Siedziba",
+  "h095": "Obszar",
+  "h096": "Mediolan + cała Europa",
+  "h097": "Usługa",
+  "h098": "Pod klucz",
+  "h099": "Stoisko targowe",
+  "h100": "Event",
+  "h101": "Kongres",
+  "h102": "Showroom / pop-up",
+  "h103": "Tylko montaż",
+  "h104": "Imię i nazwisko",
+  "h105": "Firma",
+  "h106": "Targi / event i miasto",
+  "h107": "Opisz nam projekt",
+  "h108": "Wyślij zapytanie",
+  "h109": "Zapytanie czeka w Twojej poczcie: kliknij „Wyślij”.",
+  "h110": "Nic się nie otworzyło? Napisz na",
+  "h111": "lub zadzwoń pod numer",
+  "h112": "Firma",
+  "h113": "Stoiska targowe w Mediolanie i w Europie, eventy, kongresy",
+  "h114": "27020 Tromello (PV), Lombardia",
+  "h115": "Nawigacja",
+  "h116": "Konfigurator",
+  "h117": "Social media",
+  "h118": "Kontakt",
+  "h119": "Zapytaj o wycenę →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia",
+  "h121": "Zaprojektowane, wyprodukowane, zmontowane.",
+  "h122": "Do góry ↑",
+  "h123": "Menu główne",
+  "h124": "Filtruj według branży",
+  "h125": "Galeria projektu",
+  "h126": "Zamknij galerię",
+  "h127": "Poprzednie zdjęcie",
+  "h128": "Następne zdjęcie",
+  "h129": "Powierzchnia w metrach kwadratowych",
+  "h130": "Zapytanie o wycenę stoiska",
+  "h131": "Rodzaj projektu",
+  "h132": "Napisz do nas na WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Ile kosztuje stoisko targowe?",
+   "a": "Cena stoiska zależy od powierzchni, typu (rzędowe, narożne, półwyspowe lub wyspowe), materiałów, grafiki, mebli i terenu targowego. Po krótkim briefingu dotyczącym targów, terminów i metrażu wyślemy Ci wstępną propozycję oraz przejrzystą, szczegółową wycenę. Możesz zacząć od konfiguratora 3D powyżej albo zadzwonić lub napisać do nas na WhatsApp: <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Gdzie znajduje się NEWSTANDS i na jakich targach pracujecie?",
+   "a": "Jesteśmy wykonawcą zabudowy targowej z okolic Mediolanu, z siedzibą i warsztatem w Tromello (PV) w Lombardii: to strategiczna lokalizacja tuż obok Fiera Milano Rho i Allianz MiCo, gdzie odbywają się jedne z najważniejszych targów w Europie. Stąd nasze ekipy wyruszają do każdego centrum targowego: Bolonia, Werona, Rimini, Düsseldorf, Kolonia, Frankfurt, Monachium, Paryż, Lyon, Barcelona, Madryt, Amsterdam, Bruksela, Wiedeń, Genewa i dalej."
+  },
+  {
+   "q": "Co obejmuje usługa pod klucz?",
+   "a": "Jeden partner do wszystkiego: briefing, koncepcja i wizualizacje 3D, rysunki wykonawcze, własna produkcja konstrukcji, ścian, grafiki wielkoformatowej, mebli i oświetlenia, logistyka i transport, montaż z dedykowanym kierownikiem budowy, wsparcie w trakcie targów, demontaż i magazynowanie do ponownego użycia."
+  },
+  {
+   "q": "Czy realizujecie także eventy, kongresy i showroomy?",
+   "a": "Tak. Oprócz indywidualnych i modułowych stoisk targowych projektujemy i realizujemy eventy firmowe, kongresy, konwencje, premiery produktów, sceny i scenografie, showroomy, sklepy tymczasowe i pop-upy — z kratownicami, ekranami LED i oświetleniem."
+  },
+  {
+   "q": "Z jakim wyprzedzeniem warto się z Wami skontaktować?",
+   "a": "Im wcześniej się odezwiesz, tym więcej czasu mamy na projekt, wizualizacje i produkcję: w przypadku stoiska indywidualnego najlepiej zacząć zaraz po potwierdzeniu udziału w targach. Przy stoiskach modułowych i samym montażu możemy działać także w krótszych terminach: napisz do nas, a od razu sprawdzimy, czy to wykonalne."
+  },
+  {
+   "q": "Jak poprosić o wycenę?",
+   "a": "Wypełnij formularz w sekcji kontakt, napisz na <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> albo zadzwoń lub napisz na WhatsApp: <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternatywnie <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Podaj targi lub event, miasto, terminy i metraż: odezwiemy się ze wstępną propozycją."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Każde stoisko zaczyna się od rysunku technicznego: wymiary, regulamin terenu targowego, ruch zwiedzających."
+   ],
+   [
+    "Konstrukcja",
+    "Podest, kratownice, ramy. Część, której nie widać, ale która wszystko dźwiga."
+   ],
+   [
+    "Ściany & grafika",
+    "Ściany produkowane na wymiar, druk wielkoformatowy, wykończenia."
+   ],
+   [
+    "Meble & technologia",
+    "Lady, totemy, ekrany LED, strefy spotkań, podwieszany ring. Produkujemy i montujemy je sami."
+   ],
+   [
+    "Światła włączone",
+    "Odbiór, sprzątanie, przekazanie. Stoisko jest gotowe na otwarcie."
+   ]
+  ],
+  "lbl": [
+   "S 8.000 mm",
+   "G 6.000 mm",
+   "Kratownica 29×29 — W 4.500",
+   "Ściana 3.400 + grafika",
+   "Ledwall 3,4 × 1,9 m",
+   "Lada recepcyjna",
+   "Podwieszany ring Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Rzędowe",
+   "angolo": "Narożne",
+   "penisola": "Półwyspowe",
+   "isola": "Wyspowe",
+   "doppio": "Piętrowe"
+  },
+  "sides": "boki",
+  "side": "bok",
+  "openSides": "otwarte boki",
+  "openSide": "otwarty bok",
+  "cfgMsg": "Konfiguracja ze strony: stoisko {type}, {n} {sides}, ok. {area} m² ({dim} m).",
+  "axo": "Widok aksonometryczny",
+  "cfgFb": "Konfigurator 3D jest niedostępny na tym urządzeniu.<br>Napisz do nas: wyślemy Ci wizualizację.",
+  "mq": [
+   "Stoiska na wymiar",
+   "Eventy",
+   "Kongresy",
+   "Showroomy",
+   "Pop-up",
+   "Ledwall",
+   "Kratownice",
+   "Grafika",
+   "Meble"
+  ],
+  "svc": [
+   {
+    "t": "Stoiska indywidualne",
+    "d": "Unikalne projekty budowane od zera wokół Twojej marki: drewno, metal, szkło, tkanina, wysokiej klasy wykończenia.",
+    "tags": [
+     "Koncepcja",
+     "Wizualizacje 3D",
+     "Produkcja",
+     "Montaż"
+    ]
+   },
+   {
+    "t": "Stoiska modułowe",
+    "d": "Systemy wielokrotnego użytku dla firm wystawiających się na kilku targach w roku: spójny wizerunek, koszty pod kontrolą.",
+    "tags": [
+     "Wielokrotne użycie",
+     "Magazynowanie",
+     "Szybkość"
+    ]
+   },
+   {
+    "t": "Eventy & kongresy",
+    "d": "Sceny, scenografie, sale plenarne, konwencje firmowe i premiery produktów z pełną obsługą techniczną.",
+    "tags": [
+     "Sceny",
+     "Scenografie",
+     "Audio/Wideo"
+    ]
+   },
+   {
+    "t": "Showroomy & pop-up",
+    "d": "Tymczasowe przestrzenie handlowe, pop-upy i stałe showroomy: ta sama precyzja co przy zabudowie targowej.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Grafika wielkoformatowa",
+    "d": "Druk na płytach forex, tkaninie podświetlanej i PCV, naklejki oraz oklejanie szyb. Produkujemy i aplikujemy sami.",
+    "tags": [
+     "Lightbox",
+     "Tkanina",
+     "Naklejki"
+    ]
+   },
+   {
+    "t": "Kratownice & ledwall",
+    "d": "Konstrukcje z kratownic, podwieszane ringi, rigging, ekrany LED i oświetlenie dla stoisk widocznych z całej hali.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Światło"
+    ]
+   },
+   {
+    "t": "Meble & wynajem",
+    "d": "Lady, kontuary, siedziska, witryny, aneksy kuchenne i magazynki: meble na wymiar lub do wynajęcia na każdy metraż.",
+    "tags": [
+     "Na wymiar",
+     "Wynajem",
+     "Magazynek"
+    ]
+   }
+  ],
+  "more": "Poznaj usługę",
+  "tav": "Ark.",
+  "avail": "DOSTĘPNE",
+  "form": {
+   "type": "Rodzaj projektu",
+   "name": "Imię i nazwisko",
+   "company": "Firma",
+   "fair": "Targi / event i miasto",
+   "project": "Projekt",
+   "subj": "Zapytanie o wycenę stoiska"
+  },
+  "ariaW": "{t} — otwórz galerię ({n} zdj.)",
+  "altW": "Stoisko targowe {t} — {c}, realizacja NEWSTANDS",
+  "nPh": "{n} zdj.",
+  "altLb": "Stoisko targowe {t} ({c}) — zdjęcie {i} z {n}",
+  "phN": "Zdjęcie {i}",
+  "all": "Wszystkie",
+  "ld": [
+   "Podest",
+   "Ściany",
+   "Trawers",
+   "Światła",
+   "Gotowe"
+  ],
+  "c3": [
+   "OD ZERA",
+   "DO STOISKA.",
+   "PROJEKT · PRODUKCJA · MONTAŻ · EUROPA",
+   "ZABUDOWA TARGOWA",
+   "STOISKA · EVENTY · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kryształy i oświetlenie",
+   "g": "Design",
+   "d": "Całkowicie biała wyspa otulona zasłonami z kryształowych nici, podwieszanymi żyrandolami i lakierowanymi meblami: stoisko staje się świetlistą witryną."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Suplementy dla sportowców",
+   "g": "Żywność i zdrowie",
+   "d": "Wielostronna wyspa z grafiką produktową na całych ścianach, podwieszanymi szyldami i ladami degustacyjnymi do obsługi dużego ruchu."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turystyka",
+   "g": "Turystyka",
+   "d": "Pawilon instytucjonalny z łukami i minaretami inspirowanymi architekturą Telangany, stanowiskami dla wystawców i immersyjną grafiką."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turystyka",
+   "g": "Turystyka",
+   "d": "Portale imitujące terakotę, rzeźbione łuki i stanowiska B2B: pawilon regionalny, który pokazuje region na pierwszy rzut oka."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Narodowy pawilon spożywczy",
+   "g": "Żywność i zdrowie",
+   "d": "Biało-czerwony pawilon wspólny z ażurowymi ornamentami, stanowiskami wystawców i strefą show cookingu."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Przemysł",
+   "d": "Stoisko korporacyjne z przeszklonymi salami spotkań, podświetlanymi ścianami i strefą recepcji otwartą na alejkę."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motocykle",
+   "g": "Motocykle",
+   "d": "Całkowita biel z czerwonymi portalami i podestami pod motocykle: czysta grafika, która pozwala mówić maszynom."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Motocykle elektryczne",
+   "g": "Motocykle",
+   "d": "Całkowicie czarna scenografia z białą, błyszczącą podłogą, ekspozycją motocykli i strefą spotkań."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Strefa lounge",
+   "g": "Design",
+   "d": "Otwarty lounge z dużym panoramicznym wydrukiem, podwieszanym sufitem, ladą i siedziskami dla odwiedzających."
+  },
+  {
+   "t": "Plastona",
+   "c": "Dom i ogród",
+   "g": "Design",
+   "d": "Wyspa z sześciennymi szyldami na kratownicy, białymi regałami i aranżacjami produktów."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motocykle i silniki",
+   "g": "Motocykle",
+   "d": "Stoisko narożne z czarno-białymi ścianami ekspozycyjnymi, pojazdami na podestach i strefą stolików."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Przemysł energetyczny",
+   "g": "Przemysł",
+   "d": "Zaokrąglone, podświetlane ramy, panele techniczne i strefa spotkań dla odbiorców B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Kaski",
+   "g": "Motocykle",
+   "d": "Ściany ekspozycyjne na kaski, wyścigowa grafika i lada recepcyjna: włoski design na kilku metrach kwadratowych."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Akcesoria motocyklowe",
+   "g": "Motocykle",
+   "d": "Trójkolorowe kolumny, podświetlane witryny i ściany produktowe dla wyścigowej, bardzo widocznej obecności."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Kaski",
+   "g": "Motocykle",
+   "d": "Ściana w romby z ekspozycją kasków, ponadwymiarowe szyldy i strefa stolików do rozmów handlowych."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Części i odzież motocyklowa",
+   "g": "Motocykle",
+   "d": "Graficzne totemy na całą wysokość, witryny produktowe i ściany z odzieżą wokół strefy spotkań."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Przemysł",
+   "g": "Przemysł",
+   "d": "Niebieskie stoisko korporacyjne z grafiką procesową, strefą techniczną i miejscami do rozmów."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turystyka",
+   "g": "Turystyka",
+   "d": "Efektowny portal z tradycyjnymi ornamentami i wielkoformatowymi zdjęciami regionu."
+  },
+  {
+   "t": "Uttar Pradesh — Rolnictwo",
+   "c": "Rolno-spożywczy",
+   "g": "Żywność i zdrowie",
+   "d": "Białe stoisko z podświetlanymi ramami przy podłodze i panelami produktowymi — oszczędne w formie i jasne."
+  },
+  {
+   "t": "Tunezja — Medica Düsseldorf",
+   "c": "Narodowy pawilon medyczny",
+   "g": "Medycyna",
+   "d": "Pawilon narodowy na targach Medica Düsseldorf z podwieszanym szyldem, stanowiskami dla firm wystawiających się i strefą lounge."
+  }
+ ],
+ "ui": {
+  "langName": "Polski",
+  "langLabel": "Język",
+  "home": "Start",
+  "services": "Usługi",
+  "works": "Realizacje",
+  "contacts": "Kontakt",
+  "quote": "Wycena",
+  "requestQuote": "Zapytaj o wycenę",
+  "whatsapp": "Napisz do nas na WhatsApp",
+  "call": "Zadzwoń",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-mail",
+  "address": "Siedziba",
+  "serviceN": "Usługa",
+  "locationK": "Z Mediolanu do całej Europy",
+  "includesTitle": "Co obejmuje usługa",
+  "whyTitle": "Dlaczego NEWSTANDS",
+  "why": [
+   {
+    "t": "Baza w Mediolanie",
+    "d": "Działamy z okolic Mediolanu, tuż obok Fiera Milano Rho i Allianz MiCo: szybkie wizje lokalne, prosta logistyka, ekipy zawsze blisko największych terenów targowych."
+   },
+   {
+    "t": "Własna produkcja",
+    "d": "Konstrukcje, ściany, grafika, meble i oświetlenie powstają w naszym warsztacie: mniej pośredników, mniej niespodzianek, dotrzymane terminy."
+   },
+   {
+    "t": "W każdym centrum targowym Europy",
+    "d": "Nasze ekipy montażowe jadą razem ze stoiskiem: Niemcy, Francja, Hiszpania, Benelux, Austria, Szwajcaria i każdy inny teren targowy na życzenie."
+   },
+   {
+    "t": "Jeden partner",
+    "d": "Od briefingu po demontaż rozmawiasz zawsze z tą samą osobą, a na targach masz do dyspozycji dedykowanego kierownika budowy."
+   }
+  ],
+  "galleryTitle": "Wybrane realizacje",
+  "faqTitle": "Najczęstsze pytania",
+  "otherTitle": "Inne usługi",
+  "ctaTitle": "Masz targi w kalendarzu?",
+  "ctaText": "Opowiedz nam o targach, mieście, terminach i metrażu: odpowiemy wstępną propozycją i przejrzystą wyceną.",
+  "whereTitle": "Z Mediolanu do każdego centrum targowego",
+  "whereText": "Działamy w okolicach Mediolanu, miasta, które gości jedne z najważniejszych targów na świecie. Stąd nasze ekipy docierają na każdy teren targowy we Włoszech i w Europie.",
+  "milanLink": "Stoiska targowe w Mediolanie",
+  "europeLink": "Stoiska targowe w Europie",
+  "photos": "zdj.",
+  "backHome": "Wróć na stronę główną",
+  "footerTag": "Stoiska targowe w Mediolanie i w całej Europie. Zaprojektowane, wyprodukowane, zmontowane.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · okolice Mediolanu",
+  "breadcrumb": "Ścieżka",
+  "skip": "Przejdź do treści",
+  "menu": "Menu główne"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "stoiska-targowe-na-zamowienie",
+   "nav": "Stoiska indywidualne",
+   "title": "Stoiska targowe na zamówienie: Mediolan i Europa | NEWSTANDS",
+   "desc": "Indywidualne stoiska targowe projektowane, produkowane i montowane przez NEWSTANDS: baza pod Mediolanem, realizacje we wszystkich centrach targowych Europy.",
+   "h1": "Stoiska targowe na zamówienie",
+   "lead": "Unikalne stoisko zbudowane od zera wokół Twojej marki: projektujemy je, produkujemy w naszym warsztacie pod Mediolanem i montujemy na dowolnych targach w Europie.",
+   "body": [
+    "Stoisko indywidualne to najmocniejszy sposób, by zaistnieć na targach: każda ściana, każde światło i każda ścieżka zwiedzania są zaplanowane pod Twoje produkty i cele sprzedażowe. Zaczynamy od regulaminu technicznego terenu targowego i ruchu w hali, a potem zamieniamy pomysł w fotorealistyczne wizualizacje 3D i rysunki wykonawcze.",
+    "Konstrukcje z drewna i metalu, ściany, grafikę, meble i oświetlenie produkujemy sami, dzięki czemu kontrolujemy jakość i terminy na każdym etapie. Niezależnie od tego, czy targi odbywają się na Fiera Milano Rho, w Düsseldorfie czy w Paryżu, stoisko montuje ta sama ekipa, która je zbudowała."
+   ],
+   "inc": [
+    {
+     "t": "Koncepcja i wizualizacje 3D",
+     "d": "Propozycja kreatywna, fotorealistyczne wizualizacje i poprawki, aż stoisko będzie dokładnie takie, jak chcesz."
+    },
+    {
+     "t": "Projekt wykonawczy",
+     "d": "Rysunki techniczne, obliczenia i dokumentacja zgodna z regulaminem każdego terenu targowego."
+    },
+    {
+     "t": "Produkcja na wymiar",
+     "d": "Stolarka, konstrukcje stalowe, szkło, tkanina i wysokiej klasy wykończenia z naszego warsztatu."
+    },
+    {
+     "t": "Grafika i oświetlenie",
+     "d": "Druk wielkoformatowy, lightboxy, ekrany LED i projekt oświetlenia wpisane w architekturę stoiska."
+    },
+    {
+     "t": "Montaż i demontaż",
+     "d": "Transport, montaż z dedykowanym kierownikiem budowy, wsparcie na targach, demontaż i magazynowanie."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ile czasu potrzeba na wykonanie stoiska indywidualnego?",
+     "a": "To zależy od wielkości i stopnia skomplikowania: przy stoisku na wymiar najlepiej zacząć zaraz po potwierdzeniu udziału w targach, by mieć zapas czasu na projekt, wizualizacje i produkcję."
+    },
+    {
+     "q": "Czy stoisko indywidualne można wykorzystać ponownie?",
+     "a": "Tak. Projektujemy elementy tak, by można je było magazynować i ponownie montować: na kolejnych targach dopasowujemy stoisko do nowego metrażu i nowej grafiki."
+    },
+    {
+     "q": "Czy realizujecie stoiska indywidualne także poza Włochami?",
+     "a": "Tak, z okolic Mediolanu przewozimy stoisko i nasze ekipy do wszystkich głównych centrów targowych w Europie, od Niemiec po Hiszpanię."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "stoiska-modulowe",
+   "nav": "Stoiska modułowe",
+   "title": "Stoiska modułowe na targi w Mediolanie i Europie | NEWSTANDS",
+   "desc": "Modułowe stoiska targowe wielokrotnego użytku dla firm wystawiających się kilka razy w roku: spójny wizerunek i koszty pod kontrolą, z Mediolanu w całą Europę.",
+   "h1": "Stoiska modułowe wielokrotnego użytku",
+   "lead": "Systemy modułowe dla firm, które wystawiają się na kilku targach w roku: ten sam wizerunek marki, koszty pod kontrolą i szybki montaż — w Mediolanie i na każdym terenie targowym w Europie.",
+   "body": [
+    "Stoisko modułowe to inwestycja na lata: konstrukcje, panele i meble można przestawiać i dopasowywać do różnych metraży i typów stoisk, od rzędowego po wyspowe. Zmienia się grafika, jakość zostaje.",
+    "System projektujemy raz, produkujemy go w naszym warsztacie i zarządzamy nim między kolejnymi targami: magazynowanie, konserwacja, aktualizacja grafiki i transport do następnej hali, we Włoszech lub za granicą."
+   ],
+   "inc": [
+    {
+     "t": "System na wymiar",
+     "d": "Moduły zaprojektowane pod Twój wizerunek, łączone w stoiska od kilku metrów kwadratowych po duże wyspy."
+    },
+    {
+     "t": "Wymienna grafika",
+     "d": "Zadrukowane tkaniny i panele, które szybko wymienisz na potrzeby konkretnych targów, produktu lub rynku."
+    },
+    {
+     "t": "Magazynowanie i konserwacja",
+     "d": "Przechowujemy stoisko w naszym magazynie i sprawdzamy je przed każdym kolejnym wyjazdem."
+    },
+    {
+     "t": "Szybki montaż",
+     "d": "Krótszy czas zabudowy, idealny także na targi z wąskim oknem montażowym."
+    },
+    {
+     "t": "Obsługa kalendarza targów",
+     "d": "Razem z Tobą planujemy sezon targowy i organizujemy logistykę oraz ekipy na każdy przystanek."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy stoisko modułowe kosztuje mniej niż indywidualne?",
+     "a": "W perspektywie kilku targów zwykle tak: inwestycja początkowa rozkłada się na każdy udział, a kolejne koszty ograniczają się do grafiki i logistyki."
+    },
+    {
+     "q": "Czy stoisko modułowe pasuje do różnych powierzchni?",
+     "a": "Tak, moduły można łączyć w stoiska rzędowe, narożne, półwyspowe lub wyspowe o różnym metrażu."
+    },
+    {
+     "q": "Czy możecie obsłużyć cały nasz kalendarz targowy?",
+     "a": "Tak: z okolic Mediolanu koordynujemy magazynowanie, transport i montaż na wszystkich targach w sezonie, we Włoszech i w Europie."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "aranzacja-eventow-i-kongresow",
+   "nav": "Eventy & kongresy",
+   "title": "Aranżacja eventów i kongresów w Mediolanie | NEWSTANDS",
+   "desc": "Zabudowa i scenografia eventów firmowych, kongresów, konwencji i premier produktów w Mediolanie i w Europie: sceny, scenografie, pełna obsługa techniczna.",
+   "h1": "Aranżacja eventów i kongresów",
+   "lead": "Sceny, scenografie, sale plenarne, konwencje firmowe i premiery produktów: realizujemy eventy i kongresy w Mediolanie i w całej Europie z precyzją zabudowy targowej.",
+   "body": [
+    "Mediolan to jedna z europejskich stolic eventów i kongresów, z obiektami takimi jak Allianz MiCo i dużymi przestrzeniami firmowymi w mieście. Działając z okolic Mediolanu, znamy terminy, zasady i logistykę tych miejsc, więc bardzo szybko organizujemy wizje lokalne i montaże.",
+    "Projektujemy kompletną aranżację: scenę, scenografię, salę plenarną, strefy wystawowe, recepcję, oznakowanie i oświetlenie. Sami koordynujemy dostawców technicznych, więc przy całym evencie masz jednego partnera."
+   ],
+   "inc": [
+    {
+     "t": "Sceny i scenografie",
+     "d": "Sceny na wymiar, tła, ekrany LED i scenografie zaprojektowane pod Twój przekaz."
+    },
+    {
+     "t": "Sale plenarne i kongresy",
+     "d": "Aranżacja sal, stref posterowych, punktów rejestracji i przestrzeni sponsorów."
+    },
+    {
+     "t": "Konwencje i premiery produktów",
+     "d": "Aranżacje, które pozwalają zaprezentować produkt lub zebrać sieć sprzedaży w zapadający w pamięć sposób."
+    },
+    {
+     "t": "Audio, wideo i światło",
+     "d": "Realizacja techniczna, kratownice, ekrany LED i oświetlenie wpisane w projekt."
+    },
+    {
+     "t": "Oznakowanie i grafika",
+     "d": "Ścieżki, totemy, ścianki i spójna grafika, które sami drukujemy i montujemy."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy realizujecie eventy także poza terenami targowymi?",
+     "a": "Tak: hotele, centra kongresowe, przestrzenie industrialne i obiekty prywatne — w Mediolanie, we Włoszech i za granicą."
+    },
+    {
+     "q": "Czy możecie zająć się także techniką audio i wideo?",
+     "a": "Tak, scenę, ekrany LED, światło i dźwięk koordynujemy w ramach jednego projektu, z jedną osobą kontaktową."
+    },
+    {
+     "q": "Z jakim wyprzedzeniem zorganizować event?",
+     "a": "Im wcześniej, tym lepiej: mając kilka tygodni zapasu, spokojnie przeprowadzimy wizję lokalną, projekt i produkcję. W pilnych sprawach skontaktuj się z nami, a ocenimy, czy to wykonalne."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroomy-sklepy-pop-up",
+   "nav": "Showroomy & pop-up",
+   "title": "Showroomy, sklepy tymczasowe i pop-up w Mediolanie | NEWSTANDS",
+   "desc": "Projekt i zabudowa showroomów, sklepów tymczasowych, pop-upów i shop-in-shopów w Mediolanie i w Europie, z własną produkcją i montażem.",
+   "h1": "Showroomy, sklepy tymczasowe i pop-up",
+   "lead": "Tymczasowe przestrzenie handlowe, pop-upy i stałe showroomy realizowane z tą samą precyzją co zabudowa targowa — w Mediolanie i w całej Europie.",
+   "body": [
+    "Sklep tymczasowy lub pop-up musi być gotowy w kilka dni i zrobić wrażenie: projektujemy przestrzenie, które opowiadają o marce, eksponują produkt i szybko się montują — także w centrach handlowych i na ulicach handlowych.",
+    "Do stałych showroomów wykonujemy meble na wymiar, ściany ekspozycyjne, witryny i oświetlenie z trwałych materiałów. Produkcja i montaż są nasze, więc terminy i jakość pozostają pod kontrolą."
+   ],
+   "inc": [
+    {
+     "t": "Koncepcja retail",
+     "d": "Układ, ścieżka klienta i ekspozycja produktów zaprojektowane tak, by sprzedawać."
+    },
+    {
+     "t": "Sklepy tymczasowe i pop-up",
+     "d": "Lekkie konstrukcje, które szybko się montuje, demontuje i wykorzystuje ponownie w innych miastach."
+    },
+    {
+     "t": "Stałe showroomy",
+     "d": "Meble na wymiar, ściany systemowe, witryny i wysokiej klasy wykończenia."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Strefy marki w sklepach i domach towarowych, spójne z Twoim wizerunkiem."
+    },
+    {
+     "t": "Światło i grafika",
+     "d": "Oświetlenie produktów, szyldy, oklejanie witryn i grafika z naszej produkcji."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ile trwa urządzenie sklepu tymczasowego?",
+     "a": "To zależy od przestrzeni i projektu: dzięki własnej produkcji pop-up możemy zmontować nawet w kilka dni."
+    },
+    {
+     "q": "Czy pop-up można przenieść do innych miast?",
+     "a": "Tak, projektujemy konstrukcje modułowe, które demontuje się i ponownie montuje w innych lokalizacjach, we Włoszech i w Europie."
+    },
+    {
+     "q": "Czy zajmujecie się także stałymi showroomami?",
+     "a": "Tak, od projektu po montaż mebli, witryn, oświetlenia i grafiki."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grafika-wielkoformatowa",
+   "nav": "Grafika wielkoformatowa",
+   "title": "Grafika wielkoformatowa na stoiska i targi | NEWSTANDS Mediolan",
+   "desc": "Druk wielkoformatowy na stoiska targowe i eventy: forex, tkanina podświetlana, lightboxy, PCV, naklejki i folie na szyby — produkujemy i aplikujemy sami.",
+   "h1": "Grafika wielkoformatowa na stoiska i eventy",
+   "lead": "Druk na forexie, tkaninie podświetlanej, PCV, naklejki i folie na szyby: grafikę Twojego stoiska produkują i montują te same ekipy, które budują stoisko.",
+   "body": [
+    "Grafika to pierwsze, co widzą odwiedzający — często z drugiego końca hali. Dlatego traktujemy ją jako część architektury stoiska: formaty, materiały i światło projektujemy razem z konstrukcją.",
+    "Drukujemy i aplikujemy sami, w Mediolanie i na każdych targach w Europie: bez przekazywania pracy między dostawcami, z kontrolą kolorów i grafiką idealnie spasowaną w chwili otwarcia."
+   ],
+   "inc": [
+    {
+     "t": "Tkanina podświetlana",
+     "d": "Lightboxy i świecące ściany z tkaniny — lekkie i robiące wrażenie."
+    },
+    {
+     "t": "Panele sztywne",
+     "d": "Druk na forexie, dibondzie i PCV na ściany, totemy i lady."
+    },
+    {
+     "t": "Naklejki i folie na szyby",
+     "d": "Podłogi, przeszklenia i powierzchnie personalizowane foliami technicznymi."
+    },
+    {
+     "t": "Podwieszane szyldy",
+     "d": "Banery i podwieszane konstrukcje graficzne widoczne z daleka w hali."
+    },
+    {
+     "t": "Montaż na targach",
+     "d": "Grafikę instalujemy sami, z końcową kontrolą przed otwarciem."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy drukujecie grafikę także na stoiska wykonane przez innych?",
+     "a": "Tak, możemy wyprodukować i zamontować samą grafikę, z zachowaniem wymiarów i regulaminu terenu targowego."
+    },
+    {
+     "q": "Jakie pliki są potrzebne do druku?",
+     "a": "Pliki wektorowe lub obrazy w wysokiej rozdzielczości ze spadami: specyfikację techniczną dla każdego formatu wyślemy Ci sami."
+    },
+    {
+     "q": "Czy grafikę na tkaninie można wykorzystać ponownie?",
+     "a": "Tak, tkaninę można prać, składać i montować ponownie: to idealne rozwiązanie dla firm, które biorą udział w kilku targach."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "kratownice-ledwall-oswietlenie",
+   "nav": "Kratownice & ledwall",
+   "title": "Kratownice, ledwall i oświetlenie stoisk targowych | NEWSTANDS",
+   "desc": "Konstrukcje z kratownic, podwieszane ringi, rigging, ekrany LED i oświetlenie stoisk targowych i eventów w Mediolanie i w całej Europie.",
+   "h1": "Kratownice, ledwall i oświetlenie",
+   "lead": "Konstrukcje z kratownic, podwieszane ringi, rigging, ekrany LED i światło dla stoisk widocznych z całej hali — na Fiera Milano i na każdym terenie targowym w Europie.",
+   "body": [
+    "Podwieszany ring z logo, ledwall z filmami produktowymi, światło dopracowane na każdej powierzchni: to elementy, dzięki którym stoisko rozpoznaje się z daleka. Projektujemy je razem ze stoiskiem, sprawdzając obciążenia, punkty podwieszenia i regulamin terenu targowego.",
+    "Dostarczamy i instalujemy kratownice, wciągarki, ekrany LED i oprawy oświetleniowe z wykwalifikowanym personelem, uzgadniając zlecenia riggingowe z organizatorem targów."
+   ],
+   "inc": [
+    {
+     "t": "Kratownice i truss",
+     "d": "Konstrukcje stojące i podwieszane w każdym rozmiarze, także jako nośnik grafiki i oświetlenia."
+    },
+    {
+     "t": "Ringi i podwieszane szyldy",
+     "d": "Okrągłe lub niestandardowe elementy podwieszane z grafiką, widoczne z całej hali."
+    },
+    {
+     "t": "Rigging",
+     "d": "Obliczenia, punkty podwieszenia i formalności z operatorem terenu targowego."
+    },
+    {
+     "t": "Ledwall",
+     "d": "Ekrany LED w różnych rozmiarach, wbudowane w ściany lub na dedykowanych konstrukcjach."
+    },
+    {
+     "t": "Oświetlenie",
+     "d": "Projekt światła dla produktów, grafiki i atmosfery stoiska."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy zajmujecie się zgodami na rigging?",
+     "a": "Tak, przygotowujemy dokumentację techniczną i prowadzimy zgłoszenia u organizatora targów."
+    },
+    {
+     "q": "Czy wynajmujecie ekrany LED także na eventy?",
+     "a": "Tak, ekrany LED, kratownice i oświetlenie są dostępne także na eventy, kongresy i premiery produktów."
+    },
+    {
+     "q": "Czy pracujecie także na zagranicznych terenach targowych?",
+     "a": "Tak, instalujemy konstrukcje i ekrany LED we wszystkich głównych centrach targowych w Europie."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "meble-na-stoiska-wynajem",
+   "nav": "Meble & wynajem",
+   "title": "Meble na wymiar i wynajem mebli na stoiska | NEWSTANDS",
+   "desc": "Lady, kontuary, siedziska, witryny, aneksy kuchenne i magazynki na stoiska targowe: meble na wymiar lub do wynajęcia, od Mediolanu po całą Europę.",
+   "h1": "Meble na wymiar i wynajem mebli na stoiska",
+   "lead": "Lady, kontuary, siedziska, witryny, aneksy kuchenne i magazynki: meble wykonane na wymiar w naszym warsztacie lub do wynajęcia, na stoiska o każdym metrażu.",
+   "body": [
+    "To meble sprawiają, że stoisko działa: recepcja, ekspozycja, spotkania, degustacje i zaplecze muszą znaleźć się we właściwym miejscu. Projektujemy je razem z układem stoiska, myśląc o ruchu odwiedzających i pracy Twojego zespołu na targach.",
+    "Możemy wykonać unikatowe meble na wymiar, w wykończeniach i kolorach Twojej marki, albo dostarczyć meble na wynajem, by ograniczyć koszty. Dostawą, montażem i odbiorem zawsze zajmujemy się my."
+   ],
+   "inc": [
+    {
+     "t": "Lady i recepcje",
+     "d": "Lady recepcyjne na wymiar, z logo, oświetleniem i schowkami technicznymi."
+    },
+    {
+     "t": "Strefy spotkań i lounge",
+     "d": "Stoły, siedziska i kąciki wypoczynkowe do rozmów z klientami na stoisku."
+    },
+    {
+     "t": "Witryny i ekspozytory",
+     "d": "Gabloty, półki i ściany systemowe, które eksponują produkty."
+    },
+    {
+     "t": "Kuchnie i magazynki",
+     "d": "Schowki, aneksy kuchenne i zaplecza wkomponowane w stoisko."
+    },
+    {
+     "t": "Wynajem mebli",
+     "d": "Meble na wynajem w każdym stylu i budżecie, dostarczane i odbierane przez nas."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy mogę wynająć same meble?",
+     "a": "Tak, dostarczamy także same meble na wynajem, z dostawą i odbiorem na targach."
+    },
+    {
+     "q": "Czy meble na wymiar można wykorzystać ponownie?",
+     "a": "Tak, przechowujemy je w naszym magazynie i przywozimy na kolejne targi."
+    },
+    {
+     "q": "Czy dostarczacie meble także za granicę?",
+     "a": "Tak, dostarczamy i montujemy meble na wszystkich głównych terenach targowych w Europie."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montaz-i-demontaz-stoisk",
+   "nav": "Montaż & demontaż",
+   "title": "Montaż i demontaż stoisk w Mediolanie i Europie | NEWSTANDS",
+   "desc": "Wyspecjalizowane ekipy do montażu i demontażu stoisk targowych na Fiera Milano Rho i na wszystkich terenach targowych w Europie. Również sam montaż.",
+   "h1": "Montaż i demontaż stoisk targowych",
+   "lead": "Wyspecjalizowane ekipy i dedykowany kierownik budowy, którzy zmontują i zdemontują Twoje stoisko na Fiera Milano Rho, w Allianz MiCo i na każdym terenie targowym w Europie. Również sam montaż.",
+   "body": [
+    "Montaż to moment, w którym projekt staje się stoiskiem: potrzebne są doświadczone ekipy, sprzęt, przestrzeganie okien czasowych i przepisów BHP obiektu. Z naszej bazy w okolicach Mediolanu szybko docieramy na mediolańskie tereny targowe i wyruszamy ze stoiskiem na targi w całej Europie.",
+    "Montujemy stoiska z naszej produkcji, a także stoiska innych dostawców lub należące do klienta: przyjęcie materiałów, montaż, odbiór techniczny, wsparcie w trakcie targów, demontaż i powrót do magazynu."
+   ],
+   "inc": [
+    {
+     "t": "Wyspecjalizowane ekipy",
+     "d": "Doświadczeni monterzy z własnym sprzętem i dedykowanym kierownikiem budowy."
+    },
+    {
+     "t": "Formalności wjazdowe",
+     "d": "Przepustki, dokumentacja BHP i zezwolenia wymagane przez teren targowy."
+    },
+    {
+     "t": "Odbiór i przekazanie",
+     "d": "Końcowa kontrola konstrukcji, oświetlenia i grafiki przed otwarciem."
+    },
+    {
+     "t": "Wsparcie na targach",
+     "d": "Technicy pod telefonem przez cały czas trwania targów, na każdą potrzebę."
+    },
+    {
+     "t": "Demontaż i magazynowanie",
+     "d": "Demontaż w wyznaczonym czasie, transport i magazynowanie do ponownego użycia."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy montujecie także stoiska, których nie produkowaliście?",
+     "a": "Tak, montujemy i demontujemy także stoiska innych wykonawców lub należące do wystawcy."
+    },
+    {
+     "q": "Na jakich terenach targowych pracujecie?",
+     "a": "Na Fiera Milano Rho i w Allianz MiCo, w Bolonii, Weronie i Rimini, a także w głównych centrach Europy: Düsseldorf, Kolonia, Frankfurt, Monachium, Paryż, Barcelona, Madryt, Amsterdam i dalej."
+    },
+    {
+     "q": "Czy przestrzegacie przepisów bezpieczeństwa obiektów?",
+     "a": "Tak, nasi monterzy pracują zgodnie z przepisami BHP i regulaminami technicznymi każdego terenu targowego."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "stoiska-targowe-mediolan",
+   "nav": "Stoiska w Mediolanie",
+   "title": "Stoiska targowe Mediolan: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Wykonawca stoisk targowych z okolic Mediolanu: stoiska pod klucz na Fiera Milano Rho, Allianz MiCo i eventy w mieście, projektowane i montowane przez nas.",
+   "h1": "Stoiska targowe w Mediolanie",
+   "lead": "Mediolan to jedno z najważniejszych centrów targowych w Europie, a my pracujemy właśnie stąd: projektujemy, produkujemy i montujemy stoiska na targi w Fiera Milano Rho i Allianz MiCo oraz na eventy w mieście.",
+   "body": [
+    "Fiera Milano Rho co roku gości międzynarodowe wydarzenia, takie jak Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO i MICAM, a Allianz MiCo należy do największych centrów kongresowych w Europie. Dla wystawcy oznacza to ogromną konkurencję: stoisko musi się wyróżniać.",
+    "Wykonawca z okolic Mediolanu to szybkie wizje lokalne, prosta logistyka, ekipy montażowe na miejscu i natychmiastowe wsparcie w trakcie targów. A jeśli po Mediolanie Twój sezon trwa dalej za granicą, ten sam zespół zawiezie stoisko do każdego centrum targowego w Europie."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stoiska na wielkie międzynarodowe targi w Rho — od hal designu po motocyklowe i spożywcze."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Zabudowa kongresów, konwencji i targów w mediolańskim centrum kongresowym."
+    },
+    {
+     "t": "Eventy w mieście",
+     "d": "Premiery produktów, Fuorisalone, showroomy i sklepy tymczasowe w mediolańskich lokalizacjach."
+    },
+    {
+     "t": "Szybkie wizje lokalne",
+     "d": "Z naszej bazy błyskawicznie docieramy na mediolańskie tereny targowe — przed targami i w ich trakcie."
+    },
+    {
+     "t": "Magazyn w pobliżu",
+     "d": "Twoje stoisko czeka w naszym magazynie w Lombardii, gotowe na kolejną edycję."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy jesteście wykonawcą z Mediolanu?",
+     "a": "Tak, działamy z okolic Mediolanu, z siedzibą i warsztatem w Tromello (PV) w Lombardii, niedaleko Fiera Milano Rho."
+    },
+    {
+     "q": "Na jakie targi w Mediolanie realizujecie stoiska?",
+     "a": "Na wszystkie wydarzenia w Fiera Milano Rho i Allianz MiCo, a także na eventy i Fuorisalone w mieście."
+    },
+    {
+     "q": "Czy możecie obsłużyć nas także na targach za granicą?",
+     "a": "Tak, z Mediolanu wozimy stoiska i ekipy do wszystkich głównych centrów targowych w Europie."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "stoiska-targowe-europa",
+   "nav": "Stoiska w Europie",
+   "title": "Stoiska targowe w Europie: Niemcy, Francja, Hiszpania | NEWSTANDS",
+   "desc": "Z Mediolanu do wszystkich centrów targowych Europy: stoiska pod klucz w Düsseldorfie, Kolonii, Frankfurcie, Monachium, Paryżu, Barcelonie, Madrycie i dalej.",
+   "h1": "Stoiska targowe w całej Europie",
+   "lead": "Wyruszamy z Mediolanu i docieramy do każdego centrum targowego w Europie: jeden dostawca projektu, produkcji, transportu i montażu, gdziekolwiek odbywają się Twoje targi.",
+   "body": [
+    "Wystawianie się za granicą z innym lokalnym wykonawcą w każdym kraju oznacza nowe osoby kontaktowe, różne standardy i większe ryzyko. Z NEWSTANDS masz jeden zespół: projektujemy i produkujemy w naszym warsztacie pod Mediolanem, organizujemy transport i formalności wjazdowe, a montujemy własnymi ekipami.",
+    "Pracujemy na dużych terenach targowych w Niemczech, Francji, Hiszpanii, krajach Beneluksu, Austrii i Szwajcarii, a na życzenie także w każdym innym centrum. Zrealizowaliśmy pawilony narodowe i stoiska marek, m.in. pawilon Tunezji na targach MEDICA w Düsseldorfie."
+   ],
+   "inc": [
+    {
+     "t": "Niemcy",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt i Messe München."
+    },
+    {
+     "t": "Francja",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles i Eurexpo Lyon."
+    },
+    {
+     "t": "Hiszpania",
+     "d": "Fira de Barcelona Gran Via i IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam i Brussels Expo."
+    },
+    {
+     "t": "Austria, Szwajcaria i dalej",
+     "d": "Messe Wien, Palexpo Genève i każdy inny teren targowy w Europie na życzenie."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Czy sami zajmujecie się transportem i formalnościami na targach za granicą?",
+     "a": "Tak: pakowanie, transport, przepustki, dokumentacja BHP i kontakty z organizatorem targów są po naszej stronie."
+    },
+    {
+     "q": "Czy ekipy montażowe są Wasze?",
+     "a": "Tak, stoisko montują nasze własne ekipy z dedykowanym kierownikiem budowy, także za granicą."
+    },
+    {
+     "q": "W jakich językach możemy się komunikować?",
+     "a": "Po włosku i po angielsku; w sprawie dokumentacji targowej kontaktujemy się z organizatorem w lokalnym języku."
+    }
+   ]
+  }
+ }
+}

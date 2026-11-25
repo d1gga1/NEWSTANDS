@@ -1,0 +1,987 @@
+{
+ "_lang": "hr",
+ "meta": {
+  "title": "Sajamski štandovi Milano i izvedba u Europi | NEWSTANDS",
+  "desc": "Izvođač sajamskih štandova iz područja Milana: projektiramo, proizvodimo i montiramo štandove po sistemu ključ u ruke na Fiera Milano i diljem Europe.",
+  "ogTitle": "NEWSTANDS — sajamski štandovi od Milana do cijele Europe",
+  "ogDesc": "Sajamski štandovi ključ u ruke, eventi i kongresi: baza u području Milana, montažni timovi na svakom europskom sajmištu.",
+  "ogAlt": "NEWSTANDS — izvedba sajamskih štandova od Milana do cijele Europe",
+  "orgDesc": "Izvođač sajamskih štandova sa sjedištem u području Milana (Tromello, PV). Projektira, proizvodi i montira sajamske štandove ključ u ruke, postave za evente, kongrese, showroome i temporary storeove na Fiera Milano i na svim sajmištima u Europi.",
+  "slogan": "Projektirano, proizvedeno, montirano."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podij",
+  "h003": "Izvedba štandova",
+  "h004": "Projektirano · Proizvedeno · Montirano",
+  "h005": "Dodirnite za ulaz",
+  "h006": "Proces",
+  "h007": "Usluge",
+  "h008": "Radovi",
+  "h009": "Konfigurirajte",
+  "h009b": "Konfigurirajte",
+  "h010": "Europa",
+  "h011": "Ponuda",
+  "h012": "Izvođač sajamskih štandova u Milanu · Eventi · Kongresi",
+  "h013": "Projektiranje → Proizvodnja → Montaža",
+  "h014": "Baza nam je u području Milana, sajamskom srcu Europe: gradimo štandove od nule i montiramo ih na svakom europskom sajmištu. Jedan sugovornik od prve skice do posljednjeg vijka.",
+  "h015": "Skrolajte i složite štand",
+  "h016": "Nacrt 00 — Tlocrt štanda 8.000 × 6.000",
+  "h017": "Mjerilo 1:50",
+  "h018": "Projekt",
+  "h019": "Napredak gradilišta",
+  "h020": "Nacrt 05 — Predaja",
+  "h021": "Ključ u ruke.",
+  "h022": "Konfigurirajte svoj",
+  "h023": "Zatražite ponudu",
+  "h024": "§ 01 — O nama",
+  "h025": "Ne prodajemo kvadrate. Gradimo mjesto na kojem vaš *brend* susreće tržište — od *prve* *skice* do posljednjeg vijka, u bilo kojem paviljonu u Europi.",
+  "h026": "Metoda",
+  "h027": "Svaki dio projektiramo, proizvodimo i montiramo sami: konstrukcije, panele, grafike, namještaj i rasvjetu. Manje posrednika, manje iznenađenja, poštovani rokovi.",
+  "h028": "Od ničega",
+  "h029": "do štanda.",
+  "h030": "Šest faza, jedna režija.",
+  "h031": "Skrolajte vodoravno →",
+  "h032": "Faza 01",
+  "h033": "Ciljevi, budžet, sajam, tehnički pravilnik sajmišta. Krećemo od onoga što se mora dogoditi na vašem štandu.",
+  "h034": "Faza 02",
+  "h035": "Koncept i 3D",
+  "h036": "Fotorealistični renderi i izvedbeni nacrti: vidite gotov štand prije nego što se izreže i jedan panel.",
+  "h037": "Faza 03",
+  "h038": "Proizvodnja",
+  "h039": "Stolarija, bravarija, velikoformatni tisak, rasvjetna tehnika. Svaki komad nastaje po mjeri.",
+  "h040": "Faza 04",
+  "h041": "Logistika",
+  "h042": "Pakiranje, prijevoz i dozvole za ulaz na svako europsko sajmište. Mi dolazimo, i to na vrijeme.",
+  "h043": "Faza 05",
+  "h044": "Montaža",
+  "h045": "Specijalizirani timovi na terenu, posvećeni voditelj montaže, tehnički pregled. Štand vam predajemo spreman.",
+  "h046": "Faza 06",
+  "h047": "Sajam i demontaža",
+  "h048": "Tehnička podrška tijekom sajma, demontaža, skladištenje i ponovna upotreba za sljedeći sajam.",
+  "h049": "Rezultat",
+  "h050": "Vi mislite",
+  "h051": "na klijente.",
+  "h052": "Za sve ostalo",
+  "h053": "brinemo mi.",
+  "h054": "Razgovarajmo o sljedećem sajmu",
+  "h055": "Što",
+  "h056": "gradimo",
+  "h057": "§ 03 — Usluge",
+  "h058": "Svaka vrsta sajma i eventa, od linijskog štanda od 16 m² do otočnog štanda na dvije etaže. Proizvodnja i montaža uvijek u vlastitoj režiji.",
+  "h059": "Izvedeni",
+  "h060": "štandovi",
+  "h061": "§ 04 — Radovi",
+  "h062": "Izbor štandova koje su naši timovi projektirali, proizveli i montirali: nacionalni paviljoni, otočni štandovi brendova i tehnički štandovi diljem Europe.",
+  "h063": "Sljedeći može biti vaš",
+  "h064": "svoj štand",
+  "h065": "§ 05 — 3D konfigurator",
+  "h066": "Odaberite tip i površinu: gledajte kako volumen dobiva oblik i pošaljite nam konfiguraciju kao temelj za ponudu.",
+  "h067": "↔ Povucite za rotaciju",
+  "h068": "Aksonometrijski prikaz",
+  "h069": "Az 000°",
+  "h070": "01 — Tip",
+  "h071": "Otvorene strane",
+  "h072": "02 — Površina",
+  "h073": "Okvirne dimenzije",
+  "h074": "Koristi ovu konfiguraciju",
+  "h075": "Sljedeći",
+  "h076": "polazak",
+  "h077": "§ 06 — Od Milana do cijele Europe",
+  "h078": "Krećemo iz Milana, grada velikih međunarodnih sajmova, i sa štandom putujemo na svako europsko sajmište: Njemačka, Francuska, Španjolska, Benelux, Austrija, Švicarska. Gdje god postoji paviljon, mi stižemo.",
+  "h079": "Grad",
+  "h080": "Sajmište",
+  "h081": "Država",
+  "h082": "Status",
+  "h083": "Montažni timovi aktivni",
+  "h084": "+ svako drugo sajmište na upit",
+  "h085": "Česta",
+  "h086": "pitanja",
+  "h087": "§ 07 — FAQ",
+  "h088": "Cijene, rokovi, gradovi i usluge: odgovori na pitanja koja nam najčešće postavljaju prije sajma.",
+  "h089": "Imate sajam",
+  "h090": "u kalendaru?",
+  "h091": "Opišite nam događaj, datume i kvadraturu. Odgovorit ćemo prvim prijedlogom i jasnom ponudom.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Sjedište",
+  "h095": "Područje",
+  "h096": "Milano + cijela Europa",
+  "h097": "Usluga",
+  "h098": "Ključ u ruke",
+  "h099": "Sajamski štand",
+  "h100": "Event",
+  "h101": "Kongres",
+  "h102": "Showroom / temporary",
+  "h103": "Samo montaža",
+  "h104": "Ime i prezime",
+  "h105": "Tvrtka",
+  "h106": "Sajam / event i grad",
+  "h107": "Opišite nam projekt",
+  "h108": "Pošalji upit",
+  "h109": "Upit je spreman u vašoj e-pošti: kliknite pošalji.",
+  "h110": "Ništa se nije otvorilo? Pišite na",
+  "h111": "ili nazovite",
+  "h112": "Studio",
+  "h113": "Sajamski štandovi u Milanu i Europi, eventi, kongresi",
+  "h114": "27020 Tromello (PV), Lombardija",
+  "h115": "Navigacija",
+  "h116": "Konfigurator",
+  "h117": "Društvene mreže",
+  "h118": "Kontakt",
+  "h119": "Zatražite ponudu →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija",
+  "h121": "Projektirano, proizvedeno, montirano.",
+  "h122": "Na vrh ↑",
+  "h123": "Glavni izbornik",
+  "h124": "Filtriraj po sektoru",
+  "h125": "Galerija projekta",
+  "h126": "Zatvori galeriju",
+  "h127": "Prethodna fotografija",
+  "h128": "Sljedeća fotografija",
+  "h129": "Površina u kvadratnim metrima",
+  "h130": "Upit za ponudu štanda",
+  "h131": "Vrsta projekta",
+  "h132": "Pišite nam na WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Koliko košta sajamski štand?",
+   "a": "Cijena štanda ovisi o površini, tipu (linijski, kutni, poluotočni ili otočni), materijalima, grafikama, namještaju i sajmištu. Nakon kratkog briefinga o sajmu, datumima i kvadraturi šaljemo vam prvi prijedlog i jasnu, detaljnu ponudu. Možete krenuti od 3D konfiguratora iznad ili nas nazvati ili nam pisati na WhatsApp na <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Gdje se nalazi NEWSTANDS i na kojim sajmovima radite?",
+   "a": "Izvođač smo sajamskih štandova iz područja Milana, sa sjedištem i radionicom u Tromellu (PV) u Lombardiji: strateški položaj nedaleko od Fiera Milano Rho i Allianz MiCo, gdje se održavaju neki od najvažnijih sajmova u Europi. Odavde naši timovi putuju na svako sajmište: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Pariz, Lyon, Barcelona, Madrid, Amsterdam, Bruxelles, Beč, Ženeva i dalje."
+  },
+  {
+   "q": "Što uključuje usluga ključ u ruke?",
+   "a": "Jedan sugovornik za sve: briefing, koncept i 3D renderi, izvedbeni nacrti, vlastita proizvodnja konstrukcija, panela, velikoformatnih grafika, namještaja i rasvjete, logistika i prijevoz, montaža s posvećenim voditeljem gradilišta, podrška tijekom sajma, demontaža i skladištenje za ponovnu upotrebu."
+  },
+  {
+   "q": "Radite li i evente, kongrese i showroome?",
+   "a": "Da. Osim individualnih i modularnih sajamskih štandova projektiramo i postavljamo korporativne evente, kongrese, konvencije, predstavljanja proizvoda, pozornice i scenografije, showroome, temporary storeove i pop-upove, s trussovima, ledwallovima i rasvjetnom tehnikom."
+  },
+  {
+   "q": "Koliko unaprijed vam se isplati javiti?",
+   "a": "Što se ranije javite, to imamo više prostora za projekt, rendere i proizvodnju: za štand po mjeri najbolje je krenuti čim potvrdite sudjelovanje na sajmu. Za modularne štandove i samu montažu možemo raditi i u kraćim rokovima: pišite nam i odmah ćemo provjeriti izvedivost."
+  },
+  {
+   "q": "Kako mogu zatražiti ponudu?",
+   "a": "Ispunite obrazac u odjeljku za kontakt, pišite na <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> ili nas nazovite ili nam pišite na WhatsApp na <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativno <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Navedite sajam ili event, grad, datume i kvadraturu: javit ćemo vam se s prvim prijedlogom."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Svaki štand nastaje iz tehničkog nacrta: mjere, pravilnik sajmišta, tokovi posjetitelja."
+   ],
+   [
+    "Konstrukcija",
+    "Podij, trussovi, okviri. Dio koji se ne vidi, a nosi sve."
+   ],
+   [
+    "Zidovi i grafika",
+    "Paneli izrađeni po mjeri, velikoformatni tisak, završne obrade."
+   ],
+   [
+    "Namještaj i tehnologija",
+    "Pultovi, totemi, ledwallovi, zone za sastanke, viseći prsten. Sve proizvodimo i montiramo sami."
+   ],
+   [
+    "Svjetla upaljena",
+    "Tehnički pregled, čišćenje, predaja. Štand je spreman za otvaranje."
+   ]
+  ],
+  "lbl": [
+   "Š 8.000 mm",
+   "D 6.000 mm",
+   "Truss 29×29 — V 4.500",
+   "Zid 3.400 + grafika",
+   "Ledwall 3,4 × 1,9 m",
+   "Recepcijski pult",
+   "Viseći prsten Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Linijski",
+   "angolo": "Kutni",
+   "penisola": "Poluotok",
+   "isola": "Otok",
+   "doppio": "Dvoetažni"
+  },
+  "sides": "strane",
+  "side": "strana",
+  "openSides": "otvorene strane",
+  "openSide": "otvorena strana",
+  "cfgMsg": "Konfiguracija s web-stranice: štand {type}, {n} {sides}, oko {area} m² ({dim} m).",
+  "axo": "Aksonometrijski prikaz",
+  "cfgFb": "3D konfigurator nije dostupan na ovom uređaju.<br>Pišite nam: render ćemo vam poslati mi.",
+  "mq": [
+   "Štandovi po mjeri",
+   "Eventi",
+   "Kongresi",
+   "Showroomi",
+   "Temporary",
+   "Ledwall",
+   "Truss",
+   "Grafika",
+   "Namještaj"
+  ],
+  "svc": [
+   {
+    "t": "Štandovi po mjeri",
+    "d": "Jedinstveni projekti građeni od nule oko vašeg brenda: drvo, metal, staklo, tekstil, vrhunske završne obrade.",
+    "tags": [
+     "Koncept",
+     "3D render",
+     "Proizvodnja",
+     "Montaža"
+    ]
+   },
+   {
+    "t": "Modularni štandovi",
+    "d": "Višekratni, unaprijed pripremljeni sustavi za one koji izlažu na više sajmova godišnje: dosljedan imidž, troškovi pod kontrolom.",
+    "tags": [
+     "Ponovna upotreba",
+     "Skladištenje",
+     "Brzina"
+    ]
+   },
+   {
+    "t": "Eventi i kongresi",
+    "d": "Pozornice, scenografije, plenarne dvorane, korporativne konvencije i predstavljanja proizvoda, uz kompletnu tehničku režiju.",
+    "tags": [
+     "Pozornice",
+     "Scenografije",
+     "Audio/video"
+    ]
+   },
+   {
+    "t": "Showroom i temporary",
+    "d": "Privremeni maloprodajni prostori, pop-upovi i stalni showroomi: ista preciznost kao na sajamskom gradilištu.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Velikoformatna grafika",
+    "d": "Tisak na forex, pozadinski osvijetljeni tekstil, PVC, naljepnice i folije za staklo. Sami ih proizvodimo i postavljamo.",
+    "tags": [
+     "Lightbox",
+     "Tekstil",
+     "Naljepnice"
+    ]
+   },
+   {
+    "t": "Truss i ledwall",
+    "d": "Truss konstrukcije, viseći prstenovi, rigging, ledwallovi i rasvjeta za štandove koji se vide iz cijelog paviljona.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Rasvjeta"
+    ]
+   },
+   {
+    "t": "Namještaj i najam",
+    "d": "Pultovi, šankovi, sjedalice, vitrine, kuhinje i spremišta: namještaj po mjeri ili u najmu za svaku kvadraturu.",
+    "tags": [
+     "Po mjeri",
+     "Najam",
+     "Spremište"
+    ]
+   }
+  ],
+  "more": "Saznajte više",
+  "tav": "Nacrt",
+  "avail": "DOSTUPNO",
+  "form": {
+   "type": "Vrsta projekta",
+   "name": "Ime i prezime",
+   "company": "Tvrtka",
+   "fair": "Sajam / event i grad",
+   "project": "Projekt",
+   "subj": "Upit za ponudu štanda"
+  },
+  "ariaW": "{t} — otvori galeriju ({n} fotografija)",
+  "altW": "Sajamski štand {t} — {c}, izvedba NEWSTANDS",
+  "nPh": "{n} fotografija",
+  "altLb": "Sajamski štand {t} ({c}) — fotografija {i} od {n}",
+  "phN": "Fotografija {i}",
+  "all": "Svi",
+  "ld": [
+   "Podij",
+   "Zidovi",
+   "Greda",
+   "Svjetla",
+   "Gotovo"
+  ],
+  "c3": [
+   "OD NULE",
+   "DO ŠTANDA.",
+   "PROJEKT · PROIZVODNJA · MONTAŽA · EUROPA",
+   "SAJAMSKI ŠTANDOVI",
+   "ŠTANDOVI · EVENTI · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristali i rasvjeta",
+   "g": "Dizajn",
+   "d": "Potpuno bijeli otočni štand obavijen zavjesama od kristalnih niti, visećim lusterima i lakiranim namještajem: štand postaje svjetleći izlog."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sportski dodaci prehrani",
+   "g": "Hrana i zdravlje",
+   "d": "Otočni štand otvoren na više strana, s grafikama proizvoda preko cijelih zidova, visećim natpisima i pultovima za degustaciju za velike tokove posjetitelja."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turizam",
+   "g": "Turizam",
+   "d": "Institucionalni paviljon s lukovima i minaretima inspiriranima arhitekturom Telangane, pultovima za izlagače i imerzivnim grafikama."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turizam",
+   "g": "Turizam",
+   "d": "Portali u imitaciji terakote, rezbareni lukovi i B2B pultovi: regionalni paviljon koji predstavlja kraj na prvi pogled."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nacionalni prehrambeni paviljon",
+   "g": "Hrana i zdravlje",
+   "d": "Zajednički paviljon u bijeloj i crvenoj boji s perforiranim ukrasima, pultovima izlagača i zonom za show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrija",
+   "d": "Korporativni štand sa staklenim sobama za sastanke, pozadinski osvijetljenim zidovima i recepcijom otvorenom prema prolazu."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motocikli",
+   "g": "Motocikli",
+   "d": "Potpuno bijeli štand s crvenim portalima i podijima za motocikle: čista grafika koja pušta da vozila govore sama."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Električni motocikli",
+   "g": "Motocikli",
+   "d": "Potpuno crna scenografija sa sjajnim bijelim podom, izloženim motociklima i zonom za sastanke."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Izložbeni lounge",
+   "g": "Dizajn",
+   "d": "Otvoreni lounge s velikim panoramskim printom, visećim spuštenim stropom, šankom i sjedalima za doček posjetitelja."
+  },
+  {
+   "t": "Plastona",
+   "c": "Dom i vrt",
+   "g": "Dizajn",
+   "d": "Otočni štand s kubičnim natpisima na rešetkastoj konstrukciji, bijelim policama i ambijentalnim postavima proizvoda."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motocikli i motori",
+   "g": "Motocikli",
+   "d": "Kutni štand s crnim i bijelim izložbenim zidovima, vozilima na podiju i zonom sa stolovima."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energetska industrija",
+   "g": "Industrija",
+   "d": "Zaobljeni pozadinski osvijetljeni okviri, tehnički paneli i zona za sastanke za B2B publiku."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Kacige",
+   "g": "Motocikli",
+   "d": "Izložbeni zidovi za kacige, racing grafike i recepcijski pult: talijanski dizajn na nekoliko kvadrata."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Moto oprema",
+   "g": "Motocikli",
+   "d": "Stupovi u bojama talijanske trobojnice, osvijetljene vitrine i zidovi s proizvodima za racing nastup visoke vidljivosti."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Kacige",
+   "g": "Motocikli",
+   "d": "Zid s rombovima i izloženim kacigama, natpisi u prevelikom mjerilu i zona sa stolovima za pregovore."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Dijelovi i odjeća za motocikliste",
+   "g": "Motocikli",
+   "d": "Grafički totemi pune visine, vitrine s proizvodima i zidovi s odjećom oko zone za sastanke."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrija",
+   "g": "Industrija",
+   "d": "Korporativni štand u plavoj boji s procesnim grafikama, tehničkom zonom i mjestima za sastanke."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turizam",
+   "g": "Turizam",
+   "d": "Scenografski portal s tradicionalnim ukrasima i velikim fotografijama regije."
+  },
+  {
+   "t": "Uttar Pradesh — Poljoprivreda",
+   "c": "Agroprehrana",
+   "g": "Hrana i zdravlje",
+   "d": "Bijeli štand sa svjetlećim okvirima uz pod i panelima proizvoda, jednostavan i svijetao."
+  },
+  {
+   "t": "Tunis — Medica Düsseldorf",
+   "c": "Nacionalni medicinski paviljon",
+   "g": "Medicina",
+   "d": "Nacionalni paviljon na sajmu Medica Düsseldorf s visećim natpisom, pultovima za tvrtke izlagače i lounge zonom."
+  }
+ ],
+ "ui": {
+  "langName": "Hrvatski",
+  "langLabel": "Jezik",
+  "home": "Početna",
+  "services": "Usluge",
+  "works": "Radovi",
+  "contacts": "Kontakt",
+  "quote": "Ponuda",
+  "requestQuote": "Zatražite ponudu",
+  "whatsapp": "Pišite nam na WhatsApp",
+  "call": "Nazovite nas",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-pošta",
+  "address": "Sjedište",
+  "serviceN": "Usluga",
+  "locationK": "Od Milana do cijele Europe",
+  "includesTitle": "Što uključuje",
+  "whyTitle": "Zašto NEWSTANDS",
+  "why": [
+   {
+    "t": "Baza u Milanu",
+    "d": "Radimo iz područja Milana, nedaleko od Fiera Milano Rho i Allianz MiCo: brzi obilasci lokacije, jednostavna logistika, timovi uvijek blizu velikih sajmišta."
+   },
+   {
+    "t": "Vlastita proizvodnja",
+    "d": "Konstrukcije, paneli, grafike, namještaj i rasvjeta nastaju u našoj radionici: manje posrednika, manje iznenađenja, poštovani rokovi."
+   },
+   {
+    "t": "Na svakom europskom sajmištu",
+    "d": "Naši montažni timovi putuju sa štandom: Njemačka, Francuska, Španjolska, Benelux, Austrija, Švicarska i svako drugo sajmište na upit."
+   },
+   {
+    "t": "Jedan sugovornik",
+    "d": "Od briefinga do demontaže uvijek razgovarate s istom osobom, uz posvećenog voditelja gradilišta na sajmu."
+   }
+  ],
+  "galleryTitle": "Neki od izvedenih štandova",
+  "faqTitle": "Česta pitanja",
+  "otherTitle": "Ostale usluge",
+  "ctaTitle": "Imate sajam u kalendaru?",
+  "ctaText": "Recite nam sajam, grad, datume i kvadraturu: odgovorit ćemo prvim prijedlogom i jasnom ponudom.",
+  "whereTitle": "Od Milana do svakog sajmišta",
+  "whereText": "Nalazimo se u području Milana, grada u kojem se održavaju neki od najvažnijih sajmova na svijetu. Odavde s našim timovima stižemo na svako sajmište u Italiji i Europi.",
+  "milanLink": "Sajamski štandovi u Milanu",
+  "europeLink": "Sajamski štandovi u Europi",
+  "photos": "fotografija",
+  "backHome": "Natrag na početnu",
+  "footerTag": "Sajamski štandovi u Milanu i diljem Europe. Projektirano, proizvedeno, montirano.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija · Područje Milana",
+  "breadcrumb": "Putanja",
+  "skip": "Preskoči na sadržaj",
+  "menu": "Glavni izbornik"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "sajamski-standovi-po-mjeri",
+   "nav": "Štandovi po mjeri",
+   "title": "Sajamski štandovi po mjeri u Milanu i Europi | NEWSTANDS",
+   "desc": "Sajamski štandovi po mjeri koje NEWSTANDS projektira, proizvodi i montira: baza u području Milana, gradilišta na svim sajmištima u Europi.",
+   "h1": "Sajamski štandovi po mjeri",
+   "lead": "Jedinstven štand, izgrađen od nule oko vašeg brenda: projektiramo ga, proizvodimo u našoj radionici kraj Milana i montiramo na bilo kojem sajmu u Europi.",
+   "body": [
+    "Štand po mjeri najsnažniji je način da se predstavite na sajmu: svaki zid, svako svjetlo i svaka putanja posjetitelja osmišljeni su za vaše proizvode i vaše prodajne ciljeve. Krećemo od tehničkog pravilnika sajmišta i tokova u paviljonu, a zatim ideju pretvaramo u fotorealistične 3D rendere i izvedbene nacrte.",
+    "Sami proizvodimo drvene i metalne konstrukcije, panele, grafike, namještaj i rasvjetu, pa kontroliramo kvalitetu i rokove u svakoj fazi. Bilo da je sajam na Fiera Milano Rho, u Düsseldorfu ili Parizu, tim koji je izgradio vaš štand isti je onaj koji ga montira."
+   ],
+   "inc": [
+    {
+     "t": "Koncept i 3D renderi",
+     "d": "Kreativni prijedlog, fotorealistični renderi i izmjene sve dok štand ne bude točno onakav kakav želite."
+    },
+    {
+     "t": "Izvedbeni projekt",
+     "d": "Tehnički nacrti, proračuni i dokumentacija usklađena s pravilnikom svakog sajmišta."
+    },
+    {
+     "t": "Proizvodnja po mjeri",
+     "d": "Stolarija, bravarija, staklo, tekstil i vrhunske završne obrade izrađeni u našoj radionici."
+    },
+    {
+     "t": "Grafika i rasvjeta",
+     "d": "Velikoformatni tisak, lightboxovi, ledwallovi i projekt rasvjete integrirani u arhitekturu štanda."
+    },
+    {
+     "t": "Montaža i demontaža",
+     "d": "Prijevoz, montaža s posvećenim voditeljem gradilišta, podrška na sajmu, demontaža i skladištenje."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Koliko vremena treba za izradu štanda po mjeri?",
+     "a": "Ovisi o veličini i složenosti: za štand po mjeri najbolje je krenuti čim potvrdite sudjelovanje na sajmu, kako bi bilo dovoljno vremena za projekt, rendere i proizvodnju."
+    },
+    {
+     "q": "Može li se štand po mjeri ponovno koristiti?",
+     "a": "Da. Elemente projektiramo tako da se mogu uskladištiti i ponovno montirati: za sljedeći sajam štand prilagođavamo novoj kvadraturi i novim grafikama."
+    },
+    {
+     "q": "Izrađujete li štandove po mjeri i izvan Italije?",
+     "a": "Da, iz područja Milana vozimo štand i naše timove na sva glavna europska sajmišta, od Njemačke do Španjolske."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modularni-sajamski-standovi",
+   "nav": "Modularni štandovi",
+   "title": "Modularni sajamski štandovi u Milanu i Europi | NEWSTANDS",
+   "desc": "Modularni sajamski štandovi za višekratnu upotrebu za one koji izlažu na više sajmova godišnje: dosljedan imidž i troškovi pod kontrolom, od Milana do Europe.",
+   "h1": "Modularni štandovi za višekratnu upotrebu",
+   "lead": "Modularni sustavi za one koji izlažu na više sajmova godišnje: isti imidž brenda, troškovi pod kontrolom i brza montaža, u Milanu kao i na svakom europskom sajmištu.",
+   "body": [
+    "Modularni štand dugoročna je investicija: konstrukcije, paneli i namještaj mogu se rekonfigurirati za različite kvadrature i tipove, od linijskog do otočnog štanda. Grafike se mijenjaju, kvaliteta ostaje.",
+    "Sustav projektiramo jednom, proizvodimo ga u našoj radionici i brinemo o njemu između dva sajma: skladištenje, održavanje, ažuriranje grafika i prijevoz do sljedećeg paviljona, u Italiji ili inozemstvu."
+   ],
+   "inc": [
+    {
+     "t": "Sustav po mjeri",
+     "d": "Moduli osmišljeni prema vašem imidžu, kombinirani za štandove od nekoliko kvadrata do velikih otočnih štandova."
+    },
+    {
+     "t": "Izmjenjive grafike",
+     "d": "Tiskani tekstil i paneli koji se brzo mijenjaju za svaki sajam, proizvod ili tržište."
+    },
+    {
+     "t": "Skladištenje i održavanje",
+     "d": "Štand čuvamo u našem skladištu i provjeravamo ga prije svakog novog polaska."
+    },
+    {
+     "t": "Brza montaža",
+     "d": "Kraće vrijeme postavljanja, idealno i za sajmove s kratkim terminima za montažu."
+    },
+    {
+     "t": "Upravljanje kalendarom sajmova",
+     "d": "S vama planiramo sajamsku sezonu i organiziramo logistiku i timove za svaku etapu."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Je li modularni štand jeftiniji od štanda po mjeri?",
+     "a": "Kroz više sajmova obično jest: početna investicija raspoređuje se na svako sudjelovanje, a kasniji troškovi svode se na grafike i logistiku."
+    },
+    {
+     "q": "Prilagođava li se modularni štand različitim površinama?",
+     "a": "Da, moduli se kombiniraju za linijske, kutne, poluotočne ili otočne štandove i za različite kvadrature."
+    },
+    {
+     "q": "Možete li voditi cijeli naš kalendar sajmova?",
+     "a": "Da: iz područja Milana koordiniramo skladištenje, prijevoz i montažu za svaki sajam u sezoni, u Italiji i Europi."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "postav-evenata-i-kongresa",
+   "nav": "Eventi i kongresi",
+   "title": "Postav za evente i kongrese u Milanu | NEWSTANDS",
+   "desc": "Postav za korporativne evente, kongrese, konvencije i predstavljanja proizvoda u Milanu i Europi: pozornice, scenografije i kompletna tehnička režija.",
+   "h1": "Postav za evente i kongrese",
+   "lead": "Pozornice, scenografije, plenarne dvorane, korporativne konvencije i predstavljanja proizvoda: postavljamo evente i kongrese u Milanu i diljem Europe s jednakom preciznošću kao na sajamskom gradilištu.",
+   "body": [
+    "Milano je jedna od europskih prijestolnica evenata i kongresa, s prostorima poput Allianz MiCo i velikim korporativnim lokacijama u gradu. Budući da radimo iz područja Milana, poznajemo rokove, pravila i logistiku tih prostora te vrlo brzo možemo obaviti obilaske lokacije i montažu.",
+    "Projektiramo kompletan postav: pozornicu, scenografiju, plenarnu dvoranu, izložbene zone, recepciju, signalizaciju i rasvjetnu tehniku. Mi koordiniramo tehničke dobavljače, pa za cijeli event imate jednog sugovornika."
+   ],
+   "inc": [
+    {
+     "t": "Pozornice i scenografije",
+     "d": "Pozornice po mjeri, pozadine, ledwallovi i scenografije osmišljene za vašu poruku."
+    },
+    {
+     "t": "Plenarne dvorane i kongresi",
+     "d": "Postav dvorana, poster zona, recepcijskih pultova i prostora za sponzore."
+    },
+    {
+     "t": "Konvencije i predstavljanja proizvoda",
+     "d": "Ambijenti za predstavljanje proizvoda ili okupljanje prodajne mreže na nezaboravan način."
+    },
+    {
+     "t": "Audio, video i rasvjeta",
+     "d": "Tehnička režija, trussovi, ledwallovi i rasvjetna tehnika integrirani u projekt."
+    },
+    {
+     "t": "Signalizacija i grafika",
+     "d": "Putokazi, totemi, backdropovi i usklađene grafike koje sami tiskamo i postavljamo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Postavljate li evente i izvan sajmišta?",
+     "a": "Da: hoteli, kongresni centri, industrijski prostori i privatne lokacije, u Milanu, Italiji i inozemstvu."
+    },
+    {
+     "q": "Možete li preuzeti i tehnički dio, audio i video?",
+     "a": "Da, pozornicu, ledwall, rasvjetu i audio koordiniramo kao dio jedinstvenog projekta, s jednom kontakt osobom."
+    },
+    {
+     "q": "Koliko unaprijed organizirati event?",
+     "a": "Što ranije, to bolje: s nekoliko tjedana vremena možemo bez žurbe obaviti obilazak lokacije, projekt i proizvodnju. Za hitne zahtjeve javite nam se i procijenit ćemo izvedivost."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-pop-up-trgovine",
+   "nav": "Showroom i temporary",
+   "title": "Showroomi, temporary storeovi i pop-up u Milanu | NEWSTANDS",
+   "desc": "Projektiranje i opremanje showrooma, temporary storeova, pop-up trgovina i shop-in-shopova u Milanu i Europi, uz vlastitu proizvodnju i montažu.",
+   "h1": "Showroomi, temporary storeovi i pop-up trgovine",
+   "lead": "Privremeni maloprodajni prostori, pop-up trgovine i stalni showroomi opremljeni s istom preciznošću kao sajamsko gradilište, u Milanu i diljem Europe.",
+   "body": [
+    "Temporary store ili pop-up mora biti spreman za nekoliko dana i ostaviti dojam: projektiramo prostore koji pričaju priču brenda, ističu proizvod i brzo se montiraju, i u trgovačkim centrima i u shopping ulicama.",
+    "Za stalne showroome izrađujemo namještaj po mjeri, izložbene zidove, vitrine i rasvjetu od trajnih materijala. Proizvodnja i montaža su u vlastitoj režiji, pa rokovi i kvaliteta ostaju pod kontrolom."
+   ],
+   "inc": [
+    {
+     "t": "Retail koncept",
+     "d": "Raspored, put kupca i izlaganje proizvoda osmišljeni da prodaju."
+    },
+    {
+     "t": "Temporary i pop-up",
+     "d": "Lagane konstrukcije koje se brzo montiraju, demontiraju i ponovno koriste u drugim gradovima."
+    },
+    {
+     "t": "Stalni showroomi",
+     "d": "Namještaj po mjeri, opremljeni zidovi, vitrine i vrhunske završne obrade."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Brand cornersi unutar trgovina i robnih kuća, usklađeni s vašim imidžem."
+    },
+    {
+     "t": "Rasvjeta i grafika",
+     "d": "Osvjetljenje proizvoda, natpisi, folije za izloge i grafike u našoj proizvodnji."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Koliko traje opremanje temporary storea?",
+     "a": "Ovisi o prostoru i projektu: zahvaljujući vlastitoj proizvodnji pop-up možemo montirati i za nekoliko dana."
+    },
+    {
+     "q": "Može li se pop-up preseliti u druge gradove?",
+     "a": "Da, projektiramo modularne konstrukcije koje se demontiraju i ponovno montiraju na drugim lokacijama, u Italiji i Europi."
+    },
+    {
+     "q": "Radite li i stalne showroome?",
+     "a": "Da, od projektiranja do ugradnje namještaja, vitrina, rasvjete i grafika."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "velikoformatna-grafika-za-standove",
+   "nav": "Velikoformatna grafika",
+   "title": "Velikoformatna grafika za sajamske štandove | NEWSTANDS",
+   "desc": "Velikoformatni tisak za sajamske štandove i evente: forex, svjetleći tekstil, lightbox, PVC, naljepnice i folije, sve proizvodimo i postavljamo sami.",
+   "h1": "Velikoformatna grafika za štandove i evente",
+   "lead": "Tisak na forex, pozadinski osvijetljeni tekstil, PVC, naljepnice i folije za staklo: grafike vašeg štanda proizvode i postavljaju isti timovi koji ga montiraju.",
+   "body": [
+    "Grafika je ono što posjetitelji prvo vide, često iz cijelog paviljona. Zato je tretiramo kao dio arhitekture štanda: formati, materijali i rasvjeta projektiraju se zajedno s konstrukcijama.",
+    "Tiskamo i postavljamo sami, u Milanu kao i na svakom europskom sajmu: bez prebacivanja između različitih dobavljača, s kontroliranim bojama i grafikama savršeno poravnatima u trenutku otvaranja."
+   ],
+   "inc": [
+    {
+     "t": "Pozadinski osvijetljeni tekstil",
+     "d": "Lightboxovi i svjetleći tekstilni zidovi, lagani i upečatljivi."
+    },
+    {
+     "t": "Kruti paneli",
+     "d": "Tisak na forex, dibond i PVC za zidove, toteme i pultove."
+    },
+    {
+     "t": "Naljepnice i folije za staklo",
+     "d": "Podovi, staklene stijene i površine personalizirani tehničkim naljepnicama."
+    },
+    {
+     "t": "Viseći natpisi",
+     "d": "Banneri i viseće grafičke konstrukcije vidljive izdaleka u paviljonu."
+    },
+    {
+     "t": "Postavljanje na sajmu",
+     "d": "Grafike postavljamo sami, uz završnu provjeru prije otvaranja."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tiskate li grafike i za štandove koje su izradili drugi?",
+     "a": "Da, možemo proizvesti i postaviti samo grafike, poštujući mjere i pravilnike sajmišta."
+    },
+    {
+     "q": "Koje datoteke trebamo za tisak?",
+     "a": "Vektorske datoteke ili slike visoke rezolucije s dodatkom za obrezivanje: tehničke specifikacije za svaki format šaljemo vam mi."
+    },
+    {
+     "q": "Mogu li se tekstilne grafike ponovno koristiti?",
+     "a": "Da, tekstil se pere, slaže i ponovno montira: idealan je za one koji izlažu na više sajmova."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledwall-rasvjeta",
+   "nav": "Truss i ledwall",
+   "title": "Truss, ledwall i rasvjeta za sajamske štandove | NEWSTANDS",
+   "desc": "Truss konstrukcije, viseći prstenovi, rigging, ledwallovi i rasvjetna tehnika za sajamske štandove i evente u Milanu i diljem Europe.",
+   "h1": "Truss, ledwall i rasvjetna tehnika",
+   "lead": "Truss konstrukcije, viseći prstenovi, rigging, ledwallovi i rasvjeta za štandove koji se vide iz cijelog paviljona, na Fiera Milano i na svakom europskom sajmištu.",
+   "body": [
+    "Viseći prsten s logotipom, ledwall za videozapise proizvoda, svjetlo promišljeno za svaku površinu: to su elementi po kojima se štand prepoznaje izdaleka. Projektiramo ih zajedno sa štandom, provjeravajući opterećenja, točke ovješenja i pravilnike sajmišta.",
+    "Isporučujemo i instaliramo trussove, motore, ledwallove i rasvjetna tijela s kvalificiranim osobljem te koordiniramo zahtjeve za rigging s organizatorom sajma."
+   ],
+   "inc": [
+    {
+     "t": "Truss konstrukcije",
+     "d": "Podne i viseće konstrukcije svih dimenzija, i kao nosač za grafike i rasvjetu."
+    },
+    {
+     "t": "Prstenovi i viseći natpisi",
+     "d": "Kružni ili viseći elementi po mjeri s grafikom, vidljivi iz cijelog paviljona."
+    },
+    {
+     "t": "Rigging",
+     "d": "Proračuni, točke ovješenja i dozvole sa sajmištem."
+    },
+    {
+     "t": "Ledwall",
+     "d": "LED ekrani različitih veličina ugrađeni u zidove ili na posebne konstrukcije."
+    },
+    {
+     "t": "Rasvjetna tehnika",
+     "d": "Projekt rasvjete za proizvode, grafike i atmosferu štanda."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Brinete li se vi za dozvole za rigging?",
+     "a": "Da, pripremamo tehničku dokumentaciju i vodimo zahtjeve prema organizatoru sajma."
+    },
+    {
+     "q": "Iznajmljujete li ledwallove i za evente?",
+     "a": "Da, ledwallovi, trussovi i rasvjeta dostupni su i za evente, kongrese i predstavljanja proizvoda."
+    },
+    {
+     "q": "Radite li i na sajmištima u inozemstvu?",
+     "a": "Da, konstrukcije i ledwallove instaliramo na svim glavnim europskim sajmištima."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "najam-namjestaja-za-standove",
+   "nav": "Namještaj i najam",
+   "title": "Namještaj po mjeri i najam za sajamske štandove | NEWSTANDS",
+   "desc": "Pultovi, šankovi, sjedalice, vitrine, kuhinje i spremišta za sajamske štandove: namještaj po mjeri ili u najmu, od Milana do cijele Europe.",
+   "h1": "Namještaj po mjeri i najam za štandove",
+   "lead": "Pultovi, šankovi, sjedalice, vitrine, kuhinje i spremišta: namještaj izrađen po mjeri u našoj radionici ili u najmu, za štandove svih veličina.",
+   "body": [
+    "Namještaj čini da štand funkcionira: doček, izlaganje, sastanci, degustacije i spremište moraju biti na pravom mjestu. Projektiramo ga zajedno s rasporedom, misleći na tokove posjetitelja i rad vašeg tima na sajmu.",
+    "Možemo izraditi unikatne komade po mjeri, u završnim obradama i bojama vašeg brenda, ili isporučiti namještaj u najmu kako bi troškovi ostali niski. Dostava, montaža i preuzimanje uvijek su na nama."
+   ],
+   "inc": [
+    {
+     "t": "Pultovi i recepcija",
+     "d": "Recepcijski pultovi po mjeri, s logotipom, rasvjetom i tehničkim prostorom."
+    },
+    {
+     "t": "Zone za sastanke i lounge",
+     "d": "Stolovi, sjedala i lounge kutci za sastanke s klijentima na štandu."
+    },
+    {
+     "t": "Vitrine i izlagači",
+     "d": "Vitrine, police i opremljeni zidovi koji ističu proizvode."
+    },
+    {
+     "t": "Kuhinje i spremišta",
+     "d": "Ostave, kuhinje i servisne zone integrirane u štand."
+    },
+    {
+     "t": "Najam namještaja",
+     "d": "Namještaj u najmu za svaki stil i budžet, mi ga dostavljamo i preuzimamo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Mogu li unajmiti samo namještaj?",
+     "a": "Da, nudimo i samo najam namještaja, s dostavom i preuzimanjem na sajmu."
+    },
+    {
+     "q": "Može li se namještaj po mjeri ponovno koristiti?",
+     "a": "Da, čuvamo ga u našem skladištu i dovozimo na sljedeći sajam."
+    },
+    {
+     "q": "Dostavljate li namještaj i u inozemstvo?",
+     "a": "Da, dostavljamo i montiramo namještaj na svim glavnim europskim sajmištima."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montaza-demontaza-standova",
+   "nav": "Montaža i demontaža",
+   "title": "Montaža i demontaža štandova u Milanu i Europi | NEWSTANDS",
+   "desc": "Specijalizirani timovi za montažu i demontažu sajamskih štandova na Fiera Milano Rho i na svim europskim sajmištima. I samo montaža.",
+   "h1": "Montaža i demontaža sajamskih štandova",
+   "lead": "Specijalizirani timovi i posvećeni voditelj gradilišta za montažu i demontažu vašeg štanda na Fiera Milano Rho, Allianz MiCo i na svakom sajmištu u Europi. I samo montaža.",
+   "body": [
+    "Montaža je trenutak u kojem projekt postaje štand: potrebni su iskusni timovi, oprema, poštivanje vremenskih termina i sigurnosnih propisa sajmišta. Iz naše baze u području Milana brzo stižemo na milanska sajmišta i sa štandom krećemo na sajmove diljem Europe.",
+    "Montiramo štandove iz vlastite proizvodnje, ali i štandove drugih dobavljača ili one u vlasništvu klijenta: preuzimanje materijala, montaža, tehnički pregled, podrška tijekom sajma, demontaža i povrat u skladište."
+   ],
+   "inc": [
+    {
+     "t": "Specijalizirani timovi",
+     "d": "Iskusni monteri s vlastitom opremom i posvećenim voditeljem gradilišta."
+    },
+    {
+     "t": "Dozvole za ulaz",
+     "d": "Propusnice, sigurnosna dokumentacija i dozvole koje traži sajmište."
+    },
+    {
+     "t": "Pregled i predaja",
+     "d": "Završna provjera konstrukcija, rasvjete i grafika prije otvaranja."
+    },
+    {
+     "t": "Podrška na sajmu",
+     "d": "Tehničari dostupni tijekom cijele manifestacije za svaku potrebu."
+    },
+    {
+     "t": "Demontaža i skladištenje",
+     "d": "Demontaža u predviđenim rokovima, prijevoz i skladištenje za ponovnu upotrebu."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Radite li i samo montažu štandova koje niste vi izradili?",
+     "a": "Da, montiramo i demontiramo i štandove drugih izvođača ili one u vlasništvu izlagača."
+    },
+    {
+     "q": "Na kojim sajmištima radite?",
+     "a": "Na Fiera Milano Rho i Allianz MiCo, u Bologni, Veroni i Riminiju te na glavnim europskim sajmištima: Düsseldorf, Köln, Frankfurt, München, Pariz, Barcelona, Madrid, Amsterdam i dalje."
+    },
+    {
+     "q": "Poštujete li sigurnosne propise sajmišta?",
+     "a": "Da, naši monteri rade u skladu sa sigurnosnim propisima i tehničkim pravilnicima svakog sajmišta."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "sajamski-standovi-milano",
+   "nav": "Štandovi u Milanu",
+   "title": "Sajamski štandovi Milano: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Izvođač sajamskih štandova iz područja Milana: štandovi ključ u ruke za Fiera Milano Rho, Allianz MiCo i evente u gradu, koje sami projektiramo i montiramo.",
+   "h1": "Sajamski štandovi u Milanu",
+   "lead": "Milano je jedno od najvažnijih sajamskih središta Europe, a mi radimo upravo odavde: projektiramo, proizvodimo i montiramo štandove za sajmove na Fiera Milano Rho, Allianz MiCo i za evente u gradu.",
+   "body": [
+    "Fiera Milano Rho svake godine ugošćuje međunarodne manifestacije kao što su Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO i MICAM, a Allianz MiCo jedan je od najvećih kongresnih centara u Europi. Za izlagača to znači iznimno jaku konkurenciju: štand se mora istaknuti.",
+    "Izvođač iz područja Milana znači brze obilaske lokacije, jednostavnu logistiku, montažne timove u blizini i trenutačnu podršku tijekom sajma. A ako se vaša sezona nakon Milana nastavlja u inozemstvu, isti tim vozi štand na svako europsko sajmište."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Štandovi za velike međunarodne sajmove na sajmištu u Rhu, od paviljona dizajna do onih za motocikle i hranu."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Postavi za kongrese, konvencije i sajmove u milanskom kongresnom centru."
+    },
+    {
+     "t": "Eventi u gradu",
+     "d": "Predstavljanja proizvoda, Fuorisalone, showroomi i temporary storeovi na milanskim lokacijama."
+    },
+    {
+     "t": "Brzi obilasci lokacije",
+     "d": "Iz naše baze brzo stižemo na milanska sajmišta, prije i tijekom sajma."
+    },
+    {
+     "t": "Skladište u blizini",
+     "d": "Vaš štand ostaje u našem skladištu u Lombardiji, spreman za sljedeće izdanje."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Jeste li izvođač štandova iz Milana?",
+     "a": "Da, radimo iz područja Milana, sa sjedištem i radionicom u Tromellu (PV) u Lombardiji, nedaleko od Fiera Milano Rho."
+    },
+    {
+     "q": "Za koje milanske sajmove izrađujete štandove?",
+     "a": "Za sve manifestacije na Fiera Milano Rho i Allianz MiCo, kao i za evente i Fuorisalone u gradu."
+    },
+    {
+     "q": "Možete li nas pratiti i na sajmovima u inozemstvu?",
+     "a": "Da, iz Milana vozimo štandove i timove na sva glavna europska sajmišta."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "sajamski-standovi-europa",
+   "nav": "Štandovi u Europi",
+   "title": "Sajamski štandovi u Europi: Njemačka, Francuska | NEWSTANDS",
+   "desc": "Od Milana do svih europskih sajmišta: štandovi ključ u ruke u Düsseldorfu, Kölnu, Frankfurtu, Münchenu, Parizu, Barceloni, Madridu, Amsterdamu i dalje.",
+   "h1": "Sajamski štandovi diljem Europe",
+   "lead": "Krećemo iz Milana i stižemo na bilo koje sajmište u Europi: jedan dobavljač za projekt, proizvodnju, prijevoz i montažu, gdje god bio vaš sajam.",
+   "body": [
+    "Izlaganje u inozemstvu s drugim lokalnim izvođačem u svakoj zemlji znači nove sugovornike, različite standarde i veći rizik. S NEWSTANDS imate jedan tim: projektiramo i proizvodimo u našoj radionici kraj Milana, organiziramo prijevoz i dozvole za ulaz te montiramo s vlastitim timovima.",
+    "Radimo na velikim sajmištima u Njemačkoj, Francuskoj, Španjolskoj, Beneluxu, Austriji i Švicarskoj te na svakom drugom sajmištu na upit. Izveli smo nacionalne paviljone i štandove brendova, poput paviljona Tunisa na sajmu MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Njemačka",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt i Messe München."
+    },
+    {
+     "t": "Francuska",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles i Eurexpo Lyon."
+    },
+    {
+     "t": "Španjolska",
+     "d": "Fira de Barcelona Gran Via i IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam i Brussels Expo."
+    },
+    {
+     "t": "Austrija, Švicarska i dalje",
+     "d": "Messe Wien, Palexpo Genève i svako drugo europsko sajmište na upit."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vodite li vi prijevoz i dozvole za sajmove u inozemstvu?",
+     "a": "Da: pakiranje, prijevoz, propusnice, sigurnosna dokumentacija i komunikacija s organizatorom sajma su na nama."
+    },
+    {
+     "q": "Jesu li montažni timovi vaši?",
+     "a": "Da, štand montiraju naši timovi s posvećenim voditeljem gradilišta, i u inozemstvu."
+    },
+    {
+     "q": "Na kojim jezicima možemo komunicirati?",
+     "a": "Na talijanskom i engleskom; za sajamsku dokumentaciju s organizatorom se koordiniramo na lokalnom jeziku."
+    }
+   ]
+  }
+ }
+}

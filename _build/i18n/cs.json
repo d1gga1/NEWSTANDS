@@ -1,0 +1,987 @@
+{
+ "_lang": "cs",
+ "meta": {
+  "title": "Veletržní stánky Milán a expozice po celé Evropě | NEWSTANDS",
+  "desc": "Výroba veletržních stánků z okolí Milána: navrhujeme, vyrábíme a montujeme stánky na klíč na Fiera Milano a na všech výstavištích v Evropě.",
+  "ogTitle": "NEWSTANDS — veletržní stánky z Milána pro celou Evropu",
+  "ogDesc": "Veletržní stánky na klíč, eventy a kongresy: základna v okolí Milána, vlastní montážní týmy na každém evropském výstavišti.",
+  "ogAlt": "NEWSTANDS — veletržní expozice z Milána pro celou Evropu",
+  "orgDesc": "Realizátor veletržních expozic se základnou v okolí Milána (sídlo v Tromellu, PV). Navrhuje, vyrábí a montuje veletržní stánky na klíč, realizace eventů a kongresů, showroomy a dočasné prodejny na Fiera Milano a na všech výstavištích v Evropě.",
+  "slogan": "Navrženo, vyrobeno, smontováno."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Pódium",
+  "h003": "Expozice",
+  "h004": "Návrh · Výroba · Montáž",
+  "h005": "Klepnutím vstoupíte",
+  "h006": "Postup",
+  "h007": "Služby",
+  "h008": "Reference",
+  "h009": "Nakonfigurujte",
+  "h009b": "Nakonfigurujte",
+  "h010": "Evropa",
+  "h011": "Poptávka",
+  "h012": "Veletržní stánky Milán · Eventy · Kongresy",
+  "h013": "Návrh → Výroba → Montáž",
+  "h014": "Sídlíme v okolí Milána, veletržního srdce Evropy: stavíme stánky od nuly a montujeme je na každém evropském výstavišti. Jeden partner od první skici po poslední šroub.",
+  "h015": "Posouvejte a postavte stánek",
+  "h016": "Výkr. 00 — Půdorys stánku 8.000 × 6.000",
+  "h017": "Měřítko 1:50",
+  "h018": "Projekt",
+  "h019": "Postup montáže",
+  "h020": "Výkr. 05 — Předání",
+  "h021": "Na klíč.",
+  "h022": "Vlastní konfigurace",
+  "h023": "Nezávazná poptávka",
+  "h024": "§ 01 — O nás",
+  "h025": "Neprodáváme metry čtvereční. Stavíme místo, kde se vaše *značka* potkává s trhem — od *první* *skici* po poslední šroub, v kterékoli veletržní hale v Evropě.",
+  "h026": "Naše metoda",
+  "h027": "Každou součást navrhujeme, vyrábíme a montujeme sami: konstrukce, stěny, grafiku, nábytek i osvětlení. Méně mezičlánků, méně překvapení, dodržené termíny.",
+  "h028": "Od nuly",
+  "h029": "k hotovému stánku.",
+  "h030": "Šest fází, jedno vedení.",
+  "h031": "Posouvejte vodorovně →",
+  "h032": "Fáze 01",
+  "h033": "Cíle, rozpočet, veletrh, technický řád výstaviště. Začínáme tím, co se má na vašem stánku dít.",
+  "h034": "Fáze 02",
+  "h035": "Koncept & 3D",
+  "h036": "Fotorealistické vizualizace a prováděcí výkresy: hotový stánek uvidíte dřív, než se uřízne jediný panel.",
+  "h037": "Fáze 03",
+  "h038": "Výroba",
+  "h039": "Truhlárna, zámečnická dílna, velkoformátový tisk, osvětlení. Každý díl vzniká na míru.",
+  "h040": "Fáze 04",
+  "h041": "Logistika",
+  "h042": "Balení, doprava a vstupní formality na každé evropské výstaviště. Přijedeme sami a včas.",
+  "h043": "Fáze 05",
+  "h044": "Montáž",
+  "h045": "Specializované týmy, vlastní stavbyvedoucí, přejímka. Stánek dostanete připravený k provozu.",
+  "h046": "Fáze 06",
+  "h047": "Veletrh & demontáž",
+  "h048": "Technická podpora během veletrhu, demontáž, uskladnění a opětovné použití na dalším veletrhu.",
+  "h049": "Výsledek",
+  "h050": "Vy myslíte",
+  "h051": "na zákazníky.",
+  "h052": "Na všechno ostatní",
+  "h053": "myslíme my.",
+  "h054": "Pojďme probrat váš příští veletrh",
+  "h055": "Co",
+  "h056": "stavíme",
+  "h057": "§ 03 — Služby",
+  "h058": "Jakýkoli veletrh či event, od řadového stánku o 16 m² po patrový ostrov. Výroba i montáž vždy ve vlastní režii.",
+  "h059": "Realizované",
+  "h060": "stánky",
+  "h061": "§ 04 — Reference",
+  "h062": "Výběr stánků, které navrhly, vyrobily a smontovaly naše týmy: národní pavilony, ostrovní expozice značek a technické stánky po celé Evropě.",
+  "h063": "Ten příští může být váš",
+  "h064": "svůj stánek",
+  "h065": "§ 05 — 3D konfigurátor",
+  "h066": "Zvolte typ a plochu: sledujte, jak objem dostává tvar, a pošlete nám konfiguraci jako podklad pro cenovou nabídku.",
+  "h067": "↔ Tažením otočíte",
+  "h068": "Axonometrický pohled",
+  "h069": "Az 000°",
+  "h070": "01 — Typ",
+  "h071": "Otevřené strany",
+  "h072": "02 — Plocha",
+  "h073": "Orient. rozměry",
+  "h074": "Použít tuto konfiguraci",
+  "h075": "Nejbližší",
+  "h076": "odjezd",
+  "h077": "§ 06 — Z Milána po celé Evropě",
+  "h078": "Vyrážíme z Milána, města velkých mezinárodních veletrhů, a se stánkem jezdíme na každé evropské výstaviště: Německo, Francie, Španělsko, Benelux, Rakousko, Švýcarsko. Kde je hala, tam dorazíme.",
+  "h079": "Město",
+  "h080": "Výstaviště",
+  "h081": "Země",
+  "h082": "Stav",
+  "h083": "Montážní týmy v provozu",
+  "h084": "+ jakékoli další výstaviště na přání",
+  "h085": "Časté",
+  "h086": "dotazy",
+  "h087": "§ 07 — FAQ",
+  "h088": "Ceny, termíny, města a služby: odpovědi na otázky, které před veletrhem slýcháme nejčastěji.",
+  "h089": "Chystáte",
+  "h090": "veletrh?",
+  "h091": "Napište nám akci, termíny a plochu. Ozveme se s prvním návrhem a přehlednou cenovou nabídkou.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Sídlo",
+  "h095": "Působnost",
+  "h096": "Milán + celá Evropa",
+  "h097": "Služba",
+  "h098": "Na klíč",
+  "h099": "Veletržní stánek",
+  "h100": "Event",
+  "h101": "Kongres",
+  "h102": "Showroom / pop-up",
+  "h103": "Pouze montáž",
+  "h104": "Jméno a příjmení",
+  "h105": "Firma",
+  "h106": "Veletrh / akce a město",
+  "h107": "Popište nám projekt",
+  "h108": "Odeslat poptávku",
+  "h109": "Poptávka je připravena ve vašem e-mailu: stiskněte Odeslat.",
+  "h110": "Nic se neotevřelo? Napište na",
+  "h111": "nebo volejte na číslo",
+  "h112": "Studio",
+  "h113": "Veletržní stánky v Miláně a v Evropě, eventy, kongresy",
+  "h114": "27020 Tromello (PV), Lombardie",
+  "h115": "Navigace",
+  "h116": "Konfigurátor",
+  "h117": "Sociální sítě",
+  "h118": "Kontakty",
+  "h119": "Poptat cenovou nabídku →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardie",
+  "h121": "Navrženo, vyrobeno, smontováno.",
+  "h122": "Nahoru ↑",
+  "h123": "Hlavní menu",
+  "h124": "Filtrovat podle oboru",
+  "h125": "Galerie projektu",
+  "h126": "Zavřít galerii",
+  "h127": "Předchozí fotka",
+  "h128": "Další fotka",
+  "h129": "Plocha v metrech čtverečních",
+  "h130": "Poptávka veletržního stánku",
+  "h131": "Typ projektu",
+  "h132": "Napište nám na WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Kolik stojí veletržní stánek?",
+   "a": "Cena stánku závisí na ploše, typu (řadový, rohový, poloostrovní nebo ostrovní), materiálech, grafice, nábytku a výstavišti. Po krátkém briefingu o veletrhu, termínech a ploše vám pošleme první návrh a přehlednou, podrobnou cenovou nabídku. Můžete začít ve 3D konfigurátoru výše, nebo nám zavolat či napsat na WhatsApp: <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Kde NEWSTANDS sídlí a na jakých veletrzích pracujete?",
+   "a": "Jsme realizátor veletržních expozic z okolí Milána, se sídlem a dílnou v Tromellu (PV) v Lombardii: strategická poloha kousek od Fiera Milano Rho a Allianz MiCo, kde se konají jedny z nejvýznamnějších veletrhů v Evropě. Odtud naše týmy vyrážejí na všechna výstaviště: Boloňa, Verona, Rimini, Düsseldorf, Kolín nad Rýnem, Frankfurt, Mnichov, Paříž, Lyon, Barcelona, Madrid, Amsterdam, Brusel, Vídeň, Ženeva a další."
+  },
+  {
+   "q": "Co zahrnuje služba na klíč?",
+   "a": "Jednoho partnera pro všechno: briefing, koncept a 3D vizualizace, prováděcí výkresy, vlastní výrobu konstrukcí, stěn, velkoformátové grafiky, nábytku a osvětlení, logistiku a dopravu, montáž s vlastním stavbyvedoucím, podporu během veletrhu, demontáž a uskladnění pro opětovné použití."
+  },
+  {
+   "q": "Realizujete také eventy, kongresy a showroomy?",
+   "a": "Ano. Kromě individuálních a modulárních veletržních stánků navrhujeme a realizujeme firemní akce, kongresy, konference, uvedení produktů, pódia a scény, showroomy, dočasné prodejny a pop-upy — včetně trussů, LED stěn a osvětlení."
+  },
+  {
+   "q": "S jakým předstihem se nám vyplatí ozvat?",
+   "a": "Čím dřív se ozvete, tím víc prostoru máme na návrh, vizualizace a výrobu: u stánku na míru je ideální začít hned po potvrzení účasti na veletrhu. U modulárních stánků a samotné montáže zvládneme i kratší termíny: napište nám a proveditelnost hned ověříme."
+  },
+  {
+   "q": "Jak si vyžádám cenovou nabídku?",
+   "a": "Vyplňte formulář v sekci kontakty, napište na <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> nebo nám zavolejte či napište na WhatsApp: <a href=\"tel:+393884706887\">+39 388 470 6887</a> (případně <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Uveďte veletrh nebo akci, město, termíny a plochu: ozveme se s prvním návrhem."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Každý stánek začíná technickým výkresem: rozměry, řád výstaviště, pohyb návštěvníků."
+   ],
+   [
+    "Konstrukce",
+    "Pódium, trussy, rámy. Část, kterou není vidět, ale která všechno nese."
+   ],
+   [
+    "Stěny & grafika",
+    "Stěny vyrobené na míru, velkoformátový tisk, povrchové úpravy."
+   ],
+   [
+    "Nábytek & technika",
+    "Pulty, totemy, LED stěny, jednací zóny, závěsný kruh. Vyrábíme a montujeme je sami."
+   ],
+   [
+    "Světla svítí",
+    "Přejímka, úklid, předání. Stánek je připraven k otevření."
+   ]
+  ],
+  "lbl": [
+   "Š 8.000 mm",
+   "H 6.000 mm",
+   "Truss 29×29 — V 4.500",
+   "Stěna 3.400 + grafika",
+   "LED stěna 3,4 × 1,9 m",
+   "Recepční pult",
+   "Závěsný kruh Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Řadový",
+   "angolo": "Rohový",
+   "penisola": "Poloostrovní",
+   "isola": "Ostrovní",
+   "doppio": "Patrový"
+  },
+  "sides": "strany",
+  "side": "strana",
+  "openSides": "otevřené strany",
+  "openSide": "otevřená strana",
+  "cfgMsg": "Konfigurace z webu: stánek {type}, {n} {sides}, cca {area} m² ({dim} m).",
+  "axo": "Axonometrický pohled",
+  "cfgFb": "3D konfigurátor není na tomto zařízení k dispozici.<br>Napište nám: vizualizaci vám pošleme.",
+  "mq": [
+   "Stánky na míru",
+   "Eventy",
+   "Kongresy",
+   "Showroomy",
+   "Pop-up",
+   "LED stěny",
+   "Trussy",
+   "Grafika",
+   "Nábytek"
+  ],
+  "svc": [
+   {
+    "t": "Stánky na míru",
+    "d": "Jedinečné projekty postavené od nuly kolem vaší značky: dřevo, kov, sklo, textil, prvotřídní povrchové úpravy.",
+    "tags": [
+     "Koncept",
+     "3D vizualizace",
+     "Výroba",
+     "Montáž"
+    ]
+   },
+   {
+    "t": "Modulární stánky",
+    "d": "Opakovaně použitelné systémy pro firmy, které vystavují na více veletrzích ročně: jednotný vzhled, náklady pod kontrolou.",
+    "tags": [
+     "Opakované použití",
+     "Uskladnění",
+     "Rychlost"
+    ]
+   },
+   {
+    "t": "Eventy & kongresy",
+    "d": "Pódia, scény, plenární sály, firemní konference a uvedení produktů s kompletním technickým zajištěním.",
+    "tags": [
+     "Pódia",
+     "Scény",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Showroomy & pop-up",
+    "d": "Dočasné prodejní prostory, pop-upy i stálé showroomy: stejná preciznost jako na výstavišti.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Velkoformátová grafika",
+    "d": "Tisk na forex, podsvícený textil, PVC, samolepky a polepy skel. Vyrábíme i instalujeme sami.",
+    "tags": [
+     "Lightbox",
+     "Textil",
+     "Samolepky"
+    ]
+   },
+   {
+    "t": "Trussy & LED stěny",
+    "d": "Konstrukce z trussů, závěsné kruhy, rigging, LED stěny a osvětlení pro stánky, které jsou vidět z celé haly.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED stěna",
+     "Světla"
+    ]
+   },
+   {
+    "t": "Nábytek & pronájem",
+    "d": "Pulty, bary, sezení, vitríny, kuchyňky a sklady: nábytek na míru nebo k pronájmu pro jakoukoli plochu.",
+    "tags": [
+     "Na míru",
+     "Pronájem",
+     "Sklad"
+    ]
+   }
+  ],
+  "more": "Více o službě",
+  "tav": "Výkr.",
+  "avail": "K DISPOZICI",
+  "form": {
+   "type": "Typ projektu",
+   "name": "Jméno a příjmení",
+   "company": "Firma",
+   "fair": "Veletrh / akce a město",
+   "project": "Projekt",
+   "subj": "Poptávka veletržního stánku"
+  },
+  "ariaW": "{t} — otevřít galerii ({n} foto)",
+  "altW": "Veletržní stánek {t} — {c}, realizace NEWSTANDS",
+  "nPh": "{n} foto",
+  "altLb": "Veletržní stánek {t} ({c}) — fotka {i} z {n}",
+  "phN": "Fotka {i}",
+  "all": "Vše",
+  "ld": [
+   "Pódium",
+   "Stěny",
+   "Traverza",
+   "Světla",
+   "Hotovo"
+  ],
+  "c3": [
+   "OD NULY",
+   "KE STÁNKU.",
+   "NÁVRH · VÝROBA · MONTÁŽ · EVROPA",
+   "VELETRŽNÍ EXPOZICE",
+   "STÁNKY · EVENTY · EVROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Křišťál a osvětlení",
+   "g": "Design",
+   "d": "Ostrov v čistě bílé obklopený závěsy z křišťálových šňůr, zavěšenými lustry a lakovaným nábytkem: stánek se mění ve svítící výlohu."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sportovní výživa",
+   "g": "Potraviny & zdraví",
+   "d": "Ostrov otevřený z více stran s produktovou grafikou přes celé stěny, závěsnými nápisy a degustačními pulty pro velký počet návštěvníků."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Cestovní ruch",
+   "g": "Turismus",
+   "d": "Reprezentativní pavilon s oblouky a minarety inspirovanými architekturou Telangány, pulty pro vystavovatele a pohlcující grafikou."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Cestovní ruch",
+   "g": "Turismus",
+   "d": "Portály v imitaci terakoty, vyřezávané oblouky a B2B pracoviště: regionální pavilon, který představí kraj na první pohled."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Národní potravinářský pavilon",
+   "g": "Potraviny & zdraví",
+   "d": "Společný bílo-červený pavilon s prolamovanými ornamenty, pulty vystavovatelů a zónou pro show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Průmysl",
+   "d": "Firemní stánek s prosklenými jednacími místnostmi, podsvícenými stěnami a recepcí otevřenou do uličky."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motocykly",
+   "g": "Moto",
+   "d": "Celobílý stánek s červenými portály a pódii pro motorky: střídmá grafika, která nechává mluvit stroje."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektrické motocykly",
+   "g": "Moto",
+   "d": "Scéna v čistě černé s lesklou bílou podlahou, vystavenými motorkami a jednací zónou."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Výstavní lounge",
+   "g": "Design",
+   "d": "Otevřený lounge s velkým panoramatickým tiskem, zavěšeným podhledem, barem a sezením pro návštěvníky."
+  },
+  {
+   "t": "Plastona",
+   "c": "Dům a zahrada",
+   "g": "Design",
+   "d": "Ostrov s kubickými nápisy na trussu, bílými regály a produktovými aranžmá."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motocykly a motory",
+   "g": "Moto",
+   "d": "Rohový stánek s černými a bílými expozičními stěnami, stroji na pódiích a zónou se stolky."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energetický průmysl",
+   "g": "Průmysl",
+   "d": "Zaoblené podsvícené rámy, technické panely a jednací zóna pro B2B publikum."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Přilby",
+   "g": "Moto",
+   "d": "Expoziční stěny pro přilby, závodní grafika a recepční pult: italský design na pár metrech čtverečních."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motodoplňky",
+   "g": "Moto",
+   "d": "Trikolorní sloupy, nasvícené vitríny a produktové stěny pro závodní a dobře viditelnou prezentaci."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Přilby",
+   "g": "Moto",
+   "d": "Stěna s kosočtverečným vzorem a vystavenými přilbami, nadrozměrné nápisy a zóna se stolky pro jednání."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motodíly a oblečení",
+   "g": "Moto",
+   "d": "Grafické totemy přes celou výšku, produktové vitríny a stěny s oblečením kolem jednací zóny."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Průmysl",
+   "g": "Průmysl",
+   "d": "Modrý firemní stánek s procesní grafikou, technickou zónou a místy pro jednání."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Cestovní ruch",
+   "g": "Turismus",
+   "d": "Efektní portál s tradičními ornamenty a velkými fotografiemi regionu."
+  },
+  {
+   "t": "Uttar Pradesh — Zemědělství",
+   "c": "Zemědělství a potraviny",
+   "g": "Potraviny & zdraví",
+   "d": "Bílý stánek se světelnými rámy u podlahy a produktovými panely, střídmý a plný světla."
+  },
+  {
+   "t": "Tunisko — Medica Düsseldorf",
+   "c": "Národní zdravotnický pavilon",
+   "g": "Zdravotnictví",
+   "d": "Národní pavilon na veletrhu Medica Düsseldorf se závěsným nápisem, pulty pro vystavující firmy a lounge zónou."
+  }
+ ],
+ "ui": {
+  "langName": "Čeština",
+  "langLabel": "Jazyk",
+  "home": "Úvod",
+  "services": "Služby",
+  "works": "Reference",
+  "contacts": "Kontakty",
+  "quote": "Poptávka",
+  "requestQuote": "Poptat cenovou nabídku",
+  "whatsapp": "Napište nám na WhatsApp",
+  "call": "Zavolejte nám",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-mail",
+  "address": "Sídlo",
+  "serviceN": "Služba",
+  "locationK": "Z Milána po celé Evropě",
+  "includesTitle": "Co zahrnuje",
+  "whyTitle": "Proč NEWSTANDS",
+  "why": [
+   {
+    "t": "Základna v Miláně",
+    "d": "Pracujeme z okolí Milána, kousek od Fiera Milano Rho a Allianz MiCo: rychlé obhlídky, jednoduchá logistika, týmy vždy blízko velkých výstavišť."
+   },
+   {
+    "t": "Vlastní výroba",
+    "d": "Konstrukce, stěny, grafika, nábytek i osvětlení vznikají v naší dílně: méně mezičlánků, méně překvapení, dodržené termíny."
+   },
+   {
+    "t": "Na každém evropském výstavišti",
+    "d": "Naše montážní týmy cestují se stánkem: Německo, Francie, Španělsko, Benelux, Rakousko, Švýcarsko a na přání jakékoli další výstaviště."
+   },
+   {
+    "t": "Jeden partner",
+    "d": "Od briefingu po demontáž jednáte stále s toutéž osobou a na veletrhu máte k dispozici vlastního stavbyvedoucího."
+   }
+  ],
+  "galleryTitle": "Vybrané realizace",
+  "faqTitle": "Časté dotazy",
+  "otherTitle": "Další služby",
+  "ctaTitle": "Chystáte veletrh?",
+  "ctaText": "Napište nám veletrh, město, termíny a plochu: ozveme se s prvním návrhem a přehlednou cenovou nabídkou.",
+  "whereTitle": "Z Milána na každé výstaviště",
+  "whereText": "Sídlíme v okolí Milána, města, které hostí jedny z nejvýznamnějších veletrhů na světě. Odtud se naše týmy dostanou na každé výstaviště v Itálii i v Evropě.",
+  "milanLink": "Veletržní stánky v Miláně",
+  "europeLink": "Veletržní stánky v Evropě",
+  "photos": "foto",
+  "backHome": "Zpět na úvod",
+  "footerTag": "Veletržní stánky v Miláně a po celé Evropě. Navrženo, vyrobeno, smontováno.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardie · okolí Milána",
+  "breadcrumb": "Drobečková navigace",
+  "skip": "Přejít na obsah",
+  "menu": "Hlavní menu"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "veletrzni-stanky-na-miru",
+   "nav": "Stánky na míru",
+   "title": "Veletržní stánky na míru v Miláně a v Evropě | NEWSTANDS",
+   "desc": "Veletržní stánky na míru, které navrhuje, vyrábí a montuje NEWSTANDS: základna v okolí Milána, realizace na všech výstavištích v Evropě.",
+   "h1": "Veletržní stánky na míru",
+   "lead": "Jedinečný stánek postavený od nuly kolem vaší značky: navrhneme ho, vyrobíme v naší dílně nedaleko Milána a smontujeme na kterémkoli veletrhu v Evropě.",
+   "body": [
+    "Stánek na míru je nejsilnější způsob, jak se na veletrhu prezentovat: každá stěna, každé světlo i každá trasa návštěvníka jsou navrženy pro vaše produkty a obchodní cíle. Vycházíme z technického řádu výstaviště a z pohybu lidí v hale a nápad pak převedeme do fotorealistických 3D vizualizací a prováděcích výkresů.",
+    "Konstrukce ze dřeva a kovu, stěny, grafiku, nábytek i osvětlení vyrábíme sami, takže kvalitu a termíny máme pod kontrolou v každé fázi. Ať se veletrh koná na Fiera Milano Rho, v Düsseldorfu nebo v Paříži, stánek montuje stejný tým, který ho postavil."
+   ],
+   "inc": [
+    {
+     "t": "Koncept a 3D vizualizace",
+     "d": "Kreativní návrh, fotorealistické vizualizace a úpravy, dokud stánek nebude přesně podle vašich představ."
+    },
+    {
+     "t": "Prováděcí projekt",
+     "d": "Technické výkresy, výpočty a dokumentace v souladu s řádem každého výstaviště."
+    },
+    {
+     "t": "Výroba na míru",
+     "d": "Truhlářské a zámečnické práce, sklo, textil a prvotřídní povrchy z naší vlastní dílny."
+    },
+    {
+     "t": "Grafika a osvětlení",
+     "d": "Velkoformátový tisk, lightboxy, LED stěny a světelný design jako součást architektury stánku."
+    },
+    {
+     "t": "Montáž a demontáž",
+     "d": "Doprava, montáž s vlastním stavbyvedoucím, podpora na veletrhu, demontáž a uskladnění."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Jak dlouho trvá výroba stánku na míru?",
+     "a": "Záleží na velikosti a složitosti: se stánkem na míru je nejlepší začít hned po potvrzení účasti na veletrhu, aby zbyl dostatek času na návrh, vizualizace a výrobu."
+    },
+    {
+     "q": "Dá se stánek na míru použít znovu?",
+     "a": "Ano. Jednotlivé díly navrhujeme tak, aby se daly uskladnit a znovu smontovat: na dalším veletrhu stánek přizpůsobíme nové ploše i nové grafice."
+    },
+    {
+     "q": "Realizujete stánky na míru i mimo Itálii?",
+     "a": "Ano, z okolí Milána vozíme stánky i naše týmy na všechna hlavní evropská výstaviště, od Německa po Španělsko."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modularni-vystavni-stanky",
+   "nav": "Modulární stánky",
+   "title": "Modulární výstavní stánky – Milán a Evropa | NEWSTANDS",
+   "desc": "Modulární a opakovaně použitelné veletržní stánky pro firmy, které vystavují vícekrát ročně: jednotný vzhled a náklady pod kontrolou, z Milána po celé Evropě.",
+   "h1": "Modulární a opakovaně použitelné stánky",
+   "lead": "Modulární systémy pro firmy, které vystavují na více veletrzích ročně: stejná podoba značky, náklady pod kontrolou a rychlá montáž — v Miláně i na každém evropském výstavišti.",
+   "body": [
+    "Modulární stánek je investice na roky: konstrukce, panely a nábytek lze přeskládat pro různé plochy i typy stánků, od řadového po ostrovní. Mění se grafika, kvalita zůstává.",
+    "Systém navrhneme jednou, vyrobíme ho v naší dílně a mezi veletrhy se o něj staráme: uskladnění, údržba, aktualizace grafiky a doprava do další haly, v Itálii i v zahraničí."
+   ],
+   "inc": [
+    {
+     "t": "Systém na míru",
+     "d": "Moduly navržené podle vaší firemní identity, kombinovatelné od stánků o několika metrech čtverečních po velké ostrovy."
+    },
+    {
+     "t": "Výměnná grafika",
+     "d": "Potištěné textilie a panely, které rychle vyměníte pro každý veletrh, produkt nebo trh."
+    },
+    {
+     "t": "Uskladnění a údržba",
+     "d": "Stánek uchováváme v našem skladu a před každým dalším výjezdem ho zkontrolujeme."
+    },
+    {
+     "t": "Rychlá montáž",
+     "d": "Kratší doba výstavby, ideální i pro veletrhy s úzkým montážním oknem."
+    },
+    {
+     "t": "Správa veletržního kalendáře",
+     "d": "Společně naplánujeme veletržní sezónu a zajistíme logistiku a týmy pro každou zastávku."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Je modulární stánek levnější než stánek na míru?",
+     "a": "V horizontu několika veletrhů obvykle ano: počáteční investice se rozloží do každé účasti a další náklady se omezí na grafiku a logistiku."
+    },
+    {
+     "q": "Přizpůsobí se modulární stánek různým plochám?",
+     "a": "Ano, moduly lze přeskládat do řadového, rohového, poloostrovního i ostrovního stánku a pro různé velikosti plochy."
+    },
+    {
+     "q": "Můžete převzít celý náš veletržní kalendář?",
+     "a": "Ano: z okolí Milána koordinujeme uskladnění, dopravu a montáž na všech veletrzích sezóny, v Itálii i v Evropě."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "realizace-eventu-a-kongresu",
+   "nav": "Eventy & kongresy",
+   "title": "Realizace eventů a kongresů v Miláně | NEWSTANDS",
+   "desc": "Realizace firemních akcí, kongresů, konferencí a uvedení produktů v Miláně a v Evropě: pódia, scény a kompletní technické zajištění z jedné ruky.",
+   "h1": "Realizace eventů a kongresů",
+   "lead": "Pódia, scény, plenární sály, firemní konference a uvedení produktů: realizujeme eventy a kongresy v Miláně a po celé Evropě se stejnou přesností jako veletržní stánky.",
+   "body": [
+    "Milán je jednou z evropských metropolí eventů a kongresů, s prostory jako Allianz MiCo a velkými firemními lokalitami ve městě. Protože pracujeme z okolí Milána, známe harmonogramy, pravidla i logistiku těchto míst a obhlídky i montáže zvládáme velmi rychle.",
+    "Navrhujeme kompletní realizaci: pódium, scénu, plenární sál, výstavní zóny, recepci, navigační systém i osvětlení. Technické dodavatele koordinujeme sami, takže pro celou akci máte jediného partnera."
+   ],
+   "inc": [
+    {
+     "t": "Pódia a scény",
+     "d": "Pódia na míru, pozadí, LED stěny a scény navržené pro vaše sdělení."
+    },
+    {
+     "t": "Plenární sály a kongresy",
+     "d": "Vybavení sálů, posterových zón, registračních pultů a prostor pro sponzory."
+    },
+    {
+     "t": "Konference a uvedení produktů",
+     "d": "Prostředí, ve kterém produkt představíte nebo obchodní síť svoláte tak, že se na to nezapomene."
+    },
+    {
+     "t": "Audio, video a světla",
+     "d": "Technická režie, trussy, LED stěny a osvětlení začleněné do projektu."
+    },
+    {
+     "t": "Navigace a grafika",
+     "d": "Trasy, totemy, backdropy a jednotná grafika, kterou sami tiskneme a instalujeme."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Realizujete akce i mimo výstaviště?",
+     "a": "Ano: hotely, kongresová centra, industriální prostory i soukromé lokality — v Miláně, v Itálii i v zahraničí."
+    },
+    {
+     "q": "Postaráte se i o audiovizuální techniku?",
+     "a": "Ano, pódium, LED stěny, světla i zvuk koordinujeme jako součást jednoho projektu s jedinou kontaktní osobou."
+    },
+    {
+     "q": "S jakým předstihem akci plánovat?",
+     "a": "Čím dřív, tím líp: s rezervou několika týdnů zvládneme obhlídku, návrh i výrobu v klidu. V naléhavých případech se nám ozvěte a proveditelnost posoudíme."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroomy-pop-up-prodejny",
+   "nav": "Showroomy & pop-up",
+   "title": "Showroomy, dočasné prodejny a pop-up v Miláně | NEWSTANDS",
+   "desc": "Návrh a realizace showroomů, dočasných prodejen, pop-upů a shop-in-shopů v Miláně a v Evropě, s vlastní výrobou a montáží.",
+   "h1": "Showroomy, dočasné prodejny a pop-up",
+   "lead": "Dočasné prodejní prostory, pop-upy a stálé showroomy realizované se stejnou precizností jako veletržní stánky — v Miláně i po celé Evropě.",
+   "body": [
+    "Dočasná prodejna nebo pop-up musí být hotové za pár dní a zanechat dojem: navrhujeme prostory, které vyprávějí příběh značky, vyzdvihnou produkt a rychle se montují — i v obchodních centrech a nákupních ulicích.",
+    "Pro stálé showroomy vyrábíme nábytek na míru, expoziční stěny, vitríny a osvětlení z odolných materiálů. Výroba i montáž jsou naše, takže termíny i kvalita zůstávají pod kontrolou."
+   ],
+   "inc": [
+    {
+     "t": "Retailový koncept",
+     "d": "Dispozice, zákaznická trasa a vystavení produktů navržené tak, aby prodávaly."
+    },
+    {
+     "t": "Dočasné prodejny a pop-up",
+     "d": "Lehké konstrukce, které se rychle montují, demontují a znovu použijí v jiných městech."
+    },
+    {
+     "t": "Stálé showroomy",
+     "d": "Nábytek na míru, systémové stěny, vitríny a prvotřídní povrchy."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Značkové prodejní koutky v obchodech a obchodních domech, v souladu s vaší identitou."
+    },
+    {
+     "t": "Světla a grafika",
+     "d": "Nasvícení produktů, nápisy, polepy výloh a grafika z naší výroby."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Za jak dlouho se dočasná prodejna připraví?",
+     "a": "Záleží na prostoru a projektu: díky vlastní výrobě dokážeme pop-up smontovat i za několik dní."
+    },
+    {
+     "q": "Lze pop-up přesunout do jiných měst?",
+     "a": "Ano, navrhujeme modulární konstrukce, které se demontují a znovu postaví na jiných místech, v Itálii i v Evropě."
+    },
+    {
+     "q": "Realizujete i stálé showroomy?",
+     "a": "Ano, od návrhu po instalaci nábytku, vitrín, osvětlení a grafiky."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "velkoformatova-grafika",
+   "nav": "Velkoformátová grafika",
+   "title": "Velkoformátová grafika pro stánky a veletrhy | NEWSTANDS Milán",
+   "desc": "Velkoformátový tisk pro veletržní stánky a akce: forex, podsvícený textil, lightboxy, PVC, samolepky a polepy skel, které sami vyrábíme i instalujeme.",
+   "h1": "Velkoformátová grafika pro stánky a akce",
+   "lead": "Tisk na forex, podsvícený textil, PVC, samolepky a polepy skel: grafiku vašeho stánku vyrábějí a instalují stejné týmy, které stánek montují.",
+   "body": [
+    "Grafika je to první, co návštěvníci uvidí — často z druhého konce haly. Proto ji bereme jako součást architektury stánku: formáty, materiály i světlo navrhujeme společně s konstrukcí.",
+    "Tiskneme a instalujeme sami, v Miláně i na každém evropském veletrhu: žádné předávání mezi dodavateli, kontrolované barvy a grafika dokonale srovnaná v okamžiku otevření."
+   ],
+   "inc": [
+    {
+     "t": "Podsvícený textil",
+     "d": "Lightboxy a svítící stěny z textilu — lehké a s velkým účinkem."
+    },
+    {
+     "t": "Pevné panely",
+     "d": "Tisk na forex, dibond a PVC pro stěny, totemy a pulty."
+    },
+    {
+     "t": "Samolepky a polepy skel",
+     "d": "Podlahy, prosklené plochy a povrchy upravené technickými fóliemi."
+    },
+    {
+     "t": "Závěsné nápisy",
+     "d": "Bannery a zavěšené grafické konstrukce viditelné v hale z dálky."
+    },
+    {
+     "t": "Instalace na veletrhu",
+     "d": "Grafiku instalujeme sami, s finální kontrolou před otevřením."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tisknete grafiku i pro stánky od jiných firem?",
+     "a": "Ano, můžeme vyrobit a nainstalovat jen grafiku, při dodržení rozměrů a řádu výstaviště."
+    },
+    {
+     "q": "Jaké soubory potřebujete pro tisk?",
+     "a": "Vektorové soubory nebo obrázky ve vysokém rozlišení se spadávkou: technické specifikace pro každý formát vám pošleme."
+    },
+    {
+     "q": "Dá se textilní grafika použít znovu?",
+     "a": "Ano, textil se dá vyprat, složit a znovu napnout: ideální řešení pro firmy, které vystavují na více veletrzích."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-led-steny-osvetleni",
+   "nav": "Trussy & LED stěny",
+   "title": "Trussy, LED stěny a osvětlení veletržních stánků | NEWSTANDS",
+   "desc": "Konstrukce z trussů, závěsné kruhy, rigging, LED stěny a osvětlení pro veletržní stánky a akce v Miláně a po celé Evropě.",
+   "h1": "Trussy, LED stěny a osvětlení",
+   "lead": "Konstrukce z trussů, závěsné kruhy, rigging, LED stěny a světla pro stánky, které jsou vidět z celé haly — na Fiera Milano i na každém evropském výstavišti.",
+   "body": [
+    "Závěsný kruh s logem, LED stěna s produktovými videi, světlo promyšlené na každé ploše: právě tyto prvky dělají stánek rozpoznatelným na dálku. Navrhujeme je společně se stánkem a ověřujeme zatížení, závěsné body i řád výstaviště.",
+    "Dodáváme a instalujeme trussy, motory, LED stěny a svítidla s kvalifikovaným personálem a požadavky na rigging koordinujeme se správou výstaviště."
+   ],
+   "inc": [
+    {
+     "t": "Trussy a příhradové konstrukce",
+     "d": "Stojící i zavěšené konstrukce všech rozměrů, také jako nosič grafiky a světel."
+    },
+    {
+     "t": "Kruhy a závěsné nápisy",
+     "d": "Kruhové nebo atypické zavěšené prvky s grafikou, viditelné z celé haly."
+    },
+    {
+     "t": "Rigging",
+     "d": "Výpočty, závěsné body a vyřízení formalit s výstavištěm."
+    },
+    {
+     "t": "LED stěny",
+     "d": "LED obrazovky různých velikostí zabudované do stěn nebo na samostatných konstrukcích."
+    },
+    {
+     "t": "Osvětlení",
+     "d": "Světelný design pro produkty, grafiku a atmosféru stánku."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vyřídíte povolení pro rigging?",
+     "a": "Ano, připravíme technickou dokumentaci a požadavky vyřídíme se správou výstaviště."
+    },
+    {
+     "q": "Pronajímáte LED stěny i na akce?",
+     "a": "Ano, LED stěny, trussy a osvětlení jsou k dispozici i pro eventy, kongresy a uvedení produktů."
+    },
+    {
+     "q": "Pracujete i na zahraničních výstavištích?",
+     "a": "Ano, konstrukce a LED stěny instalujeme na všech hlavních evropských výstavištích."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "nabytek-na-stanky-pronajem",
+   "nav": "Nábytek & pronájem",
+   "title": "Nábytek na míru a pronájem nábytku na stánky | NEWSTANDS",
+   "desc": "Pulty, bary, sezení, vitríny, kuchyňky a sklady pro veletržní stánky: nábytek na míru nebo k pronájmu, z Milána pro celou Evropu.",
+   "h1": "Nábytek na míru a pronájem pro stánky",
+   "lead": "Pulty, bary, sezení, vitríny, kuchyňky a sklady: nábytek vyrobený na míru v naší dílně nebo k pronájmu, pro stánky jakékoli velikosti.",
+   "body": [
+    "Nábytek dělá stánek funkčním: recepce, expozice, jednání, ochutnávky i sklad musí být na správném místě. Navrhujeme ho spolu s dispozicí stánku, s ohledem na pohyb návštěvníků i práci vašeho týmu na veletrhu.",
+    "Můžeme vyrobit jedinečné kusy na míru v povrchech a barvách vaší značky, nebo dodat nábytek k pronájmu a ušetřit náklady. Dodání, montáž i odvoz máme vždy na starosti my."
+   ],
+   "inc": [
+    {
+     "t": "Pulty a recepce",
+     "d": "Recepční pulty na míru, s logem, osvětlením a technickými úložnými prostory."
+    },
+    {
+     "t": "Jednací zóny a lounge",
+     "d": "Stoly, sezení a odpočinkové kouty pro schůzky se zákazníky přímo na stánku."
+    },
+    {
+     "t": "Vitríny a regály",
+     "d": "Vitríny, police a systémové stěny, které vyzdvihnou vaše produkty."
+    },
+    {
+     "t": "Kuchyňky a sklady",
+     "d": "Úložné prostory, kuchyňky a zázemí začleněné do stánku."
+    },
+    {
+     "t": "Pronájem nábytku",
+     "d": "Nábytek k pronájmu pro každý styl a rozpočet, s dodáním a odvozem z naší strany."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Můžu si pronajmout jen nábytek?",
+     "a": "Ano, dodáváme i samotný nábytek k pronájmu, včetně dodání a odvozu na veletrhu."
+    },
+    {
+     "q": "Dá se nábytek na míru použít znovu?",
+     "a": "Ano, uložíme ho v našem skladu a přivezeme na další veletrh."
+    },
+    {
+     "q": "Dodáváte nábytek i do zahraničí?",
+     "a": "Ano, nábytek dodáváme a montujeme na všech hlavních evropských výstavištích."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montaz-a-demontaz-stanku",
+   "nav": "Montáž & demontáž",
+   "title": "Montáž a demontáž stánků v Miláně a v Evropě | NEWSTANDS",
+   "desc": "Specializované týmy pro montáž a demontáž veletržních stánků na Fiera Milano Rho a na všech evropských výstavištích. I samotná montáž.",
+   "h1": "Montáž a demontáž veletržních stánků",
+   "lead": "Specializované týmy a vlastní stavbyvedoucí smontují a demontují váš stánek na Fiera Milano Rho, v Allianz MiCo i na každém výstavišti v Evropě. I samotná montáž.",
+   "body": [
+    "Montáž je chvíle, kdy se z projektu stává stánek: potřebujete zkušené týmy, vybavení, dodržení časových oken a bezpečnostních předpisů výstaviště. Z naší základny v okolí Milána se rychle dostaneme na milánská výstaviště a se stánkem vyrážíme na veletrhy po celé Evropě.",
+    "Montujeme stánky z vlastní výroby i stánky jiných dodavatelů nebo ve vlastnictví klienta: převzetí materiálu, montáž, přejímka, podpora během veletrhu, demontáž a návoz zpět do skladu."
+   ],
+   "inc": [
+    {
+     "t": "Specializované týmy",
+     "d": "Zkušení montéři s vlastním vybavením a vlastním stavbyvedoucím."
+    },
+    {
+     "t": "Vstupní formality",
+     "d": "Montážní průkazy, bezpečnostní dokumentace a povolení, která výstaviště vyžaduje."
+    },
+    {
+     "t": "Přejímka a předání",
+     "d": "Finální kontrola konstrukcí, světel a grafiky před otevřením."
+    },
+    {
+     "t": "Podpora na veletrhu",
+     "d": "Technici na telefonu po celou dobu veletrhu pro cokoli, co budete potřebovat."
+    },
+    {
+     "t": "Demontáž a uskladnění",
+     "d": "Demontáž ve stanoveném čase, doprava a uskladnění pro opětovné použití."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Děláte i samotnou montáž stánků, které jste nevyráběli?",
+     "a": "Ano, montujeme a demontujeme i stánky jiných realizátorů nebo ve vlastnictví vystavovatele."
+    },
+    {
+     "q": "Na kterých výstavištích pracujete?",
+     "a": "Na Fiera Milano Rho a v Allianz MiCo, v Boloni, Veroně a Rimini a na hlavních evropských výstavištích: Düsseldorf, Kolín nad Rýnem, Frankfurt, Mnichov, Paříž, Barcelona, Madrid, Amsterdam a další."
+    },
+    {
+     "q": "Dodržujete bezpečnostní předpisy výstavišť?",
+     "a": "Ano, naši montéři pracují podle bezpečnostních předpisů a technických řádů každého výstaviště."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "veletrzni-stanky-milan",
+   "nav": "Stánky v Miláně",
+   "title": "Veletržní stánky Milán: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Realizátor veletržních stánků z okolí Milána: stánky na klíč pro Fiera Milano Rho, Allianz MiCo a akce ve městě, které sami navrhujeme a montujeme.",
+   "h1": "Veletržní stánky v Miláně",
+   "lead": "Milán je jedním z nejvýznamnějších veletržních center Evropy a my pracujeme právě odtud: navrhujeme, vyrábíme a montujeme stánky pro veletrhy na Fiera Milano Rho a v Allianz MiCo i pro akce ve městě.",
+   "body": [
+    "Fiera Milano Rho každoročně hostí mezinárodní veletrhy jako Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO a MICAM, a Allianz MiCo patří k největším kongresovým centrům v Evropě. Pro vystavovatele to znamená obrovskou konkurenci: stánek musí vyniknout.",
+    "Realizátor z okolí Milána znamená rychlé obhlídky, jednoduchou logistiku, montážní týmy nablízku a okamžitou podporu během veletrhu. A pokud vaše sezóna po Miláně pokračuje v zahraničí, stejný tým doveze stánek na každé evropské výstaviště."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stánky pro velké mezinárodní veletrhy v Rho, od designových hal po moto a food."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Realizace kongresů, konferencí a veletrhů v milánském kongresovém centru."
+    },
+    {
+     "t": "Akce ve městě",
+     "d": "Uvedení produktů, Fuorisalone, showroomy a dočasné prodejny v milánských lokalitách."
+    },
+    {
+     "t": "Rychlé obhlídky",
+     "d": "Z naší základny jsme na milánských výstavištích za krátkou dobu, před veletrhem i během něj."
+    },
+    {
+     "t": "Sklad nablízku",
+     "d": "Váš stánek zůstává v našem skladu v Lombardii, připravený na další ročník."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Jste realizátor z Milána?",
+     "a": "Ano, pracujeme z okolí Milána, se sídlem a dílnou v Tromellu (PV) v Lombardii, kousek od Fiera Milano Rho."
+    },
+    {
+     "q": "Pro které milánské veletrhy stánky stavíte?",
+     "a": "Pro všechny veletrhy na Fiera Milano Rho a v Allianz MiCo, ale také pro akce a Fuorisalone ve městě."
+    },
+    {
+     "q": "Můžete nás doprovázet i na veletrhy v zahraničí?",
+     "a": "Ano, z Milána vozíme stánky i týmy na všechna hlavní evropská výstaviště."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "veletrzni-stanky-evropa",
+   "nav": "Stánky v Evropě",
+   "title": "Veletržní stánky v Evropě: Německo, Francie | NEWSTANDS",
+   "desc": "Z Milána na všechna evropská výstaviště: stánky na klíč v Düsseldorfu, Kolíně nad Rýnem, Frankfurtu, Mnichově, Paříži, Barceloně, Madridu a dalších.",
+   "h1": "Veletržní stánky po celé Evropě",
+   "lead": "Vyrážíme z Milána a dojedeme na kterékoli výstaviště v Evropě: jeden dodavatel pro návrh, výrobu, dopravu i montáž, ať je váš veletrh kdekoli.",
+   "body": [
+    "Vystavovat v zahraničí s jiným místním realizátorem v každé zemi znamená nové kontaktní osoby, odlišné standardy a vyšší riziko. S NEWSTANDS máte jeden tým: navrhujeme a vyrábíme v naší dílně nedaleko Milána, zajišťujeme dopravu a vstupní formality a montujeme vlastními týmy.",
+    "Pracujeme na velkých výstavištích v Německu, Francii, Španělsku, zemích Beneluxu, Rakousku a Švýcarsku a na přání i kdekoli jinde. Realizovali jsme národní pavilony i stánky značek, například pavilon Tuniska na veletrhu MEDICA v Düsseldorfu."
+   ],
+   "inc": [
+    {
+     "t": "Německo",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt a Messe München."
+    },
+    {
+     "t": "Francie",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles a Eurexpo Lyon."
+    },
+    {
+     "t": "Španělsko",
+     "d": "Fira de Barcelona Gran Via a IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam a Brussels Expo."
+    },
+    {
+     "t": "Rakousko, Švýcarsko a dál",
+     "d": "Messe Wien, Palexpo Genève a na přání jakékoli další evropské výstaviště."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Zajistíte dopravu a formality pro veletrhy v zahraničí?",
+     "a": "Ano: balení, doprava, montážní průkazy, bezpečnostní dokumentace i komunikace s pořadatelem veletrhu jsou na nás."
+    },
+    {
+     "q": "Jsou montážní týmy vaše vlastní?",
+     "a": "Ano, stánek montují naše vlastní týmy s vlastním stavbyvedoucím, i v zahraničí."
+    },
+    {
+     "q": "V jakých jazycích spolu můžeme komunikovat?",
+     "a": "V italštině a v angličtině; dokumentaci k veletrhu koordinujeme s pořadatelem v místním jazyce."
+    }
+   ]
+  }
+ }
+}

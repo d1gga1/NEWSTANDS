@@ -1,0 +1,987 @@
+{
+ "_lang": "et",
+ "meta": {
+  "title": "Messistendid Milanos ja kogu Euroopas | NEWSTANDS",
+  "desc": "Messistendide ehitaja Milano piirkonnas: projekteerime, toodame ja paigaldame võtmed kätte messistende messikeskuses Fiera Milano ja igas Euroopa messikeskuses.",
+  "ogTitle": "NEWSTANDS — messistendid Milanost kogu Euroopasse",
+  "ogDesc": "Võtmed kätte messistendid, üritused ja kongressid: baas Milano piirkonnas, oma paigaldusmeeskonnad igas Euroopa messikeskuses.",
+  "ogAlt": "NEWSTANDS — messistendide ehitus Milanost kogu Euroopasse",
+  "orgDesc": "Messistendide ehitaja, kelle baas asub Milano piirkonnas (peakontor Tromellos, PV). Projekteerib, toodab ja paigaldab võtmed kätte messistende, ürituste ja kongresside lahendusi, esindusruume ja ajutisi kauplusi messikeskuses Fiera Milano ning kõigis Euroopa messikeskustes.",
+  "slogan": "Projekteeritud, toodetud, paigaldatud."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Poodium",
+  "h003": "Messistendid",
+  "h004": "Projekteeritud · Toodetud · Paigaldatud",
+  "h005": "Puuduta, et siseneda",
+  "h006": "Protsess",
+  "h007": "Teenused",
+  "h008": "Tööd",
+  "h009": "Seadista",
+  "h009b": "Seadista",
+  "h010": "Euroopa",
+  "h011": "Hinnapakkumine",
+  "h012": "Messistendide ehitaja Milanos · Üritused · Kongressid",
+  "h013": "Projekteerimine → Tootmine → Paigaldus",
+  "h014": "Meie baas on Milano piirkonnas, Euroopa messimaailma südames: ehitame stendid nullist ja paigaldame need igas Euroopa messikeskuses. Üks kontaktisik esimesest visandist viimase kruvini.",
+  "h015": "Keri ja pane stend kokku",
+  "h016": "Leht 00 — Stendi plaan 8000 × 6000",
+  "h017": "Mõõtkava 1:50",
+  "h018": "Projekt",
+  "h019": "Ehituse edenemine",
+  "h020": "Leht 05 — Üleandmine",
+  "h021": "Võtmed kätte.",
+  "h022": "Seadista oma",
+  "h023": "Küsi hinnapakkumist",
+  "h024": "§ 01 — Meist",
+  "h025": "Me ei müü ruutmeetreid. Ehitame koha, kus sinu *bränd* kohtub turuga — *esimesest* *visandist* viimase kruvini, ükskõik millises Euroopa messihallis.",
+  "h026": "Meetod",
+  "h027": "Projekteerime, toodame ja paigaldame iga komponendi ise: konstruktsioonid, paneelid, graafika, mööbli ja valgustuse. Vähem vahelülisid, vähem üllatusi, tähtajad peavad.",
+  "h028": "Nullist",
+  "h029": "valmis stendini.",
+  "h030": "Kuus etappi, üks juhtimine.",
+  "h031": "Keri horisontaalselt →",
+  "h032": "Etapp 01",
+  "h033": "Eesmärgid, eelarve, mess ja messikeskuse tehnilised nõuded. Alustame sellest, mis peab sinu stendil juhtuma.",
+  "h034": "Etapp 02",
+  "h035": "Kontseptsioon & 3D",
+  "h036": "Fotorealistlikud renderdused ja tööjoonised: näed valmis stendi enne, kui ükski paneel on lõigatud.",
+  "h037": "Etapp 03",
+  "h038": "Tootmine",
+  "h039": "Puidutöö, metallitöö, suureformaadiline trükk, valgustehnika. Iga detail valmib mõõdu järgi.",
+  "h040": "Etapp 04",
+  "h041": "Logistika",
+  "h042": "Pakkimine, transport ja sissepääsuload igas Euroopa messikeskuses. Kohale jõuame ise ja õigel ajal.",
+  "h043": "Etapp 05",
+  "h044": "Paigaldus",
+  "h045": "Spetsialiseerunud meeskonnad, oma paigaldusjuht, lõppkontroll. Stend antakse sulle üle valmis kujul.",
+  "h046": "Etapp 06",
+  "h047": "Mess & demontaaž",
+  "h048": "Tehniline tugi messi ajal, demontaaž, ladustamine ja taaskasutus järgmisel messil.",
+  "h049": "Tulemus",
+  "h050": "Sina mõtled",
+  "h051": "klientidele.",
+  "h052": "Kõige muu",
+  "h053": "eest hoolitseme meie.",
+  "h054": "Räägime sinu järgmisest messist",
+  "h055": "Mida",
+  "h056": "me ehitame",
+  "h057": "§ 03 — Teenused",
+  "h058": "Iga liiki messid ja üritused, 16 m² reastendist kahekorruselise saarstendini. Tootmine ja paigaldus alati oma jõududega.",
+  "h059": "Valminud",
+  "h060": "stendid",
+  "h061": "§ 04 — Tööd",
+  "h062": "Valik stende, mille meie meeskonnad on projekteerinud, tootnud ja paigaldanud: rahvuspaviljonid, brändisaared ja tehnilised stendid üle Euroopa.",
+  "h063": "Järgmine võib olla sinu oma",
+  "h064": "oma stend",
+  "h065": "§ 05 — 3D-konfigureerija",
+  "h066": "Vali tüüp ja pindala: vaata, kuidas maht kuju võtab, ja saada meile seadistus hinnapakkumise aluseks.",
+  "h067": "↔ Pööramiseks lohista",
+  "h068": "Aksonomeetriline vaade",
+  "h069": "Az 000°",
+  "h070": "01 — Tüüp",
+  "h071": "Avatud küljed",
+  "h072": "02 — Pindala",
+  "h073": "Mõõtmed u.",
+  "h074": "Kasuta seda seadistust",
+  "h075": "Järgmine",
+  "h076": "väljumine",
+  "h077": "§ 06 — Milanost kogu Euroopasse",
+  "h078": "Alustame Milanost, suurte rahvusvaheliste messide linnast, ja liigume stendiga igasse Euroopa messikeskusesse: Saksamaa, Prantsusmaa, Hispaania, Beneluxi riigid, Austria, Šveits. Kui seal on messihall, jõuame sinna.",
+  "h079": "Linn",
+  "h080": "Messikeskus",
+  "h081": "Riik",
+  "h082": "Staatus",
+  "h083": "Paigaldusmeeskonnad töös",
+  "h084": "+ iga teine messikeskus soovi korral",
+  "h085": "Korduma kippuvad",
+  "h086": "küsimused",
+  "h087": "§ 07 — KKK",
+  "h088": "Hinnad, tähtajad, linnad ja teenused: vastused küsimustele, mida meilt enne messi kõige sagedamini küsitakse.",
+  "h089": "Kas sul on",
+  "h090": "mess tulekul?",
+  "h091": "Räägi meile üritusest, kuupäevadest ja ruutmeetritest. Vastame esialgse lahenduse ja selge hinnapakkumisega.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Peakontor",
+  "h095": "Piirkond",
+  "h096": "Milano + kogu Euroopa",
+  "h097": "Teenus",
+  "h098": "Võtmed kätte",
+  "h099": "Messistend",
+  "h100": "Üritus",
+  "h101": "Kongress",
+  "h102": "Esindusruum / ajutine pood",
+  "h103": "Ainult paigaldus",
+  "h104": "Ees- ja perekonnanimi",
+  "h105": "Ettevõte",
+  "h106": "Mess / üritus ja linn",
+  "h107": "Räägi meile projektist",
+  "h108": "Saada päring",
+  "h109": "Päring on sinu e-postis valmis: vajuta „Saada“.",
+  "h110": "Midagi ei avanenud? Kirjuta aadressil",
+  "h111": "või helista numbril",
+  "h112": "Stuudio",
+  "h113": "Messistendid Milanos ja Euroopas, üritused, kongressid",
+  "h114": "27020 Tromello (PV), Lombardia",
+  "h115": "Menüü",
+  "h116": "Konfigureerija",
+  "h117": "Sotsiaalmeedia",
+  "h118": "Kontakt",
+  "h119": "Küsi hinnapakkumist →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia",
+  "h121": "Projekteeritud, toodetud, paigaldatud.",
+  "h122": "Tagasi üles ↑",
+  "h123": "Peamenüü",
+  "h124": "Filtreeri valdkonna järgi",
+  "h125": "Projekti galerii",
+  "h126": "Sulge galerii",
+  "h127": "Eelmine foto",
+  "h128": "Järgmine foto",
+  "h129": "Pindala ruutmeetrites",
+  "h130": "Messistendi hinnapäring",
+  "h131": "Projekti tüüp",
+  "h132": "Kirjuta meile WhatsAppis"
+ },
+ "faq": [
+  {
+   "q": "Kui palju maksab messistend?",
+   "a": "Stendi hind sõltub pindalast, tüübist (reastend, nurgastend, poolsaar- või saarstend), materjalidest, graafikast, mööblist ja messikeskusest. Pärast lühikest arutelu messi, kuupäevade ja ruutmeetrite üle saadame sulle esialgse lahenduse ning selge ja üksikasjaliku hinnapakkumise. Võid alustada ülaltoodud 3D-konfigureerijast või helistada ja kirjutada meile WhatsAppis numbril <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Kus NEWSTANDS asub ja millistel messidel te töötate?",
+   "a": "Oleme Milano piirkonna messistendide ehitaja, peakontor ja töökoda asuvad Tromellos (PV) Lombardias: strateegiline asukoht lähedal messikeskustele Fiera Milano Rho ja Allianz MiCo, kus toimuvad mõned Euroopa olulisimad messid. Siit liiguvad meie meeskonnad igasse messikeskusesse: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Pariis, Lyon, Barcelona, Madrid, Amsterdam, Brüssel, Viin, Genf ja kaugemalegi."
+  },
+  {
+   "q": "Mida sisaldab võtmed kätte teenus?",
+   "a": "Üks kontaktisik kõige jaoks: lähteülesanne, kontseptsioon ja 3D-renderdused, tööjoonised, konstruktsioonide, paneelide, suureformaadilise graafika, mööbli ja valgustuse tootmine oma töökojas, logistika ja transport, paigaldus koos oma ehitusjuhiga, tugi messi ajal, demontaaž ja ladustamine taaskasutuseks."
+  },
+  {
+   "q": "Kas teete ka üritusi, kongresse ja esindusruume?",
+   "a": "Jah. Lisaks eritellimusel ja moodulmessistendidele projekteerime ja ehitame ettevõtete üritusi, kongresse, konverentse, tooteesitlusi, lavasid ja lavakujundusi, esindusruume, ajutisi kauplusi ja pop-up-poode, kasutades trusse, LED-seinu ja valgustehnikat."
+  },
+  {
+   "q": "Kui palju aega ette tasub teiega ühendust võtta?",
+   "a": "Mida varem ühendust võtad, seda rohkem aega jääb projektile, renderdustele ja tootmisele: eritellimusel stendi puhul tasub alustada kohe, kui messil osalemine on kinnitatud. Moodulstendide ja ainult paigalduse puhul saame töötada ka lühemate tähtaegadega: kirjuta meile ja kontrollime teostatavuse kohe üle."
+  },
+  {
+   "q": "Kuidas hinnapakkumist küsida?",
+   "a": "Täida kontaktide jaotises olev vorm, kirjuta aadressil <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> või helista ja kirjuta meile WhatsAppis numbril <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternatiivina <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Märgi mess või üritus, linn, kuupäevad ja ruutmeetrid: võtame sinuga ühendust esialgse lahendusega."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Iga stend saab alguse tehnilisest joonisest: mõõdud, messikeskuse nõuded, külastajate liikumisteed."
+   ],
+   [
+    "Konstruktsioon",
+    "Poodium, trussid, raamid. Osa, mida ei näe, kuid mis kannab kõike."
+   ],
+   [
+    "Seinad & graafika",
+    "Mõõdu järgi valmistatud paneelid, suureformaadiline trükk, viimistlus."
+   ],
+   [
+    "Mööbel & tehnika",
+    "Letid, totemid, LED-seinad, koosolekualad, rippuv ring. Toodetud ja paigaldatud meie poolt."
+   ],
+   [
+    "Tuled põlema",
+    "Lõppkontroll, koristus, üleandmine. Stend on avamiseks valmis."
+   ]
+  ],
+  "lbl": [
+   "L 8000 mm",
+   "S 6000 mm",
+   "Truss 29×29 — K 4500",
+   "Sein 3400 + graafika",
+   "LED-sein 3,4 × 1,9 m",
+   "Vastuvõtuleti",
+   "Rippuv ring Ø 4400"
+  ],
+  "ty": {
+   "linea": "Reastend",
+   "angolo": "Nurgastend",
+   "penisola": "Poolsaar",
+   "isola": "Saarstend",
+   "doppio": "Kahekorruseline"
+  },
+  "sides": "külge",
+  "side": "külg",
+  "openSides": "avatud külge",
+  "openSide": "avatud külg",
+  "cfgMsg": "Seadistus veebilehelt: tüüp {type}, {n} {sides}, umbes {area} m² ({dim} m).",
+  "axo": "Aksonomeetriline vaade",
+  "cfgFb": "3D-konfigureerija pole selles seadmes saadaval.<br>Kirjuta meile: saadame renderduse ise.",
+  "mq": [
+   "Eritellimusel stendid",
+   "Üritused",
+   "Kongressid",
+   "Esindusruumid",
+   "Ajutised poed",
+   "LED-seinad",
+   "Trussid",
+   "Graafika",
+   "Mööbel"
+  ],
+  "svc": [
+   {
+    "t": "Eritellimusel stendid",
+    "d": "Ainulaadsed projektid, mis ehitatakse nullist sinu brändi ümber: puit, metall, klaas, tekstiil, kvaliteetne viimistlus.",
+    "tags": [
+     "Kontseptsioon",
+     "3D-renderdus",
+     "Tootmine",
+     "Paigaldus"
+    ]
+   },
+   {
+    "t": "Moodulstendid",
+    "d": "Taaskasutatavad ja eelkomplekteeritud süsteemid neile, kes osalevad mitmel messil aastas: ühtne kuvand, kontrolli all kulud.",
+    "tags": [
+     "Taaskasutus",
+     "Ladustamine",
+     "Kiirus"
+    ]
+   },
+   {
+    "t": "Üritused & kongressid",
+    "d": "Lavad, lavakujundus, suured saalid, ettevõtete konverentsid ja tooteesitlused koos täieliku tehnilise juhtimisega.",
+    "tags": [
+     "Lavad",
+     "Lavakujundus",
+     "Heli/Video"
+    ]
+   },
+   {
+    "t": "Esindusruumid & ajutised poed",
+    "d": "Ajutised müügipinnad, pop-up-poed ja püsivad esindusruumid: sama täpsus nagu messiehitusel.",
+    "tags": [
+     "Pop-up",
+     "Jaemüük",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Suureformaadiline graafika",
+    "d": "Trükk forexile, taustvalgustatud tekstiilile, PVC-le, kleebised ja aknakleebised. Toodame ja paigaldame ise.",
+    "tags": [
+     "Valguskast",
+     "Tekstiil",
+     "Kleebised"
+    ]
+   },
+   {
+    "t": "Trussid & LED-seinad",
+    "d": "Trusskonstruktsioonid, rippuvad ringid, riputused, LED-seinad ja valgustehnika stendidele, mida on näha üle kogu messihalli.",
+    "tags": [
+     "Truss",
+     "Riputus",
+     "LED-sein",
+     "Valgus"
+    ]
+   },
+   {
+    "t": "Mööbel & rent",
+    "d": "Letid, müügiletid, istmed, vitriinid, köögid ja laod: mõõdu järgi valmistatud või renditav mööbel igale pindalale.",
+    "tags": [
+     "Eritellimus",
+     "Rent",
+     "Laod"
+    ]
+   }
+  ],
+  "more": "Vaata teenust",
+  "tav": "Leht",
+  "avail": "SAADAVAL",
+  "form": {
+   "type": "Projekti tüüp",
+   "name": "Ees- ja perekonnanimi",
+   "company": "Ettevõte",
+   "fair": "Mess / üritus ja linn",
+   "project": "Projekt",
+   "subj": "Messistendi hinnapäring"
+  },
+  "ariaW": "{t} — ava galerii (fotosid: {n})",
+  "altW": "Messistend {t} — {c}, ehitanud NEWSTANDS",
+  "nPh": "Fotosid: {n}",
+  "altLb": "Messistend {t} ({c}) — foto {i}/{n}",
+  "phN": "Foto {i}",
+  "all": "Kõik",
+  "ld": [
+   "Poodium",
+   "Seinad",
+   "Tala",
+   "Valgus",
+   "Valmis"
+  ],
+  "c3": [
+   "NULLIST",
+   "STENDINI.",
+   "PROJEKT · TOOTMINE · PAIGALDUS · EUROOPA",
+   "MESSISTENDIDE EHITUS",
+   "STENDID · ÜRITUSED · EUROOPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristallid ja valgustus",
+   "g": "Disain",
+   "d": "Valge saarstend, mida ümbritsevad kristallniitidest kardinad, rippuvad lühtrid ja läikiv mööbel: stendist saab helendav vitriin."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Spordilisandid",
+   "g": "Toit & tervis",
+   "d": "Mitmest küljest avatud saarstend seinasuuruse tootegraafika, rippuvate siltide ja maitsmislettidega suurte külastajavoogude teenindamiseks."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Institutsionaalne paviljon Telangana arhitektuurist inspireeritud kaarte ja minarettidega, operaatorite lettide ja kaasahaarava graafikaga."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Terrakotat imiteerivad väravad, nikerdatud kaared ja B2B-tööpunktid: piirkondlik paviljon, mis tutvustab paikkonda esimesest pilgust."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Toidu rahvuspaviljon",
+   "g": "Toit & tervis",
+   "d": "Valge-punane ühispaviljon läbimurtud dekooride, eksponentide lettide ja show-cooking-alaga."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Tööstus",
+   "d": "Ettevõtte stend klaasseintega koosolekuruumide, taustvalgustatud seinte ja vahekäigule avatud vastuvõtualaga."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Mootorrattad",
+   "g": "Moto",
+   "d": "Täisvalge lahendus punaste väravate ja mootorrataste poodiumitega: puhas graafika, mis laseb sõidukitel endal rääkida."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektrimootorrattad",
+   "g": "Moto",
+   "d": "Täismust lavakujundus läikiva valge põranda, väljapandud mootorrataste ja koosolekualaga."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Näituse lounge",
+   "g": "Disain",
+   "d": "Avatud lounge suure panoraamtrüki, rippuva ripplae, leti ja istekohtadega külastajate vastuvõtmiseks."
+  },
+  {
+   "t": "Plastona",
+   "c": "Kodu ja aed",
+   "g": "Disain",
+   "d": "Saarstend sõrestikul kuubikujuliste siltide, valgete riiulite ja tootekeskkondadega."
+  },
+  {
+   "t": "Topsun",
+   "c": "Mootorrattad ja mootorid",
+   "g": "Moto",
+   "d": "Nurgastend mustade ja valgete väljapanekuseintega, poodiumil sõidukid ja lauad läbirääkimisteks."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energeetikatööstus",
+   "g": "Tööstus",
+   "d": "Ümarate nurkadega taustvalgustatud raamid, tehnilised paneelid ja koosolekuala B2B-külastajatele."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Kiivrid",
+   "g": "Moto",
+   "d": "Kiivrite väljapanekuseinad, võidusõidugraafika ja vastuvõtulett: Itaalia disain mõnel ruutmeetril."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Mootorrattatarvikud",
+   "g": "Moto",
+   "d": "Trikoloorsambad, valgustatud vitriinid ja tooteseinad silmapaistvaks võidusõidustiilis esinemiseks."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Kiivrid",
+   "g": "Moto",
+   "d": "Rombikujuline sein väljapandud kiivritega, ülemõõdulised sildid ja lauad läbirääkimisteks."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Mootorrattaosad ja -rõivad",
+   "g": "Moto",
+   "d": "Täiskõrguses graafilised totemid, tootevitriinid ja rõivaseinad koosolekuala ümber."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Tööstus",
+   "g": "Tööstus",
+   "d": "Sinine ettevõttestend protsessigraafika, tehnilise ala ja kohtumispaikadega."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Lavaline värav traditsiooniliste kaunistuste ja suurte piirkonna fotodega."
+  },
+  {
+   "t": "Uttar Pradesh — Põllumajandus",
+   "c": "Agrotoit",
+   "g": "Toit & tervis",
+   "d": "Valge stend põrandal helendavate raamide ja tootepaneelidega, lihtne ja valgusküllane."
+  },
+  {
+   "t": "Tuneesia — Medica Düsseldorf",
+   "c": "Meditsiini rahvuspaviljon",
+   "g": "Meditsiin",
+   "d": "Riigipaviljon messil Medica Düsseldorf rippuva sildi, eksponeerivate ettevõtete lettide ja lounge-alaga."
+  }
+ ],
+ "ui": {
+  "langName": "Eesti",
+  "langLabel": "Keel",
+  "home": "Avaleht",
+  "services": "Teenused",
+  "works": "Tööd",
+  "contacts": "Kontakt",
+  "quote": "Pakkumine",
+  "requestQuote": "Küsi hinnapakkumist",
+  "whatsapp": "Kirjuta meile WhatsAppis",
+  "call": "Helista meile",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-post",
+  "address": "Peakontor",
+  "serviceN": "Teenus",
+  "locationK": "Milanost kogu Euroopasse",
+  "includesTitle": "Mida see sisaldab",
+  "whyTitle": "Miks NEWSTANDS",
+  "why": [
+   {
+    "t": "Baas Milanos",
+    "d": "Töötame Milano piirkonnast, lähedal messikeskustele Fiera Milano Rho ja Allianz MiCo: kiired kohapealsed ülevaatused, lihtne logistika, meeskonnad alati suurte messikeskuste lähedal."
+   },
+   {
+    "t": "Oma tootmine",
+    "d": "Konstruktsioonid, paneelid, graafika, mööbel ja valgustus valmivad meie töökojas: vähem vahelülisid, vähem üllatusi, tähtajad peavad."
+   },
+   {
+    "t": "Igas Euroopa messikeskuses",
+    "d": "Meie paigaldusmeeskonnad liiguvad koos stendiga: Saksamaa, Prantsusmaa, Hispaania, Beneluxi riigid, Austria, Šveits ja soovi korral iga teine messikeskus."
+   },
+   {
+    "t": "Üks kontaktisik",
+    "d": "Lähteülesandest demontaažini suhtled alati sama inimesega ning messil on sul oma ehitusjuht."
+   }
+  ],
+  "galleryTitle": "Mõned meie ehitatud stendid",
+  "faqTitle": "Korduma kippuvad küsimused",
+  "otherTitle": "Teised teenused",
+  "ctaTitle": "Kas sul on mess tulekul?",
+  "ctaText": "Räägi meile messist, linnast, kuupäevadest ja ruutmeetritest: vastame esialgse lahenduse ja selge hinnapakkumisega.",
+  "whereTitle": "Milanost igasse messikeskusesse",
+  "whereText": "Asume Milano piirkonnas, linnas, kus toimuvad mõned maailma olulisimad messid. Siit jõuavad meie meeskonnad igasse Itaalia ja Euroopa messikeskusesse.",
+  "milanLink": "Messistendid Milanos",
+  "europeLink": "Messistendid Euroopas",
+  "photos": "fotot",
+  "backHome": "Tagasi avalehele",
+  "footerTag": "Messistendid Milanos ja kogu Euroopas. Projekteeritud, toodetud, paigaldatud.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · Milano piirkond",
+  "breadcrumb": "Asukoht",
+  "skip": "Mine sisu juurde",
+  "menu": "Peamenüü"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "messistendid-eritellimusel",
+   "nav": "Eritellimusel stendid",
+   "title": "Eritellimusel messistendid Milanos ja Euroopas | NEWSTANDS",
+   "desc": "Eritellimusel messistendid, mille NEWSTANDS projekteerib, toodab ja paigaldab: baas Milano piirkonnas, ehitustööd kõigis Euroopa messikeskustes.",
+   "h1": "Eritellimusel messistendid",
+   "lead": "Ainulaadne stend, mis ehitatakse nullist sinu brändi ümber: me projekteerime selle, toodame oma töökojas Milano lähedal ja paigaldame igal Euroopa messil.",
+   "body": [
+    "Eritellimusel stend on kõige mõjuvam viis messil end esitleda: iga sein, iga valgusti ja iga külastaja liikumistee on mõeldud sinu toodete ja ärieesmärkide jaoks. Alustame messikeskuse tehnilistest nõuetest ja messihalli külastajavoogudest ning muudame seejärel idee fotorealistlikeks 3D-renderdusteks ja tööjoonisteks.",
+    "Toodame ise puit- ja metallkonstruktsioonid, paneelid, graafika, mööbli ja valgustuse, nii et kontrollime kvaliteeti ja tähtaegu igas etapis. Olgu mess Fiera Milano Rho messikeskuses, Düsseldorfis või Pariisis — sinu stendi paigaldab sama meeskond, kes selle ehitas."
+   ],
+   "inc": [
+    {
+     "t": "Kontseptsioon ja 3D-renderdused",
+     "d": "Loominguline lahendus, fotorealistlikud renderdused ja muudatused seni, kuni stend on täpselt selline, nagu soovid."
+    },
+    {
+     "t": "Tööprojekt",
+     "d": "Tehnilised joonised, arvutused ja dokumentatsioon vastavalt iga messikeskuse nõuetele."
+    },
+    {
+     "t": "Tootmine mõõdu järgi",
+     "d": "Puidutöö, metallkonstruktsioonid, klaas, tekstiil ja kvaliteetne viimistlus meie oma töökojas."
+    },
+    {
+     "t": "Graafika ja valgustus",
+     "d": "Suureformaadiline trükk, valguskastid, LED-seinad ja valguslahendus, mis on stendi arhitektuuri osa."
+    },
+    {
+     "t": "Paigaldus ja demontaaž",
+     "d": "Transport, paigaldus oma ehitusjuhiga, tugi messi ajal, demontaaž ja ladustamine."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kui palju aega kulub eritellimusel stendi valmistamiseks?",
+     "a": "See sõltub suurusest ja keerukusest: eritellimusel stendi puhul tasub alustada kohe, kui messil osalemine on kinnitatud, et projektile, renderdustele ja tootmisele jääks piisavalt aega."
+    },
+    {
+     "q": "Kas eritellimusel stendi saab taaskasutada?",
+     "a": "Jah. Projekteerime komponendid nii, et neid saab ladustada ja uuesti paigaldada: järgmisel messil kohandame stendi uue pindala ja uue graafikaga."
+    },
+    {
+     "q": "Kas ehitate eritellimusel stende ka väljaspool Itaaliat?",
+     "a": "Jah, Milano piirkonnast viime stendi ja oma meeskonnad kõigisse suurematesse Euroopa messikeskustesse, Saksamaast Hispaaniani."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "moodulstendid",
+   "nav": "Moodulstendid",
+   "title": "Moodulmessistendid Milanos ja Euroopas | NEWSTANDS",
+   "desc": "Moodulsüsteemiga taaskasutatavad messistendid neile, kes osalevad mitmel messil aastas: ühtne kuvand ja kontrolli all kulud, Milanost kogu Euroopasse.",
+   "h1": "Taaskasutatavad moodulstendid",
+   "lead": "Moodulsüsteemid neile, kes esinevad mitmel messil aastas: sama brändikuvand, kontrolli all kulud ja kiire paigaldus — Milanos nagu igas Euroopa messikeskuses.",
+   "body": [
+    "Moodulstend on pikaajaline investeering: konstruktsioone, paneele ja mööblit saab ümber seadistada erinevate pindalade ja stenditüüpide jaoks, reastendist saarstendini. Graafika vahetub, kvaliteet jääb.",
+    "Projekteerime süsteemi ühe korra, toodame selle oma töökojas ja haldame seda ise messide vahel: ladustamine, hooldus, graafika uuendamine ja transport järgmisesse messihalli, Itaalias või välismaal."
+   ],
+   "inc": [
+    {
+     "t": "Mõõdu järgi süsteem",
+     "d": "Sinu kuvandile projekteeritud moodulid, mida saab kombineerida mõne ruutmeetri stendist kuni suure saarstendini."
+    },
+    {
+     "t": "Vahetatav graafika",
+     "d": "Trükitud tekstiile ja paneele saab iga messi, toote või turu jaoks kiiresti vahetada."
+    },
+    {
+     "t": "Ladustamine ja hooldus",
+     "d": "Hoiame stendi oma laos ja kontrollime selle enne iga uut väljasõitu üle."
+    },
+    {
+     "t": "Kiire paigaldus",
+     "d": "Lühike ülesehitusaeg, ideaalne ka kitsaste paigaldusakendega messidele."
+    },
+    {
+     "t": "Messikalendri haldus",
+     "d": "Planeerime koos sinuga messihooaja ning korraldame logistika ja meeskonnad igaks etapiks."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas moodulstend on odavam kui eritellimusel stend?",
+     "a": "Mitme messi peale kokku tavaliselt jah: algne investeering jaguneb iga osaluse vahel ja edasised tootmiskulud piirduvad graafika ja logistikaga."
+    },
+    {
+     "q": "Kas moodulstend sobib erineva pindalaga?",
+     "a": "Jah, mooduleid saab ümber kombineerida rea-, nurga-, poolsaar- või saarstendiks ja erinevatele pindaladele."
+    },
+    {
+     "q": "Kas saate hallata kogu meie messikalendrit?",
+     "a": "Jah: Milano piirkonnast koordineerime ladustamise, transpordi ja paigalduse iga hooaja messi jaoks, Itaalias ja Euroopas."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "uritused-ja-kongressid",
+   "nav": "Üritused & kongressid",
+   "title": "Ürituste ja kongresside lahendused Milanos | NEWSTANDS",
+   "desc": "Ettevõtete ürituste, kongresside, konverentside ja tooteesitluste lahendused Milanos ja Euroopas: lavad, lavakujundus ja täielik tehniline juhtimine.",
+   "h1": "Ürituste ja kongresside lahendused",
+   "lead": "Lavad, lavakujundus, suured saalid, ettevõtete konverentsid ja tooteesitlused: ehitame üritusi ja kongresse Milanos ja kogu Euroopas sama täpsusega nagu messistendi.",
+   "body": [
+    "Milano on üks Euroopa ürituste ja kongresside pealinnu, kus asuvad näiteks Allianz MiCo ja linna suured ettevõtete üritusepaigad. Milano piirkonnast töötades tunneme nende kohtade ajakavu, reegleid ja logistikat ning saame ülevaatused ja paigaldused teha väga kiiresti.",
+    "Projekteerime kogu lahenduse: lava, lavakujunduse, suure saali, näitusealad, vastuvõtu, viidad ja valgustehnika. Tehnilisi tarnijaid koordineerime ise, nii et kogu ürituse jaoks on sul üks kontaktisik."
+   ],
+   "inc": [
+    {
+     "t": "Lavad ja lavakujundus",
+     "d": "Mõõdu järgi lavad, taustad, LED-seinad ja lavakujundus, mis on loodud sinu sõnumi jaoks."
+    },
+    {
+     "t": "Suured saalid ja kongressid",
+     "d": "Saalide, posterialade, vastuvõtulettide ja sponsorialade sisustus."
+    },
+    {
+     "t": "Konverentsid ja tooteesitlused",
+     "d": "Keskkonnad toote esitlemiseks või müügivõrgustiku kokkukutsumiseks meeldejääval moel."
+    },
+    {
+     "t": "Heli, video ja valgus",
+     "d": "Tehniline juhtimine, trussid, LED-seinad ja valgustehnika projekti osana."
+    },
+    {
+     "t": "Viidad ja graafika",
+     "d": "Liikumisteed, totemid, taustaseinad ja ühtne graafika, mida trükime ja paigaldame ise."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas korraldate üritusi ka väljaspool messikeskusi?",
+     "a": "Jah: hotellides, kongressikeskustes, tööstusruumides ja eravaldustes, Milanos, Itaalias ja välismaal."
+    },
+    {
+     "q": "Kas saate hoolitseda ka heli- ja videotehnika eest?",
+     "a": "Jah, koordineerime lava, LED-seinu, valgust ja heli ühe projekti osana, ühe kontaktisikuga."
+    },
+    {
+     "q": "Kui palju aega ette üritust korraldada?",
+     "a": "Mida varem, seda parem: mõnenädalase varuga saame rahulikult teha ülevaatuse, projekti ja tootmise. Kiireloomuliste vajaduste korral võta meiega ühendust ja hindame teostatavust."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "esindusruumid-ja-pop-up-poed",
+   "nav": "Esindusruumid & pop-up",
+   "title": "Esindusruumid, ajutised ja pop-up-poed Milanos | NEWSTANDS",
+   "desc": "Esindusruumide, ajutiste kaupluste, pop-up-poodide ja shop-in-shop lahenduste projekteerimine ja sisustamine Milanos ja Euroopas, oma tootmise ja paigaldusega.",
+   "h1": "Esindusruumid, ajutised ja pop-up-poed",
+   "lead": "Ajutised müügipinnad, pop-up-poed ja püsivad esindusruumid, mis valmivad sama täpsusega nagu messiehitus — Milanos ja kogu Euroopas.",
+   "body": [
+    "Ajutine kauplus või pop-up-pood peab valmima mõne päevaga ja jätma jälje: projekteerime ruume, mis jutustavad brändi lugu, toovad toote esile ja on kiiresti paigaldatavad, ka kaubanduskeskustes ja ostutänavatel.",
+    "Püsivatele esindusruumidele valmistame mõõdu järgi mööbli, väljapanekuseinad, vitriinid ja valgustuse vastupidavatest materjalidest. Tootmine ja paigaldus on oma käes, nii et tähtajad ja kvaliteet jäävad kontrolli alla."
+   ],
+   "inc": [
+    {
+     "t": "Jaemüügi kontseptsioon",
+     "d": "Paigutus, kliendi teekond ja toodete väljapanek, mis on loodud müümiseks."
+    },
+    {
+     "t": "Ajutised ja pop-up-poed",
+     "d": "Kerged konstruktsioonid, mida on kiire paigaldada, lahti võtta ja teistes linnades uuesti kasutada."
+    },
+    {
+     "t": "Püsivad esindusruumid",
+     "d": "Mõõdu järgi mööbel, sisustatud seinad, vitriinid ja kvaliteetne viimistlus."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Brändinurgad kauplustes ja kaubamajades, mis sobivad sinu kuvandiga."
+    },
+    {
+     "t": "Valgus ja graafika",
+     "d": "Toodete valgustus, sildid, aknakleebised ja graafika meie oma tootmisest."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kui kiiresti saab ajutise kaupluse valmis?",
+     "a": "See sõltub ruumist ja projektist: tänu oma tootmisele saame pop-up-poe paigaldada isegi mõne päevaga."
+    },
+    {
+     "q": "Kas pop-up-poodi saab viia teistesse linnadesse?",
+     "a": "Jah, projekteerime moodulkonstruktsioone, mida saab lahti võtta ja teistes kohtades uuesti üles panna, Itaalias ja Euroopas."
+    },
+    {
+     "q": "Kas tegelete ka püsivate esindusruumidega?",
+     "a": "Jah, projekteerimisest kuni mööbli, vitriinide, valgustuse ja graafika paigalduseni."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "suureformaadiline-graafika",
+   "nav": "Suurformaatgraafika",
+   "title": "Suureformaadiline graafika messistendidele | NEWSTANDS",
+   "desc": "Suureformaadiline trükk messistendidele ja üritustele: forex, taustvalgustatud tekstiil, valguskastid, PVC ja kleebised — toodame ja paigaldame ise.",
+   "h1": "Suureformaadiline graafika stendidele ja üritustele",
+   "lead": "Trükk forexile, taustvalgustatud tekstiilile, PVC-le, kleebised ja aknakleebised: sinu stendi graafika toodavad ja paigaldavad needsamad meeskonnad, kes stendi üles ehitavad.",
+   "body": [
+    "Graafika on see, mida külastajad näevad esimesena, sageli üle kogu messihalli. Seepärast käsitleme seda stendi arhitektuuri osana: formaadid, materjalid ja valgus projekteeritakse koos konstruktsioonidega.",
+    "Trükime ja paigaldame ise, Milanos nagu igal Euroopa messil: ei mingit liikumist eri tarnijate vahel, kontrollitud värvid ja täiuslikult joondatud graafika avamise hetkeks."
+   ],
+   "inc": [
+    {
+     "t": "Taustvalgustatud tekstiil",
+     "d": "Tekstiilist valguskastid ja helendavad seinad, kerged ja suure mõjuga."
+    },
+    {
+     "t": "Jäigad paneelid",
+     "d": "Trükk forexile, dibondile ja PVC-le seinte, totemite ja lettide jaoks."
+    },
+    {
+     "t": "Kleebised ja aknakleebised",
+     "d": "Põrandad, klaaspinnad ja muud pinnad tehniliste kleebistega personaliseeritult."
+    },
+    {
+     "t": "Rippuvad sildid",
+     "d": "Bännerid ja rippuvad graafilised konstruktsioonid, mis on messihallis kaugele näha."
+    },
+    {
+     "t": "Paigaldus messil",
+     "d": "Paigaldame graafika ise ja teeme enne avamist lõppkontrolli."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas trükite graafikat ka teiste ehitatud stendidele?",
+     "a": "Jah, saame toota ja paigaldada ainult graafika, järgides messikeskuse mõõte ja nõudeid."
+    },
+    {
+     "q": "Milliseid faile trükiks vaja on?",
+     "a": "Vektorfailid või kõrge eraldusvõimega pildid koos lõikevaruga: saadame sulle iga formaadi tehnilised nõuded."
+    },
+    {
+     "q": "Kas tekstiilgraafikat saab taaskasutada?",
+     "a": "Jah, tekstiili saab pesta, kokku voltida ja uuesti paigaldada: see on ideaalne neile, kes osalevad mitmel messil."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "trussid-led-seinad-valgustus",
+   "nav": "Trussid & LED-seinad",
+   "title": "Trussid, LED-seinad ja valgustus messistendidele | NEWSTANDS",
+   "desc": "Trusskonstruktsioonid, rippuvad ringid, riputused, LED-seinad ja valgustehnika messistendidele ja üritustele Milanos ning kogu Euroopas.",
+   "h1": "Trussid, LED-seinad ja valgustehnika",
+   "lead": "Trusskonstruktsioonid, rippuvad ringid, riputused, LED-seinad ja valgus stendidele, mida on näha üle kogu messihalli — messikeskuses Fiera Milano ja mujal Euroopas.",
+   "body": [
+    "Rippuv ring logoga, LED-sein tootevideote jaoks, pindadele läbimõeldud valgus: just need elemendid teevad stendi kaugelt äratuntavaks. Projekteerime need koos stendiga, kontrollides koormusi, riputuspunkte ja messikeskuse nõudeid.",
+    "Tarnime ja paigaldame trussid, mootorid, LED-seinad ja valgustid kvalifitseeritud personaliga ning koordineerime riputustaotlused messi korraldajaga."
+   ],
+   "inc": [
+    {
+     "t": "Trussid ja sõrestikud",
+     "d": "Igas mõõdus põranda- ja rippkonstruktsioonid, ka graafika ja valgustuse alusena."
+    },
+    {
+     "t": "Rippuvad ringid ja sildid",
+     "d": "Ümmargused või mõõdu järgi valmistatud rippelemendid graafikaga, nähtavad üle kogu messihalli."
+    },
+    {
+     "t": "Riputus",
+     "d": "Arvutused, riputuspunktid ja asjaajamine messikeskusega."
+    },
+    {
+     "t": "LED-seinad",
+     "d": "Eri suuruses LED-ekraanid, integreeritud seintesse või eraldi konstruktsioonidele."
+    },
+    {
+     "t": "Valgustehnika",
+     "d": "Valguslahendus toodetele, graafikale ja stendi meeleolule."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas tegelete riputuslubadega ise?",
+     "a": "Jah, koostame tehnilise dokumentatsiooni ja ajame taotlused messi korraldajaga ise."
+    },
+    {
+     "q": "Kas rendite LED-seinu ka üritusteks?",
+     "a": "Jah, LED-seinad, trussid ja valgustus on saadaval ka üritustele, kongressidele ja tooteesitlustele."
+    },
+    {
+     "q": "Kas töötate ka välismaa messikeskustes?",
+     "a": "Jah, paigaldame konstruktsioone ja LED-seinu kõigis suuremates Euroopa messikeskustes."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "stendimoobel-ja-rent",
+   "nav": "Mööbel & rent",
+   "title": "Mõõdu järgi ja renditav mööbel messistendile | NEWSTANDS",
+   "desc": "Letid, müügiletid, istmed, vitriinid, köögid ja laoruumid messistendidele: mõõdu järgi valmistatud või renditav mööbel, Milanost kogu Euroopasse.",
+   "h1": "Mõõdu järgi ja renditav stendimööbel",
+   "lead": "Letid, müügiletid, istmed, vitriinid, köögid ja laoruumid: meie töökojas mõõdu järgi valmistatud või renditav mööbel igas suuruses stendile.",
+   "body": [
+    "Mööbel paneb stendi tööle: vastuvõtt, väljapanek, kohtumised, degusteerimised ja ladu peavad olema õiges kohas. Projekteerime mööbli koos paigutusega, mõeldes külastajavoogudele ja sinu meeskonna tööle messil.",
+    "Võime valmistada ainulaadseid mõõdu järgi esemeid sinu brändi viimistluse ja värvidega või pakkuda kulude kokkuhoiuks rendimööblit. Tarne, paigaldus ja äravedu on alati meie hoole all."
+   ],
+   "inc": [
+    {
+     "t": "Letid ja vastuvõtt",
+     "d": "Mõõdu järgi vastuvõtuletid logo, valgustuse ja tehniliste kappidega."
+    },
+    {
+     "t": "Koosoleku- ja lounge-alad",
+     "d": "Lauad, istmed ja istumisnurgad klientidega kohtumiseks stendis."
+    },
+    {
+     "t": "Vitriinid ja väljapanekud",
+     "d": "Klaasvitriinid, riiulid ja sisustatud seinad toodete esiletoomiseks."
+    },
+    {
+     "t": "Köögid ja laoruumid",
+     "d": "Panipaigad, köögid ja teenindusalad, mis on stendi osa."
+    },
+    {
+     "t": "Mööblirent",
+     "d": "Rendimööbel igale stiilile ja eelarvele, tarnime ja viime ära ise."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas saan rentida ainult mööblit?",
+     "a": "Jah, pakume ka ainult rendimööblit koos tarne ja äraveoga messil."
+    },
+    {
+     "q": "Kas mõõdu järgi mööblit saab taaskasutada?",
+     "a": "Jah, hoiame selle oma laos ja toome järgmisele messile tagasi."
+    },
+    {
+     "q": "Kas tarnite mööblit ka välismaale?",
+     "a": "Jah, tarnime ja paigaldame mööblit kõigis suuremates Euroopa messikeskustes."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "stendide-paigaldus-ja-demontaaz",
+   "nav": "Paigaldus & demontaaž",
+   "title": "Stendide paigaldus ja demontaaž Milanos ja Euroopas | NEWSTANDS",
+   "desc": "Spetsialiseerunud meeskonnad messistendide paigalduseks ja demontaažiks Fiera Milano Rho messikeskuses ja kõigis Euroopa messikeskustes. Ka ainult paigaldus.",
+   "h1": "Messistendide paigaldus ja demontaaž",
+   "lead": "Spetsialiseerunud meeskonnad ja oma ehitusjuht sinu stendi paigaldamiseks ja demonteerimiseks messikeskustes Fiera Milano Rho, Allianz MiCo ja igas Euroopa messikeskuses. Ka ainult paigaldus.",
+   "body": [
+    "Paigaldus on hetk, mil projektist saab stend: vaja on kogenud meeskondi, varustust ning messikeskuse ajaakende ja ohutusnõuete järgimist. Oma baasist Milano piirkonnas jõuame kiiresti Milano messikeskustesse ja sõidame stendiga messidele üle kogu Euroopa.",
+    "Paigaldame nii enda toodetud stende kui ka teiste tarnijate või kliendile kuuluvaid stende: materjali vastuvõtt, paigaldus, lõppkontroll, tugi messi ajal, demontaaž ja tagasi lattu."
+   ],
+   "inc": [
+    {
+     "t": "Spetsialiseerunud meeskonnad",
+     "d": "Kogenud paigaldajad oma varustusega ja oma ehitusjuht."
+    },
+    {
+     "t": "Sissepääsuload",
+     "d": "Läbipääsuload, ohutusdokumentatsioon ja messikeskuse nõutud load."
+    },
+    {
+     "t": "Lõppkontroll ja üleandmine",
+     "d": "Konstruktsioonide, valgustuse ja graafika lõppkontroll enne avamist."
+    },
+    {
+     "t": "Tugi messil",
+     "d": "Tehnikud on messi ajal kõigiks vajadusteks kättesaadavad."
+    },
+    {
+     "t": "Demontaaž ja ladustamine",
+     "d": "Demontaaž ettenähtud aja jooksul, transport ja ladustamine taaskasutuseks."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas paigaldate ka teiste tehtud stende?",
+     "a": "Jah, paigaldame ja demonteerime ka teiste stendiehitajate või eksponendile kuuluvaid stende."
+    },
+    {
+     "q": "Millistes messikeskustes te töötate?",
+     "a": "Messikeskustes Fiera Milano Rho ja Allianz MiCo, Bolognas, Veronas ja Riminis ning suuremates Euroopa keskustes: Düsseldorf, Köln, Frankfurt, München, Pariis, Barcelona, Madrid, Amsterdam ja mujal."
+    },
+    {
+     "q": "Kas järgite messikeskuste ohutusnõudeid?",
+     "a": "Jah, meie paigaldajad töötavad iga messikeskuse ohutusnõuete ja tehniliste eeskirjade järgi."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "messistendid-milano",
+   "nav": "Stendid Milanos",
+   "title": "Messistendide ehitaja Milanos: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Messistendide ehitaja Milano piirkonnas: võtmed kätte stendid messikeskustele Fiera Milano Rho ja Allianz MiCo ning linna üritustele, meie projekt ja paigaldus.",
+   "h1": "Messistendid Milanos",
+   "lead": "Milano on üks Euroopa olulisimaid messikeskusi ja me töötame siit: projekteerime, toodame ja paigaldame stende messidele Fiera Milano Rho ja Allianz MiCo messikeskustes ning linna üritustele.",
+   "body": [
+    "Fiera Milano Rho võõrustab igal aastal rahvusvahelisi messe nagu Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO ja MICAM, Allianz MiCo aga on üks Euroopa suurimaid kongressikeskusi. Eksponendi jaoks tähendab see väga tihedat konkurentsi: stend peab silma paistma.",
+    "Kui stendiehitaja asub Milano piirkonnas, tähendab see kiireid ülevaatusi, lihtsat logistikat, lähedal asuvaid paigaldusmeeskondi ja kohest tuge messi ajal. Ja kui sinu hooaeg jätkub pärast Milanot välismaal, viib sama meeskond stendi igasse Euroopa messikeskusesse."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stendid Rho messikeskuse suurtele rahvusvahelistele messidele, disainihallidest mootorrataste ja toidu hallideni."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Lahendused kongressidele, konverentsidele ja messidele Milano kongressikeskuses."
+    },
+    {
+     "t": "Üritused linnas",
+     "d": "Tooteesitlused, Fuorisalone, esindusruumid ja ajutised poed Milano üritusepaikades."
+    },
+    {
+     "t": "Kiired ülevaatused",
+     "d": "Oma baasist jõuame Milano messikeskustesse kiiresti, nii enne messi kui ka selle ajal."
+    },
+    {
+     "t": "Ladu lähedal",
+     "d": "Sinu stend jääb meie Lombardia lattu, valmis järgmiseks messiks."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas olete Milano stendiehitaja?",
+     "a": "Jah, töötame Milano piirkonnast, peakontor ja töökoda asuvad Tromellos (PV) Lombardias, Fiera Milano Rho messikeskuse lähedal."
+    },
+    {
+     "q": "Milliste Milano messide jaoks stende ehitate?",
+     "a": "Kõigi Fiera Milano Rho ja Allianz MiCo messikeskuste ürituste jaoks, samuti linna üritustele ja Fuorisalone'ile."
+    },
+    {
+     "q": "Kas saate meid saata ka välismaa messidel?",
+     "a": "Jah, Milanost viime stendid ja meeskonnad kõigisse suurematesse Euroopa messikeskustesse."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "messistendid-euroopa",
+   "nav": "Stendid Euroopas",
+   "title": "Messistendid Euroopas: Saksamaa, Prantsusmaa | NEWSTANDS",
+   "desc": "Milanost kõigisse Euroopa messikeskustesse: võtmed kätte messistendid Düsseldorfis, Kölnis, Frankfurdis, Münchenis, Pariisis, Barcelonas, Madridis ja mujal.",
+   "h1": "Messistendid üle kogu Euroopa",
+   "lead": "Alustame Milanost ja liigume igasse Euroopa messikeskusesse: üks tarnija projekti, tootmise, transpordi ja paigalduse jaoks, ükskõik kus sinu mess toimub.",
+   "body": [
+    "Välismaal esinemine iga riigi jaoks erineva kohaliku stendiehitajaga tähendab uusi kontaktisikuid, erinevaid standardeid ja suuremaid riske. NEWSTANDSiga on sul üks meeskond: projekteerime ja toodame oma töökojas Milano lähedal, korraldame transpordi ja sissepääsuload ning paigaldame oma meeskondadega.",
+    "Töötame Saksamaa, Prantsusmaa, Hispaania, Beneluxi riikide, Austria ja Šveitsi suurtes messikeskustes ning soovi korral igas teises keskuses. Oleme ehitanud rahvuspaviljone ja brändistende, näiteks Tuneesia paviljoni messil MEDICA Düsseldorfis."
+   ],
+   "inc": [
+    {
+     "t": "Saksamaa",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt ja Messe München."
+    },
+    {
+     "t": "Prantsusmaa",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles ja Eurexpo Lyon."
+    },
+    {
+     "t": "Hispaania",
+     "d": "Fira de Barcelona Gran Via ja IFEMA Madrid."
+    },
+    {
+     "t": "Beneluxi riigid",
+     "d": "RAI Amsterdam ja Brussels Expo."
+    },
+    {
+     "t": "Austria, Šveits ja mujal",
+     "d": "Messe Wien, Palexpo Genève ja soovi korral iga teine Euroopa messikeskus."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kas korraldate välismaa messide transpordi ja asjaajamise ise?",
+     "a": "Jah: pakkimine, transport, läbipääsuload, ohutusdokumentatsioon ja suhtlus messi korraldajaga on meie hoole all."
+    },
+    {
+     "q": "Kas paigaldusmeeskonnad on teie omad?",
+     "a": "Jah, stendi paigaldavad meie oma meeskonnad koos oma ehitusjuhiga, ka välismaal."
+    },
+    {
+     "q": "Millistes keeltes saame suhelda?",
+     "a": "Itaalia ja inglise keeles; messi dokumentatsiooni osas suhtleme korraldajaga kohalikus keeles."
+    }
+   ]
+  }
+ }
+}

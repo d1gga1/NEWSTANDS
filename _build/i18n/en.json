@@ -1,0 +1,987 @@
+{
+ "_lang": "en",
+ "meta": {
+  "title": "Exhibition Stands in Milan and Across Europe | NEWSTANDS",
+  "desc": "Exhibition stand builder in the Milan area: we design, build and install turnkey stands at Fiera Milano and at every exhibition centre in Europe.",
+  "ogTitle": "NEWSTANDS — Exhibition stands from Milan to all of Europe",
+  "ogDesc": "Turnkey exhibition stands, events and congresses: based in the Milan area, with installation crews at every exhibition centre in Europe.",
+  "ogAlt": "NEWSTANDS — exhibition stands from Milan to all of Europe",
+  "orgDesc": "Exhibition stand builder based in the Milan area (head office in Tromello, PV). Designs, produces and installs turnkey exhibition stands, event and congress setups, showrooms and temporary stores at Fiera Milano and at every exhibition centre in Europe.",
+  "slogan": "Designed, built, installed."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Exhibition stands",
+  "h002": "Platform",
+  "h003": "Exhibition stands",
+  "h004": "Designed · Built · Installed",
+  "h005": "Tap to enter",
+  "h006": "Process",
+  "h007": "Services",
+  "h008": "Projects",
+  "h009": "Configure",
+  "h009b": "Configure",
+  "h010": "Europe",
+  "h011": "Quote",
+  "h012": "Exhibition stand builder in Milan · Events · Congresses",
+  "h013": "Design → Production → Installation",
+  "h014": "Based in the Milan area, the trade-fair heart of Europe: we build stands from scratch and install them at every exhibition centre in Europe. One point of contact from the first sketch to the final screw.",
+  "h015": "Scroll to build the stand",
+  "h016": "Dwg. 00 — Stand plan 8,000 × 6,000",
+  "h017": "Scale 1:50",
+  "h018": "Design",
+  "h019": "Build progress",
+  "h020": "Dwg. 05 — Handover",
+  "h021": "Turnkey.",
+  "h022": "Configure yours",
+  "h023": "Request a quote",
+  "h024": "§ 01 — About us",
+  "h025": "We don't sell square metres. We build the place where your *brand* meets the market — from the *first* *sketch* to the final screw, in any exhibition hall in Europe.",
+  "h026": "Our method",
+  "h027": "We design, produce and install every component in-house: structures, wall panels, graphics, furniture and lighting. Fewer hand-offs, fewer surprises, deadlines met.",
+  "h028": "From nothing",
+  "h029": "to a stand.",
+  "h030": "Six phases, one team in charge.",
+  "h031": "Scroll sideways →",
+  "h032": "Phase 01",
+  "h033": "Goals, budget, the show itself and the venue's technical regulations. We start from what needs to happen on your stand.",
+  "h034": "Phase 02",
+  "h035": "Concept & 3D",
+  "h036": "Photorealistic renders and construction drawings: you see the finished stand before a single panel is cut.",
+  "h037": "Phase 03",
+  "h038": "Production",
+  "h039": "Joinery, metalwork, large-format printing, lighting design. Every single piece is made to measure.",
+  "h040": "Phase 04",
+  "h041": "Logistics",
+  "h042": "Packing, transport and access paperwork for every exhibition centre in Europe. We get there ourselves, on time.",
+  "h043": "Phase 05",
+  "h044": "Installation",
+  "h045": "Specialist on-site crews, a dedicated site manager, final inspection. Your stand is handed over ready to open.",
+  "h046": "Phase 06",
+  "h047": "Show & dismantling",
+  "h048": "Technical support throughout the show, then dismantling, storage and reuse for your next exhibition.",
+  "h049": "Result",
+  "h050": "You focus",
+  "h051": "on your clients.",
+  "h052": "We take care",
+  "h053": "of the rest.",
+  "h054": "Let's talk about your next show",
+  "h055": "What",
+  "h056": "we build",
+  "h057": "§ 03 — Services",
+  "h058": "Every kind of trade fair and event, from a 16 m² inline stand to a double-deck island. Production and installation always in-house.",
+  "h059": "Stands",
+  "h060": "we've built",
+  "h061": "§ 04 — Projects",
+  "h062": "A selection of stands designed, produced and installed by our own crews: national pavilions, brand islands and technical stands all over Europe.",
+  "h063": "The next one could be yours",
+  "h064": "your stand",
+  "h065": "§ 05 — 3D configurator",
+  "h066": "Choose the stand type and floor area: watch the volume take shape, then send us the configuration as the starting point for your quote.",
+  "h067": "↔ Drag to rotate",
+  "h068": "Axonometric view",
+  "h069": "Az 000°",
+  "h070": "01 — Stand type",
+  "h071": "Open sides",
+  "h072": "02 — Floor area",
+  "h073": "Approx. size",
+  "h074": "Use this configuration",
+  "h075": "Next",
+  "h076": "departure",
+  "h077": "§ 06 — From Milan to all of Europe",
+  "h078": "We start from Milan, home to major international trade fairs, and travel with your stand to every exhibition centre in Europe: Germany, France, Spain, Benelux, Austria, Switzerland. If there's an exhibition hall, we'll get there.",
+  "h079": "City",
+  "h080": "Exhibition centre",
+  "h081": "Country",
+  "h082": "Status",
+  "h083": "Installation crews operational",
+  "h084": "+ any other venue on request",
+  "h085": "Frequently asked",
+  "h086": "questions",
+  "h087": "§ 07 — FAQ",
+  "h088": "Costs, lead times, cities and services: answers to the questions we are asked most often before a trade fair.",
+  "h089": "Got a trade fair",
+  "h090": "coming up?",
+  "h091": "Tell us about the event, dates and floor space. We'll get back to you with an initial proposal and a clear quote.",
+  "h092": "Phone",
+  "h093": "Phone 2",
+  "h094": "Head office",
+  "h095": "Area",
+  "h096": "Milan + all of Europe",
+  "h097": "Service",
+  "h098": "Turnkey",
+  "h099": "Exhibition stand",
+  "h100": "Event",
+  "h101": "Congress",
+  "h102": "Showroom / pop-up",
+  "h103": "Installation only",
+  "h104": "Full name",
+  "h105": "Company",
+  "h106": "Trade fair / event and city",
+  "h107": "Tell us about your project",
+  "h108": "Send request",
+  "h109": "Your request is ready in your email app: just press send.",
+  "h110": "Nothing opened? Write to",
+  "h111": "or call",
+  "h112": "Studio",
+  "h113": "Exhibition stands in Milan and Europe, events, congresses",
+  "h114": "27020 Tromello (PV), Lombardy",
+  "h115": "Navigate",
+  "h116": "Configurator",
+  "h117": "Social",
+  "h118": "Contact",
+  "h119": "Request a quote →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardy",
+  "h121": "Designed, built, installed.",
+  "h122": "Back to top ↑",
+  "h123": "Main menu",
+  "h124": "Filter by sector",
+  "h125": "Project gallery",
+  "h126": "Close gallery",
+  "h127": "Previous photo",
+  "h128": "Next photo",
+  "h129": "Floor area in square metres",
+  "h130": "Stand quote request",
+  "h131": "Project type",
+  "h132": "Message us on WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "How much does an exhibition stand cost?",
+   "a": "The price of a stand depends on floor area, stand type (inline, corner, peninsula or island), materials, graphics, furniture and exhibition centre. After a short briefing on the show, dates and floor space, we send you an initial proposal and a clear, detailed quote. You can start with the 3D configurator above, or call us or message us on WhatsApp at <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Where is NEWSTANDS based and which trade fairs do you work at?",
+   "a": "We are an exhibition stand builder in the Milan area, with our head office and workshop in Tromello (PV), Lombardy: a strategic location just a short drive from Fiera Milano Rho and Allianz MiCo, which host some of the most important trade fairs in Europe. From here our crews travel to every exhibition centre: Bologna, Verona, Rimini, Düsseldorf, Cologne, Frankfurt, Munich, Paris, Lyon, Barcelona, Madrid, Amsterdam, Brussels, Vienna, Geneva and beyond."
+  },
+  {
+   "q": "What does the turnkey service include?",
+   "a": "One point of contact for everything: briefing, concept and 3D renders, construction drawings, in-house production of structures, wall panels, large-format graphics, furniture and lighting, logistics and transport, installation with a dedicated site manager, support during the show, dismantling and storage for reuse."
+  },
+  {
+   "q": "Do you also handle events, congresses and showrooms?",
+   "a": "Yes. As well as custom and modular exhibition stands, we design and build corporate events, congresses, conventions, product launches, stages and set designs, showrooms, temporary stores and pop-ups, complete with truss, LED walls and lighting."
+  },
+  {
+   "q": "How far in advance should we contact you?",
+   "a": "The sooner you get in touch, the more time we have for design, renders and production: for a custom stand, it's best to start as soon as your participation in the show is confirmed. For modular stands and installation-only jobs we can also work to tighter deadlines: write to us and we'll check feasibility straight away."
+  },
+  {
+   "q": "How do I request a quote?",
+   "a": "Fill in the form in the contact section, email <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a>, or call us or message us on WhatsApp at <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternatively <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Tell us the trade fair or event, city, dates and floor space, and we'll get back to you with an initial proposal."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Design",
+    "Every stand starts with a technical drawing: dimensions, venue regulations, visitor flows."
+   ],
+   [
+    "Structure",
+    "Platform, truss, frames. The part you don't see, but which holds everything up."
+   ],
+   [
+    "Walls & graphics",
+    "Made-to-measure wall panels, large-format printing, finishes."
+   ],
+   [
+    "Furniture & tech",
+    "Desks, totems, LED walls, meeting areas, suspended ring. Built and installed by us."
+   ],
+   [
+    "Lights on",
+    "Inspection, cleaning, handover. The stand is ready to open."
+   ]
+  ],
+  "lbl": [
+   "W 8,000 mm",
+   "D 6,000 mm",
+   "Truss 29×29 — H 4,500",
+   "Wall 3,400 + graphics",
+   "LED wall 3.4 × 1.9 m",
+   "Reception desk",
+   "Suspended ring Ø 4,400"
+  ],
+  "ty": {
+   "linea": "Inline",
+   "angolo": "Corner",
+   "penisola": "Peninsula",
+   "isola": "Island",
+   "doppio": "Double-deck"
+  },
+  "sides": "sides",
+  "side": "side",
+  "openSides": "open sides",
+  "openSide": "open side",
+  "cfgMsg": "Configuration from the website: stand type {type}, {n} {sides}, approx. {area} m² ({dim} m).",
+  "axo": "Axonometric view",
+  "cfgFb": "The 3D configurator is not available on this device.<br>Write to us and we'll send you the render.",
+  "mq": [
+   "Custom stands",
+   "Events",
+   "Congresses",
+   "Showrooms",
+   "Pop-ups",
+   "LED walls",
+   "Truss",
+   "Graphics",
+   "Furniture"
+  ],
+  "svc": [
+   {
+    "t": "Custom stands",
+    "d": "One-off designs built from scratch around your brand: joinery, metal, glass, fabric and premium finishes.",
+    "tags": [
+     "Concept",
+     "3D render",
+     "Production",
+     "Installation"
+    ]
+   },
+   {
+    "t": "Modular stands",
+    "d": "Reusable, pre-built systems for companies exhibiting at several shows a year: a consistent image, costs under control.",
+    "tags": [
+     "Reuse",
+     "Storage",
+     "Speed"
+    ]
+   },
+   {
+    "t": "Events & congresses",
+    "d": "Stages, set designs, plenary halls, corporate conventions and product launches, with full technical production.",
+    "tags": [
+     "Stages",
+     "Set design",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Showrooms & pop-ups",
+    "d": "Temporary retail spaces, pop-ups and permanent showrooms, built with the same rigour as a trade-fair stand.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Large-format graphics",
+    "d": "Printing on foam PVC board, backlit fabric, PVC, vinyl stickers and window graphics. Produced and applied by us.",
+    "tags": [
+     "Lightbox",
+     "Fabric",
+     "Vinyl"
+    ]
+   },
+   {
+    "t": "Truss & LED walls",
+    "d": "Truss structures, suspended rings, rigging, LED walls and lighting for stands that stand out across the whole hall.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED wall",
+     "Lighting"
+    ]
+   },
+   {
+    "t": "Furniture & hire",
+    "d": "Desks, counters, seating, display cases, kitchens and storerooms: bespoke or hired furniture for stands of any size.",
+    "tags": [
+     "Bespoke",
+     "Hire",
+     "Storage"
+    ]
+   }
+  ],
+  "more": "Discover the service",
+  "tav": "Dwg.",
+  "avail": "AVAILABLE",
+  "form": {
+   "type": "Project type",
+   "name": "Full name",
+   "company": "Company",
+   "fair": "Trade fair / event and city",
+   "project": "Project",
+   "subj": "Stand quote request"
+  },
+  "ariaW": "{t} — open gallery ({n} photos)",
+  "altW": "Exhibition stand {t} — {c}, built by NEWSTANDS",
+  "nPh": "{n} photos",
+  "altLb": "Exhibition stand {t} ({c}) — photo {i} of {n}",
+  "phN": "Photo {i}",
+  "all": "All",
+  "ld": [
+   "Platform",
+   "Walls",
+   "Beam",
+   "Lights",
+   "Ready"
+  ],
+  "c3": [
+   "FROM ZERO",
+   "TO STAND.",
+   "DESIGN · PRODUCTION · INSTALLATION · EUROPE",
+   "EXHIBITION STANDS",
+   "STANDS · EVENTS · EUROPE"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Crystal and lighting",
+   "g": "Design",
+   "d": "An all-white island wrapped in crystal string curtains, with suspended chandeliers and lacquered furniture: the stand becomes a glowing showcase."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sports supplements",
+   "g": "Food & Health",
+   "d": "A multi-sided island with full-wall product graphics, suspended signage and tasting counters to handle large visitor flows."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Tourism",
+   "g": "Tourism",
+   "d": "An institutional pavilion with arches and minarets inspired by Telangana's architecture, operator desks and immersive graphics."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Tourism",
+   "g": "Tourism",
+   "d": "Faux terracotta portals, carved arches and B2B meeting points: a regional pavilion that tells the story of its territory at a glance."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "National food pavilion",
+   "g": "Food & Health",
+   "d": "A red-and-white collective pavilion with fretwork decorations, exhibitor desks and a show-cooking area."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industry",
+   "d": "A corporate stand with glazed meeting rooms, backlit walls and a reception area open to the aisle."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motorcycles",
+   "g": "Motorcycles",
+   "d": "All white with red portals and motorcycle platforms: clean graphics that let the bikes do the talking."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Electric motorcycles",
+   "g": "Motorcycles",
+   "d": "An all-black set with a glossy white floor, bikes on display and a meeting area."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Exhibition lounge",
+   "g": "Design",
+   "d": "An open lounge with a large panoramic print, suspended ceiling, counter and seating to welcome visitors."
+  },
+  {
+   "t": "Plastona",
+   "c": "Home and garden",
+   "g": "Design",
+   "d": "An island with cube signs on truss, white shelving and product room sets."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motorcycles and engines",
+   "g": "Motorcycles",
+   "d": "A corner stand with black and white display walls, vehicles on platforms and a table area."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energy industry",
+   "g": "Industry",
+   "d": "Rounded backlit frames, technical panels and a meeting area for a B2B audience."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Helmets",
+   "g": "Motorcycles",
+   "d": "Helmet display walls, racing graphics and a reception counter: Italian design in just a few square metres."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motorcycle accessories",
+   "g": "Motorcycles",
+   "d": "Tricolour columns, illuminated display cases and product walls for a high-visibility racing presence."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Helmets",
+   "g": "Motorcycles",
+   "d": "A diamond-pattern wall with helmets on display, oversized signage and a table area for negotiations."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motorcycle parts and apparel",
+   "g": "Motorcycles",
+   "d": "Full-height graphic totems, product display cases and apparel walls around a meeting area."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industry",
+   "g": "Industry",
+   "d": "A blue corporate stand with process graphics, a technical area and meeting points."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Tourism",
+   "g": "Tourism",
+   "d": "A scenic portal with traditional decorations and large images of the region."
+  },
+  {
+   "t": "Uttar Pradesh — Agriculture",
+   "c": "Agri-food",
+   "g": "Food & Health",
+   "d": "A white stand with illuminated floor-standing frames and product panels: clean, simple and bright."
+  },
+  {
+   "t": "Tunisia — Medica Düsseldorf",
+   "c": "National medical pavilion",
+   "g": "Medical",
+   "d": "A national pavilion at Medica Düsseldorf with a suspended sign, desks for exhibiting companies and a lounge area."
+  }
+ ],
+ "ui": {
+  "langName": "English",
+  "langLabel": "Language",
+  "home": "Home",
+  "services": "Services",
+  "works": "Projects",
+  "contacts": "Contact",
+  "quote": "Quote",
+  "requestQuote": "Request a quote",
+  "whatsapp": "Message us on WhatsApp",
+  "call": "Call us",
+  "phone": "Phone / WhatsApp",
+  "phone2": "Phone 2",
+  "email": "Email",
+  "address": "Head office",
+  "serviceN": "Service",
+  "locationK": "From Milan to all of Europe",
+  "includesTitle": "What's included",
+  "whyTitle": "Why NEWSTANDS",
+  "why": [
+   {
+    "t": "Based in Milan",
+    "d": "We work from the Milan area, just a short drive from Fiera Milano Rho and Allianz MiCo: quick site visits, simple logistics and crews always close to the major exhibition centres."
+   },
+   {
+    "t": "In-house production",
+    "d": "Structures, wall panels, graphics, furniture and lighting are all made in our own workshop: fewer hand-offs, fewer surprises, deadlines met."
+   },
+   {
+    "t": "At every exhibition centre in Europe",
+    "d": "Our installation crews travel with your stand: Germany, France, Spain, Benelux, Austria, Switzerland and any other venue on request."
+   },
+   {
+    "t": "One point of contact",
+    "d": "From briefing to dismantling you always deal with the same person, plus a dedicated site manager at the show."
+   }
+  ],
+  "galleryTitle": "Some of our stands",
+  "faqTitle": "Frequently asked questions",
+  "otherTitle": "Other services",
+  "ctaTitle": "Got a trade fair coming up?",
+  "ctaText": "Tell us the trade fair, city, dates and floor space: we'll get back to you with an initial proposal and a clear quote.",
+  "whereTitle": "From Milan to every exhibition centre",
+  "whereText": "We are based in the Milan area, home to some of the world's most important trade fairs. From here our crews reach every exhibition centre in Italy and across Europe.",
+  "milanLink": "Exhibition stands in Milan",
+  "europeLink": "Exhibition stands in Europe",
+  "photos": "photos",
+  "backHome": "Back to home",
+  "footerTag": "Exhibition stands in Milan and across Europe. Designed, built, installed.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardy · Milan area",
+  "breadcrumb": "Breadcrumb",
+  "skip": "Skip to content",
+  "menu": "Main menu"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "custom-exhibition-stands",
+   "nav": "Custom stands",
+   "title": "Custom Exhibition Stands in Milan and Europe | NEWSTANDS",
+   "desc": "Custom exhibition stands designed, built and installed by NEWSTANDS: based in the Milan area, working at every exhibition centre across Europe.",
+   "h1": "Custom exhibition stands",
+   "lead": "A one-off stand, built from scratch around your brand: we design it, produce it in our workshop near Milan and install it at any trade fair in Europe.",
+   "body": [
+    "A custom stand is the strongest way to present yourself at a trade fair: every wall, every light and every visitor route is designed around your products and your sales goals. We start from the venue's technical regulations and the flow of the hall, then turn the idea into photorealistic 3D renders and construction drawings.",
+    "We produce timber and metal structures, wall panels, graphics, furniture and lighting in-house, so we control quality and timing at every stage. Whether the show is at Fiera Milano Rho, in Düsseldorf or in Paris, the crew that built your stand is the same crew that installs it."
+   ],
+   "inc": [
+    {
+     "t": "Concept and 3D renders",
+     "d": "Creative proposal, photorealistic renders and revisions until the stand is exactly the way you want it."
+    },
+    {
+     "t": "Detailed design",
+     "d": "Technical drawings, calculations and documentation compliant with the regulations of every exhibition centre."
+    },
+    {
+     "t": "Made-to-measure production",
+     "d": "Joinery, metalwork, glass, fabric and premium finishes produced in our own workshop."
+    },
+    {
+     "t": "Graphics and lighting",
+     "d": "Large-format printing, lightboxes, LED walls and lighting design built into the stand's architecture."
+    },
+    {
+     "t": "Installation and dismantling",
+     "d": "Transport, installation with a dedicated site manager, on-site support during the show, dismantling and storage."
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long does it take to build a custom stand?",
+     "a": "It depends on size and complexity: for a bespoke stand it's best to start as soon as your participation in the show is confirmed, so there is time for design, renders and production."
+    },
+    {
+     "q": "Can a custom stand be reused?",
+     "a": "Yes. We design the components to be stored and reassembled: for your next show we adapt the stand to a new floor area and new graphics."
+    },
+    {
+     "q": "Do you build custom stands outside Italy too?",
+     "a": "Yes, from the Milan area we take your stand and our crews to all the major exhibition centres in Europe, from Germany to Spain."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modular-exhibition-stands",
+   "nav": "Modular stands",
+   "title": "Modular Exhibition Stands in Milan and Europe | NEWSTANDS",
+   "desc": "Modular, reusable exhibition stands for companies exhibiting at several shows a year: a consistent image and costs under control, from Milan across Europe.",
+   "h1": "Modular, reusable stands",
+   "lead": "Modular systems designed for companies exhibiting at several shows a year: the same brand image, costs under control and fast installation, in Milan and at every exhibition centre in Europe.",
+   "body": [
+    "A modular stand is a long-term investment: structures, panels and furniture can be reconfigured to suit different floor areas and stand types, from an inline stand to an island. The graphics change; the quality stays.",
+    "We design the system once, produce it in our workshop and manage it for you between shows: storage, maintenance, graphics updates and transport to the next exhibition hall, in Italy or abroad."
+   ],
+   "inc": [
+    {
+     "t": "A bespoke system",
+     "d": "Modules designed around your brand image, combinable for anything from a few square metres to large islands."
+    },
+    {
+     "t": "Interchangeable graphics",
+     "d": "Printed fabrics and panels that can be swapped quickly for each show, product or market."
+    },
+    {
+     "t": "Storage and maintenance",
+     "d": "We keep your stand in our warehouse and check it before every new departure."
+    },
+    {
+     "t": "Fast installation",
+     "d": "Shorter build-up times, ideal even for shows with tight installation windows."
+    },
+    {
+     "t": "Managed show calendar",
+     "d": "We plan your trade-fair season with you and organise logistics and crews for every stop."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is a modular stand cheaper than a custom one?",
+     "a": "Over several shows it usually is: the initial investment is spread across each participation, and subsequent production costs come down to graphics and logistics."
+    },
+    {
+     "q": "Can a modular stand adapt to different floor areas?",
+     "a": "Yes, the modules can be recombined for inline, corner, peninsula or island stands and for different floor areas."
+    },
+    {
+     "q": "Can you manage our whole trade-fair calendar?",
+     "a": "Yes: from the Milan area we coordinate storage, transport and installation for every show of the season, in Italy and across Europe."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "event-congress-setups",
+   "nav": "Events & congresses",
+   "title": "Event and Congress Setups in Milan | NEWSTANDS",
+   "desc": "Setups for corporate events, congresses, conventions and product launches in Milan and across Europe: stages, set design and full technical production.",
+   "h1": "Event and congress setups",
+   "lead": "Stages, set designs, plenary halls, corporate conventions and product launches: we build events and congresses in Milan and across Europe with the precision of a trade-fair build.",
+   "body": [
+    "Milan is one of Europe's capitals for events and congresses, with venues such as Allianz MiCo and the city's major corporate locations. Working from the Milan area, we know the timings, rules and logistics of these venues and can handle site visits and installations very quickly.",
+    "We design the complete setup: stage, set design, plenary hall, exhibition areas, reception, signage and lighting. We coordinate all the technical suppliers ourselves, so you have one point of contact for the entire event."
+   ],
+   "inc": [
+    {
+     "t": "Stages and set design",
+     "d": "Custom stages, backdrops, LED walls and sets designed around your message."
+    },
+    {
+     "t": "Plenary halls and congresses",
+     "d": "Fit-out of halls, poster areas, welcome desks and sponsor spaces."
+    },
+    {
+     "t": "Conventions and product launches",
+     "d": "Settings that present a product or bring your sales network together in a memorable way."
+    },
+    {
+     "t": "Audio, video and lighting",
+     "d": "Technical production, truss, LED walls and lighting built into the project."
+    },
+    {
+     "t": "Signage and graphics",
+     "d": "Wayfinding, totems, backdrops and coordinated graphics, printed and installed by us."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do you also set up events outside exhibition centres?",
+     "a": "Yes: hotels, congress centres, industrial spaces and private venues, in Milan, elsewhere in Italy and abroad."
+    },
+    {
+     "q": "Can you also handle the audio and video side?",
+     "a": "Yes, we coordinate stage, LED walls, lighting and audio as part of a single project, with one point of contact."
+    },
+    {
+     "q": "How far in advance should an event be organised?",
+     "a": "The earlier the better: with a few weeks' notice we can carry out the site visit, design and production without rushing. For urgent requests, contact us and we'll assess feasibility."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-temporary-store",
+   "nav": "Showrooms & pop-ups",
+   "title": "Showrooms, Temporary Stores and Pop-ups in Milan | NEWSTANDS",
+   "desc": "Design and fit-out of showrooms, temporary stores, pop-ups and shop-in-shops in Milan and across Europe, with in-house production and installation.",
+   "h1": "Showrooms, temporary stores and pop-ups",
+   "lead": "Temporary retail spaces, pop-ups and permanent showrooms, fitted out with the same rigour as a trade-fair build, in Milan and across Europe.",
+   "body": [
+    "A temporary store or pop-up has to be ready in a few days and make a lasting impression: we design spaces that tell your brand's story, showcase the product and go up quickly, including in shopping centres and on high streets.",
+    "For permanent showrooms we create bespoke furniture, display walls, showcases and lighting using durable materials. Production and installation are in-house, so timing and quality stay under control."
+   ],
+   "inc": [
+    {
+     "t": "Retail concept",
+     "d": "Layout, customer journey and product display designed to sell."
+    },
+    {
+     "t": "Temporary stores and pop-ups",
+     "d": "Lightweight structures that are quick to assemble, dismantle and reuse in other cities."
+    },
+    {
+     "t": "Permanent showrooms",
+     "d": "Bespoke furniture, fitted walls, showcases and premium finishes."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Brand corners inside stores and department stores, consistent with your image."
+    },
+    {
+     "t": "Lighting and graphics",
+     "d": "Product lighting, signage, window graphics and print, all produced by us."
+    }
+   ],
+   "faq": [
+    {
+     "q": "How long does it take to fit out a temporary store?",
+     "a": "It depends on the space and the project: thanks to in-house production we can install a pop-up in just a few days."
+    },
+    {
+     "q": "Can a pop-up be moved to other cities?",
+     "a": "Yes, we design modular structures that can be dismantled and reassembled at other locations, in Italy and across Europe."
+    },
+    {
+     "q": "Do you also handle permanent showrooms?",
+     "a": "Yes, from design through to the installation of furniture, showcases, lighting and graphics."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "large-format-graphics",
+   "nav": "Large-format graphics",
+   "title": "Large-Format Graphics for Stands and Trade Fairs | NEWSTANDS",
+   "desc": "Large-format printing for exhibition stands and events: foam PVC board, backlit fabric, lightboxes, PVC, vinyl and window graphics, produced and applied by us.",
+   "h1": "Large-format graphics for stands and events",
+   "lead": "Printing on foam PVC board, backlit fabric, PVC, vinyl and window film: your stand's graphics produced and applied by the same crews who install it.",
+   "body": [
+    "Graphics are the first thing visitors see, often from right across the hall. That's why we treat them as part of the stand's architecture: formats, materials and lighting are designed together with the structures.",
+    "We print and apply everything ourselves, in Milan and at every trade fair in Europe: no hand-offs between different suppliers, controlled colours and graphics perfectly aligned when the doors open."
+   ],
+   "inc": [
+    {
+     "t": "Backlit fabric",
+     "d": "Fabric lightboxes and illuminated walls: lightweight and high-impact."
+    },
+    {
+     "t": "Rigid panels",
+     "d": "Printing on foam PVC, Dibond and PVC for walls, totems and desks."
+    },
+    {
+     "t": "Vinyl and window graphics",
+     "d": "Floors, glazing and surfaces customised with technical vinyl."
+    },
+    {
+     "t": "Suspended signs",
+     "d": "Hanging banners and graphic structures visible from far across the hall."
+    },
+    {
+     "t": "On-site application",
+     "d": "We install the graphics ourselves, with a final check before the show opens."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do you print graphics for stands built by others?",
+     "a": "Yes, we can produce and apply the graphics only, in line with the dimensions and regulations of the exhibition centre."
+    },
+    {
+     "q": "What files do you need for printing?",
+     "a": "Vector files or high-resolution images with bleed: we'll send you the technical specifications for each format."
+    },
+    {
+     "q": "Can fabric graphics be reused?",
+     "a": "Yes, fabric can be washed, folded and reinstalled: it's ideal for companies exhibiting at several shows."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledwall-lighting",
+   "nav": "Truss & LED walls",
+   "title": "Truss, LED Walls and Lighting for Exhibition Stands | NEWSTANDS",
+   "desc": "Truss structures, suspended rings, rigging, LED walls and lighting design for exhibition stands and events in Milan and across Europe.",
+   "h1": "Truss, LED walls and lighting",
+   "lead": "Truss structures, suspended rings, rigging, LED walls and lighting for stands that can be seen from across the hall, at Fiera Milano and at every exhibition centre in Europe.",
+   "body": [
+    "A suspended ring with your logo, an LED wall for product videos, lighting carefully designed for every surface: these are the elements that make a stand recognisable from a distance. We design them together with the stand, checking loads, hanging points and venue regulations.",
+    "We supply and install truss, motors, LED walls and lighting fixtures with qualified staff, coordinating rigging requests with the exhibition organiser."
+   ],
+   "inc": [
+    {
+     "t": "Truss structures",
+     "d": "Ground-supported and suspended structures of any size, also as a base for graphics and lighting."
+    },
+    {
+     "t": "Rings and suspended signs",
+     "d": "Circular or custom hanging elements with graphics, visible from across the hall."
+    },
+    {
+     "t": "Rigging",
+     "d": "Calculations, hanging points and paperwork with the exhibition centre."
+    },
+    {
+     "t": "LED walls",
+     "d": "LED screens in a range of sizes, built into walls or mounted on dedicated structures."
+    },
+    {
+     "t": "Lighting design",
+     "d": "Lighting plans for your products, graphics and the atmosphere of the stand."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do you take care of rigging approvals?",
+     "a": "Yes, we prepare the technical documentation and handle the requests with the exhibition organiser."
+    },
+    {
+     "q": "Do you also hire out LED walls for events?",
+     "a": "Yes, LED walls, truss and lighting are also available for events, congresses and product launches."
+    },
+    {
+     "q": "Do you also work at exhibition centres abroad?",
+     "a": "Yes, we install structures and LED walls at all the major exhibition centres in Europe."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "stand-furniture-rental",
+   "nav": "Furniture & hire",
+   "title": "Bespoke and Rental Furniture for Exhibition Stands | NEWSTANDS",
+   "desc": "Desks, counters, seating, display cases, kitchens and storerooms for exhibition stands: bespoke or rental furniture, from Milan to all of Europe.",
+   "h1": "Bespoke and rental stand furniture",
+   "lead": "Desks, counters, seating, display cases, kitchens and storerooms: furniture made to measure in our workshop or available to hire, for stands of every size.",
+   "body": [
+    "Furniture is what makes a stand work: reception, display, meetings, tastings and storage all need to be in the right place. We design them together with the layout, with visitor flows and your team's work at the show in mind.",
+    "We can create one-off bespoke pieces in your brand's finishes and colours, or supply rental furniture to keep costs down. Delivery, installation and collection are always handled by us."
+   ],
+   "inc": [
+    {
+     "t": "Desks and reception",
+     "d": "Bespoke reception counters with logo, lighting and technical compartments."
+    },
+    {
+     "t": "Meeting areas and lounges",
+     "d": "Tables, seating and lounge corners for meeting clients on your stand."
+    },
+    {
+     "t": "Showcases and displays",
+     "d": "Display cases, shelving and fitted walls that show off your products."
+    },
+    {
+     "t": "Kitchens and storerooms",
+     "d": "Storerooms, kitchens and service areas built into the stand."
+    },
+    {
+     "t": "Furniture hire",
+     "d": "Rental furniture for every style and budget, delivered and collected by us."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can I hire just the furniture?",
+     "a": "Yes, we also supply rental furniture on its own, with delivery to and collection from the show."
+    },
+    {
+     "q": "Can bespoke furniture be reused?",
+     "a": "Yes, we keep it in our warehouse and bring it back for your next trade fair."
+    },
+    {
+     "q": "Do you deliver furniture abroad as well?",
+     "a": "Yes, we deliver and install furniture at all the major exhibition centres in Europe."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "stand-installation-dismantling",
+   "nav": "Installation & dismantling",
+   "title": "Stand Installation and Dismantling in Milan & Europe | NEWSTANDS",
+   "desc": "Specialist crews for installing and dismantling exhibition stands at Fiera Milano Rho and every exhibition centre in Europe. Installation-only jobs too.",
+   "h1": "Exhibition stand installation and dismantling",
+   "lead": "Specialist crews and a dedicated site manager to install and dismantle your stand at Fiera Milano Rho, Allianz MiCo and every exhibition centre in Europe. Installation-only jobs too.",
+   "body": [
+    "Installation is the moment a project becomes a stand: it takes experienced crews, the right equipment, and strict respect for time slots and the venue's safety rules. From our base in the Milan area we reach the Milan exhibition centres quickly and set off with your stand to trade fairs all over Europe.",
+    "We install stands we have produced ourselves as well as stands from other suppliers or owned by the client: receipt of materials, installation, final inspection, support during the show, dismantling and return to the warehouse."
+   ],
+   "inc": [
+    {
+     "t": "Specialist crews",
+     "d": "Experienced installers with their own equipment and a dedicated site manager."
+    },
+    {
+     "t": "Access paperwork",
+     "d": "Passes, safety documentation and permits required by the exhibition centre."
+    },
+    {
+     "t": "Inspection and handover",
+     "d": "Final check of structures, lighting and graphics before the show opens."
+    },
+    {
+     "t": "On-site support",
+     "d": "Technicians on call throughout the show for anything you need."
+    },
+    {
+     "t": "Dismantling and storage",
+     "d": "Dismantling on schedule, transport and storage for reuse."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do you install stands you didn't build?",
+     "a": "Yes, we also install and dismantle stands from other stand builders or owned by the exhibitor."
+    },
+    {
+     "q": "Which exhibition centres do you work at?",
+     "a": "Fiera Milano Rho and Allianz MiCo, Bologna, Verona and Rimini, and the major European hubs: Düsseldorf, Cologne, Frankfurt, Munich, Paris, Barcelona, Madrid, Amsterdam and beyond."
+    },
+    {
+     "q": "Do you comply with exhibition centre safety rules?",
+     "a": "Yes, our installers work in accordance with the safety rules and technical regulations of every exhibition centre."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "exhibition-stands-milan",
+   "nav": "Stands in Milan",
+   "title": "Exhibition Stand Builder Milan: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Exhibition stand builder in the Milan area: turnkey stands for Fiera Milano Rho, Allianz MiCo and events in the city, designed and installed by us.",
+   "h1": "Exhibition stands in Milan",
+   "lead": "Milan is one of Europe's most important trade-fair cities, and this is where we work from: we design, produce and install stands for shows at Fiera Milano Rho and Allianz MiCo, and for events across the city.",
+   "body": [
+    "Every year Fiera Milano Rho hosts international shows such as Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO and MICAM, while Allianz MiCo is one of the largest congress centres in Europe. For exhibitors, that means fierce competition: your stand has to stand out.",
+    "Having your stand builder in the Milan area means quick site visits, simple logistics, installation crews close by and immediate support during the show. And if your season continues abroad after Milan, the same team takes your stand to every exhibition centre in Europe."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stands for the major international shows at the Rho exhibition centre, from the design halls to motorcycles and food."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Setups for congresses, conventions and trade fairs at Milan's congress centre."
+    },
+    {
+     "t": "Events in the city",
+     "d": "Product launches, Fuorisalone, showrooms and temporary stores at venues across Milan."
+    },
+    {
+     "t": "Quick site visits",
+     "d": "From our base we reach the Milan exhibition centres in no time, before and during the show."
+    },
+    {
+     "t": "Storage close by",
+     "d": "Your stand stays in our warehouse in Lombardy, ready for the next edition."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are you a Milan-based stand builder?",
+     "a": "Yes, we work from the Milan area, with our head office and workshop in Tromello (PV), Lombardy, a short drive from Fiera Milano Rho."
+    },
+    {
+     "q": "Which Milan trade fairs do you build stands for?",
+     "a": "For every show at Fiera Milano Rho and Allianz MiCo, as well as for events and Fuorisalone in the city."
+    },
+    {
+     "q": "Can you also support us at trade fairs abroad?",
+     "a": "Yes, from Milan we take stands and crews to all the major exhibition centres in Europe."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "exhibition-stands-europe",
+   "nav": "Stands in Europe",
+   "title": "Exhibition Stands in Europe: Germany, France, Spain | NEWSTANDS",
+   "desc": "From Milan to every exhibition centre in Europe: turnkey stands in Düsseldorf, Cologne, Frankfurt, Munich, Paris, Barcelona, Madrid, Amsterdam and beyond.",
+   "h1": "Exhibition stands across Europe",
+   "lead": "We start from Milan and travel to any exhibition centre in Europe: one supplier for design, production, transport and installation, wherever your trade fair is.",
+   "body": [
+    "Exhibiting abroad with a different local stand builder in every country means new contacts, different standards and more risk. With NEWSTANDS you have a single team: we design and produce in our workshop near Milan, organise transport and access paperwork, and install with our own crews.",
+    "We work at the major exhibition centres in Germany, France, Spain, Benelux, Austria and Switzerland, and at any other venue on request. We have built national pavilions and brand stands, such as the Tunisia pavilion at MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Germany",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt and Messe München."
+    },
+    {
+     "t": "France",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles and Eurexpo Lyon."
+    },
+    {
+     "t": "Spain",
+     "d": "Fira de Barcelona Gran Via and IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam and Brussels Expo."
+    },
+    {
+     "t": "Austria, Switzerland and beyond",
+     "d": "Messe Wien, Palexpo Genève and any other exhibition centre in Europe on request."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Do you handle transport and paperwork for trade fairs abroad?",
+     "a": "Yes: packing, transport, passes, safety documentation and liaison with the show organisers are all taken care of by us."
+    },
+    {
+     "q": "Are the installation crews your own?",
+     "a": "Yes, your stand is installed by our own crews with a dedicated site manager, abroad too."
+    },
+    {
+     "q": "Which languages can we communicate in?",
+     "a": "Italian and English; for show documentation we liaise with the organiser in the local language."
+    }
+   ]
+  }
+ }
+}

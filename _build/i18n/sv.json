@@ -1,0 +1,987 @@
+{
+ "_lang": "sv",
+ "meta": {
+  "title": "Mässmontrar i Milano och hela Europa | NEWSTANDS",
+  "desc": "Monterbyggare i Milanoområdet: vi designar, producerar och monterar nyckelfärdiga mässmontrar på Fiera Milano och i alla Europas mässanläggningar.",
+  "ogTitle": "NEWSTANDS — Mässmontrar från Milano till hela Europa",
+  "ogDesc": "Nyckelfärdiga mässmontrar, event och kongresser: bas i Milanoområdet, egna montageteam i alla Europas mässanläggningar.",
+  "ogAlt": "NEWSTANDS — mässmontrar från Milano till hela Europa",
+  "orgDesc": "Monterbyggare med bas i Milanoområdet (huvudkontor i Tromello, PV). Designar, producerar och monterar nyckelfärdiga mässmontrar, event- och kongressmiljöer, showrooms och popup-butiker på Fiera Milano och i alla Europas mässanläggningar.",
+  "slogan": "Designat, producerat, monterat."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podium",
+  "h003": "Allestimenti",
+  "h004": "Designat · Producerat · Monterat",
+  "h005": "Tryck för att gå in",
+  "h006": "Process",
+  "h007": "Tjänster",
+  "h008": "Projekt",
+  "h009": "Konfigurera",
+  "h009b": "Konfigurera",
+  "h010": "Europa",
+  "h011": "Offert",
+  "h012": "Mässmontrar i Milano · Event · Kongresser",
+  "h013": "Design → Produktion → Montage",
+  "h014": "Vi har vår bas i Milanoområdet, Europas mässhjärta: vi bygger mässmontrar från grunden och monterar dem i alla Europas mässanläggningar. En enda kontaktperson från första skissen till sista skruven.",
+  "h015": "Scrolla och bygg montern",
+  "h016": "Ritn. 00 — Monterplan 8 000 × 6 000",
+  "h017": "Skala 1:50",
+  "h018": "Projekt",
+  "h019": "Byggstatus",
+  "h020": "Ritn. 05 — Överlämning",
+  "h021": "Nyckelfärdigt.",
+  "h022": "Konfigurera din",
+  "h023": "Begär offert",
+  "h024": "§ 01 — Om oss",
+  "h025": "Vi säljer inte kvadratmeter. Vi bygger platsen där ditt *varumärke* möter marknaden — från *första* *skissen* till sista skruven, i vilken mässhall som helst i Europa.",
+  "h026": "Metoden",
+  "h027": "Vi designar, producerar och monterar varje del själva: konstruktioner, väggar, grafik, möbler och ljus. Färre led, färre överraskningar, hållna tidsplaner.",
+  "h028": "Från ingenting",
+  "h029": "till färdig monter.",
+  "h030": "Sex faser, en samlad styrning.",
+  "h031": "Scrolla i sidled →",
+  "h032": "Fas 01",
+  "h033": "Mål, budget, mässa och mässans tekniska regler. Vi utgår från vad som ska hända i din monter.",
+  "h034": "Fas 02",
+  "h035": "Koncept & 3D",
+  "h036": "Fotorealistiska renderingar och arbetsritningar: du ser den färdiga montern innan en enda skiva har sågats.",
+  "h037": "Fas 03",
+  "h038": "Produktion",
+  "h039": "Snickeri, metallarbete, storformatstryck och ljusdesign. Varje del tillverkas på mått.",
+  "h040": "Fas 04",
+  "h041": "Logistik",
+  "h042": "Packning, transport och tillträdeshandlingar för alla Europas mässanläggningar. Vi kommer själva — i tid.",
+  "h043": "Fas 05",
+  "h044": "Montage",
+  "h045": "Specialiserade montageteam, egen montageledare och slutbesiktning. Du får montern överlämnad klar att användas.",
+  "h046": "Fas 06",
+  "h047": "Mässa & demontering",
+  "h048": "Teknisk support under mässan, demontering, lagring och återanvändning till nästa mässa.",
+  "h049": "Resultat",
+  "h050": "Du tänker",
+  "h051": "på kunderna.",
+  "h052": "Resten",
+  "h053": "fixar vi.",
+  "h054": "Låt oss prata om nästa mässa",
+  "h055": "Vad vi",
+  "h056": "bygger",
+  "h057": "§ 03 — Tjänster",
+  "h058": "Alla typer av mässor och event, från radmontern på 16 m² till ömontern i två våningar. Produktion och montage alltid i egen regi.",
+  "h059": "Montrar",
+  "h060": "vi har byggt",
+  "h061": "§ 04 — Projekt",
+  "h062": "Ett urval av montrar som designats, producerats och monterats av våra egna team: nationella paviljonger, varumärkesöar och tekniska montrar i hela Europa.",
+  "h063": "Nästa kan bli din",
+  "h064": "din monter",
+  "h065": "§ 05 — 3D-konfigurator",
+  "h066": "Välj montertyp och yta: se volymen ta form och skicka konfigurationen till oss som underlag för offerten.",
+  "h067": "↔ Dra för att rotera",
+  "h068": "Axonometrisk vy",
+  "h069": "Az 000°",
+  "h070": "01 — Montertyp",
+  "h071": "Öppna sidor",
+  "h072": "02 — Yta",
+  "h073": "Ungefärliga mått",
+  "h074": "Använd denna konfiguration",
+  "h075": "Nästa",
+  "h076": "avgång",
+  "h077": "§ 06 — Från Milano till hela Europa",
+  "h078": "Vi utgår från Milano, de stora internationella mässornas stad, och reser med montern till alla Europas mässanläggningar: Tyskland, Frankrike, Spanien, Benelux, Österrike och Schweiz. Finns det en mässhall, kommer vi dit.",
+  "h079": "Stad",
+  "h080": "Mässanläggning",
+  "h081": "Land",
+  "h082": "Status",
+  "h083": "Montageteam i drift",
+  "h084": "+ alla andra mässanläggningar på begäran",
+  "h085": "Vanliga",
+  "h086": "frågor",
+  "h087": "§ 07 — FAQ",
+  "h088": "Kostnader, tidsplaner, städer och tjänster: svar på de frågor vi oftast får inför en mässa.",
+  "h089": "Har du en mässa",
+  "h090": "i kalendern?",
+  "h091": "Berätta om eventet, datumen och antal kvadratmeter. Du får ett första förslag och en tydlig offert.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Adress",
+  "h095": "Område",
+  "h096": "Milano + hela Europa",
+  "h097": "Tjänst",
+  "h098": "Nyckelfärdigt",
+  "h099": "Mässmonter",
+  "h100": "Event",
+  "h101": "Kongress",
+  "h102": "Showroom / popup",
+  "h103": "Endast montage",
+  "h104": "För- och efternamn",
+  "h105": "Företag",
+  "h106": "Mässa / event och stad",
+  "h107": "Berätta om projektet",
+  "h108": "Skicka förfrågan",
+  "h109": "Förfrågan är klar i din e-post: tryck på skicka.",
+  "h110": "Öppnades ingenting? Skriv till",
+  "h111": "eller ring",
+  "h112": "Kontor",
+  "h113": "Mässmontrar i Milano och Europa, event, kongresser",
+  "h114": "27020 Tromello (PV), Lombardiet",
+  "h115": "Navigera",
+  "h116": "Konfigurator",
+  "h117": "Sociala medier",
+  "h118": "Kontakt",
+  "h119": "Begär en offert →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardiet",
+  "h121": "Designat, producerat, monterat.",
+  "h122": "Till toppen ↑",
+  "h123": "Huvudmeny",
+  "h124": "Filtrera efter bransch",
+  "h125": "Projektgalleri",
+  "h126": "Stäng galleriet",
+  "h127": "Föregående foto",
+  "h128": "Nästa foto",
+  "h129": "Yta i kvadratmeter",
+  "h130": "Offertförfrågan monter",
+  "h131": "Typ av projekt",
+  "h132": "Skriv till oss på WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Vad kostar en mässmonter?",
+   "a": "Priset på en monter beror på yta, montertyp (rad-, hörn-, halvö- eller ömonter), material, grafik, möbler och mässanläggning. Efter en kort genomgång av mässa, datum och kvadratmeter skickar vi ett första förslag och en tydlig, detaljerad offert. Du kan börja i 3D-konfiguratorn ovan eller ringa eller skriva till oss på WhatsApp på <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Var finns NEWSTANDS och vilka mässor arbetar ni på?",
+   "a": "Vi är en monterbyggare från Milanoområdet med huvudkontor och verkstad i Tromello (PV) i Lombardiet: ett strategiskt läge nära Fiera Milano Rho och Allianz MiCo, där några av Europas viktigaste mässor hålls. Härifrån reser våra team till alla mässorter: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Paris, Lyon, Barcelona, Madrid, Amsterdam, Bryssel, Wien, Genève och vidare."
+  },
+  {
+   "q": "Vad ingår i den nyckelfärdiga tjänsten?",
+   "a": "En enda kontaktperson för allt: brief, koncept och 3D-renderingar, arbetsritningar, egen produktion av konstruktioner, väggar, storformatsgrafik, möbler och ljus, logistik och transport, montage med egen montageledare, support under mässan, demontering och lagring för återanvändning."
+  },
+  {
+   "q": "Gör ni även event, kongresser och showrooms?",
+   "a": "Ja. Utöver skräddarsydda och modulära mässmontrar designar och bygger vi företagsevent, kongresser, konferenser, produktlanseringar, scener och scenografi, showrooms, temporära butiker och popup-butiker, med truss, LED-väggar och ljusdesign."
+  },
+  {
+   "q": "Hur långt i förväg bör vi kontakta er?",
+   "a": "Ju tidigare du kontaktar oss, desto mer marginal har vi för design, renderingar och produktion: för en skräddarsydd monter är det bäst att börja så snart ert mässdeltagande är bekräftat. Modulära montrar och rent montage klarar vi även med kortare tidsramar — skriv till oss så kontrollerar vi direkt om det går."
+  },
+  {
+   "q": "Hur begär jag en offert?",
+   "a": "Fyll i formuläret under kontakt, skriv till <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> eller ring eller skriv till oss på WhatsApp på <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativt <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Ange mässa eller event, stad, datum och kvadratmeter så återkommer vi med ett första förslag."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Varje monter börjar med en teknisk ritning: mått, mässans regler och besöksflöden."
+   ],
+   [
+    "Konstruktion",
+    "Golv, truss och ramar. Den del som inte syns men som bär allt."
+   ],
+   [
+    "Väggar & grafik",
+    "Väggar tillverkade på mått, storformatstryck och ytbehandling."
+   ],
+   [
+    "Möbler & teknik",
+    "Diskar, totem, LED-väggar, mötesytor och hängande ring. Tillverkat och monterat av oss."
+   ],
+   [
+    "Ljuset tänt",
+    "Slutbesiktning, städning och överlämning. Montern är redo att öppna."
+   ]
+  ],
+  "lbl": [
+   "B 8 000 mm",
+   "D 6 000 mm",
+   "Truss 29×29 — H 4 500",
+   "Vägg 3 400 + grafik",
+   "LED-vägg 3,4 × 1,9 m",
+   "Receptionsdisk",
+   "Hängande ring Ø 4 400"
+  ],
+  "ty": {
+   "linea": "Radmonter",
+   "angolo": "Hörnmonter",
+   "penisola": "Halvö",
+   "isola": "Ömonter",
+   "doppio": "Två våningar"
+  },
+  "sides": "sidor",
+  "side": "sida",
+  "openSides": "öppna sidor",
+  "openSide": "öppen sida",
+  "cfgMsg": "Konfiguration från webbplatsen: montertyp {type}, {n} {sides}, cirka {area} m² ({dim} m).",
+  "axo": "Axonometrisk vy",
+  "cfgFb": "3D-konfiguratorn är inte tillgänglig på den här enheten.<br>Skriv till oss så skickar vi en rendering.",
+  "mq": [
+   "Montrar på mått",
+   "Event",
+   "Kongresser",
+   "Showrooms",
+   "Popup",
+   "LED-väggar",
+   "Truss",
+   "Grafik",
+   "Möbler"
+  ],
+  "svc": [
+   {
+    "t": "Skräddarsydda montrar",
+    "d": "Unika projekt byggda från grunden kring ditt varumärke: snickeri, metall, glas, textil och exklusiva ytskikt.",
+    "tags": [
+     "Koncept",
+     "3D-rendering",
+     "Produktion",
+     "Montage"
+    ]
+   },
+   {
+    "t": "Modulära montrar",
+    "d": "Återanvändbara, färdigbyggda system för er som ställer ut på flera mässor per år: enhetlig profil och kostnader under kontroll.",
+    "tags": [
+     "Återbruk",
+     "Lagring",
+     "Snabbhet"
+    ]
+   },
+   {
+    "t": "Event & kongresser",
+    "d": "Scener, scenografi, plenisalar, företagskonferenser och produktlanseringar med komplett teknisk produktion.",
+    "tags": [
+     "Scener",
+     "Scenografi",
+     "Ljud/bild"
+    ]
+   },
+   {
+    "t": "Showroom & popup",
+    "d": "Temporära butiker, popups och permanenta showrooms: med samma precision som i mässhallen.",
+    "tags": [
+     "Popup",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Storformatsgrafik",
+    "d": "Tryck på forex, bakbelyst textil, PVC, dekaler och fönsterdekor. Tillverkat och monterat av oss.",
+    "tags": [
+     "Ljuslåda",
+     "Textil",
+     "Dekaler"
+    ]
+   },
+   {
+    "t": "Truss & LED-väggar",
+    "d": "Trusskonstruktioner, hängande ringar, rigging, LED-väggar och ljusdesign för montrar som syns i hela hallen.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED-vägg",
+     "Ljus"
+    ]
+   },
+   {
+    "t": "Möbler & uthyrning",
+    "d": "Diskar, bardiskar, sittplatser, vitrinskåp, kök och förråd: möbler på mått eller att hyra för alla monterstorlekar.",
+    "tags": [
+     "På mått",
+     "Uthyrning",
+     "Förråd"
+    ]
+   }
+  ],
+  "more": "Läs mer om tjänsten",
+  "tav": "Ritn.",
+  "avail": "TILLGÄNGLIG",
+  "form": {
+   "type": "Typ av projekt",
+   "name": "För- och efternamn",
+   "company": "Företag",
+   "fair": "Mässa / event och stad",
+   "project": "Projekt",
+   "subj": "Offertförfrågan mässmonter"
+  },
+  "ariaW": "{t} — öppna galleri ({n} foton)",
+  "altW": "Mässmonter {t} — {c}, byggd av NEWSTANDS",
+  "nPh": "{n} foton",
+  "altLb": "Mässmonter {t} ({c}) — foto {i} av {n}",
+  "phN": "Foto {i}",
+  "all": "Alla",
+  "ld": [
+   "Golv",
+   "Väggar",
+   "Balk",
+   "Ljus",
+   "Klart"
+  ],
+  "c3": [
+   "FRÅN NOLL",
+   "TILL MONTER.",
+   "DESIGN · PRODUKTION · MONTAGE · EUROPA",
+   "MÄSSMONTRAR",
+   "MONTRAR · EVENT · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristall och belysning",
+   "g": "Design",
+   "d": "Helvit ömonter omgiven av draperier av kristalltrådar, hängande ljuskronor och lackerade möbler: montern blir ett lysande skyltfönster."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sporttillskott",
+   "g": "Livsmedel & hälsa",
+   "d": "Ömonter öppen åt flera håll med produktgrafik på hela väggar, hängande skyltar och provsmakningsdiskar för stora besöksflöden."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Officiell paviljong med valv och minareter inspirerade av Telanganas arkitektur, diskar för researrangörer och uppslukande grafik."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Portaler i imiterad terrakotta, snidade valv och B2B-platser: en regional paviljong som berättar om regionen med en enda blick."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nationell livsmedelspaviljong",
+   "g": "Livsmedel & hälsa",
+   "d": "Gemensam paviljong i vitt och rött med genombrutna mönster, utställardiskar och en yta för show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industri",
+   "d": "Företagsmonter med glasade mötesrum, bakbelysta väggar och en välkomstyta öppen mot gången."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motorcyklar",
+   "g": "Motorcyklar",
+   "d": "Helvitt med röda portaler och podier för motorcyklarna: ren grafik som låter fordonen tala."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elmotorcyklar",
+   "g": "Motorcyklar",
+   "d": "Helsvart scenografi med blankt vitt golv, utställda motorcyklar och mötesyta."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Utställningslounge",
+   "g": "Design",
+   "d": "Öppen lounge med stort panoramatryck, hängande innertak, bardisk och sittplatser för att ta emot besökarna."
+  },
+  {
+   "t": "Plastona",
+   "c": "Hem och trädgård",
+   "g": "Design",
+   "d": "Ömonter med kubformade skyltar på truss, vita hyllor och produktmiljöer."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motorcyklar och motorer",
+   "g": "Motorcyklar",
+   "d": "Hörnmonter med svarta och vita utställningsväggar, fordon på podium och en yta med bord."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energiindustri",
+   "g": "Industri",
+   "d": "Rundade bakbelysta ramar, tekniska paneler och mötesyta för en B2B-publik."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Hjälmar",
+   "g": "Motorcyklar",
+   "d": "Utställningsväggar för hjälmar, racinggrafik och receptionsdisk: italiensk design på några få kvadratmeter."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "MC-tillbehör",
+   "g": "Motorcyklar",
+   "d": "Pelare i trikolor, belysta vitrinskåp och produktväggar för en racingnärvaro med hög synlighet."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Hjälmar",
+   "g": "Motorcyklar",
+   "d": "Romb-mönstrad vägg med utställda hjälmar, överdimensionerade skyltar och en yta med bord för förhandlingar."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "MC-reservdelar och kläder",
+   "g": "Motorcyklar",
+   "d": "Grafiska totem i full höjd, produktvitriner och klädväggar kring en mötesyta."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industri",
+   "g": "Industri",
+   "d": "Företagsmonter i blått med processgrafik, teknisk yta och mötesplatser."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turism",
+   "g": "Turism",
+   "d": "Scenografisk portal med traditionella dekorationer och stora bilder från regionen."
+  },
+  {
+   "t": "Uttar Pradesh — Jordbruk",
+   "c": "Jordbruk och livsmedel",
+   "g": "Livsmedel & hälsa",
+   "d": "Vit monter med lysande ramar i golvet och produktpaneler: avskalad och ljus."
+  },
+  {
+   "t": "Tunisien — Medica Düsseldorf",
+   "c": "Nationell medicinsk paviljong",
+   "g": "Medicin",
+   "d": "Landspaviljong på Medica Düsseldorf med hängande skylt, diskar för de utställande företagen och loungeyta."
+  }
+ ],
+ "ui": {
+  "langName": "Svenska",
+  "langLabel": "Språk",
+  "home": "Start",
+  "services": "Tjänster",
+  "works": "Projekt",
+  "contacts": "Kontakt",
+  "quote": "Offert",
+  "requestQuote": "Begär en offert",
+  "whatsapp": "Skriv till oss på WhatsApp",
+  "call": "Ring oss",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-post",
+  "address": "Adress",
+  "serviceN": "Tjänst",
+  "locationK": "Från Milano till hela Europa",
+  "includesTitle": "Det här ingår",
+  "whyTitle": "Varför NEWSTANDS",
+  "why": [
+   {
+    "t": "Bas i Milano",
+    "d": "Vi arbetar från Milanoområdet, nära Fiera Milano Rho och Allianz MiCo: snabba platsbesök, enkel logistik och team som alltid finns nära de stora mässanläggningarna."
+   },
+   {
+    "t": "Egen produktion",
+    "d": "Konstruktioner, väggar, grafik, möbler och ljus tillverkas i vår egen verkstad: färre led, färre överraskningar, hållna tidsplaner."
+   },
+   {
+    "t": "I alla Europas mässanläggningar",
+    "d": "Våra montageteam reser med montern: Tyskland, Frankrike, Spanien, Benelux, Österrike, Schweiz och alla andra mässanläggningar på begäran."
+   },
+   {
+    "t": "En enda kontaktperson",
+    "d": "Från brief till demontering pratar du alltid med samma person, och på mässan har du en egen montageledare."
+   }
+  ],
+  "galleryTitle": "Några montrar vi har byggt",
+  "faqTitle": "Vanliga frågor",
+  "otherTitle": "Andra tjänster",
+  "ctaTitle": "Har du en mässa i kalendern?",
+  "ctaText": "Berätta om mässa, stad, datum och kvadratmeter: du får ett första förslag och en tydlig offert.",
+  "whereTitle": "Från Milano till alla mässorter",
+  "whereText": "Vi finns i Milanoområdet, staden som är värd för några av världens viktigaste mässor. Härifrån når våra team alla mässanläggningar i Italien och Europa.",
+  "milanLink": "Mässmontrar i Milano",
+  "europeLink": "Mässmontrar i Europa",
+  "photos": "foton",
+  "backHome": "Tillbaka till startsidan",
+  "footerTag": "Mässmontrar i Milano och hela Europa. Designat, producerat, monterat.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardiet · Milanoområdet",
+  "breadcrumb": "Sökväg",
+  "skip": "Hoppa till innehållet",
+  "menu": "Huvudmeny"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "skraddarsydda-massmontrar",
+   "nav": "Skräddarsydda montrar",
+   "title": "Skräddarsydda mässmontrar i Milano och Europa | NEWSTANDS",
+   "desc": "Skräddarsydda mässmontrar som designas, produceras och monteras av NEWSTANDS: bas i Milanoområdet, montage i alla Europas mässanläggningar.",
+   "h1": "Skräddarsydda mässmontrar",
+   "lead": "En unik monter, byggd från grunden kring ditt varumärke: vi designar den, tillverkar den i vår verkstad nära Milano och monterar den på vilken mässa som helst i Europa.",
+   "body": [
+    "En skräddarsydd monter är det starkaste sättet att synas på en mässa: varje vägg, varje ljuspunkt och varje besöksflöde är anpassat efter dina produkter och dina affärsmål. Vi utgår från mässans tekniska regler och flödena i hallen och omvandlar sedan idén till fotorealistiska 3D-renderingar och arbetsritningar.",
+    "Vi tillverkar själva konstruktioner i trä och metall, väggar, grafik, möbler och belysning, så att vi har kontroll över kvalitet och tidsplan i varje fas. Oavsett om mässan hålls på Fiera Milano Rho, i Düsseldorf eller i Paris är det samma team som byggt din monter som också monterar den."
+   ],
+   "inc": [
+    {
+     "t": "Koncept och 3D-renderingar",
+     "d": "Kreativt förslag, fotorealistiska renderingar och revideringar tills montern är exakt som du vill ha den."
+    },
+    {
+     "t": "Arbetsritningar",
+     "d": "Tekniska ritningar, beräkningar och dokumentation enligt reglerna på varje mässanläggning."
+    },
+    {
+     "t": "Tillverkning på mått",
+     "d": "Snickeri, metallarbete, glas, textil och exklusiva ytskikt från vår egen verkstad."
+    },
+    {
+     "t": "Grafik och belysning",
+     "d": "Storformatstryck, ljuslådor, LED-väggar och ljusdesign integrerade i monterns arkitektur."
+    },
+    {
+     "t": "Montage och demontering",
+     "d": "Transport, montage med egen montageledare, support på mässan, demontering och lagring."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hur lång tid tar det att bygga en skräddarsydd monter?",
+     "a": "Det beror på storlek och komplexitet: för en monter på mått är det bäst att börja så snart mässdeltagandet är bekräftat, så att det finns marginal för design, renderingar och produktion."
+    },
+    {
+     "q": "Kan en skräddarsydd monter återanvändas?",
+     "a": "Ja. Vi designar delarna så att de kan lagras och monteras igen: till nästa mässa anpassar vi montern till nya ytor och ny grafik."
+    },
+    {
+     "q": "Bygger ni skräddarsydda montrar även utanför Italien?",
+     "a": "Ja, från Milanoområdet tar vi montern och våra team till alla Europas stora mässanläggningar, från Tyskland till Spanien."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulara-massmontrar",
+   "nav": "Modulära montrar",
+   "title": "Modulära mässmontrar i Milano och Europa | NEWSTANDS",
+   "desc": "Modulära, återanvändbara mässmontrar för er som ställer ut på flera mässor per år: enhetlig profil och kontroll på kostnaderna, från Milano till hela Europa.",
+   "h1": "Modulära och återanvändbara montrar",
+   "lead": "Modulära system för er som ställer ut på flera mässor per år: samma varumärkesprofil, kostnader under kontroll och snabbt montage — i Milano och i alla Europas mässanläggningar.",
+   "body": [
+    "En modulär monter är en investering som håller: konstruktioner, väggar och möbler kan konfigureras om för olika ytor och montertyper, från radmonter till ömonter. Grafiken byts, kvaliteten består.",
+    "Vi designar systemet en gång, tillverkar det i vår verkstad och tar hand om det mellan mässorna: lagring, underhåll, uppdatering av grafik och transport till nästa mässhall, i Italien eller utomlands."
+   ],
+   "inc": [
+    {
+     "t": "System på mått",
+     "d": "Moduler designade efter din profil, kombinerbara från montrar på några få kvadratmeter till stora ömontrar."
+    },
+    {
+     "t": "Utbytbar grafik",
+     "d": "Tryckta textilier och paneler som snabbt byts ut för varje mässa, produkt eller marknad."
+    },
+    {
+     "t": "Lagring och underhåll",
+     "d": "Vi förvarar montern i vårt lager och kontrollerar den före varje ny avgång."
+    },
+    {
+     "t": "Snabbt montage",
+     "d": "Kort byggtid, perfekt även för mässor med snäva montagefönster."
+    },
+    {
+     "t": "Mässkalendern i trygga händer",
+     "d": "Vi planerar mässäsongen tillsammans med dig och organiserar logistik och team för varje stopp."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Är en modulär monter billigare än en skräddarsydd?",
+     "a": "Sett över flera mässor oftast ja: grundinvesteringen fördelas på varje deltagande, och kostnaderna därefter begränsas till grafik och logistik."
+    },
+    {
+     "q": "Kan en modulär monter anpassas till olika ytor?",
+     "a": "Ja, modulerna kan kombineras om till rad-, hörn-, halvö- eller ömontrar och till olika storlekar."
+    },
+    {
+     "q": "Kan ni hantera hela vår mässkalender?",
+     "a": "Ja: från Milanoområdet samordnar vi lagring, transport och montage för varje mässa under säsongen, i Italien och i Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "eventbygge-och-kongresser",
+   "nav": "Event & kongresser",
+   "title": "Event- och kongressmiljöer i Milano | NEWSTANDS",
+   "desc": "Miljöer för företagsevent, kongresser, konferenser och produktlanseringar i Milano och Europa: scener, scenografi och komplett teknisk produktion.",
+   "h1": "Miljöer för event och kongresser",
+   "lead": "Scener, scenografi, plenisalar, företagskonferenser och produktlanseringar: vi bygger event och kongresser i Milano och i hela Europa med samma precision som på en mässa.",
+   "body": [
+    "Milano är en av Europas huvudstäder för event och kongresser, med anläggningar som Allianz MiCo och stadens stora eventlokaler. Eftersom vi arbetar från Milanoområdet känner vi till tider, regler och logistik på dessa platser och kan sköta platsbesök och montage mycket snabbt.",
+    "Vi designar hela miljön: scen, scenografi, plenisal, utställningsytor, reception, skyltning och ljusdesign. Vi samordnar själva de tekniska leverantörerna, så att du har en enda kontaktperson för hela eventet."
+   ],
+   "inc": [
+    {
+     "t": "Scener och scenografi",
+     "d": "Scener på mått, fonder, LED-väggar och scenografi designade för ditt budskap."
+    },
+    {
+     "t": "Plenisalar och kongresser",
+     "d": "Inredning av salar, posterytor, välkomstdiskar och sponsorytor."
+    },
+    {
+     "t": "Konferenser och lanseringar",
+     "d": "Miljöer som presenterar en produkt eller samlar säljorganisationen på ett minnesvärt sätt."
+    },
+    {
+     "t": "Ljud, bild och ljus",
+     "d": "Teknisk produktion, truss, LED-väggar och ljusdesign integrerade i projektet."
+    },
+    {
+     "t": "Skyltning och grafik",
+     "d": "Vägvisning, totem, fonder och samordnad grafik — tryckt och monterad av oss."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bygger ni event även utanför mässanläggningarna?",
+     "a": "Ja: hotell, kongresscenter, industrilokaler och privata lokaler, i Milano, i övriga Italien och utomlands."
+    },
+    {
+     "q": "Kan ni även ta hand om ljud och bild?",
+     "a": "Ja, vi samordnar scen, LED-väggar, ljus och ljud som ett enda projekt, med en enda kontaktperson."
+    },
+    {
+     "q": "Hur långt i förväg bör man planera ett event?",
+     "a": "Ju tidigare desto bättre: med några veckors marginal kan vi göra platsbesök, design och produktion i lugn och ro. Är det bråttom, kontakta oss så bedömer vi om det går."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-och-popup-butiker",
+   "nav": "Showroom & popup",
+   "title": "Showrooms, popup och temporära butiker i Milano | NEWSTANDS",
+   "desc": "Design och inredning av showrooms, temporära butiker, popups och shop-in-shops i Milano och Europa, med egen produktion och eget montage.",
+   "h1": "Showrooms, temporära butiker och popups",
+   "lead": "Temporära butiker, popups och permanenta showrooms byggda med samma precision som i mässhallen — i Milano och i hela Europa.",
+   "body": [
+    "En temporär butik eller en popup måste vara klar på några dagar och göra intryck: vi designar miljöer som berättar om varumärket, lyfter fram produkten och går snabbt att montera, även i köpcentrum och på shoppinggator.",
+    "För permanenta showrooms tillverkar vi möbler på mått, utställningsväggar, vitrinskåp och belysning i hållbara material. Produktion och montage sker i egen regi, så tidsplan och kvalitet förblir under kontroll."
+   ],
+   "inc": [
+    {
+     "t": "Retailkoncept",
+     "d": "Planlösning, kundflöde och produktexponering utformade för att sälja."
+    },
+    {
+     "t": "Temporära butiker och popups",
+     "d": "Lätta konstruktioner som snabbt monteras, demonteras och återanvänds i andra städer."
+    },
+    {
+     "t": "Permanenta showrooms",
+     "d": "Möbler på mått, inredda väggar, vitrinskåp och exklusiva ytskikt."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Varumärkeshörnor i butiker och varuhus, i linje med din profil."
+    },
+    {
+     "t": "Ljus och grafik",
+     "d": "Produktbelysning, skyltar, fönsterdekor och grafik tillverkade av oss."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hur snabbt kan en temporär butik byggas?",
+     "a": "Det beror på lokalen och projektet: tack vare vår egen produktion kan vi montera en popup på bara några dagar."
+    },
+    {
+     "q": "Kan en popup flyttas till andra städer?",
+     "a": "Ja, vi designar modulära konstruktioner som kan demonteras och monteras igen på andra platser, i Italien och i Europa."
+    },
+    {
+     "q": "Gör ni även permanenta showrooms?",
+     "a": "Ja, från design till installation av möbler, vitrinskåp, ljus och grafik."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "storformatsgrafik-massmontrar",
+   "nav": "Storformatsgrafik",
+   "title": "Storformatsgrafik för mässmontrar och mässor | NEWSTANDS",
+   "desc": "Storformatstryck för mässmontrar och event: forex, bakbelyst textil, ljuslådor, PVC, dekaler och fönsterdekor — tillverkat och monterat av oss.",
+   "h1": "Storformatsgrafik för montrar och event",
+   "lead": "Tryck på forex, bakbelyst textil, PVC, dekaler och fönsterdekor: grafiken till din monter tillverkas och monteras av samma team som bygger den.",
+   "body": [
+    "Grafiken är det besökarna ser först, ofta från andra sidan hallen. Därför behandlar vi den som en del av monterns arkitektur: format, material och ljus designas tillsammans med konstruktionerna.",
+    "Vi trycker och monterar själva, i Milano liksom på alla europeiska mässor: inga mellanled mellan olika leverantörer, kontrollerade färger och grafik som linjerar perfekt när dörrarna öppnar."
+   ],
+   "inc": [
+    {
+     "t": "Bakbelyst textil",
+     "d": "Ljuslådor och ljusväggar i textil, lätta och med stor effekt."
+    },
+    {
+     "t": "Styva skivor",
+     "d": "Tryck på forex, dibond och PVC för väggar, totem och diskar."
+    },
+    {
+     "t": "Dekaler och fönsterdekor",
+     "d": "Golv, glaspartier och ytor anpassade med tekniska dekaler."
+    },
+    {
+     "t": "Hängande skyltar",
+     "d": "Banderoller och hängande grafiska konstruktioner som syns på långt håll i hallen."
+    },
+    {
+     "t": "Montering på mässan",
+     "d": "Vi monterar grafiken själva, med slutkontroll före öppning."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Trycker ni grafik även för montrar som byggts av andra?",
+     "a": "Ja, vi kan tillverka och montera enbart grafiken och följer mässanläggningens mått och regler."
+    },
+    {
+     "q": "Vilka filer behövs för tryck?",
+     "a": "Vektorfiler eller högupplösta bilder med utfall: vi skickar de tekniska specifikationerna för varje format."
+    },
+    {
+     "q": "Kan textilgrafik återanvändas?",
+     "a": "Ja, textil kan tvättas, vikas och monteras igen: perfekt för er som deltar i flera mässor."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledvaggar-ljusdesign",
+   "nav": "Truss & LED-väggar",
+   "title": "Truss, LED-väggar och ljus för mässmontrar | NEWSTANDS",
+   "desc": "Trusskonstruktioner, hängande ringar, rigging, LED-väggar och ljusdesign för mässmontrar och event i Milano och i hela Europa.",
+   "h1": "Truss, LED-väggar och ljusdesign",
+   "lead": "Trusskonstruktioner, hängande ringar, rigging, LED-väggar och ljus för montrar som syns i hela hallen — på Fiera Milano och i alla Europas mässanläggningar.",
+   "body": [
+    "En hängande ring med logotypen, en LED-vägg för produktfilmer, ett ljus anpassat efter ytorna: det är de element som gör en monter igenkännbar på håll. Vi designar dem tillsammans med montern och kontrollerar laster, upphängningspunkter och mässans regler.",
+    "Vi levererar och installerar truss, kättingtelfrar, LED-väggar och armaturer med kvalificerad personal och samordnar riggingansökningarna med mässarrangören."
+   ],
+   "inc": [
+    {
+     "t": "Truss och trusskonstruktioner",
+     "d": "Golvstående och hängande konstruktioner i alla storlekar, även som stomme för grafik och ljus."
+    },
+    {
+     "t": "Ringar och hängande skyltar",
+     "d": "Runda eller specialformade hängande element med grafik, synliga i hela hallen."
+    },
+    {
+     "t": "Rigging",
+     "d": "Beräkningar, upphängningspunkter och ansökningar hos mässanläggningen."
+    },
+    {
+     "t": "LED-väggar",
+     "d": "LED-skärmar i olika storlekar, integrerade i väggarna eller på egna konstruktioner."
+    },
+    {
+     "t": "Ljusdesign",
+     "d": "Ljussättning för produkter, grafik och monterns atmosfär."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Sköter ni tillstånden för rigging?",
+     "a": "Ja, vi tar fram den tekniska dokumentationen och hanterar ansökningarna hos mässarrangören."
+    },
+    {
+     "q": "Hyr ni ut LED-väggar även till event?",
+     "a": "Ja, LED-väggar, truss och ljus finns även för event, kongresser och produktlanseringar."
+    },
+    {
+     "q": "Arbetar ni även på mässanläggningar utomlands?",
+     "a": "Ja, vi installerar konstruktioner och LED-väggar på alla Europas stora mässanläggningar."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "montermobler-uthyrning",
+   "nav": "Möbler & uthyrning",
+   "title": "Möbler på mått och möbeluthyrning för montrar | NEWSTANDS",
+   "desc": "Diskar, bardiskar, sittplatser, vitrinskåp, kök och förråd för mässmontrar: möbler på mått eller att hyra, från Milano till hela Europa.",
+   "h1": "Möbler på mått och uthyrning för montrar",
+   "lead": "Diskar, bardiskar, sittplatser, vitrinskåp, kök och förråd: möbler tillverkade på mått i vår verkstad eller att hyra, för montrar i alla storlekar.",
+   "body": [
+    "Möblerna får montern att fungera: mottagning, exponering, möten, provsmakning och förråd måste ha rätt plats. Vi designar dem tillsammans med planlösningen och tänker på besöksflödena och ditt teams arbete på mässan.",
+    "Vi kan tillverka unika möbler på mått i ditt varumärkes ytskikt och färger, eller leverera hyrmöbler för att hålla nere kostnaderna. Leverans, montering och upphämtning sköter vi alltid själva."
+   ],
+   "inc": [
+    {
+     "t": "Diskar och reception",
+     "d": "Välkomstdiskar på mått med logotyp, ljus och tekniska utrymmen."
+    },
+    {
+     "t": "Mötesytor och lounger",
+     "d": "Bord, stolar och sittgrupper för att träffa kunder i montern."
+    },
+    {
+     "t": "Vitrinskåp och displayer",
+     "d": "Montrar i glas, hyllor och inredda väggar som lyfter fram produkterna."
+    },
+    {
+     "t": "Kök och förråd",
+     "d": "Förråd, kök och serviceytor integrerade i montern."
+    },
+    {
+     "t": "Möbeluthyrning",
+     "d": "Hyrmöbler för alla stilar och budgetar, levererade och upphämtade av oss."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kan jag hyra enbart möbler?",
+     "a": "Ja, vi levererar även enbart hyrmöbler, med leverans och upphämtning på mässan."
+    },
+    {
+     "q": "Kan möbler på mått återanvändas?",
+     "a": "Ja, vi förvarar dem i vårt lager och tar med dem till nästa mässa."
+    },
+    {
+     "q": "Levererar ni möbler även utomlands?",
+     "a": "Ja, vi levererar och monterar möbler på alla Europas stora mässanläggningar."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montering-demontering-massmontrar",
+   "nav": "Montage & demontering",
+   "title": "Montering & demontering av montrar i Milano/Europa | NEWSTANDS",
+   "desc": "Specialiserade team för montering och demontering av mässmontrar på Fiera Milano Rho och i alla Europas mässanläggningar. Även enbart montage.",
+   "h1": "Montering och demontering av mässmontrar",
+   "lead": "Specialiserade team och en egen montageledare som monterar och demonterar din monter på Fiera Milano Rho, Allianz MiCo och i alla Europas mässanläggningar. Även enbart montage.",
+   "body": [
+    "Montaget är ögonblicket då ett projekt blir en monter: det kräver erfarna team, rätt utrustning och respekt för tidsfönster och mässans säkerhetsregler. Från vår bas i Milanoområdet når vi snabbt stadens mässanläggningar och reser med montern till mässor i hela Europa.",
+    "Vi monterar montrar som vi själva tillverkat, men även montrar från andra leverantörer eller som ägs av kunden: mottagning av material, montage, slutbesiktning, support under mässan, demontering och retur till lagret."
+   ],
+   "inc": [
+    {
+     "t": "Specialiserade team",
+     "d": "Erfarna montörer med egen utrustning och en egen montageledare."
+    },
+    {
+     "t": "Tillträdeshandlingar",
+     "d": "Passerkort, säkerhetsdokumentation och tillstånd som mässanläggningen kräver."
+    },
+    {
+     "t": "Slutbesiktning och överlämning",
+     "d": "Slutkontroll av konstruktioner, ljus och grafik före öppning."
+    },
+    {
+     "t": "Support på mässan",
+     "d": "Tekniker tillgängliga under hela mässan för alla behov."
+    },
+    {
+     "t": "Demontering och lagring",
+     "d": "Demontering enligt tidsplan, transport och lagring för återanvändning."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Monterar ni även montrar som inte är era egna?",
+     "a": "Ja, vi monterar och demonterar även montrar från andra monterbyggare eller som ägs av utställaren."
+    },
+    {
+     "q": "Vilka mässanläggningar arbetar ni på?",
+     "a": "På Fiera Milano Rho och Allianz MiCo, i Bologna, Verona och Rimini och på Europas största mässorter: Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam och fler."
+    },
+    {
+     "q": "Följer ni mässanläggningarnas säkerhetsregler?",
+     "a": "Ja, våra montörer arbetar enligt säkerhetsreglerna och de tekniska bestämmelserna på varje mässanläggning."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "massmontrar-milano",
+   "nav": "Montrar i Milano",
+   "title": "Monterbyggare i Milano: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Monterbyggare i Milanoområdet: nyckelfärdiga mässmontrar för Fiera Milano Rho, Allianz MiCo och event i staden, designade och monterade av oss.",
+   "h1": "Mässmontrar i Milano",
+   "lead": "Milano är en av Europas viktigaste mässtäder och det är härifrån vi arbetar: vi designar, tillverkar och monterar montrar för mässorna på Fiera Milano Rho och Allianz MiCo och för event i staden.",
+   "body": [
+    "Fiera Milano Rho är varje år värd för internationella mässor som Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO och MICAM, medan Allianz MiCo är ett av Europas största kongresscenter. För en utställare innebär det stenhård konkurrens: montern måste sticka ut.",
+    "En monterbyggare i Milanoområdet innebär snabba platsbesök, enkel logistik, montageteam nära till hands och omedelbar support under mässan. Och fortsätter din säsong utomlands efter Milano tar samma team montern till alla Europas mässanläggningar."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Montrar för de stora internationella mässorna i Rho, från designhallarna till motorcykel- och livsmedelshallarna."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Miljöer för kongresser, konferenser och mässor i Milanos kongresscenter."
+    },
+    {
+     "t": "Event i staden",
+     "d": "Produktlanseringar, Fuorisalone, showrooms och popup-butiker på platser i Milano."
+    },
+    {
+     "t": "Snabba platsbesök",
+     "d": "Från vår bas når vi Milanos mässanläggningar snabbt, både före och under mässan."
+    },
+    {
+     "t": "Lagring nära",
+     "d": "Din monter står kvar i vårt lager i Lombardiet, redo för nästa upplaga."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Är ni en monterbyggare från Milano?",
+     "a": "Ja, vi arbetar från Milanoområdet med huvudkontor och verkstad i Tromello (PV) i Lombardiet, nära Fiera Milano Rho."
+    },
+    {
+     "q": "För vilka mässor i Milano bygger ni montrar?",
+     "a": "För alla mässor på Fiera Milano Rho och Allianz MiCo, samt för event och Fuorisalone i staden."
+    },
+    {
+     "q": "Kan ni följa med oss även till mässor utomlands?",
+     "a": "Ja, från Milano tar vi montrar och team till alla Europas stora mässanläggningar."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "massmontrar-europa",
+   "nav": "Montrar i Europa",
+   "title": "Mässmontrar i Europa: Tyskland, Frankrike, Spanien | NEWSTANDS",
+   "desc": "Från Milano till alla Europas mässanläggningar: nyckelfärdiga montrar i Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid och fler.",
+   "h1": "Mässmontrar i hela Europa",
+   "lead": "Vi utgår från Milano och reser till vilken mässanläggning som helst i Europa: en enda leverantör för design, produktion, transport och montage, var din mässa än äger rum.",
+   "body": [
+    "Att ställa ut utomlands med en ny lokal monterbyggare i varje land innebär nya kontaktpersoner, olika standarder och större risker. Med NEWSTANDS har du ett enda team: vi designar och tillverkar i vår verkstad nära Milano, ordnar transport och tillträdeshandlingar och monterar med våra egna team.",
+    "Vi arbetar på de stora mässanläggningarna i Tyskland, Frankrike, Spanien, Benelux, Österrike och Schweiz, och på alla andra mässorter på begäran. Vi har byggt nationella paviljonger och varumärkesmontrar, bland annat Tunisiens paviljong på MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Tyskland",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt och Messe München."
+    },
+    {
+     "t": "Frankrike",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles och Eurexpo Lyon."
+    },
+    {
+     "t": "Spanien",
+     "d": "Fira de Barcelona Gran Via och IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam och Brussels Expo."
+    },
+    {
+     "t": "Österrike, Schweiz och mer",
+     "d": "Messe Wien, Palexpo Genève och alla andra europeiska mässanläggningar på begäran."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Sköter ni transport och handlingar för mässor utomlands?",
+     "a": "Ja: packning, transport, passerkort, säkerhetsdokumentation och kontakten med mässarrangören tar vi hand om."
+    },
+    {
+     "q": "Är montageteamen era egna?",
+     "a": "Ja, montern monteras av våra egna team med en egen montageledare, även utomlands."
+    },
+    {
+     "q": "På vilka språk kan vi kommunicera?",
+     "a": "På italienska och engelska; mässans dokumentation samordnar vi med arrangören på det lokala språket."
+    }
+   ]
+  }
+ }
+}

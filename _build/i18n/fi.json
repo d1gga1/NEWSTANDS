@@ -1,0 +1,987 @@
+{
+ "_lang": "fi",
+ "meta": {
+  "title": "Messuosastot Milanossa ja koko Euroopassa | NEWSTANDS",
+  "desc": "Messurakentaja Milanon alueelta: suunnittelemme, valmistamme ja rakennamme avaimet käteen -messuosastot Fiera Milanoon ja kaikkiin Euroopan messukeskuksiin.",
+  "ogTitle": "NEWSTANDS — Messuosastot Milanosta koko Eurooppaan",
+  "ogDesc": "Avaimet käteen -messuosastot, tapahtumat ja kongressit: tukikohta Milanon alueella, omat asennustiimit kaikissa Euroopan messukeskuksissa.",
+  "ogAlt": "NEWSTANDS — messurakentamista Milanosta koko Eurooppaan",
+  "orgDesc": "Messurakentaja, jonka tukikohta on Milanon alueella (pääkonttori Tromellossa, PV). Suunnittelee, valmistaa ja rakentaa avaimet käteen -messuosastot, tapahtuma- ja kongressiratkaisut, showroomit ja pop up -myymälät Fiera Milanoon ja kaikkiin Euroopan messukeskuksiin.",
+  "slogan": "Suunniteltu, valmistettu, rakennettu."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Koroke",
+  "h003": "Allestimenti",
+  "h004": "Suunniteltu · Valmistettu · Rakennettu",
+  "h005": "Napauta ja astu sisään",
+  "h006": "Prosessi",
+  "h007": "Palvelut",
+  "h008": "Työt",
+  "h009": "Konfiguroi",
+  "h009b": "Konfiguroi",
+  "h010": "Eurooppa",
+  "h011": "Tarjous",
+  "h012": "Messuosastot Milanossa · Tapahtumat · Kongressit",
+  "h013": "Suunnittelu → Valmistus → Asennus",
+  "h014": "Tukikohtamme on Milanon alueella, Euroopan messutoiminnan sydämessä: rakennamme messuosastot alusta loppuun ja pystytämme ne kaikkiin Euroopan messukeskuksiin. Yksi yhteyshenkilö ensimmäisestä luonnoksesta viimeiseen ruuviin.",
+  "h015": "Vieritä ja rakenna osasto",
+  "h016": "Piir. 00 — Osaston pohja 8 000 × 6 000",
+  "h017": "Mittakaava 1:50",
+  "h018": "Projekti",
+  "h019": "Työmaan eteneminen",
+  "h020": "Piir. 05 — Luovutus",
+  "h021": "Avaimet käteen.",
+  "h022": "Konfiguroi omasi",
+  "h023": "Pyydä tarjous",
+  "h024": "§ 01 — Keitä olemme",
+  "h025": "Emme myy neliöitä. Rakennamme paikan, jossa *brändisi* kohtaa markkinat — *ensimmäisestä* *luonnoksesta* viimeiseen ruuviin, missä tahansa Euroopan messuhallissa.",
+  "h026": "Menetelmä",
+  "h027": "Suunnittelemme, valmistamme ja asennamme itse jokaisen osan: rungot, seinäpaneelit, grafiikat, kalusteet ja valot. Vähemmän välikäsiä, vähemmän yllätyksiä, aikataulut pitävät.",
+  "h028": "Tyhjästä",
+  "h029": "valmiiksi osastoksi.",
+  "h030": "Kuusi vaihetta, yksi ohjaus.",
+  "h031": "Vieritä vaakasuunnassa →",
+  "h032": "Vaihe 01",
+  "h033": "Tavoitteet, budjetti, messut ja messukeskuksen tekniset määräykset. Lähdemme liikkeelle siitä, mitä osastollasi pitää tapahtua.",
+  "h034": "Vaihe 02",
+  "h035": "Konsepti & 3D",
+  "h036": "Fotorealistiset renderöinnit ja toteutuspiirustukset: näet valmiin osaston ennen kuin yhtäkään levyä on leikattu.",
+  "h037": "Vaihe 03",
+  "h038": "Valmistus",
+  "h039": "Puusepäntyöt, metallityöt, suurkuvatulostus ja valaistus. Jokainen osa valmistetaan mittatilauksena.",
+  "h040": "Vaihe 04",
+  "h041": "Logistiikka",
+  "h042": "Pakkaus, kuljetus ja kulkuluvat kaikkiin Euroopan messukeskuksiin. Tulemme itse — ajallaan.",
+  "h043": "Vaihe 05",
+  "h044": "Asennus",
+  "h045": "Erikoistuneet asennustiimit, oma työnjohtaja ja lopputarkastus. Saat osaston valmiina käyttöön.",
+  "h046": "Vaihe 06",
+  "h047": "Messut & purku",
+  "h048": "Tekninen tuki messujen aikana, purku, varastointi ja uudelleenkäyttö seuraavilla messuilla.",
+  "h049": "Lopputulos",
+  "h050": "Sinä keskityt",
+  "h051": "asiakkaisiin.",
+  "h052": "Kaikesta muusta",
+  "h053": "huolehdimme me.",
+  "h054": "Puhutaan seuraavista messuistasi",
+  "h055": "Mitä",
+  "h056": "rakennamme",
+  "h057": "§ 03 — Palvelut",
+  "h058": "Kaikenlaiset messut ja tapahtumat, 16 m²:n riviosastosta kaksikerroksiseen saarekeosastoon. Valmistus ja asennus aina omin voimin.",
+  "h059": "Toteutetut",
+  "h060": "osastot",
+  "h061": "§ 04 — Työt",
+  "h062": "Valikoima tiimiemme suunnittelemia, valmistamia ja rakentamia osastoja: kansallisia paviljonkeja, brändisaarekkeita ja teknisiä osastoja eri puolilla Eurooppaa.",
+  "h063": "Seuraava voi olla sinun",
+  "h064": "osastosi",
+  "h065": "§ 05 — 3D-konfiguraattori",
+  "h066": "Valitse osastotyyppi ja pinta-ala: katso, miten tila muotoutuu, ja lähetä konfiguraatio meille tarjouksen pohjaksi.",
+  "h067": "↔ Kierrä vetämällä",
+  "h068": "Aksonometrinen näkymä",
+  "h069": "Az 000°",
+  "h070": "01 — Osastotyyppi",
+  "h071": "Avoimet sivut",
+  "h072": "02 — Pinta-ala",
+  "h073": "Viitteelliset mitat",
+  "h074": "Käytä tätä konfiguraatiota",
+  "h075": "Seuraava",
+  "h076": "lähtö",
+  "h077": "§ 06 — Milanosta koko Eurooppaan",
+  "h078": "Lähdemme Milanosta, suurten kansainvälisten messujen kaupungista, ja kuljemme osaston mukana kaikkiin Euroopan messukeskuksiin: Saksaan, Ranskaan, Espanjaan, Benelux-maihin, Itävaltaan ja Sveitsiin. Jos on messuhalli, sinne myös tulemme.",
+  "h079": "Kaupunki",
+  "h080": "Messukeskus",
+  "h081": "Maa",
+  "h082": "Tila",
+  "h083": "Asennustiimit toiminnassa",
+  "h084": "+ kaikki muut messukeskukset pyynnöstä",
+  "h085": "Usein kysytyt",
+  "h086": "kysymykset",
+  "h087": "§ 07 — UKK",
+  "h088": "Kustannukset, aikataulut, kaupungit ja palvelut: vastaukset kysymyksiin, joita meiltä useimmin kysytään ennen messuja.",
+  "h089": "Onko sinulla messut",
+  "h090": "tulossa?",
+  "h091": "Kerro tapahtumasta, päivämääristä ja neliömääristä. Vastaamme ensimmäisellä ehdotuksella ja selkeällä tarjouksella.",
+  "h092": "Puhelin",
+  "h093": "Puhelin 2",
+  "h094": "Toimipaikka",
+  "h095": "Alue",
+  "h096": "Milano + koko Eurooppa",
+  "h097": "Palvelu",
+  "h098": "Avaimet käteen",
+  "h099": "Messuosasto",
+  "h100": "Tapahtuma",
+  "h101": "Kongressi",
+  "h102": "Showroom / pop up",
+  "h103": "Vain asennus",
+  "h104": "Etu- ja sukunimi",
+  "h105": "Yritys",
+  "h106": "Messut / tapahtuma ja kaupunki",
+  "h107": "Kerro projektista",
+  "h108": "Lähetä pyyntö",
+  "h109": "Pyyntö on valmiina sähköpostissasi: paina lähetä.",
+  "h110": "Eikö mitään avautunut? Kirjoita osoitteeseen",
+  "h111": "tai soita numeroon",
+  "h112": "Toimisto",
+  "h113": "Messuosastot Milanossa ja Euroopassa, tapahtumat, kongressit",
+  "h114": "27020 Tromello (PV), Lombardia",
+  "h115": "Sivusto",
+  "h116": "Konfiguraattori",
+  "h117": "Some",
+  "h118": "Yhteystiedot",
+  "h119": "Pyydä tarjous →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia",
+  "h121": "Suunniteltu, valmistettu, rakennettu.",
+  "h122": "Takaisin ylös ↑",
+  "h123": "Päävalikko",
+  "h124": "Suodata toimialan mukaan",
+  "h125": "Projektigalleria",
+  "h126": "Sulje galleria",
+  "h127": "Edellinen kuva",
+  "h128": "Seuraava kuva",
+  "h129": "Pinta-ala neliömetreinä",
+  "h130": "Messuosaston tarjouspyyntö",
+  "h131": "Projektin tyyppi",
+  "h132": "Kirjoita meille WhatsAppissa"
+ },
+ "faq": [
+  {
+   "q": "Paljonko messuosasto maksaa?",
+   "a": "Messuosaston hinta riippuu pinta-alasta, osastotyypistä (rivi-, kulma-, niemi- tai saarekeosasto), materiaaleista, grafiikoista, kalusteista ja messukeskuksesta. Lyhyen messuja, päivämääriä ja neliömääriä koskevan briefin jälkeen lähetämme sinulle ensimmäisen ehdotuksen sekä selkeän ja yksityiskohtaisen tarjouksen. Voit aloittaa yllä olevasta 3D-konfiguraattorista tai soittaa tai kirjoittaa meille WhatsAppissa numeroon <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Missä NEWSTANDS sijaitsee ja millä messuilla työskentelette?",
+   "a": "Olemme messurakentaja Milanon alueelta, ja pääkonttorimme ja verstaamme sijaitsevat Tromellossa (PV) Lombardiassa: strategisella paikalla lähellä Fiera Milano Rhota ja Allianz MiCoa, joissa järjestetään joitakin Euroopan tärkeimmistä messuista. Täältä tiimimme lähtevät kaikkiin messukaupunkeihin: Bolognaan, Veronaan, Riminiin, Düsseldorfiin, Kölniin, Frankfurtiin, Müncheniin, Pariisiin, Lyoniin, Barcelonaan, Madridiin, Amsterdamiin, Brysseliin, Wieniin, Geneveen ja muualle."
+  },
+  {
+   "q": "Mitä avaimet käteen -palveluun sisältyy?",
+   "a": "Yksi yhteyshenkilö kaikkeen: brief, konsepti ja 3D-renderöinnit, toteutuspiirustukset, rakenteiden, seinäpaneelien, suurkuvagrafiikoiden, kalusteiden ja valojen oma valmistus, logistiikka ja kuljetus, asennus oman työnjohtajan johdolla, tuki messujen aikana sekä purku ja varastointi uudelleenkäyttöä varten."
+  },
+  {
+   "q": "Toteutatteko myös tapahtumia, kongresseja ja showroomeja?",
+   "a": "Kyllä. Räätälöityjen ja modulaaristen messuosastojen lisäksi suunnittelemme ja toteutamme yritystapahtumia, kongresseja, konferensseja, tuotelanseerauksia, lavoja ja lavasteita, showroomeja, väliaikaisia myymälöitä ja pop up -tiloja trussien, LED-seinien ja valaistuksen kera."
+  },
+  {
+   "q": "Kuinka paljon etukäteen kannattaa ottaa yhteyttä?",
+   "a": "Mitä aiemmin otat yhteyttä, sitä enemmän meillä on aikaa suunnitteluun, renderöinteihin ja valmistukseen: räätälöidyssä osastossa kannattaa aloittaa heti, kun messuille osallistuminen on vahvistettu. Modulaarisissa osastoissa ja pelkässä asennuksessa pystymme toimimaan myös tiukemmalla aikataululla — kirjoita meille, niin tarkistamme toteutettavuuden heti."
+  },
+  {
+   "q": "Miten pyydän tarjouksen?",
+   "a": "Täytä yhteystieto-osion lomake, kirjoita osoitteeseen <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> tai soita tai kirjoita meille WhatsAppissa numeroon <a href=\"tel:+393884706887\">+39 388 470 6887</a> (vaihtoehtoisesti <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Kerro messut tai tapahtuma, kaupunki, päivämäärät ja neliömäärä, niin palaamme asiaan ensimmäisellä ehdotuksella."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekti",
+    "Jokainen osasto syntyy teknisestä piirustuksesta: mitat, messukeskuksen määräykset ja kävijävirrat."
+   ],
+   [
+    "Runko",
+    "Lattia, trussit ja kehikot. Osa, jota ei näe mutta joka kantaa kaiken."
+   ],
+   [
+    "Seinät & grafiikka",
+    "Mittatilauksena valmistetut seinäpaneelit, suurkuvatulosteet ja viimeistelyt."
+   ],
+   [
+    "Kalusteet & tekniikka",
+    "Tiskit, totemit, LED-seinät, neuvottelualueet ja riippuva rengas. Valmistamme ja asennamme ne itse."
+   ],
+   [
+    "Valot päälle",
+    "Lopputarkastus, siivous ja luovutus. Osasto on valmis avautumaan."
+   ]
+  ],
+  "lbl": [
+   "L 8 000 mm",
+   "S 6 000 mm",
+   "Trussi 29×29 — K 4 500",
+   "Seinä 3 400 + grafiikka",
+   "LED-seinä 3,4 × 1,9 m",
+   "Vastaanottotiski",
+   "Riippuva rengas Ø 4 400"
+  ],
+  "ty": {
+   "linea": "Rivi",
+   "angolo": "Kulma",
+   "penisola": "Niemi",
+   "isola": "Saareke",
+   "doppio": "2 kerrosta"
+  },
+  "sides": "sivua",
+  "side": "sivu",
+  "openSides": "avointa sivua",
+  "openSide": "avoin sivu",
+  "cfgMsg": "Konfiguraatio sivustolta: osastotyyppi {type}, {n} {sides}, noin {area} m² ({dim} m).",
+  "axo": "Aksonometrinen näkymä",
+  "cfgFb": "3D-konfiguraattori ei ole käytettävissä tällä laitteella.<br>Kirjoita meille, niin lähetämme sinulle renderöinnin.",
+  "mq": [
+   "Räätälöidyt osastot",
+   "Tapahtumat",
+   "Kongressit",
+   "Showroomit",
+   "Pop up",
+   "LED-seinät",
+   "Trussit",
+   "Grafiikka",
+   "Kalusteet"
+  ],
+  "svc": [
+   {
+    "t": "Räätälöidyt messuosastot",
+    "d": "Ainutlaatuisia projekteja, jotka rakennetaan alusta asti brändisi ympärille: puusepäntyöt, metalli, lasi, tekstiili ja laadukkaat viimeistelyt.",
+    "tags": [
+     "Konsepti",
+     "3D-renderöinti",
+     "Valmistus",
+     "Asennus"
+    ]
+   },
+   {
+    "t": "Modulaariset messuosastot",
+    "d": "Uudelleenkäytettävät, valmiiksi kootut järjestelmät yrityksille, jotka osallistuvat useille messuille vuodessa: yhtenäinen ilme ja kustannukset hallinnassa.",
+    "tags": [
+     "Uudelleenkäyttö",
+     "Varastointi",
+     "Nopeus"
+    ]
+   },
+   {
+    "t": "Tapahtumat & kongressit",
+    "d": "Lavat, lavasteet, täysistuntosalit, yritysten konferenssit ja tuotelanseeraukset täydellä teknisellä toteutuksella.",
+    "tags": [
+     "Lavat",
+     "Lavasteet",
+     "Ääni/kuva"
+    ]
+   },
+   {
+    "t": "Showroomit & pop up",
+    "d": "Väliaikaiset myymälät, pop up -tilat ja pysyvät showroomit: sama tarkkuus kuin messurakentamisessa.",
+    "tags": [
+     "Pop up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Suurkuvagrafiikka",
+    "d": "Tulosteet forexille, taustavalaistulle tekstiilille ja PVC:lle, tarrat ja ikkunateippaukset. Valmistamme ja asennamme ne itse.",
+    "tags": [
+     "Valolaatikko",
+     "Tekstiili",
+     "Tarrat"
+    ]
+   },
+   {
+    "t": "Trussit & LED-seinät",
+    "d": "Trussirakenteet, riippuvat renkaat, ripustukset, LED-seinät ja valaistus osastoille, jotka näkyvät koko halliin.",
+    "tags": [
+     "Trussi",
+     "Ripustus",
+     "LED-seinä",
+     "Valot"
+    ]
+   },
+   {
+    "t": "Kalusteet & vuokraus",
+    "d": "Tiskit, myyntitiskit, istuimet, vitriinit, keittiöt ja varastot: mittatilauskalusteet tai vuokrakalusteet kaikenkokoisille osastoille.",
+    "tags": [
+     "Mittatilaus",
+     "Vuokraus",
+     "Varasto"
+    ]
+   }
+  ],
+  "more": "Tutustu palveluun",
+  "tav": "Piir.",
+  "avail": "SAATAVILLA",
+  "form": {
+   "type": "Projektin tyyppi",
+   "name": "Etu- ja sukunimi",
+   "company": "Yritys",
+   "fair": "Messut / tapahtuma ja kaupunki",
+   "project": "Projekti",
+   "subj": "Messuosaston tarjouspyyntö"
+  },
+  "ariaW": "{t} — avaa galleria ({n} kuvaa)",
+  "altW": "Messuosasto {t} — {c}, toteutus NEWSTANDS",
+  "nPh": "{n} kuvaa",
+  "altLb": "Messuosasto {t} ({c}) — kuva {i}/{n}",
+  "phN": "Kuva {i}",
+  "all": "Kaikki",
+  "ld": [
+   "Lattia",
+   "Seinät",
+   "Palkki",
+   "Valot",
+   "Valmis"
+  ],
+  "c3": [
+   "TYHJÄSTÄ",
+   "OSASTOKSI.",
+   "SUUNNITTELU · VALMISTUS · ASENNUS · EUROOPPA",
+   "MESSURAKENTAMINEN",
+   "OSASTOT · TAPAHTUMAT · EUROOPPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristallit ja valaisimet",
+   "g": "Design",
+   "d": "Täysin valkoinen saarekeosasto kristallinauhaverhojen ympäröimänä, riippuvat kattokruunut ja lakatut kalusteet: osastosta tulee loistava näyteikkuna."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Urheiluravinteet",
+   "g": "Ruoka & terveys",
+   "d": "Monelta sivulta avoin saarekeosasto, seinänkokoiset tuotegrafiikat, riippuvat kyltit ja maistatustiskit suurille kävijävirroille."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Matkailu",
+   "g": "Matkailu",
+   "d": "Virallinen paviljonki, jonka kaaret ja minareetit on saanut inspiraationsa Telanganan arkkitehtuurista, sekä matkanjärjestäjien tiskit ja elämyksellinen grafiikka."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Matkailu",
+   "g": "Matkailu",
+   "d": "Terrakottaa jäljittelevät portaalit, veistetyt kaaret ja B2B-tapaamispisteet: alueellinen paviljonki, joka esittelee alueen yhdellä silmäyksellä."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Kansallinen ruokapaviljonki",
+   "g": "Ruoka & terveys",
+   "d": "Valkopunainen yhteispaviljonki rei'itetyin koristein, näytteilleasettajien tiskit ja show cooking -alue."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Teollisuus",
+   "d": "Yritysosasto lasiseinäisine neuvotteluhuoneineen, taustavalaistuine seinineen ja käytävälle avautuvine vastaanottoalueineen."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Moottoripyörät",
+   "g": "Moottoripyörät",
+   "d": "Täysin valkoinen osasto punaisilla portaaleilla ja korokkeilla pyörille: selkeä grafiikka, joka antaa ajoneuvojen puhua."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Sähkömoottoripyörät",
+   "g": "Moottoripyörät",
+   "d": "Täysin musta lavastus kiiltävän valkoisella lattialla, esillä olevat moottoripyörät ja neuvottelualue."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Näyttelylounge",
+   "g": "Design",
+   "d": "Avoin lounge suurella panoraamatulosteella, riippuvalla alakatolla, tiskillä ja istuimilla kävijöiden vastaanottamiseen."
+  },
+  {
+   "t": "Plastona",
+   "c": "Koti ja puutarha",
+   "g": "Design",
+   "d": "Saarekeosasto, jossa kuution muotoiset kyltit trussirakenteessa, valkoiset hyllyt ja tuotemiljööt."
+  },
+  {
+   "t": "Topsun",
+   "c": "Moottoripyörät ja moottorit",
+   "g": "Moottoripyörät",
+   "d": "Kulmaosasto mustilla ja valkoisilla näyttelyseinillä, ajoneuvot korokkeilla ja pöytäalue."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energiateollisuus",
+   "g": "Teollisuus",
+   "d": "Pyöristetyt taustavalaistut kehykset, tekniset paneelit ja neuvottelualue B2B-yleisölle."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Kypärät",
+   "g": "Moottoripyörät",
+   "d": "Kypärien näyttelyseinät, racing-grafiikat ja vastaanottotiski: italialaista designia muutamalla neliöllä."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Moottoripyörätarvikkeet",
+   "g": "Moottoripyörät",
+   "d": "Trikolori-pylväät, valaistut vitriinit ja tuoteseinät näkyvää racing-läsnäoloa varten."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Kypärät",
+   "g": "Moottoripyörät",
+   "d": "Vinoneliökuvioinen seinä esillä olevine kypärineen, ylisuuret kyltit ja pöytäalue neuvotteluille."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Moottoripyörien varaosat ja ajovarusteet",
+   "g": "Moottoripyörät",
+   "d": "Täyskorkeat grafiikkatotemit, tuotevitriinit ja ajovarusteseinät neuvottelualueen ympärillä."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Teollisuus",
+   "g": "Teollisuus",
+   "d": "Sininen yritysosasto prosessigrafiikoilla, tekninen alue ja tapaamispisteet."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Matkailu",
+   "g": "Matkailu",
+   "d": "Näyttävä portaali perinteisin koristein ja suurin kuvin alueelta."
+  },
+  {
+   "t": "Uttar Pradesh — Maatalous",
+   "c": "Maatalous ja elintarvikkeet",
+   "g": "Ruoka & terveys",
+   "d": "Valkoinen osasto, jossa valaistut kehykset lattiassa ja tuotepaneelit: pelkistetty ja valoisa."
+  },
+  {
+   "t": "Tunisia — Medica Düsseldorf",
+   "c": "Kansallinen terveysalan paviljonki",
+   "g": "Lääketiede",
+   "d": "Maapaviljonki Medica Düsseldorfissa: riippuva kyltti, tiskit näytteilleasettajayrityksille ja lounge-alue."
+  }
+ ],
+ "ui": {
+  "langName": "Suomi",
+  "langLabel": "Kieli",
+  "home": "Etusivu",
+  "services": "Palvelut",
+  "works": "Työt",
+  "contacts": "Yhteystiedot",
+  "quote": "Tarjous",
+  "requestQuote": "Pyydä tarjous",
+  "whatsapp": "Kirjoita meille WhatsAppissa",
+  "call": "Soita meille",
+  "phone": "Puhelin / WhatsApp",
+  "phone2": "Puhelin 2",
+  "email": "Sähköposti",
+  "address": "Toimipaikka",
+  "serviceN": "Palvelu",
+  "locationK": "Milanosta koko Eurooppaan",
+  "includesTitle": "Mitä palveluun sisältyy",
+  "whyTitle": "Miksi NEWSTANDS",
+  "why": [
+   {
+    "t": "Tukikohta Milanossa",
+    "d": "Toimimme Milanon alueelta, lähellä Fiera Milano Rhota ja Allianz MiCoa: nopeat paikkakäynnit, yksinkertainen logistiikka ja tiimit aina lähellä suuria messukeskuksia."
+   },
+   {
+    "t": "Oma valmistus",
+    "d": "Rungot, seinäpaneelit, grafiikat, kalusteet ja valot syntyvät omassa verstaassamme: vähemmän välikäsiä, vähemmän yllätyksiä, aikataulut pitävät."
+   },
+   {
+    "t": "Kaikissa Euroopan messukeskuksissa",
+    "d": "Asennustiimimme kulkevat osaston mukana: Saksa, Ranska, Espanja, Benelux, Itävalta, Sveitsi ja kaikki muut messukeskukset pyynnöstä."
+   },
+   {
+    "t": "Yksi yhteyshenkilö",
+    "d": "Briefistä purkuun asti puhut aina saman henkilön kanssa, ja messuilla sinulla on oma työnjohtaja."
+   }
+  ],
+  "galleryTitle": "Toteuttamiamme osastoja",
+  "faqTitle": "Usein kysytyt kysymykset",
+  "otherTitle": "Muut palvelut",
+  "ctaTitle": "Onko sinulla messut tulossa?",
+  "ctaText": "Kerro messuista, kaupungista, päivämääristä ja neliömääristä: vastaamme ensimmäisellä ehdotuksella ja selkeällä tarjouksella.",
+  "whereTitle": "Milanosta jokaiseen messukaupunkiin",
+  "whereText": "Olemme Milanon alueella, kaupungissa, jossa järjestetään joitakin maailman tärkeimmistä messuista. Täältä tiimimme ulottuvat kaikkiin Italian ja Euroopan messukeskuksiin.",
+  "milanLink": "Messuosastot Milanossa",
+  "europeLink": "Messuosastot Euroopassa",
+  "photos": "kuvaa",
+  "backHome": "Takaisin etusivulle",
+  "footerTag": "Messuosastot Milanossa ja koko Euroopassa. Suunniteltu, valmistettu, rakennettu.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · Milanon alue",
+  "breadcrumb": "Murupolku",
+  "skip": "Siirry sisältöön",
+  "menu": "Päävalikko"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "raataloidyt-messuosastot",
+   "nav": "Räätälöidyt osastot",
+   "title": "Räätälöidyt messuosastot Milanossa ja Euroopassa | NEWSTANDS",
+   "desc": "NEWSTANDSin suunnittelemat, valmistamat ja rakentamat räätälöidyt messuosastot: tukikohta Milanon alueella, asennus kaikissa Euroopan messukeskuksissa.",
+   "h1": "Räätälöidyt messuosastot",
+   "lead": "Ainutlaatuinen osasto, joka rakennetaan alusta asti brändisi ympärille: suunnittelemme sen, valmistamme sen verstaassamme Milanon lähellä ja pystytämme sen millä tahansa messuilla Euroopassa.",
+   "body": [
+    "Räätälöity osasto on vahvin tapa esittäytyä messuilla: jokainen seinä, jokainen valo ja jokainen kävijäreitti on suunniteltu tuotteidesi ja myyntitavoitteidesi mukaan. Lähdemme liikkeelle messukeskuksen teknisistä määräyksistä ja hallin kävijävirroista, ja muutamme idean fotorealistisiksi 3D-renderöinneiksi ja toteutuspiirustuksiksi.",
+    "Valmistamme itse puu- ja metallirakenteet, seinäpaneelit, grafiikat, kalusteet ja valaistuksen, joten hallitsemme laatua ja aikataulua joka vaiheessa. Olivatpa messut Fiera Milano Rhossa, Düsseldorfissa tai Pariisissa, osastosi rakentanut tiimi myös pystyttää sen."
+   ],
+   "inc": [
+    {
+     "t": "Konsepti ja 3D-renderöinnit",
+     "d": "Luova ehdotus, fotorealistiset renderöinnit ja muutokset, kunnes osasto on juuri sellainen kuin haluat."
+    },
+    {
+     "t": "Toteutussuunnitelma",
+     "d": "Tekniset piirustukset, laskelmat ja dokumentaatio kunkin messukeskuksen määräysten mukaisesti."
+    },
+    {
+     "t": "Mittatilausvalmistus",
+     "d": "Puusepän- ja metallityöt, lasi, tekstiili ja laadukkaat viimeistelyt omasta verstaastamme."
+    },
+    {
+     "t": "Grafiikka ja valaistus",
+     "d": "Suurkuvatulosteet, valolaatikot, LED-seinät ja valaistussuunnittelu osaksi osaston arkkitehtuuria."
+    },
+    {
+     "t": "Rakennus ja purku",
+     "d": "Kuljetus, asennus oman työnjohtajan johdolla, tuki messuilla, purku ja varastointi."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kuinka kauan räätälöidyn messuosaston toteutus kestää?",
+     "a": "Se riippuu koosta ja monimutkaisuudesta: mittatilausosastossa kannattaa aloittaa heti, kun messuille osallistuminen on vahvistettu, jotta suunnittelulle, renderöinneille ja valmistukselle jää aikaa."
+    },
+    {
+     "q": "Voiko räätälöidyn osaston käyttää uudelleen?",
+     "a": "Kyllä. Suunnittelemme osat varastoitaviksi ja uudelleen koottaviksi: seuraavilla messuilla sovitamme osaston uusiin mittoihin ja uusiin grafiikoihin."
+    },
+    {
+     "q": "Toteutatteko räätälöityjä osastoja myös Italian ulkopuolella?",
+     "a": "Kyllä, viemme osaston ja tiimimme Milanon alueelta kaikkiin Euroopan tärkeimpiin messukeskuksiin Saksasta Espanjaan."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulaariset-messuosastot",
+   "nav": "Modulaariset osastot",
+   "title": "Modulaariset messuosastot Milanossa ja Euroopassa | NEWSTANDS",
+   "desc": "Modulaariset, uudelleenkäytettävät messuosastot useille messuille vuodessa: yhtenäinen ilme ja kustannukset hallinnassa, Milanosta koko Eurooppaan.",
+   "h1": "Modulaariset ja uudelleenkäytettävät osastot",
+   "lead": "Modulaariset järjestelmät yrityksille, jotka osallistuvat useille messuille vuodessa: sama brändi-ilme, kustannukset hallinnassa ja nopeat asennukset — Milanossa ja kaikissa Euroopan messukeskuksissa.",
+   "body": [
+    "Modulaarinen osasto on pitkäikäinen investointi: rungot, paneelit ja kalusteet voidaan muunnella erikokoisiin ja -tyyppisiin osastoihin riviosastosta saarekeosastoon. Grafiikat vaihtuvat, laatu pysyy.",
+    "Suunnittelemme järjestelmän kerran, valmistamme sen verstaassamme ja hoidamme sen messujen välillä: varastointi, huolto, grafiikoiden päivitys ja kuljetus seuraavaan halliin Italiassa tai ulkomailla."
+   ],
+   "inc": [
+    {
+     "t": "Mittatilausjärjestelmä",
+     "d": "Brändi-ilmeesi mukaan suunnitellut moduulit, jotka yhdistyvät muutaman neliön osastoista suuriin saarekkeisiin."
+    },
+    {
+     "t": "Vaihdettavat grafiikat",
+     "d": "Painetut tekstiilit ja paneelit, jotka vaihdetaan nopeasti jokaisille messuille, tuotteelle tai markkinalle."
+    },
+    {
+     "t": "Varastointi ja huolto",
+     "d": "Säilytämme osaston varastossamme ja tarkistamme sen ennen jokaista uutta lähtöä."
+    },
+    {
+     "t": "Nopeat asennukset",
+     "d": "Lyhyet rakennusajat, ihanteellisia myös messuille, joilla rakennusaika on tiukka."
+    },
+    {
+     "t": "Messukalenteri hallinnassa",
+     "d": "Suunnittelemme messukauden kanssasi ja järjestämme logistiikan ja tiimit jokaiseen kohteeseen."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Onko modulaarinen osasto edullisempi kuin räätälöity?",
+     "a": "Useiden messujen aikana yleensä kyllä: alkuinvestointi jakautuu jokaiselle osallistumiselle, ja myöhemmät kustannukset rajoittuvat grafiikoihin ja logistiikkaan."
+    },
+    {
+     "q": "Sopeutuuko modulaarinen osasto erikokoisiin tiloihin?",
+     "a": "Kyllä, moduulit voidaan yhdistellä uudelleen rivi-, kulma-, niemi- tai saarekeosastoiksi ja erikokoisiksi."
+    },
+    {
+     "q": "Voitteko hoitaa koko messukalenterimme?",
+     "a": "Kyllä: Milanon alueelta koordinoimme varastoinnin, kuljetuksen ja asennuksen kauden jokaisille messuille Italiassa ja Euroopassa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "tapahtumat-ja-kongressit",
+   "nav": "Tapahtumat & kongressit",
+   "title": "Tapahtumien ja kongressien toteutus Milanossa | NEWSTANDS",
+   "desc": "Yritystapahtumien, kongressien, konferenssien ja tuotelanseerausten toteutus Milanossa ja Euroopassa: lavat, lavasteet ja täysi tekninen toteutus.",
+   "h1": "Tapahtumien ja kongressien toteutus",
+   "lead": "Lavat, lavasteet, täysistuntosalit, yritysten konferenssit ja tuotelanseeraukset: toteutamme tapahtumia ja kongresseja Milanossa ja koko Euroopassa samalla tarkkuudella kuin messuosastoja.",
+   "body": [
+    "Milano on yksi Euroopan tapahtuma- ja kongressipääkaupungeista, ja siellä on Allianz MiCon kaltaisia tiloja sekä kaupungin suuria yritystapahtumapaikkoja. Koska toimimme Milanon alueelta, tunnemme näiden tilojen aikataulut, säännöt ja logistiikan ja voimme hoitaa paikkakäynnit ja asennukset hyvin nopeasti.",
+    "Suunnittelemme kokonaisuuden: lavan, lavasteet, täysistuntosalin, näyttelyalueet, vastaanoton, opasteet ja valaistuksen. Koordinoimme itse tekniset toimittajat, joten sinulla on koko tapahtumaa varten yksi yhteyshenkilö."
+   ],
+   "inc": [
+    {
+     "t": "Lavat ja lavasteet",
+     "d": "Mittatilauslavat, taustat, LED-seinät ja lavasteet, jotka on suunniteltu viestisi ympärille."
+    },
+    {
+     "t": "Täysistuntosalit ja kongressit",
+     "d": "Salien, posterialueiden, vastaanottotiskien ja sponsoritilojen rakentaminen."
+    },
+    {
+     "t": "Konferenssit ja lanseeraukset",
+     "d": "Miljöitä, joissa tuote esitellään tai myyntiverkosto kootaan yhteen ikimuistoisesti."
+    },
+    {
+     "t": "Ääni, kuva ja valot",
+     "d": "Tekninen ohjaus, trussit, LED-seinät ja valaistus osana kokonaisuutta."
+    },
+    {
+     "t": "Opasteet ja grafiikka",
+     "d": "Reitit, totemit, taustaseinät ja yhtenäiset grafiikat, jotka tulostamme ja asennamme itse."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Toteutatteko tapahtumia myös messukeskusten ulkopuolella?",
+     "a": "Kyllä: hotelleissa, kongressikeskuksissa, teollisuustiloissa ja yksityisissä tiloissa Milanossa, muualla Italiassa ja ulkomailla."
+    },
+    {
+     "q": "Voitteko hoitaa myös äänen ja kuvan?",
+     "a": "Kyllä, koordinoimme lavan, LED-seinät, valot ja äänen yhtenä kokonaisuutena yhden yhteyshenkilön kautta."
+    },
+    {
+     "q": "Kuinka paljon etukäteen tapahtuma kannattaa järjestää?",
+     "a": "Mitä aiemmin, sitä parempi: muutaman viikon pelivaralla ehdimme hoitaa paikkakäynnin, suunnittelun ja valmistuksen rauhassa. Kiireellisissä tapauksissa ota yhteyttä, niin arvioimme toteutettavuuden."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-ja-pop-up-myymalat",
+   "nav": "Showroom & pop up",
+   "title": "Showroomit ja pop up -myymälät Milanossa | NEWSTANDS",
+   "desc": "Showroomien, väliaikaisten myymälöiden, pop up -tilojen ja shop-in-shop-ratkaisujen suunnittelu ja toteutus Milanossa ja Euroopassa omin voimin.",
+   "h1": "Showroomit, väliaikaiset myymälät ja pop up -tilat",
+   "lead": "Väliaikaiset myymälät, pop up -tilat ja pysyvät showroomit samalla tarkkuudella kuin messurakentamisessa — Milanossa ja koko Euroopassa.",
+   "body": [
+    "Väliaikaisen myymälän tai pop up -tilan on oltava valmis muutamassa päivässä ja jätettävä jälki: suunnittelemme tiloja, jotka kertovat brändistä, nostavat tuotteen esiin ja ovat nopeita pystyttää myös kauppakeskuksissa ja ostoskaduilla.",
+    "Pysyviin showroomeihin valmistamme mittatilauskalusteet, näyttelyseinät, vitriinit ja valaistuksen kestävistä materiaaleista. Valmistus ja asennus tehdään omin voimin, joten aikataulu ja laatu pysyvät hallinnassa."
+   ],
+   "inc": [
+    {
+     "t": "Retail-konsepti",
+     "d": "Pohjaratkaisu, asiakaspolku ja tuote-esillepano, jotka on suunniteltu myymään."
+    },
+    {
+     "t": "Väliaikaiset ja pop up -myymälät",
+     "d": "Kevyet rakenteet, jotka on nopea pystyttää, purkaa ja käyttää uudelleen muissa kaupungeissa."
+    },
+    {
+     "t": "Pysyvät showroomit",
+     "d": "Mittatilauskalusteet, varustellut seinät, vitriinit ja laadukkaat viimeistelyt."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Brändikulmaukset liikkeissä ja tavarataloissa, yhtenäisinä brändi-ilmeesi kanssa."
+    },
+    {
+     "t": "Valot ja grafiikka",
+     "d": "Tuotevalaistus, kyltit, ikkunateippaukset ja grafiikat omasta tuotannostamme."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kuinka nopeasti väliaikaisen myymälän voi rakentaa?",
+     "a": "Se riippuu tilasta ja projektista: oman tuotannon ansiosta voimme pystyttää pop up -tilan jopa muutamassa päivässä."
+    },
+    {
+     "q": "Voiko pop up -tilan siirtää muihin kaupunkeihin?",
+     "a": "Kyllä, suunnittelemme modulaarisia rakenteita, jotka puretaan ja kootaan uudelleen muissa paikoissa Italiassa ja Euroopassa."
+    },
+    {
+     "q": "Toteutatteko myös pysyviä showroomeja?",
+     "a": "Kyllä, suunnittelusta kalusteiden, vitriinien, valojen ja grafiikoiden asennukseen."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "suurkuvatulosteet-messugrafiikka",
+   "nav": "Suurkuvagrafiikka",
+   "title": "Suurkuvagrafiikka messuosastoille ja messuille | NEWSTANDS",
+   "desc": "Suurkuvatulosteet messuosastoille ja tapahtumiin: forex, taustavalaistu tekstiili, valolaatikot, PVC, tarrat ja ikkunateippaukset — valmistus ja asennus.",
+   "h1": "Suurkuvagrafiikka osastoille ja tapahtumiin",
+   "lead": "Tulosteet forexille, taustavalaistulle tekstiilille ja PVC:lle, tarrat ja ikkunateippaukset: osastosi grafiikat valmistavat ja asentavat samat tiimit, jotka rakentavat osaston.",
+   "body": [
+    "Grafiikka on se, minkä kävijät näkevät ensimmäisenä, usein hallin toiselta puolelta. Siksi käsittelemme sitä osana osaston arkkitehtuuria: formaatit, materiaalit ja valot suunnitellaan yhdessä rakenteiden kanssa.",
+    "Tulostamme ja asennamme itse, niin Milanossa kuin kaikilla Euroopan messuilla: ei välikäsiä eri toimittajien välillä, hallitut värit ja grafiikat täydellisesti linjassa, kun ovet avautuvat."
+   ],
+   "inc": [
+    {
+     "t": "Taustavalaistu tekstiili",
+     "d": "Tekstiiliset valolaatikot ja valoseinät — kevyitä ja vaikuttavia."
+    },
+    {
+     "t": "Jäykät paneelit",
+     "d": "Tulosteet forexille, dibondille ja PVC:lle seiniin, totemeihin ja tiskeihin."
+    },
+    {
+     "t": "Tarrat ja ikkunateippaukset",
+     "d": "Lattiat, lasipinnat ja muut pinnat teknisillä tarroilla brändättyinä."
+    },
+    {
+     "t": "Riippuvat kyltit",
+     "d": "Bannerit ja ripustetut grafiikkarakenteet, jotka näkyvät kauas hallissa."
+    },
+    {
+     "t": "Asennus messuilla",
+     "d": "Asennamme grafiikat itse ja teemme lopputarkastuksen ennen avajaisia."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tulostatteko grafiikoita myös muiden rakentamille osastoille?",
+     "a": "Kyllä, voimme valmistaa ja asentaa pelkät grafiikat messukeskuksen mittoja ja määräyksiä noudattaen."
+    },
+    {
+     "q": "Millaisia tiedostoja tulostukseen tarvitaan?",
+     "a": "Vektoritiedostoja tai korkearesoluutioisia kuvia leikkuuvaroilla: lähetämme sinulle tekniset vaatimukset jokaiselle formaatille."
+    },
+    {
+     "q": "Voiko tekstiiligrafiikoita käyttää uudelleen?",
+     "a": "Kyllä, tekstiilin voi pestä, taittaa ja asentaa uudelleen: ihanteellinen useille messuille osallistuville."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "trussit-led-seinat-valaistus",
+   "nav": "Trussit & LED-seinät",
+   "title": "Trussit, LED-seinät ja valaistus messuosastoille | NEWSTANDS",
+   "desc": "Trussirakenteet, riippuvat renkaat, ripustukset, LED-seinät ja valaistus messuosastoille ja tapahtumiin Milanossa ja koko Euroopassa.",
+   "h1": "Trussit, LED-seinät ja valaistus",
+   "lead": "Trussirakenteet, riippuvat renkaat, ripustukset, LED-seinät ja valot osastoille, jotka näkyvät koko halliin — Fiera Milanossa ja kaikissa Euroopan messukeskuksissa.",
+   "body": [
+    "Riippuva rengas logolla, LED-seinä tuotevideoille, pintoihin suunniteltu valo: nämä tekevät osastosta tunnistettavan jo kaukaa. Suunnittelemme ne yhdessä osaston kanssa ja tarkistamme kuormat, ripustuspisteet ja messukeskuksen määräykset.",
+    "Toimitamme ja asennamme trussit, ketjunostimet, LED-seinät ja valaisimet pätevän henkilöstön voimin ja koordinoimme ripustushakemukset messujärjestäjän kanssa."
+   ],
+   "inc": [
+    {
+     "t": "Trussit ja ristikkorakenteet",
+     "d": "Lattialle tuetut ja ripustetut rakenteet kaikissa ko'oissa, myös grafiikoiden ja valojen kantavana runkona."
+    },
+    {
+     "t": "Renkaat ja riippuvat kyltit",
+     "d": "Pyöreät tai mittatilauksena tehdyt ripustetut elementit grafiikalla, näkyvät koko halliin."
+    },
+    {
+     "t": "Ripustukset",
+     "d": "Laskelmat, ripustuspisteet ja luvat messukeskuksen kanssa."
+    },
+    {
+     "t": "LED-seinät",
+     "d": "Erikokoiset LED-näytöt seiniin integroituina tai omissa rakenteissaan."
+    },
+    {
+     "t": "Valaistussuunnittelu",
+     "d": "Valaistus tuotteille, grafiikoille ja osaston tunnelmalle."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hoidatteko ripustusluvat itse?",
+     "a": "Kyllä, laadimme teknisen dokumentaation ja hoidamme hakemukset messujärjestäjän kanssa."
+    },
+    {
+     "q": "Vuokraatteko LED-seiniä myös tapahtumiin?",
+     "a": "Kyllä, LED-seinät, trussit ja valot ovat saatavilla myös tapahtumiin, kongresseihin ja tuotelanseerauksiin."
+    },
+    {
+     "q": "Työskenteletekö myös ulkomaisissa messukeskuksissa?",
+     "a": "Kyllä, asennamme rakenteita ja LED-seiniä kaikissa Euroopan tärkeimmissä messukeskuksissa."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "messukalusteet-vuokraus",
+   "nav": "Kalusteet & vuokraus",
+   "title": "Mittatilauskalusteet ja kalustevuokraus osastoille | NEWSTANDS",
+   "desc": "Tiskit, myyntitiskit, istuimet, vitriinit, keittiöt ja varastot messuosastoille: mittatilauskalusteet tai vuokrakalusteet Milanosta koko Eurooppaan.",
+   "h1": "Mittatilauskalusteet ja vuokraus osastoille",
+   "lead": "Tiskit, myyntitiskit, istuimet, vitriinit, keittiöt ja varastot: omassa verstaassamme mittatilauksena valmistetut kalusteet tai vuokrakalusteet kaikenkokoisille osastoille.",
+   "body": [
+    "Kalusteet saavat osaston toimimaan: vastaanotolle, esillepanolle, tapaamisille, maistatuksille ja varastolle on löydyttävä oikea paikka. Suunnittelemme ne pohjaratkaisun yhteydessä ja huomioimme kävijävirrat sekä tiimisi työn messuilla.",
+    "Voimme valmistaa uniikkeja mittatilauskalusteita brändisi viimeistelyin ja värein tai toimittaa vuokrakalusteita kustannusten hillitsemiseksi. Toimitus, asennus ja nouto hoituvat aina meiltä."
+   ],
+   "inc": [
+    {
+     "t": "Tiskit ja vastaanotto",
+     "d": "Mittatilauksena tehdyt vastaanottotiskit logolla, valoilla ja teknisillä tiloilla."
+    },
+    {
+     "t": "Neuvottelu- ja lounge-alueet",
+     "d": "Pöydät, istuimet ja sohvaryhmät asiakastapaamisiin osastolla."
+    },
+    {
+     "t": "Vitriinit ja esittelytelineet",
+     "d": "Lasivitriinit, hyllyt ja varustellut seinät, jotka tuovat tuotteet esiin."
+    },
+    {
+     "t": "Keittiöt ja varastot",
+     "d": "Varastotilat, keittiöt ja huoltoalueet osaksi osastoa."
+    },
+    {
+     "t": "Kalustevuokraus",
+     "d": "Vuokrakalusteita jokaiseen tyyliin ja budjettiin, toimitamme ja noudamme itse."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Voinko vuokrata pelkät kalusteet?",
+     "a": "Kyllä, toimitamme myös pelkkiä vuokrakalusteita toimituksineen ja noutoineen messuilla."
+    },
+    {
+     "q": "Voiko mittatilauskalusteita käyttää uudelleen?",
+     "a": "Kyllä, säilytämme ne varastossamme ja tuomme ne seuraaville messuille."
+    },
+    {
+     "q": "Toimitatteko kalusteita myös ulkomaille?",
+     "a": "Kyllä, toimitamme ja asennamme kalusteita kaikkiin Euroopan tärkeimpiin messukeskuksiin."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "messuosaston-rakennus-ja-purku",
+   "nav": "Rakennus & purku",
+   "title": "Osastojen rakennus ja purku Milanossa ja Euroopassa | NEWSTANDS",
+   "desc": "Erikoistuneet tiimit messuosastojen rakentamiseen ja purkuun Fiera Milano Rhossa ja kaikissa Euroopan messukeskuksissa. Myös pelkkä asennus.",
+   "h1": "Messuosastojen rakennus ja purku",
+   "lead": "Erikoistuneet tiimit ja oma työnjohtaja rakentavat ja purkavat osastosi Fiera Milano Rhossa, Allianz MiCossa ja kaikissa Euroopan messukeskuksissa. Myös pelkkä asennus.",
+   "body": [
+    "Asennusvaiheessa projektista tulee osasto: se vaatii kokeneita tiimejä, kalustoa sekä aikaikkunoiden ja messukeskuksen turvallisuusmääräysten noudattamista. Tukikohdastamme Milanon alueelta pääsemme nopeasti kaupungin messukeskuksiin ja lähdemme osaston kanssa messuille kaikkialle Eurooppaan.",
+    "Asennamme itse valmistamiemme osastojen lisäksi myös muiden toimittajien tai asiakkaan omistamia osastoja: materiaalin vastaanotto, asennus, lopputarkastus, tuki messujen aikana, purku ja palautus varastoon."
+   ],
+   "inc": [
+    {
+     "t": "Erikoistuneet tiimit",
+     "d": "Kokeneet asentajat omine työkaluineen ja oma työnjohtaja."
+    },
+    {
+     "t": "Kulkuluvat",
+     "d": "Kulkukortit, turvallisuusdokumentaatio ja messukeskuksen vaatimat luvat."
+    },
+    {
+     "t": "Lopputarkastus ja luovutus",
+     "d": "Rakenteiden, valojen ja grafiikoiden lopputarkastus ennen avajaisia."
+    },
+    {
+     "t": "Tuki messuilla",
+     "d": "Teknikot tavoitettavissa koko tapahtuman ajan kaikkiin tarpeisiin."
+    },
+    {
+     "t": "Purku ja varastointi",
+     "d": "Purku aikataulussa, kuljetus ja varastointi uudelleenkäyttöä varten."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Asennatteko myös muiden valmistamia osastoja?",
+     "a": "Kyllä, rakennamme ja puramme myös muiden messurakentajien tai näytteilleasettajan omistamia osastoja."
+    },
+    {
+     "q": "Missä messukeskuksissa työskentelette?",
+     "a": "Fiera Milano Rhossa ja Allianz MiCossa, Bolognassa, Veronassa ja Riminissä sekä Euroopan tärkeimmissä messukaupungeissa: Düsseldorfissa, Kölnissä, Frankfurtissa, Münchenissä, Pariisissa, Barcelonassa, Madridissa, Amsterdamissa ja muualla."
+    },
+    {
+     "q": "Noudatatteko messukeskusten turvallisuusmääräyksiä?",
+     "a": "Kyllä, asentajamme työskentelevät kunkin messukeskuksen turvallisuusmääräysten ja teknisten sääntöjen mukaisesti."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "messuosastot-milano",
+   "nav": "Osastot Milanossa",
+   "title": "Messurakentaja Milanossa: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Messurakentaja Milanon alueella: avaimet käteen -messuosastot Fiera Milano Rhoon, Allianz MiCoon ja kaupungin tapahtumiin, suunnittelu ja asennus.",
+   "h1": "Messuosastot Milanossa",
+   "lead": "Milano on yksi Euroopan tärkeimmistä messukeskittymistä, ja täältä me toimimme: suunnittelemme, valmistamme ja rakennamme osastot Fiera Milano Rhon ja Allianz MiCon messuille sekä kaupungin tapahtumiin.",
+   "body": [
+    "Fiera Milano Rhossa järjestetään vuosittain kansainvälisiä messuja, kuten Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO ja MICAM, ja Allianz MiCo on yksi Euroopan suurimmista kongressikeskuksista. Näytteilleasettajalle se tarkoittaa kovaa kilpailua: osaston on erotuttava joukosta.",
+    "Messurakentaja Milanon alueella tarkoittaa nopeita paikkakäyntejä, yksinkertaista logistiikkaa, lähellä olevia asennustiimejä ja välitöntä tukea messujen aikana. Ja jos kautesi jatkuu Milanon jälkeen ulkomailla, sama tiimi vie osaston kaikkiin Euroopan messukeskuksiin."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Osastot Rhon suurille kansainvälisille messuille designhalleista moottoripyörä- ja ruokahalleihin."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Ratkaisut kongresseihin, konferensseihin ja messuihin Milanon kongressikeskuksessa."
+    },
+    {
+     "t": "Tapahtumat kaupungissa",
+     "d": "Tuotelanseeraukset, Fuorisalone, showroomit ja väliaikaiset myymälät Milanon tapahtumapaikoissa."
+    },
+    {
+     "t": "Nopeat paikkakäynnit",
+     "d": "Tukikohdastamme pääsemme Milanon messukeskuksiin nopeasti ennen messuja ja niiden aikana."
+    },
+    {
+     "t": "Varastointi lähellä",
+     "d": "Osastosi pysyy varastossamme Lombardiassa valmiina seuraavaan tapahtumaan."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Oletteko milanolainen messurakentaja?",
+     "a": "Kyllä, toimimme Milanon alueelta, ja pääkonttorimme ja verstaamme sijaitsevat Tromellossa (PV) Lombardiassa, lähellä Fiera Milano Rhota."
+    },
+    {
+     "q": "Mille Milanon messuille rakennatte osastoja?",
+     "a": "Kaikille Fiera Milano Rhon ja Allianz MiCon messuille sekä kaupungin tapahtumiin ja Fuorisaloneen."
+    },
+    {
+     "q": "Voitteko seurata meitä myös ulkomaan messuille?",
+     "a": "Kyllä, viemme osastot ja tiimit Milanosta kaikkiin Euroopan tärkeimpiin messukeskuksiin."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "messuosastot-eurooppa",
+   "nav": "Osastot Euroopassa",
+   "title": "Messuosastot Euroopassa: Saksa, Ranska, Espanja | NEWSTANDS",
+   "desc": "Milanosta kaikkiin Euroopan messukeskuksiin: avaimet käteen -osastot Düsseldorfissa, Kölnissä, Frankfurtissa, Münchenissä, Pariisissa ja muualla.",
+   "h1": "Messuosastot koko Euroopassa",
+   "lead": "Lähdemme Milanosta ja matkustamme mihin tahansa Euroopan messukeskukseen: yksi toimittaja suunnitteluun, valmistukseen, kuljetukseen ja asennukseen, missä tahansa messusi ovatkin.",
+   "body": [
+    "Kun ulkomailla on joka maassa eri paikallinen messurakentaja, se tarkoittaa uusia yhteyshenkilöitä, eri standardeja ja enemmän riskejä. NEWSTANDSin kanssa sinulla on yksi tiimi: suunnittelemme ja valmistamme verstaassamme Milanon lähellä, järjestämme kuljetukset ja kulkuluvat ja asennamme omilla tiimeillämme.",
+    "Työskentelemme Saksan, Ranskan, Espanjan, Benelux-maiden, Itävallan ja Sveitsin suurissa messukeskuksissa sekä missä tahansa muualla pyynnöstä. Olemme toteuttaneet kansallisia paviljonkeja ja brändiosastoja, kuten Tunisian paviljongin MEDICA Düsseldorfissa."
+   ],
+   "inc": [
+    {
+     "t": "Saksa",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt ja Messe München."
+    },
+    {
+     "t": "Ranska",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles ja Eurexpo Lyon."
+    },
+    {
+     "t": "Espanja",
+     "d": "Fira de Barcelona Gran Via ja IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam ja Brussels Expo."
+    },
+    {
+     "t": "Itävalta, Sveitsi ja muut",
+     "d": "Messe Wien, Palexpo Genève ja kaikki muut Euroopan messukeskukset pyynnöstä."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hoidatteko kuljetukset ja paperit ulkomaan messuille?",
+     "a": "Kyllä: pakkaus, kuljetus, kulkukortit, turvallisuusdokumentaatio ja yhteydenpito messujärjestäjään hoituvat meiltä."
+    },
+    {
+     "q": "Ovatko asennustiimit omianne?",
+     "a": "Kyllä, osaston rakentavat omat tiimimme oman työnjohtajan johdolla myös ulkomailla."
+    },
+    {
+     "q": "Millä kielillä voimme asioida?",
+     "a": "Italiaksi ja englanniksi; messujen dokumentaation koordinoimme järjestäjän kanssa paikallisella kielellä."
+    }
+   ]
+  }
+ }
+}

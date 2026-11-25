@@ -1,0 +1,987 @@
+{
+ "_lang": "sl",
+ "meta": {
+  "title": "Sejemski razstavni prostori Milano in Evropa | NEWSTANDS",
+  "desc": "Izdelovalec sejemskih prostorov z območja Milana: načrtujemo, izdelamo in postavimo razstavne prostore na ključ na Fiera Milano in na vseh sejmiščih v Evropi.",
+  "ogTitle": "NEWSTANDS — Sejemski prostori od Milana do vse Evrope",
+  "ogDesc": "Sejemski razstavni prostori na ključ, dogodki in kongresi: baza na območju Milana, montažne ekipe na vseh evropskih sejmiščih.",
+  "ogAlt": "NEWSTANDS — postavitve sejemskih prostorov od Milana do vse Evrope",
+  "orgDesc": "Izdelovalec sejemskih razstavnih prostorov z bazo na območju Milana (sedež v Tromellu, PV). Načrtuje, izdeluje in postavlja sejemske prostore na ključ ter postavitve za dogodke, kongrese, razstavne salone in začasne trgovine na Fiera Milano in na vseh sejmiščih v Evropi.",
+  "slogan": "Načrtovano, izdelano, postavljeno."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podest",
+  "h003": "Postavitve",
+  "h004": "Načrtovano · Izdelano · Postavljeno",
+  "h005": "Tapnite za vstop",
+  "h006": "Postopek",
+  "h007": "Storitve",
+  "h008": "Projekti",
+  "h009": "Konfigurirajte",
+  "h009b": "Konfigurirajte",
+  "h010": "Evropa",
+  "h011": "Ponudba",
+  "h012": "Izdelava sejemskih prostorov v Milanu · Dogodki · Kongresi",
+  "h013": "Načrtovanje → Izdelava → Montaža",
+  "h014": "Naša baza je na območju Milana, v sejemskem srcu Evrope: sejemske prostore gradimo iz nič in jih postavimo na katerem koli evropskem sejmišču. En sogovornik od prve skice do zadnjega vijaka.",
+  "h015": "Pomaknite se in sestavite prostor",
+  "h016": "List 00 — Tloris prostora 8.000 × 6.000",
+  "h017": "Merilo 1:50",
+  "h018": "Projekt",
+  "h019": "Napredek gradnje",
+  "h020": "List 05 — Predaja",
+  "h021": "Na ključ.",
+  "h022": "Konfigurirajte svojega",
+  "h023": "Zahtevajte ponudbo",
+  "h024": "§ 01 — O nas",
+  "h025": "Ne prodajamo kvadratnih metrov. Gradimo prostor, kjer se vaša *blagovna* *znamka* sreča s trgom — od *prve* skice do zadnjega vijaka, v katerem koli razstavišču v Evropi.",
+  "h026": "Metoda",
+  "h027": "Vsak sestavni del načrtujemo, izdelamo in postavimo sami: konstrukcije, stenske panele, grafike, pohištvo in luči. Manj posrednikov, manj presenečenj, spoštovani roki.",
+  "h028": "Od ničle",
+  "h029": "do sejemskega prostora.",
+  "h030": "Šest faz, eno vodstvo.",
+  "h031": "Pomaknite se vodoravno →",
+  "h032": "Faza 01",
+  "h033": "Cilji, proračun, sejem, tehnični pravilnik sejmišča. Začnemo pri tem, kaj se mora zgoditi v vašem prostoru.",
+  "h034": "Faza 02",
+  "h035": "Koncept & 3D",
+  "h036": "Fotorealistični prikazi in izvedbeni načrti: končni prostor vidite, še preden razrežemo prvi panel.",
+  "h037": "Faza 03",
+  "h038": "Izdelava",
+  "h039": "Mizarstvo, kovinarstvo, velikoformatni tisk, razsvetljava. Vsak kos nastane po meri.",
+  "h040": "Faza 04",
+  "h041": "Logistika",
+  "h042": "Pakiranje, prevoz in dovoljenja za dostop na vsako evropsko sejmišče. Pridemo sami, pravočasno.",
+  "h043": "Faza 05",
+  "h044": "Montaža",
+  "h045": "Specializirane ekipe na terenu, lasten vodja montaže, tehnični prevzem. Prostor vam predamo pripravljen.",
+  "h046": "Faza 06",
+  "h047": "Sejem & demontaža",
+  "h048": "Tehnična podpora med sejmom, demontaža, skladiščenje in ponovna uporaba na naslednjem sejmu.",
+  "h049": "Rezultat",
+  "h050": "Vi mislite",
+  "h051": "na stranke.",
+  "h052": "Za vse ostalo",
+  "h053": "poskrbimo mi.",
+  "h054": "Pogovorimo se o vašem naslednjem sejmu",
+  "h055": "Kaj",
+  "h056": "izdelujemo",
+  "h057": "§ 03 — Storitve",
+  "h058": "Vse vrste sejmov in dogodkov, od 16 m² velikega vrstnega prostora do dvoetažnega otoka. Izdelava in montaža vedno v lastni režiji.",
+  "h059": "Izvedeni",
+  "h060": "projekti",
+  "h061": "§ 04 — Projekti",
+  "h062": "Izbor sejemskih prostorov, ki so jih načrtovale, izdelale in postavile naše ekipe: nacionalni paviljoni, otoki blagovnih znamk in tehnični prostori po vsej Evropi.",
+  "h063": "Naslednji je lahko vaš",
+  "h064": "svoj prostor",
+  "h065": "§ 05 — 3D konfigurator",
+  "h066": "Izberite tip in površino: opazujte, kako prostor dobiva obliko, in nam pošljite konfiguracijo kot izhodišče za ponudbo.",
+  "h067": "↔ Povlecite za vrtenje",
+  "h068": "Aksonometrični pogled",
+  "h069": "Az 000°",
+  "h070": "01 — Tip",
+  "h071": "Odprte strani",
+  "h072": "02 — Površina",
+  "h073": "Okvirne mere",
+  "h074": "Uporabi to konfiguracijo",
+  "h075": "Naslednji",
+  "h076": "odhod",
+  "h077": "§ 06 — Od Milana do vse Evrope",
+  "h078": "Začnemo v Milanu, mestu velikih mednarodnih sejmov, in se s sejemskim prostorom odpravimo na katero koli evropsko sejmišče: Nemčija, Francija, Španija, Benelux, Avstrija, Švica. Kjer je razstavna hala, tja pridemo.",
+  "h079": "Mesto",
+  "h080": "Sejmišče",
+  "h081": "Država",
+  "h082": "Stanje",
+  "h083": "Montažne ekipe v pogonu",
+  "h084": "+ vsako drugo sejmišče na zahtevo",
+  "h085": "Pogosta",
+  "h086": "vprašanja",
+  "h087": "§ 07 — Vprašanja",
+  "h088": "Stroški, roki, mesta in storitve: odgovori na vprašanja, ki nam jih pred sejmom zastavljate najpogosteje.",
+  "h089": "Imate sejem",
+  "h090": "v koledarju?",
+  "h091": "Povejte nam dogodek, datume in kvadraturo. Odgovorimo s prvim predlogom in pregledno ponudbo.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Sedež",
+  "h095": "Območje",
+  "h096": "Milano + vsa Evropa",
+  "h097": "Storitev",
+  "h098": "Na ključ",
+  "h099": "Sejemski prostor",
+  "h100": "Dogodek",
+  "h101": "Kongres",
+  "h102": "Salon / pop-up",
+  "h103": "Samo montaža",
+  "h104": "Ime in priimek",
+  "h105": "Podjetje",
+  "h106": "Sejem / dogodek in mesto",
+  "h107": "Opišite projekt",
+  "h108": "Pošlji povpraševanje",
+  "h109": "Povpraševanje je pripravljeno v vašem e-poštnem programu: kliknite pošlji.",
+  "h110": "Se ni nič odprlo? Pišite na",
+  "h111": "ali pokličite",
+  "h112": "Studio",
+  "h113": "Sejemski prostori v Milanu in Evropi, dogodki, kongresi",
+  "h114": "27020 Tromello (PV), Lombardija",
+  "h115": "Navigacija",
+  "h116": "Konfigurator",
+  "h117": "Družbena omrežja",
+  "h118": "Kontakt",
+  "h119": "Zahtevajte ponudbo →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija",
+  "h121": "Načrtovano, izdelano, postavljeno.",
+  "h122": "Nazaj na vrh ↑",
+  "h123": "Glavni meni",
+  "h124": "Filtriraj po panogi",
+  "h125": "Galerija projekta",
+  "h126": "Zapri galerijo",
+  "h127": "Prejšnja fotografija",
+  "h128": "Naslednja fotografija",
+  "h129": "Površina v kvadratnih metrih",
+  "h130": "Povpraševanje za sejemski prostor",
+  "h131": "Vrsta projekta",
+  "h132": "Pišite nam na WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Koliko stane sejemski razstavni prostor?",
+   "a": "Cena sejemskega prostora je odvisna od površine, tipa (vrstni, kotni, polotok ali otok), materialov, grafik, pohištva in sejmišča. Po kratkem pogovoru o sejmu, datumih in kvadraturi vam pošljemo prvi predlog ter jasno in podrobno ponudbo. Začnete lahko s 3D konfiguratorjem zgoraj ali nas pokličete oziroma nam pišete na WhatsApp na <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Kje je NEWSTANDS in na katerih sejmih delate?",
+   "a": "Smo izdelovalec sejemskih prostorov z območja Milana, s sedežem in delavnico v Tromellu (PV) v Lombardiji: strateška lega blizu Fiera Milano Rho in Allianz MiCo, kjer potekajo nekateri najpomembnejši sejmi v Evropi. Od tod se naše ekipe odpravijo na vsako sejmišče: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Pariz, Lyon, Barcelona, Madrid, Amsterdam, Bruselj, Dunaj, Ženeva in še dlje."
+  },
+  {
+   "q": "Kaj vključuje storitev na ključ?",
+   "a": "En sogovornik za vse: uvodni brief, koncept in 3D prikazi, izvedbeni načrti, lastna izdelava konstrukcij, stenskih panelov, velikoformatnih grafik, pohištva in luči, logistika in prevoz, montaža z lastnim vodjo gradbišča, podpora med sejmom, demontaža in skladiščenje za ponovno uporabo."
+  },
+  {
+   "q": "Ali izvajate tudi dogodke, kongrese in razstavne salone?",
+   "a": "Da. Poleg sejemskih prostorov po meri in modularnih sejemskih prostorov načrtujemo in postavljamo poslovne dogodke, kongrese, konvencije, predstavitve izdelkov, odre in scenografije, razstavne salone, začasne trgovine in pop-up trgovine, s truss konstrukcijami, LED-zasloni in razsvetljavo."
+  },
+  {
+   "q": "Kako zgodaj se je smiselno obrniti na vas?",
+   "a": "Prej ko nas kontaktirate, več časa imamo za načrtovanje, prikaze in izdelavo: pri sejemskem prostoru po meri je najbolje začeti takoj, ko potrdite udeležbo na sejmu. Pri modularnih prostorih in samostojni montaži lahko delamo tudi s krajšimi roki: pišite nam in takoj preverimo izvedljivost."
+  },
+  {
+   "q": "Kako zahtevam ponudbo?",
+   "a": "Izpolnite obrazec v razdelku s kontakti, pišite na <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> ali nas pokličite oziroma nam pišite na WhatsApp na <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativno <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Navedite sejem ali dogodek, mesto, datume in kvadraturo: oglasili se bomo s prvim predlogom."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Vsak sejemski prostor nastane iz tehničnega načrta: mere, pravilnik sejmišča, tokovi obiskovalcev."
+   ],
+   [
+    "Konstrukcija",
+    "Podest, truss, okvirji. Del, ki se ne vidi, a nosi vse."
+   ],
+   [
+    "Stene & grafika",
+    "Stenski paneli po meri, velikoformatni tisk, zaključna obdelava."
+   ],
+   [
+    "Pohištvo & tehnologija",
+    "Pulti, totemi, LED-zasloni, prostori za sestanke, viseči obroč. Izdelamo in montiramo jih sami."
+   ],
+   [
+    "Luči prižgane",
+    "Prevzem, čiščenje, predaja. Prostor je pripravljen na odprtje."
+   ]
+  ],
+  "lbl": [
+   "Š 8.000 mm",
+   "G 6.000 mm",
+   "Truss 29×29 — V 4.500",
+   "Stena 3.400 + grafika",
+   "LED-zaslon 3,4 × 1,9 m",
+   "Recepcijski pult",
+   "Viseči obroč Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Vrstni",
+   "angolo": "Kotni",
+   "penisola": "Polotok",
+   "isola": "Otok",
+   "doppio": "Dvoetažni"
+  },
+  "sides": "strani",
+  "side": "stran",
+  "openSides": "odprte strani",
+  "openSide": "odprta stran",
+  "cfgMsg": "Konfiguracija s spletne strani: tip prostora {type}, {n} {sides}, približno {area} m² ({dim} m).",
+  "axo": "Aksonometrični pogled",
+  "cfgFb": "3D konfigurator na tej napravi ni na voljo.<br>Pišite nam: prikaz vam pošljemo mi.",
+  "mq": [
+   "Prostori po meri",
+   "Dogodki",
+   "Kongresi",
+   "Saloni",
+   "Pop-up",
+   "LED-zasloni",
+   "Truss",
+   "Grafika",
+   "Pohištvo"
+  ],
+  "svc": [
+   {
+    "t": "Sejemski prostori po meri",
+    "d": "Unikatni projekti, zgrajeni iz nič okoli vaše blagovne znamke: mizarstvo, kovina, steklo, tekstil, kakovostne zaključne obdelave.",
+    "tags": [
+     "Koncept",
+     "3D prikaz",
+     "Izdelava",
+     "Montaža"
+    ]
+   },
+   {
+    "t": "Modularni prostori",
+    "d": "Večkrat uporabni, predhodno sestavljeni sistemi za podjetja, ki letno razstavljajo na več sejmih: enotna podoba, stroški pod nadzorom.",
+    "tags": [
+     "Ponovna uporaba",
+     "Skladiščenje",
+     "Hitrost"
+    ]
+   },
+   {
+    "t": "Dogodki & kongresi",
+    "d": "Odri, scenografije, plenarne dvorane, poslovne konvencije in predstavitve izdelkov, s celotno tehnično režijo.",
+    "tags": [
+     "Odri",
+     "Scenografije",
+     "Avdio/Video"
+    ]
+   },
+   {
+    "t": "Saloni & pop-up",
+    "d": "Začasni prodajni prostori, pop-up trgovine in stalni razstavni saloni: z enako natančnostjo kot na sejmišču.",
+    "tags": [
+     "Pop-up",
+     "Maloprodaja",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Velikoformatna grafika",
+    "d": "Tisk na forex, osvetljen tekstil, PVC, nalepke in folije za steklo. Izdelamo in namestimo jih sami.",
+    "tags": [
+     "Lightbox",
+     "Tekstil",
+     "Nalepke"
+    ]
+   },
+   {
+    "t": "Truss & LED-zasloni",
+    "d": "Truss konstrukcije, viseči obroči, rigging, LED-zasloni in razsvetljava za prostore, ki so vidni iz vse hale.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED-zasloni",
+     "Luči"
+    ]
+   },
+   {
+    "t": "Pohištvo & najem",
+    "d": "Pulti, točilni pulti, sedeži, vitrine, kuhinje in skladišča: pohištvo po meri ali v najem za vsako kvadraturo.",
+    "tags": [
+     "Po meri",
+     "Najem",
+     "Skladišče"
+    ]
+   }
+  ],
+  "more": "Več o storitvi",
+  "tav": "List",
+  "avail": "NA VOLJO",
+  "form": {
+   "type": "Vrsta projekta",
+   "name": "Ime in priimek",
+   "company": "Podjetje",
+   "fair": "Sejem / dogodek in mesto",
+   "project": "Projekt",
+   "subj": "Povpraševanje za sejemski prostor"
+  },
+  "ariaW": "{t} — odpri galerijo ({n} fotografij)",
+  "altW": "Sejemski prostor {t} — {c}, postavitev NEWSTANDS",
+  "nPh": "{n} fotografij",
+  "altLb": "Sejemski prostor {t} ({c}) — fotografija {i} od {n}",
+  "phN": "Fotografija {i}",
+  "all": "Vse",
+  "ld": [
+   "Podest",
+   "Stene",
+   "Prečka",
+   "Luči",
+   "Končano"
+  ],
+  "c3": [
+   "OD NIČLE",
+   "DO PROSTORA.",
+   "PROJEKT · IZDELAVA · MONTAŽA · EVROPA",
+   "SEJEMSKE POSTAVITVE",
+   "PROSTORI · DOGODKI · EVROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristali in razsvetljava",
+   "g": "Dizajn",
+   "d": "Popolnoma bel otok, ovit v zavese iz kristalnih niti, z visečimi lestenci in lakiranim pohištvom: prostor postane svetleča izložba."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Športna prehranska dopolnila",
+   "g": "Hrana & zdravje",
+   "d": "Na več straneh odprt otok z grafikami izdelkov čez cele stene, visečimi napisi in pulti za degustacijo za velike tokove obiskovalcev."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turizem",
+   "g": "Turizem",
+   "d": "Institucionalni paviljon z loki in minareti, navdihnjenimi z arhitekturo Telangane, pulti za operaterje in doživljajskimi grafikami."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turizem",
+   "g": "Turizem",
+   "d": "Portali iz imitacije terakote, rezljani loki in mesta za B2B sestanke: regionalni paviljon, ki pokrajino predstavi na prvi pogled."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nacionalni paviljon prehrane",
+   "g": "Hrana & zdravje",
+   "d": "Belo-rdeč skupni paviljon z ažurnimi okraski, pulti za razstavljavce in prostorom za kuharske šove."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrija",
+   "d": "Korporativni prostor s steklenimi sejnimi sobami, osvetljenimi stenami in sprejemnim prostorom, odprtim proti hodniku."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motocikli",
+   "g": "Moto",
+   "d": "Popolnoma belo z rdečimi portali in podesti za motocikle: čista grafika, ki pusti, da govorijo vozila."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Električni motocikli",
+   "g": "Moto",
+   "d": "Popolnoma črna scenografija s sijočim belim podom, razstavljenimi motocikli in prostorom za sestanke."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Razstavni lounge",
+   "g": "Dizajn",
+   "d": "Odprt lounge z velikim panoramskim tiskom, visečim stropom, pultom in sedeži za sprejem obiskovalcev."
+  },
+  {
+   "t": "Plastona",
+   "c": "Dom in vrt",
+   "g": "Dizajn",
+   "d": "Otok s kockastimi napisi na truss konstrukciji, belimi policami in ambienti z izdelki."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motocikli in motorji",
+   "g": "Moto",
+   "d": "Kotni prostor s črnimi in belimi razstavnimi stenami, vozili na podestih in prostorom z mizami."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energetska industrija",
+   "g": "Industrija",
+   "d": "Zaobljeni osvetljeni okvirji, tehnični paneli in prostor za sestanke za B2B obiskovalce."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Čelade",
+   "g": "Moto",
+   "d": "Razstavne stene za čelade, dirkaške grafike in recepcijski pult: italijanski dizajn na nekaj kvadratnih metrih."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motoristična oprema",
+   "g": "Moto",
+   "d": "Stebri v treh barvah, osvetljene vitrine in stene z izdelki za zelo opazen dirkaški nastop."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Čelade",
+   "g": "Moto",
+   "d": "Stena z rombi in razstavljenimi čeladami, prevelikimi napisi in prostorom z mizami za pogajanja."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motoristični deli in oblačila",
+   "g": "Moto",
+   "d": "Grafični totemi po celotni višini, vitrine z izdelki in stene z oblačili okoli prostora za sestanke."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrija",
+   "g": "Industrija",
+   "d": "Modri korporativni prostor z grafikami procesov, tehničnim delom in mesti za sestanke."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turizem",
+   "g": "Turizem",
+   "d": "Scenografski portal s tradicionalnimi okraski in velikimi podobami pokrajine."
+  },
+  {
+   "t": "Uttar Pradesh — Kmetijstvo",
+   "c": "Agroživilstvo",
+   "g": "Hrana & zdravje",
+   "d": "Bel prostor s svetlobnimi okvirji v tleh in paneli z izdelki, preprost in svetel."
+  },
+  {
+   "t": "Tunizija — Medica Düsseldorf",
+   "c": "Nacionalni medicinski paviljon",
+   "g": "Medicina",
+   "d": "Državni paviljon na sejmu Medica Düsseldorf z visečim napisom, pulti za razstavljajoča podjetja in lounge prostorom."
+  }
+ ],
+ "ui": {
+  "langName": "Slovenščina",
+  "langLabel": "Jezik",
+  "home": "Domov",
+  "services": "Storitve",
+  "works": "Projekti",
+  "contacts": "Kontakt",
+  "quote": "Ponudba",
+  "requestQuote": "Zahtevajte ponudbo",
+  "whatsapp": "Pišite nam na WhatsApp",
+  "call": "Pokličite nas",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-pošta",
+  "address": "Sedež",
+  "serviceN": "Storitev",
+  "locationK": "Od Milana do vse Evrope",
+  "includesTitle": "Kaj vključuje",
+  "whyTitle": "Zakaj NEWSTANDS",
+  "why": [
+   {
+    "t": "Baza v Milanu",
+    "d": "Delamo z območja Milana, blizu Fiera Milano Rho in Allianz MiCo: hitri ogledi na terenu, preprosta logistika, ekipe vedno blizu velikih sejmišč."
+   },
+   {
+    "t": "Lastna izdelava",
+    "d": "Konstrukcije, stenski paneli, grafike, pohištvo in luči nastajajo v naši delavnici: manj posrednikov, manj presenečenj, spoštovani roki."
+   },
+   {
+    "t": "Na vseh evropskih sejmiščih",
+    "d": "Naše montažne ekipe potujejo skupaj s sejemskim prostorom: Nemčija, Francija, Španija, Benelux, Avstrija, Švica in vsako drugo sejmišče na zahtevo."
+   },
+   {
+    "t": "En sogovornik",
+    "d": "Od uvodnega briefa do demontaže se vedno pogovarjate z isto osebo, na sejmu pa imate svojega vodjo gradbišča."
+   }
+  ],
+  "galleryTitle": "Nekateri izvedeni sejemski prostori",
+  "faqTitle": "Pogosta vprašanja",
+  "otherTitle": "Druge storitve",
+  "ctaTitle": "Imate sejem v koledarju?",
+  "ctaText": "Povejte nam sejem, mesto, datume in kvadraturo: odgovorimo s prvim predlogom in pregledno ponudbo.",
+  "whereTitle": "Od Milana do vsakega sejmišča",
+  "whereText": "Smo na območju Milana, mesta, ki gosti nekatere najpomembnejše sejme na svetu. Od tod z našimi ekipami dosežemo vsako sejmišče v Italiji in Evropi.",
+  "milanLink": "Sejemski prostori v Milanu",
+  "europeLink": "Sejemski prostori v Evropi",
+  "photos": "fotografij",
+  "backHome": "Nazaj na domačo stran",
+  "footerTag": "Sejemski razstavni prostori v Milanu in po vsej Evropi. Načrtovano, izdelano, postavljeno.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija · Območje Milana",
+  "breadcrumb": "Pot",
+  "skip": "Na vsebino",
+  "menu": "Glavni meni"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "sejemski-prostori-po-meri",
+   "nav": "Prostori po meri",
+   "title": "Sejemski prostori po meri v Milanu in Evropi | NEWSTANDS",
+   "desc": "Sejemski razstavni prostori po meri, ki jih NEWSTANDS načrtuje, izdela in postavi: baza na območju Milana, montaža na vseh evropskih sejmiščih.",
+   "h1": "Sejemski razstavni prostori po meri",
+   "lead": "Unikaten sejemski prostor, zgrajen iz nič okoli vaše blagovne znamke: načrtujemo ga, izdelamo v naši delavnici blizu Milana in postavimo na katerem koli sejmu v Evropi.",
+   "body": [
+    "Sejemski prostor po meri je najmočnejši način predstavitve na sejmu: vsaka stena, vsaka luč in vsaka pot obiskovalca so zasnovane za vaše izdelke in poslovne cilje. Začnemo pri tehničnem pravilniku sejmišča in tokovih v hali, nato idejo spremenimo v fotorealistične 3D prikaze in izvedbene načrte.",
+    "Lesene in kovinske konstrukcije, stenske panele, grafike, pohištvo in razsvetljavo izdelamo sami, zato nadzorujemo kakovost in roke v vsaki fazi. Ne glede na to, ali je sejem na Fiera Milano Rho, v Düsseldorfu ali v Parizu, vaš prostor postavi ista ekipa, ki ga je izdelala."
+   ],
+   "inc": [
+    {
+     "t": "Koncept in 3D prikazi",
+     "d": "Kreativni predlog, fotorealistični prikazi in popravki, dokler prostor ni natanko tak, kot ga želite."
+    },
+    {
+     "t": "Izvedbeni projekt",
+     "d": "Tehnični načrti, izračuni in dokumentacija v skladu s pravilnikom vsakega sejmišča."
+    },
+    {
+     "t": "Izdelava po meri",
+     "d": "Mizarstvo, kovinske konstrukcije, steklo, tekstil in kakovostne zaključne obdelave iz naše delavnice."
+    },
+    {
+     "t": "Grafika in razsvetljava",
+     "d": "Velikoformatni tisk, lightboxi, LED-zasloni in svetlobni načrt, vključeni v arhitekturo prostora."
+    },
+    {
+     "t": "Montaža in demontaža",
+     "d": "Prevoz, montaža z lastnim vodjo gradbišča, podpora na sejmu, demontaža in skladiščenje."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Koliko časa traja izdelava sejemskega prostora po meri?",
+     "a": "Odvisno od velikosti in zahtevnosti: pri prostoru po meri je najbolje začeti takoj po potrditvi udeležbe na sejmu, da ostane dovolj časa za načrtovanje, prikaze in izdelavo."
+    },
+    {
+     "q": "Ali lahko prostor po meri ponovno uporabimo?",
+     "a": "Da. Sestavne dele načrtujemo tako, da jih je mogoče uskladiščiti in znova postaviti: na naslednjem sejmu prostor prilagodimo novi kvadraturi in novim grafikam."
+    },
+    {
+     "q": "Ali izdelujete sejemske prostore po meri tudi zunaj Italije?",
+     "a": "Da, z območja Milana pripeljemo prostor in naše ekipe na vsa glavna evropska sejmišča, od Nemčije do Španije."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modularni-sejemski-prostori",
+   "nav": "Modularni prostori",
+   "title": "Modularni sejemski prostori v Milanu in Evropi | NEWSTANDS",
+   "desc": "Modularni sejemski prostori za večkratno uporabo za podjetja, ki letno razstavljajo na več sejmih: enotna podoba in nadzor stroškov, od Milana do vse Evrope.",
+   "h1": "Modularni sejemski prostori za večkratno uporabo",
+   "lead": "Modularni sistemi za podjetja, ki letno razstavljajo na več sejmih: enaka podoba blagovne znamke, stroški pod nadzorom in hitra montaža, v Milanu in na vsakem evropskem sejmišču.",
+   "body": [
+    "Modularni sejemski prostor je dolgoročna naložba: konstrukcije, panele in pohištvo je mogoče preurediti za različne površine in tipe, od vrstnega prostora do otoka. Grafike se menjajo, kakovost ostaja.",
+    "Sistem načrtujemo enkrat, ga izdelamo v naši delavnici in zanj skrbimo med sejmi: skladiščenje, vzdrževanje, posodabljanje grafik in prevoz do naslednje hale, v Italiji ali v tujini."
+   ],
+   "inc": [
+    {
+     "t": "Sistem po meri",
+     "d": "Moduli, zasnovani po vaši podobi, ki jih je mogoče kombinirati od prostora z nekaj kvadratnimi metri do velikih otokov."
+    },
+    {
+     "t": "Zamenljive grafike",
+     "d": "Potiskani tekstili in paneli, ki jih hitro zamenjamo za vsak sejem, izdelek ali trg."
+    },
+    {
+     "t": "Skladiščenje in vzdrževanje",
+     "d": "Prostor hranimo v našem skladišču in ga pred vsakim novim odhodom pregledamo."
+    },
+    {
+     "t": "Hitra montaža",
+     "d": "Krajši čas postavitve, idealno tudi za sejme z ozkimi montažnimi okni."
+    },
+    {
+     "t": "Upravljanje sejemskega koledarja",
+     "d": "Skupaj z vami načrtujemo sejemsko sezono ter organiziramo logistiko in ekipe za vsako postajo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Je modularni prostor cenejši od prostora po meri?",
+     "a": "Na več sejmih običajno da: začetna naložba se porazdeli na vse udeležbe, nadaljnji stroški pa se zmanjšajo na grafike in logistiko."
+    },
+    {
+     "q": "Se modularni prostor prilagodi različnim površinam?",
+     "a": "Da, module je mogoče znova sestaviti v vrstni, kotni, polotok ali otok ter za različne kvadrature."
+    },
+    {
+     "q": "Lahko upravljate celoten naš sejemski koledar?",
+     "a": "Da: z območja Milana usklajujemo skladiščenje, prevoz in montažo za vsak sejem v sezoni, v Italiji in Evropi."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "postavitve-dogodkov-kongresov",
+   "nav": "Dogodki & kongresi",
+   "title": "Postavitve za dogodke in kongrese v Milanu | NEWSTANDS",
+   "desc": "Postavitve za poslovne dogodke, kongrese, konvencije in predstavitve izdelkov v Milanu in Evropi: odri, scenografije in celotna tehnična režija.",
+   "h1": "Postavitve za dogodke in kongrese",
+   "lead": "Odri, scenografije, plenarne dvorane, poslovne konvencije in predstavitve izdelkov: dogodke in kongrese postavljamo v Milanu in po vsej Evropi z enako natančnostjo kot sejemske prostore.",
+   "body": [
+    "Milano je ena evropskih prestolnic dogodkov in kongresov, s prizorišči, kot sta Allianz MiCo in velike poslovne lokacije v mestu. Ker delamo z območja Milana, poznamo roke, pravila in logistiko teh prostorov ter lahko oglede in montaže izvedemo zelo hitro.",
+    "Načrtujemo celotno postavitev: oder, scenografijo, plenarno dvorano, razstavne površine, recepcijo, signalizacijo in razsvetljavo. Tehnične dobavitelje usklajujemo sami, zato imate za ves dogodek enega sogovornika."
+   ],
+   "inc": [
+    {
+     "t": "Odri in scenografije",
+     "d": "Odri po meri, ozadja, LED-zasloni in scenografije, zasnovane za vaše sporočilo."
+    },
+    {
+     "t": "Plenarne dvorane in kongresi",
+     "d": "Opremljanje dvoran, površin za posterje, sprejemnih pultov in prostorov za sponzorje."
+    },
+    {
+     "t": "Konvencije in predstavitve izdelkov",
+     "d": "Ambienti za nepozabno predstavitev izdelka ali srečanje prodajne mreže."
+    },
+    {
+     "t": "Zvok, slika in luči",
+     "d": "Tehnična režija, truss konstrukcije, LED-zasloni in razsvetljava, vključeni v projekt."
+    },
+    {
+     "t": "Signalizacija in grafika",
+     "d": "Usmerjevalne poti, totemi, ozadja in usklajene grafike, ki jih natisnemo in namestimo sami."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali postavljate dogodke tudi zunaj sejmišč?",
+     "a": "Da: v hotelih, kongresnih centrih, industrijskih prostorih in zasebnih lokacijah, v Milanu, Italiji in tujini."
+    },
+    {
+     "q": "Lahko poskrbite tudi za tehnični del, zvok in sliko?",
+     "a": "Da, oder, LED-zaslone, luči in zvok usklajujemo kot del enotnega projekta, z eno kontaktno osebo."
+    },
+    {
+     "q": "Kako zgodaj je treba organizirati dogodek?",
+     "a": "Prej je bolje: z nekaj tedni rezerve lahko v miru opravimo ogled, načrtovanje in izdelavo. Za nujne primere nas kontaktirajte in preverili bomo izvedljivost."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "razstavni-saloni-pop-up-trgovine",
+   "nav": "Saloni & pop-up",
+   "title": "Razstavni saloni, začasne in pop-up trgovine Milano | NEWSTANDS",
+   "desc": "Načrtovanje in postavitev razstavnih salonov, začasnih trgovin, pop-up trgovin in shop-in-shop kotičkov v Milanu in Evropi, z lastno izdelavo in montažo.",
+   "h1": "Razstavni saloni, začasne in pop-up trgovine",
+   "lead": "Začasni prodajni prostori, pop-up trgovine in stalni razstavni saloni, postavljeni z enako natančnostjo kot sejemski prostor, v Milanu in po vsej Evropi.",
+   "body": [
+    "Začasna ali pop-up trgovina mora biti pripravljena v nekaj dneh in pustiti močan vtis: načrtujemo prostore, ki pripovedujejo zgodbo blagovne znamke, poudarijo izdelek in se hitro postavijo, tudi v nakupovalnih središčih in nakupovalnih ulicah.",
+    "Za stalne razstavne salone izdelamo pohištvo po meri, razstavne stene, vitrine in razsvetljavo iz trajnih materialov. Izdelava in montaža potekata v lastni režiji, zato roki in kakovost ostajajo pod nadzorom."
+   ],
+   "inc": [
+    {
+     "t": "Prodajni koncept",
+     "d": "Tloris, pot kupca in razporeditev izdelkov, zasnovani za prodajo."
+    },
+    {
+     "t": "Začasne in pop-up trgovine",
+     "d": "Lahke konstrukcije, ki jih je hitro postaviti, razstaviti in znova uporabiti v drugih mestih."
+    },
+    {
+     "t": "Stalni razstavni saloni",
+     "d": "Pohištvo po meri, opremljene stene, vitrine in kakovostne zaključne obdelave."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Kotički blagovnih znamk v trgovinah in veleblagovnicah, usklajeni z vašo podobo."
+    },
+    {
+     "t": "Luči in grafika",
+     "d": "Osvetlitev izdelkov, napisi, folije za izložbe in grafike iz naše izdelave."
+    }
+   ],
+   "faq": [
+    {
+     "q": "V kolikšnem času se postavi začasna trgovina?",
+     "a": "Odvisno od prostora in projekta: zaradi lastne izdelave lahko pop-up trgovino postavimo tudi v nekaj dneh."
+    },
+    {
+     "q": "Ali se pop-up trgovina lahko preseli v druga mesta?",
+     "a": "Da, načrtujemo modularne konstrukcije, ki jih razstavimo in znova postavimo na drugih lokacijah, v Italiji in Evropi."
+    },
+    {
+     "q": "Ali urejate tudi stalne razstavne salone?",
+     "a": "Da, od načrtovanja do namestitve pohištva, vitrin, luči in grafik."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "velikoformatna-grafika-tisk",
+   "nav": "Velikoformatna grafika",
+   "title": "Velikoformatna grafika za sejemske prostore | NEWSTANDS Milano",
+   "desc": "Velikoformatni tisk za sejemske prostore in dogodke: forex, osvetljen tekstil, lightboxi, PVC, nalepke in folije za steklo, ki jih izdelamo in namestimo sami.",
+   "h1": "Velikoformatna grafika za sejme in dogodke",
+   "lead": "Tisk na forex, osvetljen tekstil, PVC, nalepke in folije za steklo: grafike vašega sejemskega prostora izdelajo in namestijo iste ekipe, ki ga postavijo.",
+   "body": [
+    "Grafika je tisto, kar obiskovalci opazijo najprej, pogosto iz vse hale. Zato jo obravnavamo kot del arhitekture prostora: formate, materiale in luči načrtujemo skupaj s konstrukcijami.",
+    "Tiskamo in nameščamo neposredno sami, v Milanu in na vsakem evropskem sejmu: brez prehajanja med različnimi dobavitelji, z nadzorovanimi barvami in grafikami, ki so ob odprtju popolnoma poravnane."
+   ],
+   "inc": [
+    {
+     "t": "Osvetljen tekstil",
+     "d": "Tekstilni lightboxi in svetleče stene, lahki in z močnim učinkom."
+    },
+    {
+     "t": "Trdi paneli",
+     "d": "Tisk na forex, dibond in PVC za stene, toteme in pulte."
+    },
+    {
+     "t": "Nalepke in folije",
+     "d": "Tla, steklene površine in druge površine, prilagojene s tehničnimi nalepkami."
+    },
+    {
+     "t": "Viseči napisi",
+     "d": "Transparenti in viseče grafične konstrukcije, vidne od daleč v hali."
+    },
+    {
+     "t": "Namestitev na sejmu",
+     "d": "Grafike namestimo sami, s končnim pregledom pred odprtjem."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali tiskate grafike tudi za prostore, ki so jih izdelali drugi?",
+     "a": "Da, izdelamo in namestimo lahko samo grafike, ob upoštevanju mer in pravilnikov sejmišča."
+    },
+    {
+     "q": "Katere datoteke potrebujete za tisk?",
+     "a": "Vektorske datoteke ali slike visoke ločljivosti z dodatkom za porezavo: tehnične specifikacije za vsak format vam pošljemo mi."
+    },
+    {
+     "q": "Ali lahko tekstilne grafike ponovno uporabimo?",
+     "a": "Da, tekstil se pere, zloži in znova namesti: idealen je za tiste, ki razstavljajo na več sejmih."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-led-zasloni-razsvetljava",
+   "nav": "Truss & LED-zasloni",
+   "title": "Truss, LED-zasloni in luči za sejemske prostore | NEWSTANDS",
+   "desc": "Truss konstrukcije, viseči obroči, rigging, LED-zasloni in razsvetljava za sejemske prostore in dogodke v Milanu in po vsej Evropi.",
+   "h1": "Truss konstrukcije, LED-zasloni in razsvetljava",
+   "lead": "Truss konstrukcije, viseči obroči, rigging, LED-zasloni in luči za prostore, ki so vidni iz vse hale, na Fiera Milano in na vsakem evropskem sejmišču.",
+   "body": [
+    "Viseči obroč z logotipom, LED-zaslon za videoposnetke izdelkov, svetloba, premišljena za vsako površino: to so elementi, zaradi katerih je sejemski prostor prepoznaven od daleč. Načrtujemo jih skupaj s prostorom ter preverimo obremenitve, obesišča in pravilnike sejmišča.",
+    "Truss konstrukcije, motorje, LED-zaslone in svetila dobavimo in namestimo z usposobljenim osebjem, zahteve za rigging pa uskladimo z upravljavcem sejmišča."
+   ],
+   "inc": [
+    {
+     "t": "Truss konstrukcije",
+     "d": "Talne in viseče konstrukcije vseh velikosti, tudi kot nosilec za grafike in luči."
+    },
+    {
+     "t": "Viseči obroči in napisi",
+     "d": "Okrogli ali po meri izdelani viseči elementi z grafiko, vidni iz vse hale."
+    },
+    {
+     "t": "Rigging",
+     "d": "Izračuni, obesišča in postopki s sejmiščem."
+    },
+    {
+     "t": "LED-zasloni",
+     "d": "LED-zasloni različnih velikosti, vgrajeni v stene ali na lastnih konstrukcijah."
+    },
+    {
+     "t": "Razsvetljava",
+     "d": "Svetlobni načrt za izdelke, grafike in vzdušje prostora."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali za dovoljenja za rigging poskrbite vi?",
+     "a": "Da, pripravimo tehnično dokumentacijo in zahteve uredimo z upravljavcem sejmišča."
+    },
+    {
+     "q": "Ali LED-zaslone oddajate tudi za dogodke?",
+     "a": "Da, LED-zasloni, truss konstrukcije in luči so na voljo tudi za dogodke, kongrese in predstavitve izdelkov."
+    },
+    {
+     "q": "Ali delate tudi na sejmiščih v tujini?",
+     "a": "Da, konstrukcije in LED-zaslone nameščamo na vseh glavnih evropskih sejmiščih."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "pohistvo-najem-sejemski-prostori",
+   "nav": "Pohištvo & najem",
+   "title": "Pohištvo po meri in najem za sejemske prostore | NEWSTANDS",
+   "desc": "Pulti, točilni pulti, sedeži, vitrine, kuhinje in skladišča za sejemske prostore: pohištvo po meri ali v najem, od Milana do vse Evrope.",
+   "h1": "Pohištvo po meri in najem za sejemske prostore",
+   "lead": "Pulti, točilni pulti, sedeži, vitrine, kuhinje in skladišča: pohištvo, izdelano po meri v naši delavnici ali v najem, za prostore vseh velikosti.",
+   "body": [
+    "Pohištvo poskrbi, da sejemski prostor deluje: sprejem, razstavljanje, sestanki, degustacije in skladišče morajo biti na pravem mestu. Načrtujemo ga skupaj s tlorisom, ob upoštevanju tokov obiskovalcev in dela vaše ekipe na sejmu.",
+    "Izdelamo lahko unikatne kose po meri v zaključkih in barvah vaše blagovne znamke ali pa za nižje stroške zagotovimo pohištvo v najem. Dostava, montaža in prevzem so vedno naša skrb."
+   ],
+   "inc": [
+    {
+     "t": "Pulti in recepcija",
+     "d": "Sprejemni pulti po meri, z logotipom, lučmi in tehničnimi predali."
+    },
+    {
+     "t": "Prostori za sestanke in lounge",
+     "d": "Mize, sedeži in sedežne garniture za srečanja s strankami v prostoru."
+    },
+    {
+     "t": "Vitrine in razstavni elementi",
+     "d": "Vitrine, police in opremljene stene, ki poudarijo izdelke."
+    },
+    {
+     "t": "Kuhinje in skladišča",
+     "d": "Shrambe, kuhinje in servisni prostori, vključeni v sejemski prostor."
+    },
+    {
+     "t": "Najem pohištva",
+     "d": "Pohištvo v najem za vsak slog in proračun, ki ga dostavimo in prevzamemo sami."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali lahko najamem samo pohištvo?",
+     "a": "Da, zagotovimo tudi samo pohištvo v najem, z dostavo in prevzemom na sejmu."
+    },
+    {
+     "q": "Ali lahko pohištvo po meri ponovno uporabimo?",
+     "a": "Da, hranimo ga v našem skladišču in ga pripeljemo na naslednji sejem."
+    },
+    {
+     "q": "Ali pohištvo dostavljate tudi v tujino?",
+     "a": "Da, pohištvo dostavimo in montiramo na vseh glavnih evropskih sejmiščih."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "montaza-demontaza-sejemskih-prostorov",
+   "nav": "Montaža & demontaža",
+   "title": "Montaža in demontaža sejemskih prostorov Milano | NEWSTANDS",
+   "desc": "Specializirane ekipe za montažo in demontažo sejemskih prostorov na Fiera Milano Rho in na vseh evropskih sejmiščih. Tudi samostojna montaža.",
+   "h1": "Montaža in demontaža sejemskih prostorov",
+   "lead": "Specializirane ekipe in lasten vodja gradbišča za montažo in demontažo vašega prostora na Fiera Milano Rho, Allianz MiCo in na vsakem sejmišču v Evropi. Tudi samostojna montaža.",
+   "body": [
+    "Montaža je trenutek, ko projekt postane sejemski prostor: potrebne so izkušene ekipe, oprema ter upoštevanje časovnih oken in varnostnih predpisov sejmišča. Iz naše baze na območju Milana hitro dosežemo milanska sejmišča, s prostorom pa se odpravimo tudi na sejme po vsej Evropi.",
+    "Montiramo prostore lastne izdelave, pa tudi prostore drugih dobaviteljev ali v lasti stranke: prevzem materiala, montaža, tehnični prevzem, podpora med sejmom, demontaža in vrnitev v skladišče."
+   ],
+   "inc": [
+    {
+     "t": "Specializirane ekipe",
+     "d": "Izkušeni monterji z lastno opremo in lastnim vodjo gradbišča."
+    },
+    {
+     "t": "Dovoljenja za dostop",
+     "d": "Prepustnice, varnostna dokumentacija in dovoljenja, ki jih zahteva sejmišče."
+    },
+    {
+     "t": "Prevzem in predaja",
+     "d": "Končni pregled konstrukcij, luči in grafik pred odprtjem."
+    },
+    {
+     "t": "Podpora na sejmu",
+     "d": "Tehniki, dosegljivi med celotno prireditvijo za vse potrebe."
+    },
+    {
+     "t": "Demontaža in skladiščenje",
+     "d": "Demontaža v predvidenih rokih, prevoz in skladiščenje za ponovno uporabo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali montirate tudi prostore, ki jih niste izdelali vi?",
+     "a": "Da, montiramo in demontiramo tudi prostore drugih izdelovalcev ali v lasti razstavljavca."
+    },
+    {
+     "q": "Na katerih sejmiščih delate?",
+     "a": "Na Fiera Milano Rho in Allianz MiCo, v Bologni, Veroni in Riminiju ter na glavnih evropskih sejmiščih: Düsseldorf, Köln, Frankfurt, München, Pariz, Barcelona, Madrid, Amsterdam in še dlje."
+    },
+    {
+     "q": "Ali upoštevate varnostne predpise sejmišč?",
+     "a": "Da, naši monterji delajo v skladu z varnostnimi predpisi in tehničnimi pravilniki vsakega sejmišča."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "sejemski-prostori-milano",
+   "nav": "Prostori v Milanu",
+   "title": "Sejemski prostori Milano: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Izdelovalec sejemskih prostorov na območju Milana: prostori na ključ za Fiera Milano Rho, Allianz MiCo in dogodke v mestu, ki jih načrtujemo in postavimo sami.",
+   "h1": "Sejemski prostori v Milanu",
+   "lead": "Milano je eno najpomembnejših sejemskih središč v Evropi in od tod delamo: načrtujemo, izdelujemo in postavljamo sejemske prostore za sejme na Fiera Milano Rho, Allianz MiCo in za dogodke v mestu.",
+   "body": [
+    "Fiera Milano Rho vsako leto gosti mednarodne prireditve, kot so Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO in MICAM, Allianz MiCo pa je eden največjih kongresnih centrov v Evropi. Za razstavljavca to pomeni izjemno konkurenco: prostor mora izstopati.",
+    "Izdelovalec na območju Milana pomeni hitre oglede, preprosto logistiko, bližnje montažne ekipe in takojšnjo podporo med sejmom. In če se vaša sezona po Milanu nadaljuje v tujini, ista ekipa pripelje prostor na vsako evropsko sejmišče."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Prostori za velike mednarodne sejme na sejmišču Rho, od hal za dizajn do hal za motocikle in hrano."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Postavitve za kongrese, konvencije in sejme v milanskem kongresnem centru."
+    },
+    {
+     "t": "Dogodki v mestu",
+     "d": "Predstavitve izdelkov, Fuorisalone, razstavni saloni in začasne trgovine na milanskih lokacijah."
+    },
+    {
+     "t": "Hitri ogledi",
+     "d": "Iz naše baze hitro dosežemo milanska sejmišča, pred sejmom in med njim."
+    },
+    {
+     "t": "Skladiščenje v bližini",
+     "d": "Vaš prostor ostane v našem skladišču v Lombardiji, pripravljen za naslednjo izvedbo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali ste milanski izdelovalec sejemskih prostorov?",
+     "a": "Da, delamo z območja Milana, s sedežem in delavnico v Tromellu (PV) v Lombardiji, blizu Fiera Milano Rho."
+    },
+    {
+     "q": "Za katere milanske sejme izdelujete prostore?",
+     "a": "Za vse prireditve na Fiera Milano Rho in Allianz MiCo, pa tudi za dogodke in Fuorisalone v mestu."
+    },
+    {
+     "q": "Nas lahko spremljate tudi na sejmih v tujini?",
+     "a": "Da, iz Milana pripeljemo prostore in ekipe na vsa glavna evropska sejmišča."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "sejemski-prostori-evropa",
+   "nav": "Prostori v Evropi",
+   "title": "Sejemski prostori v Evropi: Nemčija, Francija | NEWSTANDS",
+   "desc": "Od Milana do vseh evropskih sejmišč: sejemski prostori na ključ v Düsseldorfu, Kölnu, Frankfurtu, Münchnu, Parizu, Barceloni, Madridu, Amsterdamu in drugje.",
+   "h1": "Sejemski prostori po vsej Evropi",
+   "lead": "Začnemo v Milanu in se odpravimo na katero koli sejmišče v Evropi: en dobavitelj za načrtovanje, izdelavo, prevoz in montažo, kjer koli je vaš sejem.",
+   "body": [
+    "Razstavljanje v tujini z drugim lokalnim izdelovalcem v vsaki državi pomeni nove sogovornike, različne standarde in več tveganj. Z NEWSTANDS imate eno ekipo: načrtujemo in izdelujemo v naši delavnici blizu Milana, organiziramo prevoz in dovoljenja za dostop ter montiramo z lastnimi ekipami.",
+    "Delamo na velikih sejmiščih v Nemčiji, Franciji, Španiji, Beneluksu, Avstriji in Švici ter na vsakem drugem sejmišču na zahtevo. Izvedli smo nacionalne paviljone in prostore blagovnih znamk, na primer paviljon Tunizije na sejmu MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Nemčija",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt in Messe München."
+    },
+    {
+     "t": "Francija",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles in Eurexpo Lyon."
+    },
+    {
+     "t": "Španija",
+     "d": "Fira de Barcelona Gran Via in IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam in Brussels Expo."
+    },
+    {
+     "t": "Avstrija, Švica in drugje",
+     "d": "Messe Wien, Palexpo Genève in vsako drugo evropsko sejmišče na zahtevo."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ali za prevoz in postopke za sejme v tujini poskrbite vi?",
+     "a": "Da: pakiranje, prevoz, prepustnice, varnostna dokumentacija in stiki z organizatorjem sejma so naša skrb."
+    },
+    {
+     "q": "Ali so montažne ekipe vaše?",
+     "a": "Da, prostor postavijo naše ekipe z lastnim vodjo gradbišča, tudi v tujini."
+    },
+    {
+     "q": "V katerih jezikih lahko komuniciramo?",
+     "a": "V italijanščini in angleščini; za sejemsko dokumentacijo se z organizatorjem uskladimo v lokalnem jeziku."
+    }
+   ]
+  }
+ }
+}

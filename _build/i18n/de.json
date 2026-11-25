@@ -1,0 +1,987 @@
+{
+ "_lang": "de",
+ "meta": {
+  "title": "Messestand & Messebau in Mailand und ganz Europa | NEWSTANDS",
+  "desc": "Messebauer im Raum Mailand: Wir planen, fertigen und bauen schlüsselfertige Messestände auf der Fiera Milano und auf jedem Messegelände in Europa.",
+  "ogTitle": "NEWSTANDS — Messestände von Mailand für ganz Europa",
+  "ogDesc": "Schlüsselfertige Messestände, Events und Kongresse: Sitz im Raum Mailand, eigene Aufbauteams auf jedem Messegelände in Europa.",
+  "ogAlt": "NEWSTANDS — Messebau von Mailand für ganz Europa",
+  "orgDesc": "Messebauunternehmen mit Sitz im Raum Mailand (Firmensitz in Tromello, PV). Plant, fertigt und baut schlüsselfertige Messestände, Event- und Kongressausstattungen, Showrooms und Temporary Stores auf der Fiera Milano und auf allen Messegeländen Europas.",
+  "slogan": "Geplant, gefertigt, aufgebaut."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Messebau",
+  "h002": "Podest",
+  "h003": "Messebau",
+  "h004": "Geplant · Gefertigt · Aufgebaut",
+  "h005": "Zum Betreten tippen",
+  "h006": "Ablauf",
+  "h007": "Leistungen",
+  "h008": "Projekte",
+  "h009": "Konfigurieren",
+  "h009b": "Konfigurieren",
+  "h010": "Europa",
+  "h011": "Angebot",
+  "h012": "Messebauer in Mailand · Events · Kongresse",
+  "h013": "Planung → Fertigung → Aufbau",
+  "h014": "Unser Sitz liegt im Raum Mailand, dem Messeherz Europas: Wir bauen Messestände von Grund auf und montieren sie auf jedem Messegelände in Europa. Ein Ansprechpartner von der ersten Skizze bis zur letzten Schraube.",
+  "h015": "Scrollen und Stand aufbauen",
+  "h016": "Bl. 00 — Standgrundriss 8.000 × 6.000",
+  "h017": "Maßstab 1:50",
+  "h018": "Planung",
+  "h019": "Baufortschritt",
+  "h020": "Bl. 05 — Übergabe",
+  "h021": "Schlüsselfertig.",
+  "h022": "Jetzt konfigurieren",
+  "h023": "Angebot anfordern",
+  "h024": "§ 01 — Über uns",
+  "h025": "Wir verkaufen keine Quadratmeter. Wir bauen den Ort, an dem Ihre *Marke* auf den Markt trifft — von der *ersten* *Skizze* bis zur letzten Schraube, in jeder Messehalle Europas.",
+  "h026": "Die Methode",
+  "h027": "Wir planen, fertigen und montieren jedes Bauteil selbst: Konstruktionen, Wandelemente, Grafiken, Möbel und Licht. Weniger Schnittstellen, weniger Überraschungen, eingehaltene Termine.",
+  "h028": "Aus dem Nichts",
+  "h029": "zum Messestand.",
+  "h030": "Sechs Phasen, eine Regie.",
+  "h031": "Horizontal scrollen →",
+  "h032": "Phase 01",
+  "h033": "Ziele, Budget, Messe, technische Richtlinien des Geländes. Wir beginnen mit der Frage, was auf Ihrem Stand passieren soll.",
+  "h034": "Phase 02",
+  "h035": "Konzept & 3D",
+  "h036": "Fotorealistische Renderings und Ausführungspläne: Sie sehen den fertigen Stand, bevor auch nur eine Platte zugeschnitten wird.",
+  "h037": "Phase 03",
+  "h038": "Fertigung",
+  "h039": "Tischlerei, Metallbau, Großformatdruck, Lichttechnik. Jedes Teil entsteht nach Maß.",
+  "h040": "Phase 04",
+  "h041": "Logistik",
+  "h042": "Verpackung, Transport und Zufahrtsformalitäten für jedes Messegelände in Europa. Wir kommen selbst — pünktlich.",
+  "h043": "Phase 05",
+  "h044": "Aufbau",
+  "h045": "Spezialisierte Aufbauteams, eigener Bauleiter, Abnahme. Ihr Stand wird Ihnen fix und fertig übergeben.",
+  "h046": "Phase 06",
+  "h047": "Messe & Abbau",
+  "h048": "Technischer Service während der Messe, Abbau, Einlagerung und Wiederverwendung für die nächste Messe.",
+  "h049": "Ergebnis",
+  "h050": "Sie kümmern sich",
+  "h051": "um Ihre Kunden.",
+  "h052": "Um den Rest",
+  "h053": "kümmern wir uns.",
+  "h054": "Sprechen wir über Ihre nächste Messe",
+  "h055": "Was wir",
+  "h056": "bauen",
+  "h057": "§ 03 — Leistungen",
+  "h058": "Jede Art von Messe und Event, vom 16-m²-Reihenstand bis zum zweigeschossigen Inselstand. Fertigung und Aufbau immer aus eigener Hand.",
+  "h059": "Realisierte",
+  "h060": "Messestände",
+  "h061": "§ 04 — Projekte",
+  "h062": "Eine Auswahl an Messeständen, die unsere Teams geplant, gefertigt und aufgebaut haben: Länderpavillons, Marken-Inselstände und technische Stände in ganz Europa.",
+  "h063": "Der nächste könnte Ihrer sein",
+  "h064": "Sie Ihren Stand",
+  "h065": "§ 05 — 3D-Konfigurator",
+  "h066": "Wählen Sie Standtyp und Fläche: Sehen Sie zu, wie das Volumen Gestalt annimmt, und senden Sie uns die Konfiguration als Grundlage für Ihr Angebot.",
+  "h067": "↔ Ziehen zum Drehen",
+  "h068": "Axonometrische Ansicht",
+  "h069": "Az 000°",
+  "h070": "01 — Standtyp",
+  "h071": "Offene Seiten",
+  "h072": "02 — Fläche",
+  "h073": "Richtmaße",
+  "h074": "Diese Konfiguration verwenden",
+  "h075": "Nächste",
+  "h076": "Abfahrt",
+  "h077": "§ 06 — Von Mailand nach ganz Europa",
+  "h078": "Wir starten in Mailand, der Stadt der großen internationalen Messen, und reisen mit Ihrem Stand zu jedem Messegelände Europas: Deutschland, Frankreich, Spanien, Benelux, Österreich, Schweiz. Wo es eine Halle gibt, sind wir zur Stelle.",
+  "h079": "Stadt",
+  "h080": "Messegelände",
+  "h081": "Land",
+  "h082": "Status",
+  "h083": "Aufbauteams einsatzbereit",
+  "h084": "+ jedes weitere Gelände auf Anfrage",
+  "h085": "Häufige",
+  "h086": "Fragen",
+  "h087": "§ 07 — FAQ",
+  "h088": "Kosten, Fristen, Städte und Leistungen: Antworten auf die Fragen, die man uns vor einer Messe am häufigsten stellt.",
+  "h089": "Steht eine Messe",
+  "h090": "im Kalender?",
+  "h091": "Nennen Sie uns Veranstaltung, Termine und Quadratmeter. Sie erhalten einen ersten Vorschlag und ein klares Angebot.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Firmensitz",
+  "h095": "Gebiet",
+  "h096": "Mailand + ganz Europa",
+  "h097": "Leistung",
+  "h098": "Schlüsselfertig",
+  "h099": "Messestand",
+  "h100": "Event",
+  "h101": "Kongress",
+  "h102": "Showroom / Pop-up",
+  "h103": "Nur Aufbau",
+  "h104": "Vor- und Nachname",
+  "h105": "Unternehmen",
+  "h106": "Messe / Event und Stadt",
+  "h107": "Erzählen Sie uns von Ihrem Projekt",
+  "h108": "Anfrage senden",
+  "h109": "Ihre Anfrage liegt fertig in Ihrem E-Mail-Programm: einfach auf Senden klicken.",
+  "h110": "Nichts hat sich geöffnet? Schreiben Sie an",
+  "h111": "oder rufen Sie an unter",
+  "h112": "Studio",
+  "h113": "Messestände in Mailand und Europa, Events, Kongresse",
+  "h114": "27020 Tromello (PV), Lombardei",
+  "h115": "Navigation",
+  "h116": "Konfigurator",
+  "h117": "Social",
+  "h118": "Kontakt",
+  "h119": "Angebot anfordern →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardei",
+  "h121": "Geplant, gefertigt, aufgebaut.",
+  "h122": "Nach oben ↑",
+  "h123": "Hauptmenü",
+  "h124": "Nach Branche filtern",
+  "h125": "Projektgalerie",
+  "h126": "Galerie schließen",
+  "h127": "Vorheriges Foto",
+  "h128": "Nächstes Foto",
+  "h129": "Fläche in Quadratmetern",
+  "h130": "Angebotsanfrage Messestand",
+  "h131": "Projektart",
+  "h132": "Schreiben Sie uns auf WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Was kostet ein Messestand?",
+   "a": "Der Preis eines Messestands hängt von Fläche, Standtyp (Reihen-, Eck-, Kopf- oder Inselstand), Materialien, Grafiken, Möbeln und Messegelände ab. Nach einem kurzen Briefing zu Messe, Terminen und Quadratmetern senden wir Ihnen einen ersten Vorschlag und ein klares, detailliertes Angebot. Starten Sie mit dem 3D-Konfigurator oben oder rufen Sie uns an bzw. schreiben Sie uns auf WhatsApp unter <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Wo sitzt NEWSTANDS und auf welchen Messen sind Sie tätig?",
+   "a": "Wir sind ein Messebauer aus dem Raum Mailand, mit Firmensitz und Werkstatt in Tromello (PV) in der Lombardei: ein strategischer Standort nur eine kurze Fahrt von Fiera Milano Rho und Allianz MiCo entfernt, wo einige der wichtigsten Messen Europas stattfinden. Von hier aus reisen unsere Teams zu jedem Messegelände: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Paris, Lyon, Barcelona, Madrid, Amsterdam, Brüssel, Wien, Genf und darüber hinaus."
+  },
+  {
+   "q": "Was umfasst der schlüsselfertige Service?",
+   "a": "Ein Ansprechpartner für alles: Briefing, Konzept und 3D-Renderings, Ausführungspläne, eigene Fertigung von Konstruktionen, Wandelementen, Großformatgrafiken, Möbeln und Licht, Logistik und Transport, Aufbau mit eigenem Bauleiter, Betreuung während der Messe, Abbau und Einlagerung zur Wiederverwendung."
+  },
+  {
+   "q": "Realisieren Sie auch Events, Kongresse und Showrooms?",
+   "a": "Ja. Neben individuellen und modularen Messeständen planen und gestalten wir Firmenevents, Kongresse, Tagungen, Produktlaunches, Bühnen und Szenografien, Showrooms, Temporary Stores und Pop-ups — mit Traversen, LED-Wänden und Lichttechnik."
+  },
+  {
+   "q": "Wie früh sollten wir Sie kontaktieren?",
+   "a": "Je früher Sie sich melden, desto mehr Spielraum bleibt für Planung, Renderings und Fertigung: Bei einem individuellen Messestand empfiehlt es sich, direkt nach der Messeanmeldung zu starten. Bei modularen Ständen und reinem Aufbau arbeiten wir auch mit knapperen Fristen: Schreiben Sie uns, wir prüfen die Machbarkeit sofort."
+  },
+  {
+   "q": "Wie fordere ich ein Angebot an?",
+   "a": "Füllen Sie das Formular im Kontaktbereich aus, schreiben Sie an <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> oder rufen Sie uns an bzw. schreiben Sie uns auf WhatsApp unter <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativ <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Nennen Sie Messe oder Event, Stadt, Termine und Quadratmeter: Wir melden uns mit einem ersten Vorschlag."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Planung",
+    "Jeder Messestand beginnt mit einer technischen Zeichnung: Maße, Richtlinien des Geländes, Besucherströme."
+   ],
+   [
+    "Konstruktion",
+    "Podest, Traversen, Rahmen. Der Teil, den man nicht sieht, der aber alles trägt."
+   ],
+   [
+    "Wände & Grafik",
+    "Maßgefertigte Wandelemente, Großformatdruck, Oberflächen."
+   ],
+   [
+    "Möbel & Technik",
+    "Theken, Stelen, LED-Wände, Besprechungsbereiche, Hängering. Von uns gefertigt und montiert."
+   ],
+   [
+    "Licht an",
+    "Abnahme, Reinigung, Übergabe. Der Stand ist bereit für die Eröffnung."
+   ]
+  ],
+  "lbl": [
+   "B 8.000 mm",
+   "T 6.000 mm",
+   "Traverse 29×29 — H 4.500",
+   "Wand 3.400 + Grafik",
+   "LED-Wand 3,4 × 1,9 m",
+   "Empfangstheke",
+   "Hängering Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Reihenstand",
+   "angolo": "Eckstand",
+   "penisola": "Kopfstand",
+   "isola": "Inselstand",
+   "doppio": "Doppelstock"
+  },
+  "sides": "Seiten",
+  "side": "Seite",
+  "openSides": "offene Seiten",
+  "openSide": "offene Seite",
+  "cfgMsg": "Konfiguration von der Website: Standtyp {type}, {n} {sides}, ca. {area} m² ({dim} m).",
+  "axo": "Axonometrische Ansicht",
+  "cfgFb": "Der 3D-Konfigurator ist auf diesem Gerät nicht verfügbar.<br>Schreiben Sie uns: Wir senden Ihnen das Rendering.",
+  "mq": [
+   "Individuelle Stände",
+   "Events",
+   "Kongresse",
+   "Showrooms",
+   "Pop-ups",
+   "LED-Wände",
+   "Traversen",
+   "Grafik",
+   "Möbel"
+  ],
+  "svc": [
+   {
+    "t": "Individuelle Messestände",
+    "d": "Einzigartige Projekte, von Grund auf rund um Ihre Marke gebaut: Holz, Metall, Glas, Stoff und edle Oberflächen.",
+    "tags": [
+     "Konzept",
+     "3D-Rendering",
+     "Fertigung",
+     "Aufbau"
+    ]
+   },
+   {
+    "t": "Modulare Messestände",
+    "d": "Wiederverwendbare, vorkonfektionierte Systeme für Aussteller mit mehreren Messen im Jahr: einheitliches Erscheinungsbild, Kosten im Griff.",
+    "tags": [
+     "Wiederverwendung",
+     "Einlagerung",
+     "Schnelligkeit"
+    ]
+   },
+   {
+    "t": "Events & Kongresse",
+    "d": "Bühnen, Szenografien, Plenarsäle, Firmentagungen und Produktlaunches, mit kompletter technischer Regie.",
+    "tags": [
+     "Bühnen",
+     "Szenografie",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Showrooms & Pop-ups",
+    "d": "Temporäre Retail-Flächen, Pop-ups und dauerhafte Showrooms: mit derselben Präzision wie auf der Messebaustelle.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-Shop"
+    ]
+   },
+   {
+    "t": "Großformatgrafik",
+    "d": "Druck auf Forex, hinterleuchtetem Stoff, PVC, Folien und Fensterbeschriftungen. Von uns produziert und angebracht.",
+    "tags": [
+     "Leuchtkasten",
+     "Stoff",
+     "Folien"
+    ]
+   },
+   {
+    "t": "Traversen & LED-Wände",
+    "d": "Traversensysteme, Hängeringe, Rigging, LED-Wände und Lichttechnik für Stände, die man in der ganzen Halle sieht.",
+    "tags": [
+     "Traversen",
+     "Rigging",
+     "LED-Wand",
+     "Licht"
+    ]
+   },
+   {
+    "t": "Möbel & Vermietung",
+    "d": "Theken, Tresen, Sitzmöbel, Vitrinen, Küchen und Lagerräume: Möbel nach Maß oder zur Miete für jede Standgröße.",
+    "tags": [
+     "Nach Maß",
+     "Miete",
+     "Lager"
+    ]
+   }
+  ],
+  "more": "Zur Leistung",
+  "tav": "Bl.",
+  "avail": "VERFÜGBAR",
+  "form": {
+   "type": "Projektart",
+   "name": "Vor- und Nachname",
+   "company": "Unternehmen",
+   "fair": "Messe / Event und Stadt",
+   "project": "Projekt",
+   "subj": "Angebotsanfrage Messestand"
+  },
+  "ariaW": "{t} — Galerie öffnen ({n} Fotos)",
+  "altW": "Messestand {t} — {c}, Messebau NEWSTANDS",
+  "nPh": "{n} Fotos",
+  "altLb": "Messestand {t} ({c}) — Foto {i} von {n}",
+  "phN": "Foto {i}",
+  "all": "Alle",
+  "ld": [
+   "Podest",
+   "Wände",
+   "Traverse",
+   "Licht",
+   "Fertig"
+  ],
+  "c3": [
+   "AUS DEM NICHTS",
+   "ZUM STAND.",
+   "PLANUNG · FERTIGUNG · AUFBAU · EUROPA",
+   "MESSEBAU",
+   "STÄNDE · EVENTS · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristall und Beleuchtung",
+   "g": "Design",
+   "d": "Ganz in Weiß gehaltener Inselstand mit Vorhängen aus Kristallfäden, Hängeleuchtern und lackierten Möbeln: Der Stand wird zur leuchtenden Vitrine."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sportnahrung",
+   "g": "Food & Health",
+   "d": "Mehrseitiger Inselstand mit wandfüllenden Produktgrafiken, abgehängten Schildern und Verkostungstheken für große Besucherströme."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Tourismus",
+   "g": "Tourismus",
+   "d": "Institutioneller Pavillon mit Bögen und Minaretten nach dem Vorbild der Architektur Telanganas, Counter für Anbieter und immersive Grafiken."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Tourismus",
+   "g": "Tourismus",
+   "d": "Portale in Terrakotta-Optik, geschnitzte Bögen und B2B-Arbeitsplätze: ein Regionalpavillon, der die Region auf einen Blick erzählt."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nationaler Food-Pavillon",
+   "g": "Food & Health",
+   "d": "Rot-weißer Gemeinschaftspavillon mit durchbrochenen Ornamenten, Ausstellertheken und Showcooking-Bereich."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life Engineering",
+   "g": "Industrie",
+   "d": "Corporate-Stand mit verglasten Besprechungsräumen, hinterleuchteten Wänden und einem zum Gang offenen Empfangsbereich."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motorräder",
+   "g": "Motorrad",
+   "d": "Ganz in Weiß mit roten Portalen und Podesten für die Motorräder: klare Grafik, die die Maschinen sprechen lässt."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektromotorräder",
+   "g": "Motorrad",
+   "d": "Ganz in Schwarz gehaltene Szenografie mit glänzend weißem Boden, ausgestellten Motorrädern und Besprechungsbereich."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Ausstellungs-Lounge",
+   "g": "Design",
+   "d": "Offene Lounge mit großem Panoramadruck, abgehängter Decke, Theke und Sitzgelegenheiten für die Besucher."
+  },
+  {
+   "t": "Plastona",
+   "c": "Haus und Garten",
+   "g": "Design",
+   "d": "Inselstand mit Würfelschildern auf Traversen, weißen Regalen und Produktinszenierungen."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motorräder und Motoren",
+   "g": "Motorrad",
+   "d": "Eckstand mit schwarzen und weißen Ausstellungswänden, Fahrzeugen auf Podesten und Tischbereich."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energieindustrie",
+   "g": "Industrie",
+   "d": "Abgerundete, hinterleuchtete Rahmen, technische Paneele und Besprechungsbereich für ein B2B-Publikum."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Helme",
+   "g": "Motorrad",
+   "d": "Ausstellungswände für Helme, Racing-Grafiken und Empfangstheke: Italian Design auf wenigen Quadratmetern."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motorradzubehör",
+   "g": "Motorrad",
+   "d": "Säulen in den Farben der Trikolore, beleuchtete Vitrinen und Produktwände für einen Racing-Auftritt mit hoher Sichtbarkeit."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Helme",
+   "g": "Motorrad",
+   "d": "Rautenwand mit ausgestellten Helmen, übergroßen Schildern und Tischbereich für Verkaufsgespräche."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motorradteile und -bekleidung",
+   "g": "Motorrad",
+   "d": "Raumhohe Grafikstelen, Produktvitrinen und Bekleidungswände rund um einen Besprechungsbereich."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrie",
+   "g": "Industrie",
+   "d": "Corporate-Stand in Blau mit Prozessgrafiken, Technikbereich und Besprechungsplätzen."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Tourismus",
+   "g": "Tourismus",
+   "d": "Szenografisches Portal mit traditionellen Ornamenten und großformatigen Bildern der Region."
+  },
+  {
+   "t": "Uttar Pradesh — Landwirtschaft",
+   "c": "Agrar und Lebensmittel",
+   "g": "Food & Health",
+   "d": "Weißer Stand mit Leuchtrahmen am Boden und Produktpaneelen: reduziert und hell."
+  },
+  {
+   "t": "Tunesien — Medica Düsseldorf",
+   "c": "Nationaler Medizin-Pavillon",
+   "g": "Medizin",
+   "d": "Länderpavillon auf der Medica Düsseldorf mit abgehängtem Schild, Countern für die ausstellenden Unternehmen und Lounge-Bereich."
+  }
+ ],
+ "ui": {
+  "langName": "Deutsch",
+  "langLabel": "Sprache",
+  "home": "Start",
+  "services": "Leistungen",
+  "works": "Projekte",
+  "contacts": "Kontakt",
+  "quote": "Angebot",
+  "requestQuote": "Angebot anfordern",
+  "whatsapp": "Schreiben Sie uns auf WhatsApp",
+  "call": "Anrufen",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-Mail",
+  "address": "Firmensitz",
+  "serviceN": "Leistung",
+  "locationK": "Von Mailand nach ganz Europa",
+  "includesTitle": "Leistungsumfang",
+  "whyTitle": "Warum NEWSTANDS",
+  "why": [
+   {
+    "t": "Standort Mailand",
+    "d": "Wir arbeiten aus dem Raum Mailand, nur eine kurze Fahrt von Fiera Milano Rho und Allianz MiCo entfernt: schnelle Ortstermine, einfache Logistik, Teams immer nah an den großen Messegeländen."
+   },
+   {
+    "t": "Eigene Fertigung",
+    "d": "Konstruktionen, Wandelemente, Grafiken, Möbel und Licht entstehen in unserer eigenen Werkstatt: weniger Schnittstellen, weniger Überraschungen, eingehaltene Termine."
+   },
+   {
+    "t": "Auf jedem Messegelände Europas",
+    "d": "Unsere Aufbauteams reisen mit Ihrem Stand: Deutschland, Frankreich, Spanien, Benelux, Österreich, Schweiz und jedes weitere Gelände auf Anfrage."
+   },
+   {
+    "t": "Ein Ansprechpartner",
+    "d": "Vom Briefing bis zum Abbau sprechen Sie immer mit derselben Person — dazu ein eigener Bauleiter auf der Messe."
+   }
+  ],
+  "galleryTitle": "Ausgewählte Messestände",
+  "faqTitle": "Häufige Fragen",
+  "otherTitle": "Weitere Leistungen",
+  "ctaTitle": "Steht eine Messe im Kalender?",
+  "ctaText": "Nennen Sie uns Messe, Stadt, Termine und Quadratmeter: Sie erhalten einen ersten Vorschlag und ein klares Angebot.",
+  "whereTitle": "Von Mailand zu jedem Messegelände",
+  "whereText": "Wir sitzen im Raum Mailand, der Stadt einiger der wichtigsten Messen der Welt. Von hier aus erreichen unsere Teams jedes Messegelände in Italien und Europa.",
+  "milanLink": "Messestände in Mailand",
+  "europeLink": "Messestände in Europa",
+  "photos": "Fotos",
+  "backHome": "Zur Startseite",
+  "footerTag": "Messestände in Mailand und ganz Europa. Geplant, gefertigt, aufgebaut.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardei · Raum Mailand",
+  "breadcrumb": "Navigationspfad",
+  "skip": "Zum Inhalt springen",
+  "menu": "Hauptmenü"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "messestand-individuell",
+   "nav": "Individuelle Stände",
+   "title": "Individueller Messestand in Mailand und Europa | NEWSTANDS",
+   "desc": "Individuelle Messestände, von NEWSTANDS geplant, gefertigt und aufgebaut: Sitz im Raum Mailand, Baustellen auf allen Messegeländen Europas.",
+   "h1": "Individuelle Messestände",
+   "lead": "Ein einzigartiger Messestand, von Grund auf rund um Ihre Marke gebaut: Wir planen ihn, fertigen ihn in unserer Werkstatt bei Mailand und bauen ihn auf jeder Messe in Europa auf.",
+   "body": [
+    "Ein individueller Messestand ist der stärkste Auftritt auf einer Messe: Jede Wand, jedes Licht und jeder Besucherweg ist auf Ihre Produkte und Ihre Vertriebsziele abgestimmt. Wir gehen von den technischen Richtlinien des Geländes und den Besucherströmen in der Halle aus und verwandeln die Idee dann in fotorealistische 3D-Renderings und Ausführungspläne.",
+    "Konstruktionen aus Holz und Metall, Wandelemente, Grafiken, Möbel und Beleuchtung fertigen wir selbst — so haben wir Qualität und Termine in jeder Phase im Griff. Ob die Messe in Fiera Milano Rho, Düsseldorf oder Paris stattfindet: Das Team, das Ihren Stand gebaut hat, baut ihn auch auf."
+   ],
+   "inc": [
+    {
+     "t": "Konzept und 3D-Renderings",
+     "d": "Kreativer Entwurf, fotorealistische Renderings und Überarbeitungen, bis der Stand genau so ist, wie Sie ihn wollen."
+    },
+    {
+     "t": "Ausführungsplanung",
+     "d": "Technische Pläne, Berechnungen und Unterlagen gemäß den Richtlinien jedes Messegeländes."
+    },
+    {
+     "t": "Fertigung nach Maß",
+     "d": "Tischlerei, Metallbau, Glas, Stoff und edle Oberflächen aus unserer eigenen Werkstatt."
+    },
+    {
+     "t": "Grafik und Beleuchtung",
+     "d": "Großformatdruck, Leuchtkästen, LED-Wände und Lichtplanung, integriert in die Architektur des Stands."
+    },
+    {
+     "t": "Auf- und Abbau",
+     "d": "Transport, Aufbau mit eigenem Bauleiter, Betreuung auf der Messe, Abbau und Einlagerung."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Wie lange dauert die Realisierung eines individuellen Messestands?",
+     "a": "Das hängt von Größe und Komplexität ab: Bei einem Stand nach Maß beginnt man am besten direkt nach der Messeanmeldung, damit genug Zeit für Planung, Renderings und Fertigung bleibt."
+    },
+    {
+     "q": "Lässt sich ein individueller Messestand wiederverwenden?",
+     "a": "Ja. Wir konstruieren die Bauteile so, dass sie eingelagert und wieder aufgebaut werden können: Für die nächste Messe passen wir den Stand an neue Flächen und neue Grafiken an."
+    },
+    {
+     "q": "Bauen Sie individuelle Messestände auch außerhalb Italiens?",
+     "a": "Ja, aus dem Raum Mailand bringen wir Ihren Stand und unsere Teams zu allen wichtigen Messegeländen Europas, von Deutschland bis Spanien."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulare-messestaende",
+   "nav": "Modulare Stände",
+   "title": "Modulare Messestände in Mailand und Europa | NEWSTANDS",
+   "desc": "Modulare, wiederverwendbare Messestände für Aussteller mit mehreren Messen im Jahr: einheitlicher Auftritt und Kosten im Griff, von Mailand bis ganz Europa.",
+   "h1": "Modulare, wiederverwendbare Messestände",
+   "lead": "Modulare Systeme für Unternehmen, die mehrmals im Jahr ausstellen: gleiches Markenbild, kalkulierbare Kosten und schneller Aufbau — in Mailand wie auf jedem Messegelände Europas.",
+   "body": [
+    "Ein modularer Messestand ist eine langfristige Investition: Konstruktionen, Paneele und Möbel lassen sich für unterschiedliche Flächen und Standtypen neu konfigurieren, vom Reihenstand bis zum Inselstand. Die Grafiken wechseln, die Qualität bleibt.",
+    "Wir planen das System einmal, fertigen es in unserer Werkstatt und betreuen es zwischen den Messen: Einlagerung, Wartung, Aktualisierung der Grafiken und Transport zur nächsten Halle, in Italien oder im Ausland."
+   ],
+   "inc": [
+    {
+     "t": "System nach Maß",
+     "d": "Module nach Ihrem Corporate Design, kombinierbar für Stände von wenigen Quadratmetern bis zu großen Inselständen."
+    },
+    {
+     "t": "Austauschbare Grafiken",
+     "d": "Bedruckte Stoffe und Paneele, schnell austauschbar für jede Messe, jedes Produkt und jeden Markt."
+    },
+    {
+     "t": "Einlagerung und Wartung",
+     "d": "Wir lagern Ihren Stand in unserem Lager und prüfen ihn vor jedem neuen Einsatz."
+    },
+    {
+     "t": "Schneller Aufbau",
+     "d": "Kurze Aufbauzeiten, ideal auch für Messen mit knappen Aufbaufenstern."
+    },
+    {
+     "t": "Messekalender aus einer Hand",
+     "d": "Wir planen mit Ihnen die Messesaison und organisieren Logistik und Teams für jede Station."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ist ein modularer Messestand günstiger als ein individueller?",
+     "a": "Über mehrere Messen hinweg meist ja: Die Anfangsinvestition verteilt sich auf jede Teilnahme, und die Folgekosten beschränken sich auf Grafiken und Logistik."
+    },
+    {
+     "q": "Passt sich der modulare Stand an unterschiedliche Flächen an?",
+     "a": "Ja, die Module lassen sich für Reihen-, Eck-, Kopf- und Inselstände sowie für unterschiedliche Flächengrößen neu kombinieren."
+    },
+    {
+     "q": "Können Sie unseren gesamten Messekalender betreuen?",
+     "a": "Ja: Aus dem Raum Mailand koordinieren wir Einlagerung, Transport und Aufbau für jede Messe der Saison, in Italien und in Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "eventbau-kongresse",
+   "nav": "Events & Kongresse",
+   "title": "Eventbau und Kongressausstattung in Mailand | NEWSTANDS",
+   "desc": "Ausstattung für Firmenevents, Kongresse, Tagungen und Produktlaunches in Mailand und Europa: Bühnen, Szenografien und komplette technische Regie.",
+   "h1": "Eventbau und Kongressausstattung",
+   "lead": "Bühnen, Szenografien, Plenarsäle, Firmentagungen und Produktlaunches: Wir gestalten Events und Kongresse in Mailand und ganz Europa mit der Präzision einer Messebaustelle.",
+   "body": [
+    "Mailand ist eine der europäischen Hauptstädte für Events und Kongresse, mit Locations wie Allianz MiCo und den großen Firmenlocations der Stadt. Da wir im Raum Mailand arbeiten, kennen wir Zeitpläne, Vorschriften und Logistik dieser Orte und können Ortstermine und Aufbauten sehr schnell abwickeln.",
+    "Wir planen die komplette Ausstattung: Bühne, Szenografie, Plenarsaal, Ausstellungsflächen, Empfang, Beschilderung und Lichttechnik. Die technischen Dienstleister koordinieren wir selbst — so haben Sie einen einzigen Ansprechpartner für das gesamte Event."
+   ],
+   "inc": [
+    {
+     "t": "Bühnen und Szenografien",
+     "d": "Bühnen nach Maß, Hintergründe, LED-Wände und Szenografien, abgestimmt auf Ihre Botschaft."
+    },
+    {
+     "t": "Plenarsäle und Kongresse",
+     "d": "Ausstattung von Sälen, Posterbereichen, Empfangstheken und Sponsorenflächen."
+    },
+    {
+     "t": "Tagungen und Produktlaunches",
+     "d": "Inszenierungen, um ein Produkt vorzustellen oder Ihren Vertrieb eindrucksvoll zusammenzubringen."
+    },
+    {
+     "t": "Audio, Video und Licht",
+     "d": "Technische Regie, Traversen, LED-Wände und Lichttechnik, integriert ins Projekt."
+    },
+    {
+     "t": "Beschilderung und Grafik",
+     "d": "Leitsysteme, Stelen, Backdrops und abgestimmte Grafiken, von uns gedruckt und installiert."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Gestalten Sie auch Events außerhalb von Messegeländen?",
+     "a": "Ja: Hotels, Kongresszentren, Industriehallen und private Locations — in Mailand, in ganz Italien und im Ausland."
+    },
+    {
+     "q": "Übernehmen Sie auch die Audio- und Videotechnik?",
+     "a": "Ja, wir koordinieren Bühne, LED-Wände, Licht und Ton als Teil eines einzigen Projekts, mit nur einem Ansprechpartner."
+    },
+    {
+     "q": "Wie früh sollte man ein Event planen?",
+     "a": "Je früher, desto besser: Mit einigen Wochen Vorlauf können wir Ortstermin, Planung und Fertigung in Ruhe angehen. Bei dringenden Anfragen kontaktieren Sie uns, wir prüfen die Machbarkeit."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-pop-up-store",
+   "nav": "Showroom & Pop-up",
+   "title": "Showrooms, Temporary Stores und Pop-ups in Mailand | NEWSTANDS",
+   "desc": "Planung und Ausbau von Showrooms, Temporary Stores, Pop-up-Stores und Shop-in-Shops in Mailand und Europa, mit eigener Fertigung und eigenem Aufbau.",
+   "h1": "Showrooms, Temporary Stores und Pop-ups",
+   "lead": "Temporäre Retail-Flächen, Pop-ups und dauerhafte Showrooms, mit derselben Präzision wie auf der Messebaustelle umgesetzt — in Mailand und ganz Europa.",
+   "body": [
+    "Ein Temporary Store oder Pop-up muss in wenigen Tagen stehen und Eindruck hinterlassen: Wir planen Räume, die Ihre Marke erzählen, das Produkt in Szene setzen und sich schnell aufbauen lassen — auch in Einkaufszentren und Shoppingstraßen.",
+    "Für dauerhafte Showrooms fertigen wir Möbel nach Maß, Ausstellungswände, Vitrinen und Beleuchtung aus langlebigen Materialien. Fertigung und Aufbau erfolgen intern, deshalb bleiben Termine und Qualität unter Kontrolle."
+   ],
+   "inc": [
+    {
+     "t": "Retail-Konzept",
+     "d": "Layout, Kundenführung und Warenpräsentation, auf Verkauf ausgerichtet."
+    },
+    {
+     "t": "Temporary Stores und Pop-ups",
+     "d": "Leichte Konstruktionen, schnell auf- und abgebaut und in anderen Städten wiederverwendbar."
+    },
+    {
+     "t": "Dauerhafte Showrooms",
+     "d": "Möbel nach Maß, Systemwände, Vitrinen und edle Oberflächen."
+    },
+    {
+     "t": "Shop-in-Shop",
+     "d": "Markenflächen in Geschäften und Kaufhäusern, passend zu Ihrem Erscheinungsbild."
+    },
+    {
+     "t": "Licht und Grafik",
+     "d": "Produktbeleuchtung, Schilder, Fensterbeschriftungen und Grafiken aus eigener Produktion."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Wie schnell ist ein Temporary Store eingerichtet?",
+     "a": "Das hängt von Fläche und Projekt ab: Dank eigener Fertigung können wir ein Pop-up auch in wenigen Tagen aufbauen."
+    },
+    {
+     "q": "Lässt sich ein Pop-up in andere Städte mitnehmen?",
+     "a": "Ja, wir planen modulare Konstruktionen, die sich an anderen Standorten in Italien und Europa ab- und wieder aufbauen lassen."
+    },
+    {
+     "q": "Betreuen Sie auch dauerhafte Showrooms?",
+     "a": "Ja, von der Planung bis zur Montage von Möbeln, Vitrinen, Beleuchtung und Grafiken."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grossformatdruck-messegrafik",
+   "nav": "Großformatgrafik",
+   "title": "Großformatdruck und Messegrafik für Messestände | NEWSTANDS",
+   "desc": "Großformatdruck für Messestände und Events: Forex, hinterleuchteter Stoff, Leuchtkästen, PVC, Folien und Fensterbeschriftungen, von uns produziert und montiert.",
+   "h1": "Großformatgrafik für Messestände und Events",
+   "lead": "Druck auf Forex, hinterleuchtetem Stoff, PVC, Folien und Fensterbeschriftungen: Die Grafiken Ihres Messestands, produziert und angebracht von denselben Teams, die ihn aufbauen.",
+   "body": [
+    "Die Grafik ist das Erste, was Besucher sehen — oft aus der ganzen Halle. Deshalb behandeln wir sie als Teil der Standarchitektur: Formate, Materialien und Licht werden gemeinsam mit den Konstruktionen geplant.",
+    "Wir drucken und montieren selbst, in Mailand wie auf jeder Messe in Europa: keine Übergaben zwischen verschiedenen Lieferanten, kontrollierte Farben und perfekt ausgerichtete Grafiken zur Eröffnung."
+   ],
+   "inc": [
+    {
+     "t": "Hinterleuchteter Stoff",
+     "d": "Leuchtkästen und Leuchtwände aus Stoff: leicht und mit großer Wirkung."
+    },
+    {
+     "t": "Starre Platten",
+     "d": "Druck auf Forex, Dibond und PVC für Wände, Stelen und Theken."
+    },
+    {
+     "t": "Folien und Fensterbeschriftungen",
+     "d": "Böden, Glasflächen und Oberflächen, individuell gestaltet mit technischen Folien."
+    },
+    {
+     "t": "Abgehängte Schilder",
+     "d": "Hängebanner und Grafikkonstruktionen, in der Halle schon von Weitem sichtbar."
+    },
+    {
+     "t": "Montage auf der Messe",
+     "d": "Wir bringen die Grafiken selbst an, mit Endkontrolle vor der Eröffnung."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Drucken Sie auch Grafiken für Stände anderer Messebauer?",
+     "a": "Ja, wir können auch nur die Grafiken produzieren und anbringen — unter Einhaltung der Maße und Richtlinien des Messegeländes."
+    },
+    {
+     "q": "Welche Dateien werden für den Druck benötigt?",
+     "a": "Vektordateien oder hochaufgelöste Bilder mit Beschnittzugabe: Wir senden Ihnen die technischen Spezifikationen für jedes Format."
+    },
+    {
+     "q": "Lassen sich Stoffgrafiken wiederverwenden?",
+     "a": "Ja, Stoff lässt sich waschen, falten und wieder aufspannen: ideal für Aussteller mit mehreren Messen im Jahr."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "traversen-ledwand-lichttechnik",
+   "nav": "Traversen & LED-Wände",
+   "title": "Traversen, LED-Wände und Licht für Messestände | NEWSTANDS",
+   "desc": "Traversensysteme, Hängeringe, Rigging, LED-Wände und Lichttechnik für Messestände und Events in Mailand und ganz Europa — geplant und montiert von uns.",
+   "h1": "Traversen, LED-Wände und Lichttechnik",
+   "lead": "Traversensysteme, Hängeringe, Rigging, LED-Wände und Licht für Messestände, die man in der ganzen Halle sieht — auf der Fiera Milano und auf jedem Messegelände Europas.",
+   "body": [
+    "Ein Hängering mit Ihrem Logo, eine LED-Wand für Produktvideos, ein auf die Oberflächen abgestimmtes Licht: Das sind die Elemente, die einen Stand schon von Weitem erkennbar machen. Wir planen sie zusammen mit dem Stand und prüfen Lasten, Abhängepunkte und die Richtlinien des Geländes.",
+    "Wir liefern und montieren Traversen, Motoren, LED-Wände und Leuchten mit qualifiziertem Personal und stimmen die Rigging-Anträge mit der Messegesellschaft ab."
+   ],
+   "inc": [
+    {
+     "t": "Traversensysteme",
+     "d": "Boden- und Hängekonstruktionen in jeder Größe, auch als Träger für Grafik und Licht."
+    },
+    {
+     "t": "Ringe und Hängeschilder",
+     "d": "Runde oder individuell geformte Hängeelemente mit Grafik, in der ganzen Halle sichtbar."
+    },
+    {
+     "t": "Rigging",
+     "d": "Berechnungen, Abhängepunkte und Anträge bei der Messegesellschaft."
+    },
+    {
+     "t": "LED-Wände",
+     "d": "LED-Bildschirme in verschiedenen Größen, in Wände integriert oder auf eigenen Konstruktionen."
+    },
+    {
+     "t": "Lichttechnik",
+     "d": "Lichtplanung für Produkte, Grafiken und die Atmosphäre des Stands."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kümmern Sie sich um die Rigging-Genehmigungen?",
+     "a": "Ja, wir erstellen die technischen Unterlagen und wickeln die Anträge mit der Messegesellschaft ab."
+    },
+    {
+     "q": "Vermieten Sie LED-Wände auch für Events?",
+     "a": "Ja, LED-Wände, Traversen und Licht stehen auch für Events, Kongresse und Produktlaunches zur Verfügung."
+    },
+    {
+     "q": "Arbeiten Sie auch auf Messegeländen im Ausland?",
+     "a": "Ja, wir installieren Konstruktionen und LED-Wände auf allen wichtigen Messegeländen Europas."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "messemoebel-mieten",
+   "nav": "Möbel & Miete",
+   "title": "Messemöbel nach Maß und zur Miete für Messestände | NEWSTANDS",
+   "desc": "Theken, Tresen, Sitzmöbel, Vitrinen, Küchen und Lagerräume für Messestände: Messemöbel nach Maß oder zur Miete, von Mailand bis in ganz Europa.",
+   "h1": "Messemöbel nach Maß und zur Miete",
+   "lead": "Theken, Tresen, Sitzmöbel, Vitrinen, Küchen und Lagerräume: Möbel nach Maß aus unserer Werkstatt oder zur Miete, für Messestände jeder Größe.",
+   "body": [
+    "Die Möbel sorgen dafür, dass ein Messestand funktioniert: Empfang, Präsentation, Besprechungen, Verkostungen und Lager müssen am richtigen Platz sein. Wir planen sie gemeinsam mit dem Layout und denken dabei an die Besucherströme und die Arbeit Ihres Teams auf der Messe.",
+    "Wir fertigen Einzelstücke nach Maß in den Oberflächen und Farben Ihrer Marke oder liefern Mietmöbel, um die Kosten niedrig zu halten. Lieferung, Aufbau und Abholung übernehmen immer wir."
+   ],
+   "inc": [
+    {
+     "t": "Theken und Empfang",
+     "d": "Empfangstheken nach Maß, mit Logo, Beleuchtung und Technikfächern."
+    },
+    {
+     "t": "Besprechungs- und Loungebereiche",
+     "d": "Tische, Sitzmöbel und Sitzgruppen, um Kunden am Stand zu empfangen."
+    },
+    {
+     "t": "Vitrinen und Displays",
+     "d": "Schaukästen, Regale und Systemwände, die Ihre Produkte zur Geltung bringen."
+    },
+    {
+     "t": "Küchen und Lagerräume",
+     "d": "Abstellräume, Küchen und Servicebereiche, in den Stand integriert."
+    },
+    {
+     "t": "Möbelvermietung",
+     "d": "Mietmöbel für jeden Stil und jedes Budget, von uns geliefert und abgeholt."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kann ich nur die Möbel mieten?",
+     "a": "Ja, wir liefern auch ausschließlich Mietmöbel, mit Anlieferung und Abholung auf der Messe."
+    },
+    {
+     "q": "Lassen sich Möbel nach Maß wiederverwenden?",
+     "a": "Ja, wir lagern sie in unserem Lager und bringen sie zur nächsten Messe wieder mit."
+    },
+    {
+     "q": "Liefern Sie Möbel auch ins Ausland?",
+     "a": "Ja, wir liefern und montieren Möbel auf allen wichtigen Messegeländen Europas."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "messestand-aufbau-abbau",
+   "nav": "Auf- & Abbau",
+   "title": "Messestand-Aufbau und -Abbau in Mailand und Europa | NEWSTANDS",
+   "desc": "Spezialisierte Teams für den Auf- und Abbau von Messeständen in Fiera Milano Rho und auf allen Messegeländen Europas. Auch reiner Aufbau möglich.",
+   "h1": "Auf- und Abbau von Messeständen",
+   "lead": "Spezialisierte Teams und ein eigener Bauleiter für den Auf- und Abbau Ihres Messestands in Fiera Milano Rho, im Allianz MiCo und auf jedem Messegelände Europas. Auch reiner Aufbau möglich.",
+   "body": [
+    "Beim Aufbau wird aus einem Projekt ein Messestand: Dafür braucht es erfahrene Teams, Ausrüstung und die Einhaltung der Zeitfenster und Sicherheitsvorschriften des Geländes. Von unserem Standort im Raum Mailand erreichen wir die Mailänder Messegelände schnell und starten mit Ihrem Stand zu Messen in ganz Europa.",
+    "Wir bauen Stände aus eigener Fertigung auf, aber auch Stände anderer Lieferanten oder im Eigentum des Kunden: Materialannahme, Aufbau, Abnahme, Betreuung während der Messe, Abbau und Rücktransport ins Lager."
+   ],
+   "inc": [
+    {
+     "t": "Spezialisierte Teams",
+     "d": "Erfahrene Monteure mit eigener Ausrüstung und eigenem Bauleiter."
+    },
+    {
+     "t": "Zugangsformalitäten",
+     "d": "Ausweise, Sicherheitsunterlagen und Genehmigungen, die das Messegelände verlangt."
+    },
+    {
+     "t": "Abnahme und Übergabe",
+     "d": "Endkontrolle von Konstruktion, Licht und Grafik vor der Eröffnung."
+    },
+    {
+     "t": "Betreuung auf der Messe",
+     "d": "Techniker während der gesamten Veranstaltung für jeden Bedarf erreichbar."
+    },
+    {
+     "t": "Abbau und Einlagerung",
+     "d": "Abbau im vorgesehenen Zeitrahmen, Transport und Einlagerung zur Wiederverwendung."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bauen Sie auch Stände auf, die nicht von Ihnen stammen?",
+     "a": "Ja, wir bauen auch Stände anderer Messebauer oder im Eigentum des Ausstellers auf und ab."
+    },
+    {
+     "q": "Auf welchen Messegeländen arbeiten Sie?",
+     "a": "In Fiera Milano Rho und im Allianz MiCo, in Bologna, Verona und Rimini sowie an den wichtigsten europäischen Messestandorten: Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam und darüber hinaus."
+    },
+    {
+     "q": "Halten Sie die Sicherheitsvorschriften der Messegelände ein?",
+     "a": "Ja, unsere Monteure arbeiten nach den Sicherheitsvorschriften und technischen Richtlinien jedes Messegeländes."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "messestand-mailand",
+   "nav": "Messestand Mailand",
+   "title": "Messebauer Mailand: Messestände für Fiera Milano Rho | NEWSTANDS",
+   "desc": "Messebauer im Raum Mailand: schlüsselfertige Messestände für Fiera Milano Rho, Allianz MiCo und Events in der Stadt, von uns geplant und aufgebaut.",
+   "h1": "Messestände in Mailand",
+   "lead": "Mailand ist einer der wichtigsten Messestandorte Europas — und genau hier arbeiten wir: Wir planen, fertigen und bauen Messestände für die Messen in Fiera Milano Rho und im Allianz MiCo sowie für Events in der Stadt.",
+   "body": [
+    "Fiera Milano Rho ist jedes Jahr Gastgeber internationaler Messen wie Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO und MICAM, und das Allianz MiCo zählt zu den größten Kongresszentren Europas. Für Aussteller bedeutet das härtesten Wettbewerb: Der Stand muss herausstechen.",
+    "Ein Messebauer im Raum Mailand bedeutet schnelle Ortstermine, einfache Logistik, Aufbauteams in der Nähe und sofortige Hilfe während der Messe. Und wenn Ihre Saison nach Mailand im Ausland weitergeht, bringt dasselbe Team Ihren Stand zu jedem Messegelände Europas."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Messestände für die großen internationalen Messen auf dem Gelände in Rho, von den Designhallen bis zu Motorrad und Food."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Ausstattung für Kongresse, Tagungen und Messen im Mailänder Kongresszentrum."
+    },
+    {
+     "t": "Events in der Stadt",
+     "d": "Produktlaunches, Fuorisalone, Showrooms und Temporary Stores in Mailänder Locations."
+    },
+    {
+     "t": "Schnelle Ortstermine",
+     "d": "Von unserem Standort erreichen wir die Mailänder Messegelände in kurzer Zeit, vor und während der Messe."
+    },
+    {
+     "t": "Lager in der Nähe",
+     "d": "Ihr Stand bleibt in unserem Lager in der Lombardei, bereit für die nächste Ausgabe."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Sind Sie ein Messebauer aus Mailand?",
+     "a": "Ja, wir arbeiten aus dem Raum Mailand, mit Firmensitz und Werkstatt in Tromello (PV) in der Lombardei, nur eine kurze Fahrt von Fiera Milano Rho entfernt."
+    },
+    {
+     "q": "Für welche Mailänder Messen bauen Sie Stände?",
+     "a": "Für alle Veranstaltungen in Fiera Milano Rho und im Allianz MiCo, außerdem für Events und den Fuorisalone in der Stadt."
+    },
+    {
+     "q": "Begleiten Sie uns auch zu Messen im Ausland?",
+     "a": "Ja, von Mailand aus bringen wir Stände und Teams zu allen wichtigen Messegeländen Europas."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "messestand-europa",
+   "nav": "Messestand Europa",
+   "title": "Messestand Europa: Deutschland, Frankreich, Spanien | NEWSTANDS",
+   "desc": "Von Mailand zu allen Messegeländen Europas: schlüsselfertige Messestände in Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam und mehr.",
+   "h1": "Messestände in ganz Europa",
+   "lead": "Wir starten in Mailand und reisen zu jedem Messegelände Europas: ein Anbieter für Planung, Fertigung, Transport und Aufbau, ganz gleich, wo Ihre Messe stattfindet.",
+   "body": [
+    "Wer im Ausland mit einem anderen lokalen Messebauer pro Land ausstellt, hat es mit neuen Ansprechpartnern, unterschiedlichen Standards und mehr Risiken zu tun. Mit NEWSTANDS haben Sie ein einziges Team: Wir planen und fertigen in unserer Werkstatt bei Mailand, organisieren Transport und Zugangsformalitäten und bauen mit unseren eigenen Teams auf.",
+    "Wir arbeiten auf den großen Messegeländen in Deutschland, Frankreich, Spanien, Benelux, Österreich und der Schweiz sowie auf jedem anderen Gelände auf Anfrage. Wir haben Länderpavillons und Markenstände realisiert, etwa den Pavillon Tunesiens auf der MEDICA in Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Deutschland",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt und Messe München."
+    },
+    {
+     "t": "Frankreich",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles und Eurexpo Lyon."
+    },
+    {
+     "t": "Spanien",
+     "d": "Fira de Barcelona Gran Via und IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam und Brussels Expo."
+    },
+    {
+     "t": "Österreich, Schweiz und mehr",
+     "d": "Messe Wien, Palexpo Genève und jedes weitere Messegelände Europas auf Anfrage."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Übernehmen Sie Transport und Formalitäten für Messen im Ausland?",
+     "a": "Ja: Verpackung, Transport, Ausweise, Sicherheitsunterlagen und die Abstimmung mit der Messeorganisation übernehmen wir."
+    },
+    {
+     "q": "Sind die Aufbauteams Ihre eigenen?",
+     "a": "Ja, Ihr Stand wird von unseren eigenen Teams mit einem eigenen Bauleiter aufgebaut, auch im Ausland."
+    },
+    {
+     "q": "In welchen Sprachen können wir kommunizieren?",
+     "a": "Auf Italienisch und Englisch; für die Messeunterlagen stimmen wir uns mit dem Veranstalter in der Landessprache ab."
+    }
+   ]
+  }
+ }
+}

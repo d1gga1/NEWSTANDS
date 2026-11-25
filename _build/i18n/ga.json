@@ -1,0 +1,987 @@
+{
+ "_lang": "ga",
+ "meta": {
+  "title": "Seastáin taispeántais Milano agus ar fud na hEorpa | NEWSTANDS",
+  "desc": "Tógálaí seastán taispeántais i gceantar Milano: dearaimid, táirgimid agus cuirimid suas seastáin lánseirbhíse ag Fiera Milano agus ar fud na hEorpa.",
+  "ogTitle": "NEWSTANDS — Seastáin taispeántais ó Milano go dtí an Eoraip ar fad",
+  "ogDesc": "Seastáin taispeántais lánseirbhíse, imeachtaí agus comhdhálacha: bunáite i gceantar Milano, foirne tógála i ngach ionad taispeántais Eorpach.",
+  "ogAlt": "NEWSTANDS — seastáin taispeántais ó Milano go dtí an Eoraip ar fad",
+  "orgDesc": "Tógálaí seastán taispeántais atá lonnaithe i gceantar Milano (ceanncheathrú i Tromello, PV). Dearann, táirgeann agus cuireann sé suas seastáin taispeántais lánseirbhíse, socruithe d'imeachtaí, comhdhálacha, seomraí taispeána agus siopaí sealadacha ag Fiera Milano agus i ngach ionad taispeántais san Eoraip.",
+  "slogan": "Deartha, déanta, tógtha."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Ardán",
+  "h003": "Allestimenti",
+  "h004": "Deartha · Déanta · Tógtha",
+  "h005": "Tapáil chun dul isteach",
+  "h006": "Próiseas",
+  "h007": "Seirbhísí",
+  "h008": "Tionscadail",
+  "h009": "Cumraigh",
+  "h009b": "Cumraigh",
+  "h010": "An Eoraip",
+  "h011": "Luachan",
+  "h012": "Tógálaí seastán taispeántais i Milano · Imeachtaí · Comhdhálacha",
+  "h013": "Dearadh → Táirgeadh → Tógáil",
+  "h014": "Bunáite i gceantar Milano, croílár aontaí trádála na hEorpa: tógaimid seastáin ón bhfréamh agus cuirimid suas iad i ngach ionad taispeántais san Eoraip. Aon teagmhálaí amháin ón gcéad sceitse go dtí an scriú deireanach.",
+  "h015": "Scrollaigh agus tóg an seastán",
+  "h016": "Bil. 00 — Plean seastáin 8.000 × 6.000",
+  "h017": "Scála 1:50",
+  "h018": "Tionscadal",
+  "h019": "Dul chun cinn na tógála",
+  "h020": "Bil. 05 — Seachadadh",
+  "h021": "Réidh le hoscailt.",
+  "h022": "Cumraigh do cheann féin",
+  "h023": "Iarr luachan",
+  "h024": "§ 01 — Cé muid féin",
+  "h025": "Ní dhíolaimid méadair chearnacha. Tógaimid an áit ina gcasann do *bhranda* leis an margadh — ón *gcéad* *sceitse* go dtí an scriú deireanach, in aon halla taispeántais san Eoraip.",
+  "h026": "An modh",
+  "h027": "Dearaimid, táirgimid agus tógaimid gach comhpháirt sa teach: struchtúir, painéil, grafaic, troscán agus soilsiú. Níos lú céimeanna, níos lú iontas, spriocdhátaí comhlíonta.",
+  "h028": "Ó neamhní",
+  "h029": "go seastán.",
+  "h030": "Sé chéim, stiúradh amháin.",
+  "h031": "Scrollaigh go cothrománach →",
+  "h032": "Céim 01",
+  "h033": "Spriocanna, buiséad, aonach, rialacha teicniúla an ionaid. Tosaímid leis an méid ar chóir dó tarlú ar do sheastán.",
+  "h034": "Céim 02",
+  "h035": "Coincheap & 3D",
+  "h036": "Rindreálacha fótaréalaíocha agus líníochtaí tógála: feiceann tú an seastán críochnaithe sula ngearrtar aon phainéal amháin.",
+  "h037": "Céim 03",
+  "h038": "Táirgeadh",
+  "h039": "Siúinéireacht, obair mhiotail, priontáil formáid mhór, dearadh soilsithe. Déantar gach píosa de réir tomhais.",
+  "h040": "Céim 04",
+  "h041": "Lóistíocht",
+  "h042": "Pacáil, iompar agus ceadanna rochtana do gach ionad taispeántais Eorpach. Bímid féin ann, in am.",
+  "h043": "Céim 05",
+  "h044": "Tógáil",
+  "h045": "Foirne speisialaithe ar an láthair, maoirseoir tógála tiomnaithe, seiceáil deiridh. Faigheann tú an seastán réidh.",
+  "h046": "Céim 06",
+  "h047": "Aonach & díchóimeáil",
+  "h048": "Tacaíocht theicniúil le linn an aonaigh, díchóimeáil, stóráil agus athúsáid don chéad aonach eile.",
+  "h049": "Toradh",
+  "h050": "Smaoiníonn tusa",
+  "h051": "ar do chustaiméirí.",
+  "h052": "Ar an gcuid eile",
+  "h053": "smaoinímidne.",
+  "h054": "Labhraimis faoin gcéad aonach eile",
+  "h055": "Cad a",
+  "h056": "thógaimid",
+  "h057": "§ 03 — Seirbhísí",
+  "h058": "Gach cineál aonaigh agus imeachta, ó sheastán líne 16 m² go hoileán dhá stór. Táirgeadh agus tógáil sa teach i gcónaí.",
+  "h059": "Seastáin",
+  "h060": "tógtha",
+  "h061": "§ 04 — Tionscadail",
+  "h062": "Rogha seastán a dhear, a tháirg agus a thóg ár bhfoirne: pailliúin náisiúnta, oileáin bhranda agus seastáin theicniúla ar fud na hEorpa.",
+  "h063": "D'fhéadfadh gur leatsa an chéad cheann eile",
+  "h064": "do sheastán",
+  "h065": "§ 05 — Cumraitheoir 3D",
+  "h066": "Roghnaigh cineál agus achar: féach ar an toirt ag teacht chun cruth agus seol chugainn an chumraíocht mar bhonn don luachan.",
+  "h067": "↔ Tarraing chun rothlú",
+  "h068": "Amharc aiseamatrach",
+  "h069": "Az 000°",
+  "h070": "01 — Cineál",
+  "h071": "Taobhanna oscailte",
+  "h072": "02 — Achar",
+  "h073": "Toisí garbha",
+  "h074": "Úsáid an chumraíocht seo",
+  "h075": "An chéad",
+  "h076": "imeacht eile",
+  "h077": "§ 06 — Ó Milano go dtí an Eoraip ar fad",
+  "h078": "Fágaimid Milano, cathair na n-aontaí trádála móra idirnáisiúnta, agus tugaimid an seastán linn go gach ionad taispeántais san Eoraip: an Ghearmáin, an Fhrainc, an Spáinn, Benelux, an Ostair, an Eilvéis. Má tá halla ann, sroichfimid é.",
+  "h079": "Cathair",
+  "h080": "Ionad taispeántais",
+  "h081": "Tír",
+  "h082": "Stádas",
+  "h083": "Foirne tógála i mbun oibre",
+  "h084": "+ aon ionad eile ar iarratas",
+  "h085": "Ceisteanna",
+  "h086": "coitianta",
+  "h087": "§ 07 — CC",
+  "h088": "Costais, amlínte, cathracha agus seirbhísí: freagraí ar na ceisteanna a chuirtear orainn is minice roimh aonach.",
+  "h089": "An bhfuil aonach",
+  "h090": "i d'fhéilire?",
+  "h091": "Inis dúinn faoin imeacht, na dátaí agus na méadair chearnacha. Freagróimid le céad mholadh agus luachan soiléir.",
+  "h092": "Fón",
+  "h093": "Fón 2",
+  "h094": "Ceanncheathrú",
+  "h095": "Limistéar",
+  "h096": "Milano + an Eoraip ar fad",
+  "h097": "Seirbhís",
+  "h098": "Lánseirbhís",
+  "h099": "Seastán taispeántais",
+  "h100": "Imeacht",
+  "h101": "Comhdháil",
+  "h102": "Seomra taispeána / sealadach",
+  "h103": "Tógáil amháin",
+  "h104": "Ainm agus sloinne",
+  "h105": "Comhlacht",
+  "h106": "Aonach / imeacht agus cathair",
+  "h107": "Inis dúinn faoin tionscadal",
+  "h108": "Seol an t-iarratas",
+  "h109": "Tá an t-iarratas réidh i do ríomhphost: brúigh seol.",
+  "h110": "Níor osclaíodh aon rud? Scríobh chuig",
+  "h111": "nó cuir glao ar",
+  "h112": "Stiúideo",
+  "h113": "Seastáin taispeántais i Milano agus san Eoraip, imeachtaí, comhdhálacha",
+  "h114": "27020 Tromello (PV), an Lombaird",
+  "h115": "Nascleanúint",
+  "h116": "Cumraitheoir",
+  "h117": "Meáin shóisialta",
+  "h118": "Teagmháil",
+  "h119": "Iarr luachan →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), an Lombaird",
+  "h121": "Deartha, déanta, tógtha.",
+  "h122": "Ar ais go barr ↑",
+  "h123": "Príomhroghchlár",
+  "h124": "Scag de réir earnála",
+  "h125": "Gailearaí an tionscadail",
+  "h126": "Dún an gailearaí",
+  "h127": "Grianghraf roimhe seo",
+  "h128": "An chéad ghrianghraf eile",
+  "h129": "Achar i méadair chearnacha",
+  "h130": "Iarratas ar luachan seastáin",
+  "h131": "Cineál tionscadail",
+  "h132": "Scríobh chugainn ar WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Cé mhéad a chosnaíonn seastán taispeántais?",
+   "a": "Braitheann praghas seastáin ar an achar, ar an gcineál (líne, cúinne, leithinis nó oileán), ar na hábhair, ar an ngrafaic, ar an troscán agus ar an ionad taispeántais. Tar éis gearrchomhrá faoin aonach, na dátaí agus na méadair chearnacha, seolfaimid céad mholadh chugat mar aon le luachan soiléir mionsonraithe. Is féidir leat tosú leis an gcumraitheoir 3D thuas, nó glao a chur orainn nó scríobh chugainn ar WhatsApp ag <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Cá bhfuil NEWSTANDS lonnaithe agus cé na haontaí a mbíonn sibh ag obair iontu?",
+   "a": "Is tógálaí seastán taispeántais muid i gceantar Milano, agus tá ár gceanncheathrú agus ár gceardlann i Tromello (PV), sa Lombaird: suíomh straitéiseach gar do Fiera Milano Rho agus Allianz MiCo, áit a reáchtáiltear cuid de na haontaí trádála is tábhachtaí san Eoraip. As seo taistealaíonn ár bhfoirne chuig gach ionad taispeántais: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Páras, Lyon, Barcelona, Maidrid, Amstardam, an Bhruiséil, Vín, an Ghinéiv agus níos faide i gcéin."
+  },
+  {
+   "q": "Cad atá san áireamh sa lánseirbhís?",
+   "a": "Aon teagmhálaí amháin do gach rud: an chéad chomhrá, coincheap agus rindreálacha 3D, líníochtaí tógála, táirgeadh inmheánach struchtúr, painéal, grafaice formáid mhór, troscáin agus soilsithe, lóistíocht agus iompar, tógáil le maoirseoir láithreáin tiomnaithe, tacaíocht le linn an aonaigh, díchóimeáil agus stóráil le haghaidh athúsáide."
+  },
+  {
+   "q": "An ndéanann sibh imeachtaí, comhdhálacha agus seomraí taispeána freisin?",
+   "a": "Déanaimid. Chomh maith le seastáin taispeántais shaincheaptha agus mhodúlacha, dearaimid agus feistímid imeachtaí corparáideacha, comhdhálacha, coinbhinsiúin, seoltaí táirgí, stáitsí agus radharcra, seomraí taispeána, siopaí sealadacha agus pop-ups, le trusanna, ballaí LED agus dearadh soilsithe."
+  },
+  {
+   "q": "Cé chomh luath ba chóir dúinn teagmháil a dhéanamh libh?",
+   "a": "Dá luaithe a dhéanann tú teagmháil linn, is ea is mó ama a bhíonn againn don dearadh, do na rindreálacha agus don táirgeadh: i gcás seastáin shaincheaptha, is fearr tosú chomh luath agus a dheimhníonn tú go mbeidh tú ag an aonach. Le seastáin mhodúlacha agus le tógáil amháin is féidir linn oibriú le hamlínte níos dlúithe freisin: scríobh chugainn agus seiceálfaimid láithreach an féidir é."
+  },
+  {
+   "q": "Conas a iarraim luachan?",
+   "a": "Líon isteach an fhoirm sa rannán teagmhála, scríobh chuig <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> nó cuir glao orainn nó scríobh chugainn ar WhatsApp ag <a href=\"tel:+393884706887\">+39 388 470 6887</a> (nó ag <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Luaigh an t-aonach nó an imeacht, an chathair, na dátaí agus na méadair chearnacha: cuirfimid scéala ar ais chugat le céad mholadh."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Tionscadal",
+    "Tosaíonn gach seastán le líníocht theicniúil: toisí, rialacha an ionaid, sruthanna cuairteoirí."
+   ],
+   [
+    "Struchtúr",
+    "Ardán, trusanna, frámaí. An chuid nach bhfeictear ach a choinníonn gach rud ina sheasamh."
+   ],
+   [
+    "Ballaí & grafaic",
+    "Painéil déanta de réir tomhais, priontáil formáid mhór, bailchríocha."
+   ],
+   [
+    "Troscán & teicneolaíocht",
+    "Deasca, tótaim, ballaí LED, limistéir chruinnithe, fáinne crochta. Déanta agus tógtha againn féin."
+   ],
+   [
+    "Soilse ar siúl",
+    "Seiceáil, glanadh, seachadadh. Tá an seastán réidh le hoscailt."
+   ]
+  ],
+  "lbl": [
+   "L 8.000 mm",
+   "D 6.000 mm",
+   "Trus 29×29 — A 4.500",
+   "Balla 3.400 + grafaic",
+   "Ledwall 3,4 × 1,9 m",
+   "Deasc fáiltithe",
+   "Fáinne crochta Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Líne",
+   "angolo": "Cúinne",
+   "penisola": "Leithinis",
+   "isola": "Oileán",
+   "doppio": "Dhá stór"
+  },
+  "sides": "taobhanna",
+  "side": "taobh",
+  "openSides": "taobhanna oscailte",
+  "openSide": "taobh oscailte",
+  "cfgMsg": "Cumraíocht ón suíomh: seastán {type}, {n} {sides}, thart ar {area} m² ({dim} m).",
+  "axo": "Amharc aiseamatrach",
+  "cfgFb": "Níl an cumraitheoir 3D ar fáil ar an ngléas seo.<br>Scríobh chugainn: seolfaimid an rindreáil chugat.",
+  "mq": [
+   "Seastáin shaincheaptha",
+   "Imeachtaí",
+   "Comhdhálacha",
+   "Seomraí taispeána",
+   "Sealadach",
+   "Ledwall",
+   "Trusanna",
+   "Grafaic",
+   "Troscán"
+  ],
+  "svc": [
+   {
+    "t": "Seastáin shaincheaptha",
+    "d": "Tionscadail uathúla tógtha ón bhfréamh timpeall ar do bhranda: siúinéireacht, miotal, gloine, teicstíl, bailchríocha den scoth.",
+    "tags": [
+     "Coincheap",
+     "Rindreáil 3D",
+     "Táirgeadh",
+     "Tógáil"
+    ]
+   },
+   {
+    "t": "Seastáin mhodúlacha",
+    "d": "Córais in-athúsáidte réamhdhéanta dóibh siúd a bhíonn ag roinnt aontaí in aghaidh na bliana: íomhá chomhsheasmhach, costais faoi smacht.",
+    "tags": [
+     "Athúsáid",
+     "Stóráil",
+     "Luas"
+    ]
+   },
+   {
+    "t": "Imeachtaí & comhdhálacha",
+    "d": "Stáitsí, radharcra, hallaí iomlánacha, coinbhinsiúin chorparáideacha agus seoltaí táirgí, le stiúradh teicniúil iomlán.",
+    "tags": [
+     "Stáitsí",
+     "Radharcra",
+     "Fuaim/Fís"
+    ]
+   },
+   {
+    "t": "Seomraí taispeána & sealadach",
+    "d": "Spásanna miondíola sealadacha, pop-ups agus seomraí taispeána buana: an cruinneas céanna agus a bhíonn ar láthair aonaigh.",
+    "tags": [
+     "Pop-up",
+     "Miondíol",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Grafaic formáid mhór",
+    "d": "Priontáil ar forex, teicstíl chúlsoilsithe, PVC, greamáin agus scannáin fuinneoige. Déanta agus curtha i bhfeidhm againn féin.",
+    "tags": [
+     "Lightbox",
+     "Teicstíl",
+     "Greamáin"
+    ]
+   },
+   {
+    "t": "Trusanna & ledwall",
+    "d": "Struchtúir truss, fáinní crochta, rigging, ballaí LED agus dearadh soilsithe do sheastáin a fheictear ó gach cearn den halla.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Soilse"
+    ]
+   },
+   {
+    "t": "Troscán & cíos",
+    "d": "Deasca, cuntair, suíocháin, cásanna taispeána, cistineacha agus stórais: troscán de réir tomhais nó ar cíos do sheastán de gach méid.",
+    "tags": [
+     "De réir tomhais",
+     "Cíos",
+     "Stóráil"
+    ]
+   }
+  ],
+  "more": "Faigh amach faoin tseirbhís",
+  "tav": "Bil.",
+  "avail": "AR FÁIL",
+  "form": {
+   "type": "Cineál tionscadail",
+   "name": "Ainm agus sloinne",
+   "company": "Comhlacht",
+   "fair": "Aonach / imeacht agus cathair",
+   "project": "Tionscadal",
+   "subj": "Iarratas ar luachan seastáin"
+  },
+  "ariaW": "{t} — oscail an gailearaí ({n} grianghraf)",
+  "altW": "Seastán taispeántais {t} — {c}, tógtha ag NEWSTANDS",
+  "nPh": "{n} grianghraf",
+  "altLb": "Seastán taispeántais {t} ({c}) — grianghraf {i} as {n}",
+  "phN": "Grianghraf {i}",
+  "all": "Gach ceann",
+  "ld": [
+   "Ardán",
+   "Ballaí",
+   "Trasnán",
+   "Soilse",
+   "Réidh"
+  ],
+  "c3": [
+   "Ó NEAMHNÍ",
+   "GO SEASTÁN.",
+   "DEARADH · TÁIRGEADH · TÓGÁIL · AN EORAIP",
+   "SEASTÁIN TAISPEÁNTAIS",
+   "SEASTÁIN · IMEACHTAÍ · AN EORAIP"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Criostail agus soilsiú",
+   "g": "Dearadh",
+   "d": "Oileán iomlán bán clúdaithe le cuirtíní de shnáitheanna criostail, coinnleoirí crochta agus troscán laicéaraithe: déantar fuinneog thaispeána lonrach den seastán."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Forbhianna spóirt",
+   "g": "Bia & Sláinte",
+   "d": "Oileán ilthaobhach le grafaic táirgí ar na ballaí ó cheann ceann, comharthaí crochta agus cuntair bhlaiseadh chun sluaite móra a láimhseáil."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turasóireacht",
+   "g": "Turasóireacht",
+   "d": "Pailliún institiúideach le háirsí agus mionaráid spreagtha ag ailtireacht Telangana, deasca d'oibreoirí agus grafaic thumthach."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turasóireacht",
+   "g": "Turasóireacht",
+   "d": "Tairseacha i dterracota bréige, áirsí snoite agus stáisiúin B2B: pailliún réigiúnach a insíonn scéal na háite d'aon sracfhéachaint."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Pailliún náisiúnta bia",
+   "g": "Bia & Sláinte",
+   "d": "Pailliún comhchoiteann bán agus dearg le maisiúcháin pholltacha, deasca taispeántóirí agus limistéar cócaireachta beo."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Tionscal",
+   "d": "Seastán corparáideach le seomraí cruinnithe gloinithe, ballaí cúlsoilsithe agus limistéar fáiltithe atá oscailte don phasáiste."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Gluaisrothair",
+   "g": "Gluaisrothair",
+   "d": "Bán ar fad le tairseacha dearga agus ardáin do na gluaisrothair: grafaic ghlan a ligeann do na meaisíní labhairt ar a son féin."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Gluaisrothair leictreacha",
+   "g": "Gluaisrothair",
+   "d": "Radharcra dubh ar fad le hurlár bán snasta, gluaisrothair ar taispeáint agus limistéar cruinnithe."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Tolglann taispeántais",
+   "g": "Dearadh",
+   "d": "Tolglann oscailte le prionta mór lánléargais, síleáil chrochta, cuntar agus suíocháin chun fáilte a chur roimh chuairteoirí."
+  },
+  {
+   "t": "Plastona",
+   "c": "Teach agus gairdín",
+   "g": "Dearadh",
+   "d": "Oileán le comharthaí ciúbacha ar thrus, seilfeanna bána agus suíomhanna táirgí."
+  },
+  {
+   "t": "Topsun",
+   "c": "Gluaisrothair agus innill",
+   "g": "Gluaisrothair",
+   "d": "Seastán cúinne le ballaí taispeána dubha agus bána, meaisíní ar ardáin agus limistéar boird."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Tionscal an fhuinnimh",
+   "g": "Tionscal",
+   "d": "Frámaí cruinne cúlsoilsithe, painéil theicniúla agus limistéar cruinnithe do lucht féachana B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Clogaid",
+   "g": "Gluaisrothair",
+   "d": "Ballaí taispeána do chlogaid, grafaic rásaíochta agus cuntar fáiltithe: dearadh Iodálach i gcúpla méadar cearnach."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Gabhálais ghluaisrothar",
+   "g": "Gluaisrothair",
+   "d": "Colúin trídhathacha, cásanna taispeána soilsithe agus ballaí táirgí do láithreacht rásaíochta a tharraingíonn an tsúil."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Clogaid",
+   "g": "Gluaisrothair",
+   "d": "Balla muileataí le clogaid ar taispeáint, comharthaí rómhóra agus limistéar boird don idirbheartaíocht."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Páirteanna spártha agus éadaí gluaisrothair",
+   "g": "Gluaisrothair",
+   "d": "Tótaim ghrafacha lánairde, cásanna taispeána táirgí agus ballaí éadaí timpeall ar limistéar cruinnithe."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Tionscal",
+   "g": "Tionscal",
+   "d": "Seastán corparáideach gorm le grafaic phróisis, limistéar teicniúil agus stáisiúin chruinnithe."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turasóireacht",
+   "g": "Turasóireacht",
+   "d": "Tairseach dhrámatúil le maisiúcháin thraidisiúnta agus íomhánna móra den réigiún."
+  },
+  {
+   "t": "Uttar Pradesh — Talmhaíocht",
+   "c": "Agraibhia",
+   "g": "Bia & Sláinte",
+   "d": "Seastán bán le frámaí solais ar an urlár agus painéil táirgí, simplí agus geal."
+  },
+  {
+   "t": "An Túinéis — Medica Düsseldorf",
+   "c": "Pailliún náisiúnta míochaine",
+   "g": "Míochaine",
+   "d": "Pailliún tíre ag Medica Düsseldorf le comhartha crochta, deasca do na comhlachtaí taispeántais agus limistéar tolglainne."
+  }
+ ],
+ "ui": {
+  "langName": "Gaeilge",
+  "langLabel": "Teanga",
+  "home": "Baile",
+  "services": "Seirbhísí",
+  "works": "Tionscadail",
+  "contacts": "Teagmháil",
+  "quote": "Luachan",
+  "requestQuote": "Iarr luachan",
+  "whatsapp": "Scríobh chugainn ar WhatsApp",
+  "call": "Glaoigh orainn",
+  "phone": "Fón / WhatsApp",
+  "phone2": "Fón 2",
+  "email": "Ríomhphost",
+  "address": "Ceanncheathrú",
+  "serviceN": "Seirbhís",
+  "locationK": "Ó Milano go dtí an Eoraip ar fad",
+  "includesTitle": "Cad atá san áireamh",
+  "whyTitle": "Cén fáth NEWSTANDS",
+  "why": [
+   {
+    "t": "Bunáite i Milano",
+    "d": "Oibrímid as ceantar Milano, gar do Fiera Milano Rho agus Allianz MiCo: cuairteanna tapa ar an láthair, lóistíocht shimplí, foirne i gcónaí gar do na hionaid taispeántais mhóra."
+   },
+   {
+    "t": "Táirgeadh inmheánach",
+    "d": "Déantar struchtúir, painéil, grafaic, troscán agus soilsiú inár gceardlann féin: níos lú céimeanna, níos lú iontas, spriocdhátaí comhlíonta."
+   },
+   {
+    "t": "I ngach ionad taispeántais san Eoraip",
+    "d": "Taistealaíonn ár bhfoirne tógála leis an seastán: an Ghearmáin, an Fhrainc, an Spáinn, Benelux, an Ostair, an Eilvéis agus aon ionad eile ar iarratas."
+   },
+   {
+    "t": "Aon teagmhálaí amháin",
+    "d": "Ón gcéad chomhrá go dtí an díchóimeáil labhraíonn tú leis an duine céanna i gcónaí, agus bíonn maoirseoir láithreáin tiomnaithe agat ag an aonach."
+   }
+  ],
+  "galleryTitle": "Roinnt seastán atá tógtha againn",
+  "faqTitle": "Ceisteanna coitianta",
+  "otherTitle": "Seirbhísí eile",
+  "ctaTitle": "An bhfuil aonach i d'fhéilire?",
+  "ctaText": "Inis dúinn faoin aonach, an chathair, na dátaí agus na méadair chearnacha: freagróimid le céad mholadh agus luachan soiléir.",
+  "whereTitle": "Ó Milano go gach ionad taispeántais",
+  "whereText": "Táimid lonnaithe i gceantar Milano, cathair ina reáchtáiltear cuid de na haontaí trádála is tábhachtaí ar domhan. As seo sroicheann ár bhfoirne gach ionad taispeántais san Iodáil agus san Eoraip.",
+  "milanLink": "Seastáin taispeántais i Milano",
+  "europeLink": "Seastáin taispeántais san Eoraip",
+  "photos": "grianghraif",
+  "backHome": "Ar ais go dtí an leathanach baile",
+  "footerTag": "Seastáin taispeántais i Milano agus ar fud na hEorpa. Deartha, déanta, tógtha.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), an Lombaird · Ceantar Milano",
+  "breadcrumb": "Conair",
+  "skip": "Téigh chuig an ábhar",
+  "menu": "Príomhroghchlár"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "seastain-taispeantais-saincheaptha",
+   "nav": "Seastáin shaincheaptha",
+   "title": "Seastáin taispeántais shaincheaptha i Milano | NEWSTANDS",
+   "desc": "Seastáin taispeántais shaincheaptha a dhearann, a tháirgeann agus a thógann NEWSTANDS: bunáite i gceantar Milano, obair i ngach ionad taispeántais san Eoraip.",
+   "h1": "Seastáin taispeántais shaincheaptha",
+   "lead": "Seastán uathúil, tógtha ón bhfréamh timpeall ar do bhranda: dearaimid é, táirgimid inár gceardlann gar do Milano é agus cuirimid suas é ag aon aonach san Eoraip.",
+   "body": [
+    "Is é seastán saincheaptha an bealach is láidre le tú féin a chur i láthair ag aonach: tá gach balla, gach solas agus gach bealach cuairte ceaptha do do tháirgí agus do do spriocanna tráchtála. Tosaímid le rialacha teicniúla an ionaid agus le sruthanna an halla, ansin déanaimid rindreálacha 3D fótaréalaíocha agus líníochtaí tógála den smaoineamh.",
+    "Táirgimid sa teach struchtúir adhmaid agus mhiotail, painéil, grafaic, troscán agus soilsiú, mar sin bíonn smacht againn ar cháilíocht agus ar amlínte ag gach céim. Cibé an bhfuil an t-aonach ag Fiera Milano Rho, i nDüsseldorf nó i bPáras, is í an fhoireann a thóg do sheastán an fhoireann chéanna a chuireann suas é."
+   ],
+   "inc": [
+    {
+     "t": "Coincheap agus rindreáil 3D",
+     "d": "Moladh cruthaitheach, rindreálacha fótaréalaíocha agus athbhreithnithe go dtí go mbíonn an seastán díreach mar is mian leat."
+    },
+    {
+     "t": "Dearadh mionsonraithe",
+     "d": "Líníochtaí teicniúla, ríomhanna agus doiciméid a chomhlíonann rialacha gach ionaid taispeántais."
+    },
+    {
+     "t": "Táirgeadh de réir tomhais",
+     "d": "Siúinéireacht, obair mhiotail, gloine, teicstíl agus bailchríocha den scoth, déanta inár gceardlann féin."
+    },
+    {
+     "t": "Grafaic agus soilsiú",
+     "d": "Priontáil formáid mhór, lightboxanna, ballaí LED agus plean soilsithe fite fuaite in ailtireacht an tseastáin."
+    },
+    {
+     "t": "Tógáil agus díchóimeáil",
+     "d": "Iompar, tógáil le maoirseoir láithreáin tiomnaithe, tacaíocht ag an aonach, díchóimeáil agus stóráil."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Cá fhad a thógann sé seastán saincheaptha a dhéanamh?",
+     "a": "Braitheann sé ar an méid agus ar an gcastacht: i gcás seastáin de réir tomhais is fearr tosú chomh luath agus a dheimhnítear go mbeidh tú ag an aonach, ionas go mbeidh am ann don dearadh, do na rindreálacha agus don táirgeadh."
+    },
+    {
+     "q": "An féidir seastán saincheaptha a athúsáid?",
+     "a": "Is féidir. Dearaimid na comhpháirteanna le go bhféadfaí iad a stóráil agus a athchóimeáil: ag an gcéad aonach eile cuirimid an seastán in oiriúint d'achar nua agus do ghrafaic nua."
+    },
+    {
+     "q": "An ndéanann sibh seastáin shaincheaptha lasmuigh den Iodáil freisin?",
+     "a": "Déanaimid. Ó cheantar Milano tugaimid an seastán agus ár bhfoirne chuig na príomhionaid taispeántais go léir san Eoraip, ón nGearmáin go dtí an Spáinn."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "seastain-taispeantais-modulacha",
+   "nav": "Seastáin mhodúlacha",
+   "title": "Seastáin taispeántais mhodúlacha i Milano | NEWSTANDS",
+   "desc": "Seastáin taispeántais mhodúlacha in-athúsáidte do chomhlachtaí a bhíonn ag roinnt aontaí gach bliain: íomhá chomhsheasmhach agus costais faoi smacht, ó Milano.",
+   "h1": "Seastáin mhodúlacha in-athúsáidte",
+   "lead": "Córais mhodúlacha dóibh siúd a thaispeánann ag roinnt aontaí in aghaidh na bliana: an íomhá bhranda chéanna, costais faoi smacht agus tógáil thapa, i Milano agus i ngach ionad Eorpach.",
+   "body": [
+    "Is infheistíocht fhadtéarmach é seastán modúlach: athchumraítear struchtúir, painéil agus troscán chun iad a chur in oiriúint do mhéideanna agus do chineálacha éagsúla, ó sheastán líne go hoileán. Athraíonn an ghrafaic, fanann an cháilíocht.",
+    "Dearaimid an córas uair amháin, táirgimid inár gceardlann é agus déanaimid féin bainistíocht air idir aontaí: stóráil, cothabháil, nuashonrú grafaice agus iompar chuig an gcéad halla eile, san Iodáil nó thar lear."
+   ],
+   "inc": [
+    {
+     "t": "Córas de réir tomhais",
+     "d": "Modúil deartha timpeall ar d'íomhá, ar féidir iad a chomhcheangal do sheastáin ó chúpla méadar cearnach go hoileáin mhóra."
+    },
+    {
+     "t": "Grafaic inmhalartaithe",
+     "d": "Teicstílí agus painéil phriontáilte is féidir a athrú go tapa do gach aonach, táirge nó margadh."
+    },
+    {
+     "t": "Stóráil agus cothabháil",
+     "d": "Coinnímid an seastán inár stóras agus seiceálaimid é roimh gach turas nua."
+    },
+    {
+     "t": "Tógáil thapa",
+     "d": "Amanna feistithe níos giorra, iontach freisin d'aontaí a bhfuil fuinneoga tógála cúnga acu."
+    },
+    {
+     "t": "Féilire aontaí faoi bhainistíocht",
+     "d": "Pleanálaimid an séasúr aontaí leat agus eagraímid lóistíocht agus foirne do gach stad."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An saoire seastán modúlach ná seastán saincheaptha?",
+     "a": "Thar roinnt aontaí, de ghnáth is saoire: roinntear an infheistíocht tosaigh ar gach rannpháirtíocht agus ní bhíonn sna costais táirgthe ina dhiaidh sin ach grafaic agus lóistíocht."
+    },
+    {
+     "q": "An féidir seastán modúlach a chur in oiriúint d'achair éagsúla?",
+     "a": "Is féidir. Athchóirítear na modúil le haghaidh seastán líne, cúinne, leithinse nó oileáin agus le haghaidh méideanna éagsúla."
+    },
+    {
+     "q": "An féidir libh ár bhféilire aontaí ar fad a bhainistiú?",
+     "a": "Is féidir: ó cheantar Milano comhordaímid stóráil, iompar agus tógáil do gach aonach sa séasúr, san Iodáil agus san Eoraip."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "socruithe-imeachtai-comhdhalacha",
+   "nav": "Imeachtaí & comhdhálacha",
+   "title": "Socruithe d'imeachtaí agus comhdhálacha i Milano | NEWSTANDS",
+   "desc": "Socruithe d'imeachtaí corparáideacha, comhdhálacha, coinbhinsiúin agus seoltaí táirgí i Milano agus san Eoraip: stáitsí, radharcra, stiúradh teicniúil iomlán.",
+   "h1": "Socruithe d'imeachtaí agus do chomhdhálacha",
+   "lead": "Stáitsí, radharcra, hallaí iomlánacha, coinbhinsiúin chorparáideacha agus seoltaí táirgí: feistímid imeachtaí agus comhdhálacha i Milano agus ar fud na hEorpa leis an gcruinneas céanna agus a bhíonn ar láthair aonaigh.",
+   "body": [
+    "Tá Milano ar cheann de phríomhchathracha na hEorpa d'imeachtaí agus do chomhdhálacha, le spásanna ar nós Allianz MiCo agus ionaid chorparáideacha mhóra na cathrach. Ós rud é go n-oibrímid as ceantar Milano, tá aithne againn ar amlínte, rialacha agus lóistíocht na spásanna seo agus is féidir linn cuairteanna láithreáin agus tógáil a láimhseáil go han-tapa.",
+    "Dearaimid an socrú iomlán: stáitse, radharcra, halla iomlánach, limistéir taispeántais, fáiltiú, comharthaíocht agus soilsiú. Comhordaímid féin na soláthraithe teicniúla, mar sin níl ach teagmhálaí amháin agat don imeacht ar fad."
+   ],
+   "inc": [
+    {
+     "t": "Stáitsí agus radharcra",
+     "d": "Stáitsí de réir tomhais, cúlbhrait, ballaí LED agus radharcra deartha do do theachtaireacht."
+    },
+    {
+     "t": "Hallaí iomlánacha agus comhdhálacha",
+     "d": "Feistiú hallaí, limistéir phóstaer, deasca fáiltithe agus spásanna urraitheoirí."
+    },
+    {
+     "t": "Coinbhinsiúin agus seoltaí táirgí",
+     "d": "Suíomhanna chun táirge a sheoladh nó chun d'fhoireann díolacháin a thabhairt le chéile ar bhealach a fhanfaidh sa chuimhne."
+    },
+    {
+     "t": "Fuaim, fís agus soilse",
+     "d": "Stiúradh teicniúil, trusanna, ballaí LED agus dearadh soilsithe fite fuaite sa tionscadal."
+    },
+    {
+     "t": "Comharthaíocht agus grafaic",
+     "d": "Bealaí, tótaim, cúlbhrait agus grafaic chomhordaithe, priontáilte agus suiteáilte againn féin."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An bhfeistíonn sibh imeachtaí lasmuigh d'ionaid taispeántais freisin?",
+     "a": "Feistímid: óstáin, ionaid chomhdhála, spásanna tionsclaíocha agus ionaid phríobháideacha, i Milano, san Iodáil agus thar lear."
+    },
+    {
+     "q": "An féidir libh an taobh teicniúil fuaime agus físe a láimhseáil freisin?",
+     "a": "Is féidir, comhordaímid stáitse, ballaí LED, soilse agus fuaim mar chuid de thionscadal amháin, le teagmhálaí amháin."
+    },
+    {
+     "q": "Cé chomh luath ba chóir imeacht a eagrú?",
+     "a": "Dá luaithe is ea is fearr: le cúpla seachtain de spás is féidir linn an chuairt láithreáin, an dearadh agus an táirgeadh a dhéanamh ar ár suaimhneas. I gcás práinne, déan teagmháil linn agus measfaimid an féidir é."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "seomrai-taispeana-siopai-sealadacha",
+   "nav": "Seomraí taispeána & sealadach",
+   "title": "Seomraí taispeána agus siopaí pop-up i Milano | NEWSTANDS",
+   "desc": "Dearadh agus feistiú seomraí taispeána, siopaí sealadacha, pop-ups agus shop-in-shop i Milano agus san Eoraip, le táirgeadh agus tógáil inmheánach.",
+   "h1": "Seomraí taispeána, siopaí sealadacha agus pop-ups",
+   "lead": "Spásanna miondíola sealadacha, pop-ups agus seomraí taispeána buana feistithe leis an gcruinneas céanna agus a bhíonn ar láthair aonaigh, i Milano agus ar fud na hEorpa.",
+   "body": [
+    "Caithfidh siopa sealadach nó pop-up a bheith réidh i gceann cúpla lá agus a rian a fhágáil: dearaimid spásanna a insíonn scéal an bhranda, a chuireann an táirge chun tosaigh agus a chuirtear suas go tapa, fiú in ionaid siopadóireachta agus ar shráideanna siopadóireachta.",
+    "Do sheomraí taispeána buana déanaimid troscán de réir tomhais, ballaí taispeána, cásanna taispeána agus soilsiú le hábhair bhuana. Tá an táirgeadh agus an tógáil inmheánach, mar sin fanann amlínte agus cáilíocht faoi smacht."
+   ],
+   "inc": [
+    {
+     "t": "Coincheap miondíola",
+     "d": "Leagan amach, turas an chustaiméara agus taispeáint táirgí, deartha chun díol."
+    },
+    {
+     "t": "Sealadach agus pop-up",
+     "d": "Struchtúir éadroma atá tapa le cur suas, le baint anuas agus le hathúsáid i gcathracha eile."
+    },
+    {
+     "t": "Seomraí taispeána buana",
+     "d": "Troscán de réir tomhais, ballaí feistithe, cásanna taispeána agus bailchríocha den scoth."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Cúinní branda laistigh de shiopaí agus de shiopaí ilranna, ag teacht le d'íomhá."
+    },
+    {
+     "t": "Soilse agus grafaic",
+     "d": "Soilsiú táirgí, comharthaí, scannáin fuinneoige agus grafaic déanta againn féin."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Cá fhad a thógann sé siopa sealadach a fheistiú?",
+     "a": "Braitheann sé ar an spás agus ar an tionscadal: a bhuí lenár dtáirgeadh inmheánach is féidir linn pop-up a chur suas i gceann cúpla lá fiú."
+    },
+    {
+     "q": "An féidir pop-up a aistriú go cathracha eile?",
+     "a": "Is féidir, dearaimid struchtúir mhodúlacha a bhaintear anuas agus a chuirtear suas arís in ionaid eile, san Iodáil agus san Eoraip."
+    },
+    {
+     "q": "An láimhseálann sibh seomraí taispeána buana freisin?",
+     "a": "Láimhseálaimid, ón dearadh go dtí suiteáil an troscáin, na gcásanna taispeána, na soilse agus na grafaice."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grafaic-formaid-mhoir",
+   "nav": "Grafaic formáid mhór",
+   "title": "Grafaic formáid mhór do sheastáin taispeántais | NEWSTANDS",
+   "desc": "Priontáil formáid mhór do sheastáin taispeántais agus imeachtaí: forex, teicstíl chúlsoilsithe, lightbox, PVC, greamáin agus scannáin fuinneoige, déanta againn.",
+   "h1": "Grafaic formáid mhór do sheastáin agus d'imeachtaí",
+   "lead": "Priontáil ar forex, teicstíl chúlsoilsithe, PVC, greamáin agus scannáin fuinneoige: grafaic do sheastáin, déanta agus curtha i bhfeidhm ag na foirne céanna a thógann é.",
+   "body": [
+    "Is í an ghrafaic an chéad rud a fheiceann cuairteoirí, go minic ó gach cearn den halla. Sin an fáth a gcaithimid léi mar chuid d'ailtireacht an tseastáin: dearaimid formáidí, ábhair agus soilse in éineacht leis na struchtúir.",
+    "Priontálaimid agus cuirimid i bhfeidhm í muid féin, i Milano agus ag gach aonach Eorpach: gan aistriú idir soláthraithe éagsúla, dathanna faoi smacht agus grafaic ailínithe go foirfe nuair a osclaíonn an t-aonach."
+   ],
+   "inc": [
+    {
+     "t": "Teicstíl chúlsoilsithe",
+     "d": "Lightboxanna agus ballaí solais teicstíle, éadrom agus an-éifeachtach."
+    },
+    {
+     "t": "Painéil dhochta",
+     "d": "Priontáil ar forex, dibond agus PVC do bhallaí, tótaim agus deasca."
+    },
+    {
+     "t": "Greamáin agus scannáin fuinneoige",
+     "d": "Urláir, fuinneoga agus dromchlaí saincheaptha le greamáin theicniúla."
+    },
+    {
+     "t": "Comharthaí crochta",
+     "d": "Meirgí agus struchtúir ghrafacha crochta atá le feiceáil i bhfad i gcéin sa halla."
+    },
+    {
+     "t": "Cur i bhfeidhm ag an aonach",
+     "d": "Suiteálaimid an ghrafaic muid féin, le seiceáil deiridh roimh an oscailt."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An bpriontálann sibh grafaic do sheastáin a thóg daoine eile?",
+     "a": "Priontálaimid. Is féidir linn an ghrafaic amháin a tháirgeadh agus a chur i bhfeidhm, ag cloí le toisí agus le rialacha an ionaid taispeántais."
+    },
+    {
+     "q": "Cé na comhaid a theastaíonn don phriontáil?",
+     "a": "Comhaid veicteora nó íomhánna ardtaifigh le himeall fuilithe: seolfaimid na sonraíochtaí teicniúla chugat do gach formáid."
+    },
+    {
+     "q": "An féidir grafaic teicstíle a athúsáid?",
+     "a": "Is féidir: nitear, filltear agus athchrochtar teicstíl, rud a fhágann go bhfuil sí foirfe dóibh siúd a bhíonn ag roinnt aontaí."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "trusanna-ballai-led-soilsiu",
+   "nav": "Trusanna & ledwall",
+   "title": "Trusanna, ballaí LED agus soilse do sheastáin | NEWSTANDS",
+   "desc": "Struchtúir truss, fáinní crochta, rigging, ballaí LED agus dearadh soilsithe do sheastáin taispeántais agus imeachtaí i Milano agus ar fud na hEorpa.",
+   "h1": "Trusanna, ballaí LED agus dearadh soilsithe",
+   "lead": "Struchtúir truss, fáinní crochta, rigging, ballaí LED agus soilse do sheastáin a fheictear ó gach cearn den halla, ag Fiera Milano agus i ngach ionad Eorpach.",
+   "body": [
+    "Fáinne crochta le do lógó, balla LED d'fhíseáin táirge, solas dírithe go cúramach ar dhromchlaí: sin iad na heilimintí a fhágann go n-aithnítear seastán i bhfad uait. Dearaimid iad in éineacht leis an seastán, ag seiceáil ualaí, pointí crochta agus rialacha an ionaid.",
+    "Soláthraímid agus suiteálaimid trusanna, mótair ardaithe, ballaí LED agus soilse le foireann cháilithe, agus comhordaímid na hiarratais rigging le húdarás an aonaigh."
+   ],
+   "inc": [
+    {
+     "t": "Trusanna agus struchtúir",
+     "d": "Struchtúir ar an talamh agus crochta de gach méid, fiú mar bhonn do ghrafaic agus do shoilse."
+    },
+    {
+     "t": "Fáinní agus comharthaí crochta",
+     "d": "Eilimintí crochta ciorclacha nó de réir tomhais le grafaic, le feiceáil ó gach cearn den halla."
+    },
+    {
+     "t": "Rigging",
+     "d": "Ríomhanna, pointí crochta agus cáipéisíocht leis an ionad taispeántais."
+    },
+    {
+     "t": "Ballaí LED",
+     "d": "Scáileáin LED de mhéideanna éagsúla fite fuaite sna ballaí nó ar struchtúir thiomnaithe."
+    },
+    {
+     "t": "Dearadh soilsithe",
+     "d": "Plean soilsithe do tháirgí, do ghrafaic agus d'atmaisféar an tseastáin."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An láimhseálann sibh na ceadanna rigging?",
+     "a": "Láimhseálaimid. Ullmhaímid na doiciméid theicniúla agus bainistímid na hiarratais le húdarás an aonaigh."
+    },
+    {
+     "q": "An ligeann sibh ballaí LED ar cíos d'imeachtaí freisin?",
+     "a": "Ligimid. Tá ballaí LED, trusanna agus soilse ar fáil freisin d'imeachtaí, do chomhdhálacha agus do sheoltaí táirgí."
+    },
+    {
+     "q": "An oibríonn sibh in ionaid taispeántais thar lear freisin?",
+     "a": "Oibrímid. Suiteálaimid struchtúir agus ballaí LED i ngach príomhionad taispeántais san Eoraip."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "troscan-seastain-ar-cios",
+   "nav": "Troscán & cíos",
+   "title": "Troscán de réir tomhais agus ar cíos do sheastáin | NEWSTANDS",
+   "desc": "Deasca, cuntair, suíocháin, cásanna taispeána, cistineacha agus stórais do sheastáin: troscán de réir tomhais nó ar cíos, ó Milano go dtí an Eoraip.",
+   "h1": "Troscán de réir tomhais agus ar cíos do sheastáin",
+   "lead": "Deasca, cuntair, suíocháin, cásanna taispeána, cistineacha agus stórais: troscán déanta de réir tomhais inár gceardlann nó ar cíos, do sheastáin de gach méid.",
+   "body": [
+    "Is é an troscán a chuireann an seastán ag obair: caithfidh fáiltiú, taispeáint, cruinnithe, blaiseadh agus stóráil a bheith san áit cheart. Dearaimid é in éineacht leis an leagan amach, ag smaoineamh ar shruthanna cuairteoirí agus ar obair d'fhoirne ag an aonach.",
+    "Is féidir linn píosaí uathúla a dhéanamh de réir tomhais, le bailchríocha agus dathanna do bhranda, nó troscán a sholáthar ar cíos chun costais a choinneáil síos. Bímid féin i gcónaí i bhfeighil an tseachadta, na tógála agus an bhailithe."
+   ],
+   "inc": [
+    {
+     "t": "Deasca agus fáiltiú",
+     "d": "Cuntair fáiltithe de réir tomhais, le lógó, soilse agus spásanna teicniúla."
+    },
+    {
+     "t": "Limistéir chruinnithe agus tolglanna",
+     "d": "Boird, suíocháin agus tolglanna beaga chun bualadh le custaiméirí ar an seastán."
+    },
+    {
+     "t": "Cásanna agus seastáin taispeána",
+     "d": "Cásanna gloine, seilfeanna agus ballaí feistithe chun na táirgí a chur chun tosaigh."
+    },
+    {
+     "t": "Cistineacha agus stórais",
+     "d": "Stórais, cistineacha agus limistéir seirbhíse fite fuaite sa seastán."
+    },
+    {
+     "t": "Troscán ar cíos",
+     "d": "Troscán ar cíos do gach stíl agus buiséad, seachadta agus bailithe againn féin."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An féidir liom troscán amháin a fháil ar cíos?",
+     "a": "Is féidir. Soláthraímid troscán ar cíos ina aonar freisin, le seachadadh agus bailiú ag an aonach."
+    },
+    {
+     "q": "An féidir troscán de réir tomhais a athúsáid?",
+     "a": "Is féidir. Coinnímid inár stóras é agus tugaimid ar ais é don chéad aonach eile."
+    },
+    {
+     "q": "An seachadann sibh troscán thar lear freisin?",
+     "a": "Seachadaimid. Seachadaimid agus cuirimid suas troscán i ngach príomhionad taispeántais san Eoraip."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "togail-agus-dichoimeail-seastan",
+   "nav": "Tógáil & díchóimeáil",
+   "title": "Tógáil agus díchóimeáil seastán: Milano is an Eoraip | NEWSTANDS",
+   "desc": "Foirne speisialaithe a chuireann seastáin taispeántais suas agus a bhaineann anuas iad ag Fiera Milano Rho agus ar fud na hEorpa. Tógáil amháin freisin.",
+   "h1": "Tógáil agus díchóimeáil seastán taispeántais",
+   "lead": "Foirne speisialaithe agus maoirseoir láithreáin tiomnaithe chun do sheastán a chur suas agus a bhaint anuas ag Fiera Milano Rho, Allianz MiCo agus i ngach ionad taispeántais san Eoraip. Tógáil amháin freisin.",
+   "body": [
+    "Is í an tógáil an nóiméad a dtagann seastán as tionscadal: teastaíonn foirne a bhfuil taithí acu, trealamh, agus urraim d'fhuinneoga ama agus do rialacha sábháilteachta an ionaid. Ónár mbunáite i gceantar Milano sroichimid ionaid taispeántais Milano go tapa agus tugaimid an seastán linn chuig aontaí ar fud na hEorpa.",
+    "Cuirimid suas seastáin a rinneamar féin agus seastáin ó sholáthraithe eile nó atá i seilbh an chustaiméara: glacadh leis an ábhar, tógáil, seiceáil, tacaíocht le linn an aonaigh, díchóimeáil agus filleadh ar an stóras."
+   ],
+   "inc": [
+    {
+     "t": "Foirne speisialaithe",
+     "d": "Tógálaithe a bhfuil taithí acu, lena dtrealamh féin agus maoirseoir láithreáin tiomnaithe."
+    },
+    {
+     "t": "Ceadanna rochtana",
+     "d": "Pasanna, doiciméid sábháilteachta agus ceadanna a éilíonn an t-ionad taispeántais."
+    },
+    {
+     "t": "Seiceáil agus seachadadh",
+     "d": "Seiceáil deiridh ar struchtúir, soilse agus grafaic roimh an oscailt."
+    },
+    {
+     "t": "Tacaíocht ag an aonach",
+     "d": "Teicneoirí ar fáil le linn an imeachta do gach riachtanas."
+    },
+    {
+     "t": "Díchóimeáil agus stóráil",
+     "d": "Díchóimeáil in am, iompar agus stóráil le haghaidh athúsáide."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An ndéanann sibh tógáil amháin ar sheastáin nach libh féin iad?",
+     "a": "Déanaimid. Cuirimid suas agus bainimid anuas seastáin ó thógálaithe eile nó atá i seilbh an taispeántóra."
+    },
+    {
+     "q": "Cé na hionaid taispeántais ina n-oibríonn sibh?",
+     "a": "Ag Fiera Milano Rho agus Allianz MiCo, i mBologna, i Verona agus i Rimini, agus sna príomhionaid Eorpacha: Düsseldorf, Köln, Frankfurt, München, Páras, Barcelona, Maidrid, Amstardam agus níos faide i gcéin."
+    },
+    {
+     "q": "An gcloíonn sibh le rialacha sábháilteachta na n-ionad?",
+     "a": "Cloímid. Oibríonn ár dtógálaithe de réir rialacha sábháilteachta agus rialacha teicniúla gach ionaid taispeántais."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "seastain-taispeantais-milano",
+   "nav": "Seastáin i Milano",
+   "title": "Tógálaí seastán taispeántais Milano: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Tógálaí seastán taispeántais i gceantar Milano: seastáin lánseirbhíse do Fiera Milano Rho, Allianz MiCo agus imeachtaí sa chathair, deartha agus tógtha againn.",
+   "h1": "Seastáin taispeántais i Milano",
+   "lead": "Tá Milano ar cheann de na lárionaid aontaí trádála is tábhachtaí san Eoraip agus oibrímid as seo: dearaimid, táirgimid agus tógaimid seastáin d'aontaí Fiera Milano Rho, Allianz MiCo agus d'imeachtaí sa chathair.",
+   "body": [
+    "Gach bliain bíonn imeachtaí idirnáisiúnta ar nós Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO agus MICAM ar siúl ag Fiera Milano Rho, agus tá Allianz MiCo ar cheann de na hionaid chomhdhála is mó san Eoraip. Do thaispeántóir ciallaíonn sé sin iomaíocht an-ghéar: caithfidh an seastán seasamh amach.",
+    "Má tá do thógálaí seastán i gceantar Milano, bíonn cuairteanna tapa ar an láthair, lóistíocht shimplí, foirne tógála in aice láimhe agus tacaíocht láithreach le linn an aonaigh agat. Agus má leanann do shéasúr ar aghaidh thar lear tar éis Milano, tugann an fhoireann chéanna an seastán chuig gach ionad taispeántais san Eoraip."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Seastáin d'aontaí móra idirnáisiúnta ionad Rho, ó hallaí an dearaidh go dtí hallaí na ngluaisrothar agus an bhia."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Socruithe do chomhdhálacha, do choinbhinsiúin agus d'aontaí in ionad comhdhála Milano."
+    },
+    {
+     "t": "Imeachtaí sa chathair",
+     "d": "Seoltaí táirgí, Fuorisalone, seomraí taispeána agus siopaí sealadacha in ionaid ar fud Milano."
+    },
+    {
+     "t": "Cuairteanna láithreáin tapa",
+     "d": "Ónár mbunáite sroichimid ionaid taispeántais Milano go tapa, roimh an aonach agus lena linn."
+    },
+    {
+     "t": "Stóráil in aice láimhe",
+     "d": "Fanann do sheastán inár stóras sa Lombaird, réidh don chéad eagrán eile."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An tógálaí seastán as Milano sibh?",
+     "a": "Is ea. Oibrímid as ceantar Milano, agus tá ár gceanncheathrú agus ár gceardlann i Tromello (PV), sa Lombaird, gar do Fiera Milano Rho."
+    },
+    {
+     "q": "Cé na haontaí i Milano a dtógann sibh seastáin dóibh?",
+     "a": "Do gach imeacht ag Fiera Milano Rho agus Allianz MiCo, chomh maith le himeachtaí agus Fuorisalone sa chathair."
+    },
+    {
+     "q": "An féidir libh sinn a leanúint chuig aontaí thar lear freisin?",
+     "a": "Is féidir. Ó Milano tugaimid seastáin agus foirne chuig gach príomhionad taispeántais san Eoraip."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "seastain-taispeantais-eoraip",
+   "nav": "Seastáin san Eoraip",
+   "title": "Seastáin taispeántais ar fud na hEorpa, ó Milano | NEWSTANDS",
+   "desc": "Ó Milano go gach ionad taispeántais Eorpach: seastáin lánseirbhíse i nDüsseldorf, Köln, Frankfurt, München, Páras, Barcelona, Maidrid, Amstardam agus eile.",
+   "h1": "Seastáin taispeántais ar fud na hEorpa",
+   "lead": "Fágaimid Milano agus téimid chuig aon ionad taispeántais san Eoraip: soláthraí amháin don dearadh, don táirgeadh, don iompar agus don tógáil, cibé áit a bhfuil d'aonach.",
+   "body": [
+    "Má thaispeánann tú thar lear le tógálaí áitiúil difriúil i ngach tír, bíonn teagmhálaithe nua, caighdeáin dhifriúla agus níos mó rioscaí i gceist. Le NEWSTANDS tá foireann amháin agat: dearaimid agus táirgimid inár gceardlann gar do Milano, eagraímid iompar agus ceadanna rochtana, agus cuireann ár bhfoirne féin an seastán suas.",
+    "Oibrímid sna hionaid taispeántais mhóra sa Ghearmáin, san Fhrainc, sa Spáinn, i Benelux, san Ostair agus san Eilvéis, agus in aon ionad eile ar iarratas. Tá pailliúin náisiúnta agus seastáin bhranda tógtha againn, ar nós phailliún na Túinéise ag MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "An Ghearmáin",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt agus Messe München."
+    },
+    {
+     "t": "An Fhrainc",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles agus Eurexpo Lyon."
+    },
+    {
+     "t": "An Spáinn",
+     "d": "Fira de Barcelona Gran Via agus IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam agus Brussels Expo."
+    },
+    {
+     "t": "An Ostair, an Eilvéis agus níos faide",
+     "d": "Messe Wien, Palexpo Genève agus aon ionad taispeántais Eorpach eile ar iarratas."
+    }
+   ],
+   "faq": [
+    {
+     "q": "An láimhseálann sibh iompar agus cáipéisíocht d'aontaí thar lear?",
+     "a": "Láimhseálaimid: pacáil, iompar, pasanna, doiciméid sábháilteachta agus caidreamh le heagraithe an aonaigh, déanaimid féin iad ar fad."
+    },
+    {
+     "q": "An libhse na foirne tógála?",
+     "a": "Is linn. Cuireann ár bhfoirne féin an seastán suas le maoirseoir láithreáin tiomnaithe, thar lear freisin."
+    },
+    {
+     "q": "Cé na teangacha inar féidir linn cumarsáid a dhéanamh?",
+     "a": "Iodáilis agus Béarla; maidir le doiciméid an aonaigh, comhordaímid leis an eagraí sa teanga áitiúil."
+    }
+   ]
+  }
+ }
+}

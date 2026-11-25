@@ -1,0 +1,987 @@
+{
+ "_lang": "mt",
+ "meta": {
+  "title": "Stands tal-fiera f'Milan u madwar l-Ewropa | NEWSTANDS",
+  "desc": "Bennejja ta' stands tal-fiera fiż-żona ta' Milan: infasslu, nipproduċu u nimmuntaw stands turnkey f'Fiera Milano u f'kull ċentru tal-fieri fl-Ewropa.",
+  "ogTitle": "NEWSTANDS — Stands tal-fiera minn Milan għall-Ewropa kollha",
+  "ogDesc": "Stands tal-fiera turnkey, avvenimenti u konferenzi: bażi fiż-żona ta' Milan, timijiet tal-immuntar f'kull ċentru tal-fieri Ewropew.",
+  "ogAlt": "NEWSTANDS — stands tal-fiera minn Milan għall-Ewropa kollha",
+  "orgDesc": "Kumpanija li tibni stands tal-fiera b'bażi fiż-żona ta' Milan (uffiċċju ewlieni f'Tromello, PV). Tfassal, tipproduċi u timmonta stands tal-fiera turnkey, setups għal avvenimenti, konferenzi, showrooms u temporary stores f'Fiera Milano u fiċ-ċentri kollha tal-fieri tal-Ewropa.",
+  "slogan": "Imfassal, prodott, immuntat."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Pjattaforma",
+  "h003": "Allestimenti",
+  "h004": "Imfassal · Prodott · Immuntat",
+  "h005": "Agħfas biex tidħol",
+  "h006": "Proċess",
+  "h007": "Servizzi",
+  "h008": "Xogħlijiet",
+  "h009": "Ikkonfigura",
+  "h009b": "Ikkonfigura",
+  "h010": "Ewropa",
+  "h011": "Kwotazzjoni",
+  "h012": "Bennejja ta' stands tal-fiera f'Milan · Avvenimenti · Konferenzi",
+  "h013": "Disinn → Produzzjoni → Immuntar",
+  "h014": "Bażi fiż-żona ta' Milan, il-qalba tal-fieri tal-Ewropa: nibnu stands mix-xejn u nimmuntawhom f'kull ċentru tal-fieri Ewropew. Persuna waħda ta' kuntatt mill-ewwel skeċċ sal-aħħar vit.",
+  "h015": "Skrollja u mmonta l-istand",
+  "h016": "Fol. 00 — Pjanta tal-istand 8.000 × 6.000",
+  "h017": "Skala 1:50",
+  "h018": "Proġett",
+  "h019": "Progress tax-xogħol",
+  "h020": "Fol. 05 — Konsenja",
+  "h021": "Lest biex jinfetaħ.",
+  "h022": "Ikkonfigura tiegħek",
+  "h023": "Itlob kwotazzjoni",
+  "h024": "§ 01 — Min aħna",
+  "h025": "Ma nbigħux metri kwadri. Nibnu l-post fejn il-brand *tiegħek* jiltaqa' mas-suq — mill-ewwel *skeċċ* sal-aħħar *vit*, fi kwalunkwe padiljun fl-Ewropa.",
+  "h026": "Il-metodu",
+  "h027": "Infasslu, nipproduċu u nimmuntaw kull komponent internament: strutturi, pannelli, grafika, għamara u dwal. Inqas passaġġi, inqas sorpriżi, skadenzi rispettati.",
+  "h028": "Mix-xejn",
+  "h029": "għall-istand.",
+  "h030": "Sitt fażijiet, direzzjoni waħda.",
+  "h031": "Skrollja orizzontalment →",
+  "h032": "Fażi 01",
+  "h033": "Għanijiet, baġit, fiera, regolament tekniku taċ-ċentru. Nibdew minn dak li għandu jiġri fl-istand tiegħek.",
+  "h034": "Fażi 02",
+  "h035": "Kunċett & 3D",
+  "h036": "Renders fotorealistiċi u pjanti eżekuttivi: tara l-istand lest qabel ma jinqata' anki pannell wieħed.",
+  "h037": "Fażi 03",
+  "h038": "Produzzjoni",
+  "h039": "Mastrudaxxa, xogħol tal-metall, stampar f'format kbir, disinn tad-dawl. Kull biċċa ssir apposta.",
+  "h040": "Fażi 04",
+  "h041": "Loġistika",
+  "h042": "Ippakkjar, trasport u permessi ta' aċċess għal kull ċentru tal-fieri Ewropew. Naslu aħna, fil-ħin.",
+  "h043": "Fażi 05",
+  "h044": "Immuntar",
+  "h045": "Timijiet speċjalizzati fuq il-post, kap tal-immuntar dedikat, kontroll finali. L-istand jingħatalek lest.",
+  "h046": "Fażi 06",
+  "h047": "Fiera & żarmar",
+  "h048": "Assistenza teknika matul il-fiera, żarmar, ħażna u użu mill-ġdid għall-fiera li jmiss.",
+  "h049": "Riżultat",
+  "h050": "Int aħseb",
+  "h051": "fil-klijenti.",
+  "h052": "Għall-bqija",
+  "h053": "naħsbu aħna.",
+  "h054": "Ejja nitkellmu dwar il-fiera li jmiss",
+  "h055": "Dak li",
+  "h056": "nibnu",
+  "h057": "§ 03 — Servizzi",
+  "h058": "Kull tip ta' fiera u avveniment, mill-istand f'ringiela ta' 16 m² sal-gżira b'żewġ sulari. Produzzjoni u mmuntar dejjem internament.",
+  "h059": "Stands",
+  "h060": "li bnejna",
+  "h061": "§ 04 — Xogħlijiet",
+  "h062": "Għażla ta' stands imfassla, prodotti u mmuntati mit-timijiet tagħna: padiljuni nazzjonali, gżejjer tal-brand u stands tekniċi madwar l-Ewropa.",
+  "h063": "Li jmiss jista' jkun tiegħek",
+  "h064": "l-istand tiegħek",
+  "h065": "§ 05 — Konfiguratur 3D",
+  "h066": "Agħżel it-tip u l-erja: ara l-volum jieħu l-forma u ibgħatilna l-konfigurazzjoni bħala bażi għall-kwotazzjoni.",
+  "h067": "↔ Kaxkar biex iddawwar",
+  "h068": "Veduta assonometrika",
+  "h069": "Az 000°",
+  "h070": "01 — Tip",
+  "h071": "Naħat miftuħa",
+  "h072": "02 — Erja",
+  "h073": "Qisien indikattivi",
+  "h074": "Uża din il-konfigurazzjoni",
+  "h075": "It-tluq",
+  "h076": "li jmiss",
+  "h077": "§ 06 — Minn Milan għall-Ewropa kollha",
+  "h078": "Nitilqu minn Milan, il-belt tal-fieri internazzjonali l-kbar, u nieħdu l-istand f'kull ċentru tal-fieri Ewropew: il-Ġermanja, Franza, Spanja, il-Benelux, l-Awstrija, l-Iżvizzera. Jekk hemm padiljun, naslu.",
+  "h079": "Belt",
+  "h080": "Ċentru tal-fieri",
+  "h081": "Pajjiż",
+  "h082": "Status",
+  "h083": "Timijiet tal-immuntar attivi",
+  "h084": "+ kull ċentru ieħor fuq talba",
+  "h085": "Mistoqsijiet",
+  "h086": "frekwenti",
+  "h087": "§ 07 — FAQ",
+  "h088": "Spejjeż, żminijiet, bliet u servizzi: it-tweġibiet għall-mistoqsijiet li jsirulna l-aktar qabel fiera.",
+  "h089": "Għandek fiera",
+  "h090": "fil-kalendarju?",
+  "h091": "Għidilna dwar l-avveniment, id-dati u l-metri kwadri. Inwieġbuk bl-ewwel proposta u kwotazzjoni ċara.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Uffiċċju",
+  "h095": "Żona",
+  "h096": "Milan + l-Ewropa kollha",
+  "h097": "Servizz",
+  "h098": "Kollox inkluż",
+  "h099": "Stand tal-fiera",
+  "h100": "Avveniment",
+  "h101": "Konferenza",
+  "h102": "Showroom / temporary",
+  "h103": "Immuntar biss",
+  "h104": "Isem u kunjom",
+  "h105": "Kumpanija",
+  "h106": "Fiera / avveniment u belt",
+  "h107": "Għidilna dwar il-proġett",
+  "h108": "Ibgħat it-talba",
+  "h109": "It-talba lesta fl-email tiegħek: agħfas ibgħat.",
+  "h110": "Ma nfetaħ xejn? Ikteb lil",
+  "h111": "jew ċempel",
+  "h112": "Studjo",
+  "h113": "Stands tal-fiera f'Milan u fl-Ewropa, avvenimenti, konferenzi",
+  "h114": "27020 Tromello (PV), Lombardija",
+  "h115": "Navigazzjoni",
+  "h116": "Konfiguratur",
+  "h117": "Social",
+  "h118": "Kuntatti",
+  "h119": "Itlob kwotazzjoni →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija",
+  "h121": "Imfassal, prodott, immuntat.",
+  "h122": "Lura fuq ↑",
+  "h123": "Menu ewlieni",
+  "h124": "Iffiltra skont is-settur",
+  "h125": "Gallerija tal-proġett",
+  "h126": "Agħlaq il-gallerija",
+  "h127": "Ritratt preċedenti",
+  "h128": "Ritratt li jmiss",
+  "h129": "Erja f'metri kwadri",
+  "h130": "Talba għal kwotazzjoni ta' stand",
+  "h131": "Tip ta' proġett",
+  "h132": "Iktbilna fuq WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Kemm jiswa stand tal-fiera?",
+   "a": "Il-prezz ta' stand jiddependi mill-erja, mit-tip (f'ringiela, kantuniera, peniżola jew gżira), mill-materjali, mill-grafika, mill-għamara u miċ-ċentru tal-fieri. Wara briefing qasir dwar il-fiera, id-dati u l-metri kwadri, nibagħtulek l-ewwel proposta u kwotazzjoni ċara u dettaljata. Tista' tibda mill-konfiguratur 3D hawn fuq, jew ċemplilna jew iktbilna fuq WhatsApp fuq <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Fejn tinsab NEWSTANDS u f'liema fieri taħdmu?",
+   "a": "Aħna bennejja ta' stands tal-fiera fiż-żona ta' Milan, bl-uffiċċju u l-workshop f'Tromello (PV), fil-Lombardija: post strateġiku ftit 'il bogħod minn Fiera Milano Rho u Allianz MiCo, li jospitaw uħud mill-aktar fieri importanti fl-Ewropa. Minn hawn it-timijiet tagħna jivvjaġġaw lejn kull ċentru tal-fieri: Bologna, Verona, Rimini, Düsseldorf, Kolonja, Frankfurt, Munich, Pariġi, Lyon, Barċellona, Madrid, Amsterdam, Brussell, Vjenna, Ġinevra u lil hinn."
+  },
+  {
+   "q": "X'jinkludi s-servizz turnkey?",
+   "a": "Persuna waħda ta' kuntatt għal kollox: briefing, kunċett u renders 3D, pjanti eżekuttivi, produzzjoni interna ta' strutturi, pannelli, grafika f'format kbir, għamara u dwal, loġistika u trasport, immuntar b'kap tas-sit dedikat, assistenza matul il-fiera, żarmar u ħażna għall-użu mill-ġdid."
+  },
+  {
+   "q": "Tagħmlu wkoll avvenimenti, konferenzi u showrooms?",
+   "a": "Iva. Minbarra stands tal-fiera personalizzati u modulari, infasslu u nwaqqfu avvenimenti korporattivi, konferenzi, konvenzjonijiet, tnedijiet ta' prodotti, palkijiet u xenografiji, showrooms, temporary stores u pop-ups, bi truss, ledwalls u disinn tad-dawl."
+  },
+  {
+   "q": "Kemm qabel għandna nikkuntattjawkom?",
+   "a": "Iktar ma tikkuntattjana kmieni, iktar ikollna ħin għad-disinn, ir-renders u l-produzzjoni: għal stand personalizzat, l-aħjar tibda hekk kif tikkonferma l-parteċipazzjoni tiegħek fil-fiera. Għal stands modulari u mmuntar biss nistgħu naħdmu anki b'żminijiet iktar stretti: iktbilna u nivverifikaw minnufih jekk huwiex fattibbli."
+  },
+  {
+   "q": "Kif nitlob kwotazzjoni?",
+   "a": "Imla l-formola fit-taqsima tal-kuntatti, ikteb lil <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> jew ċemplilna jew iktbilna fuq WhatsApp fuq <a href=\"tel:+393884706887\">+39 388 470 6887</a> (inkella <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Indika l-fiera jew l-avveniment, il-belt, id-dati u l-metri kwadri: nerġgħu nikkuntattjawk bl-ewwel proposta."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Proġett",
+    "Kull stand jibda minn pjanta teknika: qisien, regolament taċ-ċentru, flussi tal-viżitaturi."
+   ],
+   [
+    "Struttura",
+    "Pjattaforma, truss, oqfsa. Il-parti li ma tidhirx iżda li żżomm kollox."
+   ],
+   [
+    "Ħitan & grafika",
+    "Pannelli magħmula apposta, stampar f'format kbir, finituri."
+   ],
+   [
+    "Għamara & teknoloġija",
+    "Desks, totems, ledwalls, żoni tal-laqgħat, ring sospiż. Prodotti u mmuntati minna."
+   ],
+   [
+    "Dwal mixgħula",
+    "Kontroll, tindif, konsenja. L-istand lest biex jiftaħ."
+   ]
+  ],
+  "lbl": [
+   "W 8.000 mm",
+   "F 6.000 mm",
+   "Truss 29×29 — G 4.500",
+   "Ħajt 3.400 + grafika",
+   "Ledwall 3,4 × 1,9 m",
+   "Desk tar-reception",
+   "Ring sospiż Ø 4.400"
+  ],
+  "ty": {
+   "linea": "F'ringiela",
+   "angolo": "Kantuniera",
+   "penisola": "Peniżola",
+   "isola": "Gżira",
+   "doppio": "Żewġ sulari"
+  },
+  "sides": "naħat",
+  "side": "naħa",
+  "openSides": "naħat miftuħa",
+  "openSide": "naħa miftuħa",
+  "cfgMsg": "Konfigurazzjoni mis-sit: stand {type}, {n} {sides}, madwar {area} m² ({dim} m).",
+  "axo": "Veduta assonometrika",
+  "cfgFb": "Il-konfiguratur 3D mhuwiex disponibbli fuq dan l-apparat.<br>Iktbilna: nibagħtulek ir-render aħna.",
+  "mq": [
+   "Stands apposta",
+   "Avvenimenti",
+   "Konferenzi",
+   "Showrooms",
+   "Temporary",
+   "Ledwall",
+   "Truss",
+   "Grafika",
+   "Għamara"
+  ],
+  "svc": [
+   {
+    "t": "Stands personalizzati",
+    "d": "Proġetti uniċi mibnija mix-xejn madwar il-brand tiegħek: mastrudaxxa, metall, ħġieġ, drapp, finituri ta' kwalità għolja.",
+    "tags": [
+     "Kunċett",
+     "Render 3D",
+     "Produzzjoni",
+     "Immuntar"
+    ]
+   },
+   {
+    "t": "Stands modulari",
+    "d": "Sistemi ppreparati minn qabel li jerġgħu jintużaw, għal min jipparteċipa f'diversi fieri fis-sena: immaġni konsistenti, spejjeż taħt kontroll.",
+    "tags": [
+     "Użu mill-ġdid",
+     "Ħażna",
+     "Rapidità"
+    ]
+   },
+   {
+    "t": "Avvenimenti & konferenzi",
+    "d": "Palkijiet, xenografiji, swali plenarji, konvenzjonijiet korporattivi u tnedijiet ta' prodotti, b'direzzjoni teknika sħiħa.",
+    "tags": [
+     "Palkijiet",
+     "Xenografiji",
+     "Awdjo/Vidjo"
+    ]
+   },
+   {
+    "t": "Showrooms & temporary",
+    "d": "Spazji tal-bejgħ temporanji, pop-ups u showrooms permanenti: l-istess reqqa tas-sit tal-fiera.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Grafika f'format kbir",
+    "d": "Stampar fuq forex, drapp backlit, PVC, stickers u grafika fuq il-ħġieġ. Prodotta u applikata minna.",
+    "tags": [
+     "Lightbox",
+     "Drapp",
+     "Stickers"
+    ]
+   },
+   {
+    "t": "Truss & ledwall",
+    "d": "Strutturi tat-truss, rings sospiżi, rigging, ledwalls u disinn tad-dawl għal stands li jidhru mill-padiljun kollu.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Dwal"
+    ]
+   },
+   {
+    "t": "Għamara & kiri",
+    "d": "Desks, bankijiet, siġġijiet, vetrini, kċejjen u mħażen: għamara apposta jew b'kiri għal kull daqs ta' stand.",
+    "tags": [
+     "Apposta",
+     "Kiri",
+     "Ħażna"
+    ]
+   }
+  ],
+  "more": "Skopri s-servizz",
+  "tav": "Fol.",
+  "avail": "DISPONIBBLI",
+  "form": {
+   "type": "Tip ta' proġett",
+   "name": "Isem u kunjom",
+   "company": "Kumpanija",
+   "fair": "Fiera / avveniment u belt",
+   "project": "Proġett",
+   "subj": "Talba għal kwotazzjoni ta' stand"
+  },
+  "ariaW": "{t} — iftaħ il-gallerija ({n} ritratti)",
+  "altW": "Stand tal-fiera {t} — {c}, mibni minn NEWSTANDS",
+  "nPh": "{n} ritratti",
+  "altLb": "Stand tal-fiera {t} ({c}) — ritratt {i} minn {n}",
+  "phN": "Ritratt {i}",
+  "all": "Kollha",
+  "ld": [
+   "Pjattaforma",
+   "Ħitan",
+   "Travu",
+   "Dwal",
+   "Lest"
+  ],
+  "c3": [
+   "MIX-XEJN",
+   "GĦALL-ISTAND.",
+   "DISINN · PRODUZZJONI · IMMUNTAR · EWROPA",
+   "STANDS TAL-FIERA",
+   "STANDS · AVVENIMENTI · EWROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristalli u dawl",
+   "g": "Disinn",
+   "d": "Gżira kollha bajda mdawra b'purtieri ta' ħjut tal-kristall, linef sospiżi u għamara llakkjata: l-istand isir vetrina mimlija dawl."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Supplimenti sportivi",
+   "g": "Ikel & Saħħa",
+   "d": "Gżira b'diversi naħat bi grafika tal-prodotti fuq il-ħitan kollha, sinjali sospiżi u bankijiet tat-tidwiq biex jilqgħu folol kbar."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turiżmu",
+   "g": "Turiżmu",
+   "d": "Padiljun istituzzjonali b'arkati u minareti ispirati mill-arkitettura ta' Telangana, desks għall-operaturi u grafika immersiva."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turiżmu",
+   "g": "Turiżmu",
+   "d": "Portali f'terrakotta finta, arkati minquxa u postijiet B2B: padiljun reġjonali li jirrakkonta t-territorju f'daqqa t'għajn."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Padiljun nazzjonali tal-ikel",
+   "g": "Ikel & Saħħa",
+   "d": "Padiljun kollettiv abjad u aħmar b'dekorazzjonijiet imtaqqbin, desks għall-espożituri u żona ta' show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrija",
+   "d": "Stand korporattiv b'kmamar tal-laqgħat tal-ħġieġ, ħitan imdawla minn wara u żona ta' akkoljenza miftuħa lejn il-kuritur."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Muturi",
+   "g": "Muturi",
+   "d": "Kollox abjad b'portali ħomor u pjattaformi għall-muturi: grafika nadifa li tħalli l-muturi jitkellmu."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Muturi elettriċi",
+   "g": "Muturi",
+   "d": "Xenografija kollha sewda b'art bajda tleqq, muturi għall-wiri u żona tal-laqgħat."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Lounge tal-wirja",
+   "g": "Disinn",
+   "d": "Lounge miftuħa bi stampa panoramika kbira, saqaf sospiż, bank u siġġijiet biex jilqgħu lill-viżitaturi."
+  },
+  {
+   "t": "Plastona",
+   "c": "Dar u ġnien",
+   "g": "Disinn",
+   "d": "Gżira b'sinjali kubiċi fuq truss, xkafef bojod u ambjentazzjonijiet tal-prodotti."
+  },
+  {
+   "t": "Topsun",
+   "c": "Muturi u magni",
+   "g": "Muturi",
+   "d": "Stand tal-kantuniera b'ħitan tal-wiri suwed u bojod, muturi fuq pjattaforma u żona bil-mwejjed."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Industrija tal-enerġija",
+   "g": "Industrija",
+   "d": "Oqfsa ttondjati mdawla minn wara, pannelli tekniċi u żona tal-laqgħat għal udjenza B2B."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Elmi",
+   "g": "Muturi",
+   "d": "Ħitan tal-wiri għall-elmi, grafika tat-tlielaq u bank tar-reception: disinn Taljan fi ftit metri kwadri."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Aċċessorji tal-muturi",
+   "g": "Muturi",
+   "d": "Kolonni bit-tliet kuluri, vetrini mdawla u ħitan tal-prodotti għal preżenza ta' racing b'viżibbiltà għolja."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Elmi",
+   "g": "Muturi",
+   "d": "Ħajt b'disinn ta' djamanti b'elmi għall-wiri, sinjali barra mill-proporzjon u żona bil-mwejjed għan-negozjati."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Spare parts u lbies tal-muturi",
+   "g": "Muturi",
+   "d": "Totems grafiċi għall-għoli kollu, vetrini tal-prodotti u ħitan tal-ilbies madwar żona tal-laqgħat."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrija",
+   "g": "Industrija",
+   "d": "Stand korporattiv blu bi grafika tal-proċess, żona teknika u postijiet tal-laqgħat."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turiżmu",
+   "g": "Turiżmu",
+   "d": "Portal xenografiku b'dekorazzjonijiet tradizzjonali u stampi kbar tat-territorju."
+  },
+  {
+   "t": "Uttar Pradesh — Agrikoltura",
+   "c": "Agroalimentari",
+   "g": "Ikel & Saħħa",
+   "d": "Stand abjad b'oqfsa mdawla mal-art u pannelli tal-prodotti, essenzjali u mimli dawl."
+  },
+  {
+   "t": "Tuneżija — Medica Düsseldorf",
+   "c": "Padiljun nazzjonali mediku",
+   "g": "Mediku",
+   "d": "Padiljun nazzjonali f'Medica Düsseldorf b'sinjal sospiż, desks għall-kumpaniji espożituri u żona lounge."
+  }
+ ],
+ "ui": {
+  "langName": "Malti",
+  "langLabel": "Lingwa",
+  "home": "Bidu",
+  "services": "Servizzi",
+  "works": "Xogħlijiet",
+  "contacts": "Kuntatti",
+  "quote": "Kwotazzjoni",
+  "requestQuote": "Itlob kwotazzjoni",
+  "whatsapp": "Iktbilna fuq WhatsApp",
+  "call": "Ċemplilna",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "Email",
+  "address": "Uffiċċju",
+  "serviceN": "Servizz",
+  "locationK": "Minn Milan għall-Ewropa kollha",
+  "includesTitle": "X'jinkludi",
+  "whyTitle": "Għaliex NEWSTANDS",
+  "why": [
+   {
+    "t": "Bażi f'Milan",
+    "d": "Naħdmu miż-żona ta' Milan, ftit 'il bogħod minn Fiera Milano Rho u Allianz MiCo: spezzjonijiet rapidi tas-sit, loġistika sempliċi, timijiet dejjem qrib iċ-ċentri tal-fieri l-kbar."
+   },
+   {
+    "t": "Produzzjoni interna",
+    "d": "Strutturi, pannelli, grafika, għamara u dwal isiru fil-workshop tagħna: inqas passaġġi, inqas sorpriżi, skadenzi rispettati."
+   },
+   {
+    "t": "F'kull ċentru tal-fieri Ewropew",
+    "d": "It-timijiet tal-immuntar tagħna jivvjaġġaw mal-istand: il-Ġermanja, Franza, Spanja, il-Benelux, l-Awstrija, l-Iżvizzera u kull ċentru ieħor fuq talba."
+   },
+   {
+    "t": "Persuna waħda ta' kuntatt",
+    "d": "Mill-briefing saż-żarmar dejjem titkellem mal-istess persuna, b'kap tas-sit dedikat fil-fiera."
+   }
+  ],
+  "galleryTitle": "Xi stands li bnejna",
+  "faqTitle": "Mistoqsijiet frekwenti",
+  "otherTitle": "Servizzi oħra",
+  "ctaTitle": "Għandek fiera fil-kalendarju?",
+  "ctaText": "Għidilna dwar il-fiera, il-belt, id-dati u l-metri kwadri: inwieġbuk bl-ewwel proposta u kwotazzjoni ċara.",
+  "whereTitle": "Minn Milan għal kull ċentru tal-fieri",
+  "whereText": "Aħna fiż-żona ta' Milan, il-belt li tospita uħud mill-aktar fieri importanti fid-dinja. Minn hawn it-timijiet tagħna jilħqu kull ċentru tal-fieri fl-Italja u fl-Ewropa.",
+  "milanLink": "Stands tal-fiera f'Milan",
+  "europeLink": "Stands tal-fiera fl-Ewropa",
+  "photos": "ritratti",
+  "backHome": "Lura għall-paġna ewlenija",
+  "footerTag": "Stands tal-fiera f'Milan u madwar l-Ewropa kollha. Imfassal, prodott, immuntat.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija · Żona ta' Milan",
+  "breadcrumb": "Mogħdija",
+  "skip": "Mur għall-kontenut",
+  "menu": "Menu ewlieni"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "stands-tal-fiera-personalizzati",
+   "nav": "Stands personalizzati",
+   "title": "Stands tal-fiera personalizzati f'Milan u fl-Ewropa | NEWSTANDS",
+   "desc": "Stands tal-fiera personalizzati mfassla, prodotti u mmuntati minn NEWSTANDS: bażi fiż-żona ta' Milan, xogħol fiċ-ċentri kollha tal-fieri tal-Ewropa.",
+   "h1": "Stands tal-fiera personalizzati",
+   "lead": "Stand uniku, mibni mix-xejn madwar il-brand tiegħek: infassluh, nipproduċuh fil-workshop tagħna qrib Milan u nimmuntawh fi kwalunkwe fiera fl-Ewropa.",
+   "body": [
+    "Stand personalizzat huwa l-aktar mod qawwi biex tippreżenta ruħek f'fiera: kull ħajt, kull dawl u kull rotta tal-viżitaturi huma maħsuba għall-prodotti tiegħek u għall-għanijiet kummerċjali tiegħek. Nibdew mir-regolament tekniku taċ-ċentru u mill-flussi tal-padiljun, imbagħad nittrasformaw l-idea f'renders 3D fotorealistiċi u pjanti eżekuttivi.",
+    "Nipproduċu internament strutturi tal-injam u tal-metall, pannelli, grafika, għamara u dwal, hekk nikkontrollaw il-kwalità u ż-żminijiet f'kull fażi. Kemm jekk il-fiera tkun f'Fiera Milano Rho, f'Düsseldorf jew f'Pariġi, it-tim li bena l-istand tiegħek huwa l-istess tim li jimmuntah."
+   ],
+   "inc": [
+    {
+     "t": "Kunċett u renders 3D",
+     "d": "Proposta kreattiva, renders fotorealistiċi u reviżjonijiet sakemm l-istand ikun eżatt kif tridu."
+    },
+    {
+     "t": "Proġett eżekuttiv",
+     "d": "Pjanti tekniċi, kalkoli u dokumentazzjoni konformi mar-regolament ta' kull ċentru tal-fieri."
+    },
+    {
+     "t": "Produzzjoni apposta",
+     "d": "Mastrudaxxa, xogħol tal-metall, ħġieġ, drapp u finituri ta' kwalità għolja magħmula fil-workshop tagħna."
+    },
+    {
+     "t": "Grafika u dawl",
+     "d": "Stampar f'format kbir, lightboxes, ledwalls u disinn tad-dawl integrati fl-arkitettura tal-istand."
+    },
+    {
+     "t": "Immuntar u żarmar",
+     "d": "Trasport, immuntar b'kap tas-sit dedikat, assistenza fil-fiera, żarmar u ħażna."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kemm iddum biex isir stand personalizzat?",
+     "a": "Jiddependi mid-daqs u mill-kumplessità: għal stand apposta l-aħjar tibda hekk kif tiġi kkonfermata l-parteċipazzjoni fil-fiera, biex ikun hemm ħin għad-disinn, ir-renders u l-produzzjoni."
+    },
+    {
+     "q": "Stand personalizzat jista' jerġa' jintuża?",
+     "a": "Iva. Infasslu l-komponenti biex jinħażnu u jerġgħu jiġu mmuntati: fil-fiera ta' wara nadattaw l-istand għal daqsijiet ġodda u grafika ġdida."
+    },
+    {
+     "q": "Tagħmlu stands personalizzati anki barra l-Italja?",
+     "a": "Iva, miż-żona ta' Milan nieħdu l-istand u t-timijiet tagħna fiċ-ċentri ewlenin kollha tal-fieri Ewropej, mill-Ġermanja sa Spanja."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "stands-tal-fiera-modulari",
+   "nav": "Stands modulari",
+   "title": "Stands modulari għall-fieri f'Milan u fl-Ewropa | NEWSTANDS",
+   "desc": "Stands tal-fiera modulari li jerġgħu jintużaw, għal min jieħu sehem f'diversi fieri fis-sena: immaġni konsistenti u spejjeż taħt kontroll, minn Milan.",
+   "h1": "Stands modulari li jerġgħu jintużaw",
+   "lead": "Sistemi modulari maħsuba għal min jesibixxi f'diversi fieri fis-sena: l-istess immaġni tal-brand, spejjeż taħt kontroll u mmuntar rapidu, f'Milan kif ukoll f'kull ċentru Ewropew.",
+   "body": [
+    "Stand modulari huwa investiment li jdum: strutturi, pannelli u għamara jiġu kkonfigurati mill-ġdid biex jadattaw għal daqsijiet u tipi differenti, mill-istand f'ringiela sal-gżira. Il-grafika tinbidel, il-kwalità tibqa'.",
+    "Infasslu s-sistema darba, nipproduċuha fil-workshop tagħna u nieħdu ħsiebha aħna bejn fiera u oħra: ħażna, manutenzjoni, aġġornament tal-grafika u trasport lejn il-padiljun li jmiss, fl-Italja jew barra."
+   ],
+   "inc": [
+    {
+     "t": "Sistema apposta",
+     "d": "Moduli mfassla fuq l-immaġni tiegħek, li jistgħu jingħaqdu għal stands minn ftit metri kwadri sa gżejjer kbar."
+    },
+    {
+     "t": "Grafika interkambjabbli",
+     "d": "Drappijiet u pannelli stampati li jinbidlu malajr għal kull fiera, prodott jew suq."
+    },
+    {
+     "t": "Ħażna u manutenzjoni",
+     "d": "Inżommu l-istand fil-maħżen tagħna u niċċekkjawh qabel kull tluq ġdid."
+    },
+    {
+     "t": "Immuntar rapidu",
+     "d": "Żminijiet ta' twaqqif imqassra, ideali anki għal fieri b'twieqi tal-immuntar stretti."
+    },
+    {
+     "t": "Kalendarju tal-fieri ġestit",
+     "d": "Nippjanaw miegħek l-istaġun tal-fieri u norganizzaw il-loġistika u t-timijiet għal kull waqfa."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Stand modulari jiswa inqas minn wieħed personalizzat?",
+     "a": "Fuq diversi fieri normalment iva: l-investiment inizjali jinqasam fuq kull parteċipazzjoni u l-ispejjeż tal-produzzjoni ta' wara jonqsu għall-grafika u l-loġistika."
+    },
+    {
+     "q": "L-istand modulari jadatta għal erjas differenti?",
+     "a": "Iva, il-moduli jingħaqdu mill-ġdid għal stands f'ringiela, tal-kantuniera, peniżola jew gżira u għal daqsijiet differenti."
+    },
+    {
+     "q": "Tistgħu tieħdu ħsieb il-kalendarju kollu tal-fieri tagħna?",
+     "a": "Iva: miż-żona ta' Milan nikkoordinaw il-ħażna, it-trasport u l-immuntar għal kull fiera tal-istaġun, fl-Italja u fl-Ewropa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "setups-avvenimenti-konferenzi",
+   "nav": "Avvenimenti & konferenzi",
+   "title": "Setups għal avvenimenti u konferenzi f'Milan | NEWSTANDS",
+   "desc": "Setups għal avvenimenti korporattivi, konferenzi, konvenzjonijiet u tnedijiet ta' prodotti f'Milan u fl-Ewropa: palkijiet, xenografiji, direzzjoni teknika.",
+   "h1": "Setups għal avvenimenti u konferenzi",
+   "lead": "Palkijiet, xenografiji, swali plenarji, konvenzjonijiet korporattivi u tnedijiet ta' prodotti: inwaqqfu avvenimenti u konferenzi f'Milan u madwar l-Ewropa bl-istess preċiżjoni ta' sit tal-fiera.",
+   "body": [
+    "Milan hija waħda mill-kapitali Ewropej tal-avvenimenti u l-konferenzi, bi spazji bħal Allianz MiCo u l-postijiet korporattivi l-kbar tal-belt. Billi naħdmu miż-żona ta' Milan, nafu ż-żminijiet, ir-regoli u l-loġistika ta' dawn l-ispazji u nistgħu nieħdu ħsieb l-ispezzjonijiet tas-sit u l-immuntar b'ħeffa kbira.",
+    "Infasslu s-setup kollu: palk, xenografija, sala plenarja, żoni tal-wirjiet, reception, sinjaletika u disinn tad-dawl. Nikkoordinaw aħna lill-fornituri tekniċi, hekk ikollok persuna waħda ta' kuntatt għall-avveniment kollu."
+   ],
+   "inc": [
+    {
+     "t": "Palkijiet u xenografiji",
+     "d": "Palkijiet apposta, backdrops, ledwalls u xenografiji mfassla għall-messaġġ tiegħek."
+    },
+    {
+     "t": "Swali plenarji u konferenzi",
+     "d": "Twaqqif ta' swali, żoni tal-posters, desks tal-akkoljenza u spazji għall-isponsors."
+    },
+    {
+     "t": "Konvenzjonijiet u tnedijiet ta' prodotti",
+     "d": "Ambjentazzjonijiet biex tippreżenta prodott jew tlaqqa' t-tim tal-bejgħ b'mod memorabbli."
+    },
+    {
+     "t": "Awdjo, vidjo u dwal",
+     "d": "Direzzjoni teknika, truss, ledwalls u disinn tad-dawl integrati fil-proġett."
+    },
+    {
+     "t": "Sinjaletika u grafika",
+     "d": "Rotot, totems, backdrops u grafika koordinata stampata u installata minna."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Twaqqfu avvenimenti anki barra ċ-ċentri tal-fieri?",
+     "a": "Iva: lukandi, ċentri tal-konferenzi, spazji industrijali u postijiet privati, f'Milan, fl-Italja u barra l-pajjiż."
+    },
+    {
+     "q": "Tistgħu tieħdu ħsieb ukoll il-parti teknika tal-awdjo u l-vidjo?",
+     "a": "Iva, nikkoordinaw il-palk, il-ledwalls, id-dwal u l-awdjo bħala parti minn proġett wieħed, b'persuna waħda ta' referenza."
+    },
+    {
+     "q": "Kemm qabel għandu jiġi organizzat avveniment?",
+     "a": "Iktar kmieni aħjar: b'xi ġimgħat ta' marġni nistgħu nagħmlu l-ispezzjoni tas-sit, id-disinn u l-produzzjoni bil-kalma. Għal bżonnijiet urġenti kkuntattjana u nivvalutaw il-fattibbiltà."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showrooms-hwienet-temporanji",
+   "nav": "Showrooms & temporary",
+   "title": "Showrooms, temporary stores u pop-ups f'Milan | NEWSTANDS",
+   "desc": "Disinn u twaqqif ta' showrooms, temporary stores, pop-ups u shop-in-shops f'Milan u fl-Ewropa, bi produzzjoni u mmuntar interni.",
+   "h1": "Showrooms, temporary stores u pop-ups",
+   "lead": "Spazji tal-bejgħ temporanji, pop-ups u showrooms permanenti mwaqqfa bl-istess reqqa tas-sit tal-fiera, f'Milan u madwar l-Ewropa kollha.",
+   "body": [
+    "Temporary store jew pop-up irid ikun lest fi ftit jiem u jħalli l-marka tiegħu: infasslu spazji li jirrakkontaw il-brand, jagħtu valur lill-prodott u jiġu mmuntati malajr, anki f'ċentri kummerċjali u toroq tax-xiri.",
+    "Għal showrooms permanenti nagħmlu għamara apposta, ħitan tal-wiri, vetrini u dwal b'materjali li jdumu. Il-produzzjoni u l-immuntar huma interni, għalhekk iż-żminijiet u l-kwalità jibqgħu taħt kontroll."
+   ],
+   "inc": [
+    {
+     "t": "Kunċett tar-retail",
+     "d": "Layout, rotta tal-klijent u wiri tal-prodotti maħsuba biex ibigħu."
+    },
+    {
+     "t": "Temporary u pop-up",
+     "d": "Strutturi ħfief u malajr biex jiġu mmuntati, żarmati u użati mill-ġdid fi bliet oħra."
+    },
+    {
+     "t": "Showrooms permanenti",
+     "d": "Għamara apposta, ħitan attrezzati, vetrini u finituri ta' kwalità għolja."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Kantunieri tal-brand ġewwa ħwienet u department stores, konsistenti mal-immaġni tiegħek."
+    },
+    {
+     "t": "Dwal u grafika",
+     "d": "Dawl għall-prodotti, sinjali, grafika fuq il-ħġieġ u grafika oħra prodotta minna."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kemm iddum biex jitwaqqaf temporary store?",
+     "a": "Jiddependi mill-ispazju u mill-proġett: bis-saħħa tal-produzzjoni interna nistgħu nimmuntaw pop-up anki fi ftit jiem."
+    },
+    {
+     "q": "Pop-up jista' jiġi mċaqlaq lejn bliet oħra?",
+     "a": "Iva, infasslu strutturi modulari li jiġu żarmati u mmuntati mill-ġdid f'postijiet oħra, fl-Italja u fl-Ewropa."
+    },
+    {
+     "q": "Tieħdu ħsieb ukoll showrooms permanenti?",
+     "a": "Iva, mid-disinn sal-installazzjoni tal-għamara, il-vetrini, id-dwal u l-grafika."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grafika-format-kbir",
+   "nav": "Grafika f'format kbir",
+   "title": "Grafika f'format kbir għall-istands u l-fieri | NEWSTANDS",
+   "desc": "Stampar f'format kbir għal stands tal-fiera u avvenimenti: forex, drapp backlit, lightboxes, PVC, stickers u grafika fuq il-ħġieġ, prodotti u applikati minna.",
+   "h1": "Grafika f'format kbir għall-istands u l-avvenimenti",
+   "lead": "Stampar fuq forex, drapp backlit, PVC, stickers u grafika fuq il-ħġieġ: il-grafika tal-istand tiegħek prodotta u applikata mill-istess timijiet li jimmuntawh.",
+   "body": [
+    "Il-grafika hija l-ewwel ħaġa li jaraw il-viżitaturi, ħafna drabi mill-padiljun kollu. Għalhekk nittrattawha bħala parti mill-arkitettura tal-istand: il-formati, il-materjali u d-dwal jiġu mfassla flimkien mal-istrutturi.",
+    "Nistampaw u napplikaw aħna stess, f'Milan kif ukoll f'kull fiera Ewropea: l-ebda passaġġ bejn fornituri differenti, kuluri kkontrollati u grafika allinjata perfettament fil-mument tal-ftuħ."
+   ],
+   "inc": [
+    {
+     "t": "Drapp backlit",
+     "d": "Lightboxes u ħitan imdawla tad-drapp, ħfief u b'impatt kbir."
+    },
+    {
+     "t": "Pannelli riġidi",
+     "d": "Stampar fuq forex, dibond u PVC għal ħitan, totems u desks."
+    },
+    {
+     "t": "Stickers u grafika fuq il-ħġieġ",
+     "d": "Art, twieqi u uċuħ personalizzati bi stickers tekniċi."
+    },
+    {
+     "t": "Sinjali sospiżi",
+     "d": "Banners u strutturi grafiċi mdendla li jidhru mill-bogħod fil-padiljun."
+    },
+    {
+     "t": "Applikazzjoni fil-fiera",
+     "d": "Ninstallaw il-grafika aħna, b'kontroll finali qabel il-ftuħ."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tistampaw grafika anki għal stands magħmula minn oħrajn?",
+     "a": "Iva, nistgħu nipproduċu u napplikaw il-grafika biss, filwaqt li nirrispettaw il-qisien u r-regolamenti taċ-ċentru tal-fieri."
+    },
+    {
+     "q": "Liema files huma meħtieġa għall-istampar?",
+     "a": "Files vettorjali jew immaġni b'riżoluzzjoni għolja bil-bleed: nibagħtulek aħna l-ispeċifikazzjonijiet tekniċi għal kull format."
+    },
+    {
+     "q": "Il-grafika tad-drapp tista' terġa' tintuża?",
+     "a": "Iva, id-drapp jinħasel, jintewa u jerġa' jiġi mmuntat: ideali għal min jieħu sehem f'diversi fieri."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledwall-disinn-tad-dawl",
+   "nav": "Truss & ledwall",
+   "title": "Truss, ledwalls u dwal għall-istands tal-fiera | NEWSTANDS",
+   "desc": "Strutturi tat-truss, rings sospiżi, rigging, ledwalls u disinn tad-dawl għal stands tal-fiera u avvenimenti f'Milan u madwar l-Ewropa kollha.",
+   "h1": "Truss, ledwalls u disinn tad-dawl",
+   "lead": "Strutturi tat-truss, rings sospiżi, rigging, ledwalls u dwal għal stands li jidhru mill-padiljun kollu, f'Fiera Milano u f'kull ċentru Ewropew.",
+   "body": [
+    "Ring sospiż bil-logo, ledwall għall-vidjows tal-prodott, dawl studjat fuq l-uċuħ: dawn huma l-elementi li jagħmlu stand rikonoxxibbli mill-bogħod. Infassluhom flimkien mal-istand, filwaqt li nivverifikaw it-tagħbijiet, il-punti tas-sospensjoni u r-regolamenti taċ-ċentru.",
+    "Nipprovdu u ninstallaw truss, magni tal-irfigħ, ledwalls u dwal b'persunal ikkwalifikat, filwaqt li nikkoordinaw it-talbiet tar-rigging mal-organizzazzjoni tal-fiera."
+   ],
+   "inc": [
+    {
+     "t": "Truss u strutturi",
+     "d": "Strutturi mal-art u sospiżi ta' kull daqs, anki bħala bażi għall-grafika u d-dwal."
+    },
+    {
+     "t": "Rings u sinjali sospiżi",
+     "d": "Elementi mdendla ċirkolari jew apposta bil-grafika, li jidhru mill-padiljun kollu."
+    },
+    {
+     "t": "Rigging",
+     "d": "Kalkoli, punti tas-sospensjoni u proċeduri maċ-ċentru tal-fieri."
+    },
+    {
+     "t": "Ledwall",
+     "d": "Skrins LED ta' daqsijiet differenti integrati fil-ħitan jew fuq strutturi dedikati."
+    },
+    {
+     "t": "Disinn tad-dawl",
+     "d": "Proġett tad-dawl għall-prodotti, għall-grafika u għall-atmosfera tal-istand."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tieħdu ħsieb intom l-awtorizzazzjonijiet għar-rigging?",
+     "a": "Iva, inħejju d-dokumentazzjoni teknika u nġestixxu t-talbiet mal-organizzazzjoni tal-fiera."
+    },
+    {
+     "q": "Tikru ledwalls anki għal avvenimenti?",
+     "a": "Iva, ledwalls, truss u dwal huma disponibbli wkoll għal avvenimenti, konferenzi u tnedijiet ta' prodotti."
+    },
+    {
+     "q": "Taħdmu wkoll f'ċentri tal-fieri barra l-pajjiż?",
+     "a": "Iva, ninstallaw strutturi u ledwalls fiċ-ċentri ewlenin kollha tal-fieri Ewropej."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "ghamara-u-kiri-ghall-istands",
+   "nav": "Għamara & kiri",
+   "title": "Għamara apposta u kiri ta' għamara għall-istands | NEWSTANDS",
+   "desc": "Desks, bankijiet, siġġijiet, vetrini, kċejjen u mħażen għal stands tal-fiera: għamara apposta jew b'kiri, minn Milan għall-Ewropa kollha.",
+   "h1": "Għamara apposta u b'kiri għall-istands",
+   "lead": "Desks, bankijiet, siġġijiet, vetrini, kċejjen u mħażen: għamara magħmula apposta fil-workshop tagħna jew b'kiri, għal stands ta' kull daqs.",
+   "body": [
+    "L-għamara hija dik li tagħmel l-istand jaħdem: l-akkoljenza, il-wiri, il-laqgħat, it-tidwiq u l-ħażna jridu jkunu fl-ispazju t-tajjeb. Infassluha flimkien mal-layout, filwaqt li naħsbu fil-flussi tal-viżitaturi u fix-xogħol tat-tim tiegħek fil-fiera.",
+    "Nistgħu nagħmlu biċċiet uniċi apposta, bil-finituri u l-kuluri tal-brand tiegħek, jew nipprovdu għamara b'kiri biex inżommu l-ispejjeż baxxi. Il-konsenja, l-immuntar u l-ġbir huma dejjem f'idejna."
+   ],
+   "inc": [
+    {
+     "t": "Desks u reception",
+     "d": "Bankijiet tal-akkoljenza apposta, bil-logo, dwal u kompartimenti tekniċi."
+    },
+    {
+     "t": "Żoni tal-laqgħat u lounge",
+     "d": "Mwejjed, siġġijiet u salotti żgħar biex tiltaqa' mal-klijenti fl-istand."
+    },
+    {
+     "t": "Vetrini u displays",
+     "d": "Vetrini, xkafef u ħitan attrezzati biex jagħtu valur lill-prodotti."
+    },
+    {
+     "t": "Kċejjen u mħażen",
+     "d": "Kmamar tal-ħażna, kċejjen u żoni tas-servizz integrati fl-istand."
+    },
+    {
+     "t": "Kiri tal-għamara",
+     "d": "Għamara b'kiri għal kull stil u baġit, ikkunsinnata u miġbura minna."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Nista' nikri l-għamara biss?",
+     "a": "Iva, nipprovdu wkoll għamara b'kiri biss, bil-konsenja u l-ġbir fil-fiera."
+    },
+    {
+     "q": "L-għamara apposta tista' terġa' tintuża?",
+     "a": "Iva, inżommuha fil-maħżen tagħna u nġibuha lura għall-fiera ta' wara."
+    },
+    {
+     "q": "Tikkunsinnaw għamara anki barra l-pajjiż?",
+     "a": "Iva, nikkunsinnaw u nimmuntaw għamara fiċ-ċentri ewlenin kollha tal-fieri Ewropej."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "immuntar-u-zarmar-tal-istands",
+   "nav": "Immuntar & żarmar",
+   "title": "Immuntar u żarmar ta' stands f'Milan u fl-Ewropa | NEWSTANDS",
+   "desc": "Timijiet speċjalizzati għall-immuntar u ż-żarmar ta' stands tal-fiera f'Fiera Milano Rho u fiċ-ċentri kollha tal-fieri Ewropej. Anki mmuntar biss.",
+   "h1": "Immuntar u żarmar ta' stands tal-fiera",
+   "lead": "Timijiet speċjalizzati u kap tas-sit dedikat biex jimmuntaw u jiżżarmaw l-istand tiegħek f'Fiera Milano Rho, Allianz MiCo u f'kull ċentru tal-fieri fl-Ewropa. Anki mmuntar biss.",
+   "body": [
+    "L-immuntar huwa l-mument meta proġett isir stand: jeħtieġu timijiet esperti, tagħmir, rispett tal-ħinijiet stabbiliti u tar-regoli tas-sigurtà taċ-ċentru. Mill-bażi tagħna fiż-żona ta' Milan naslu malajr fiċ-ċentri tal-fieri ta' Milan u nitilqu bl-istand lejn il-fieri madwar l-Ewropa kollha.",
+    "Nimmuntaw stands prodotti minna u anki stands ta' fornituri oħra jew proprjetà tal-klijent: riċezzjoni tal-materjal, immuntar, kontroll, assistenza matul il-fiera, żarmar u ritorn fil-maħżen."
+   ],
+   "inc": [
+    {
+     "t": "Timijiet speċjalizzati",
+     "d": "Immuntaturi esperti bit-tagħmir tagħhom u kap tas-sit dedikat."
+    },
+    {
+     "t": "Permessi ta' aċċess",
+     "d": "Passes, dokumentazzjoni tas-sigurtà u permessi meħtieġa miċ-ċentru tal-fieri."
+    },
+    {
+     "t": "Kontroll u konsenja",
+     "d": "Kontroll finali tal-istrutturi, tad-dwal u tal-grafika qabel il-ftuħ."
+    },
+    {
+     "t": "Assistenza fil-fiera",
+     "d": "Tekniċi disponibbli matul il-fiera għal kull ħtieġa."
+    },
+    {
+     "t": "Żarmar u ħażna",
+     "d": "Żarmar fil-ħin previst, trasport u ħażna għall-użu mill-ġdid."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tagħmlu wkoll l-immuntar biss ta' stands li mhumiex tagħkom?",
+     "a": "Iva, nimmuntaw u nżarmaw ukoll stands ta' bennejja oħra jew proprjetà tal-espożitur."
+    },
+    {
+     "q": "F'liema ċentri tal-fieri taħdmu?",
+     "a": "F'Fiera Milano Rho u Allianz MiCo, f'Bologna, Verona u Rimini, u fiċ-ċentri Ewropej ewlenin: Düsseldorf, Kolonja, Frankfurt, Munich, Pariġi, Barċellona, Madrid, Amsterdam u lil hinn."
+    },
+    {
+     "q": "Tirrispettaw ir-regoli tas-sigurtà taċ-ċentri?",
+     "a": "Iva, l-immuntaturi tagħna jaħdmu skont ir-regoli tas-sigurtà u r-regolamenti tekniċi ta' kull ċentru tal-fieri."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "stands-tal-fiera-milan",
+   "nav": "Stands f'Milan",
+   "title": "Bennej ta' stands tal-fiera f'Milan: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Bennejja ta' stands tal-fiera fiż-żona ta' Milan: stands turnkey għal Fiera Milano Rho, Allianz MiCo u avvenimenti fil-belt, imfassla u mmuntati minna.",
+   "h1": "Stands tal-fiera f'Milan",
+   "lead": "Milan hija wieħed mill-aktar ċentri tal-fieri importanti fl-Ewropa u aħna naħdmu minn hawn: infasslu, nipproduċu u nimmuntaw stands għall-fieri ta' Fiera Milano Rho, Allianz MiCo u għall-avvenimenti fil-belt.",
+   "body": [
+    "Kull sena Fiera Milano Rho tospita avvenimenti internazzjonali bħal Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO u MICAM, filwaqt li Allianz MiCo huwa fost l-akbar ċentri tal-konferenzi fl-Ewropa. Għal espożitur dan ifisser kompetizzjoni qawwija ħafna: l-istand irid jispikka.",
+    "Li jkollok il-bennej tal-istand fiż-żona ta' Milan ifisser spezzjonijiet rapidi tas-sit, loġistika sempliċi, timijiet tal-immuntar fil-qrib u assistenza immedjata matul il-fiera. U jekk wara Milan l-istaġun tiegħek ikompli barra l-pajjiż, l-istess tim jieħu l-istand f'kull ċentru tal-fieri Ewropew."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stands għall-fieri internazzjonali l-kbar fiċ-ċentru ta' Rho, mill-padiljuni tad-disinn sa dawk tal-muturi u tal-ikel."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Setups għal konferenzi, konvenzjonijiet u fieri fiċ-ċentru tal-konferenzi ta' Milan."
+    },
+    {
+     "t": "Avvenimenti fil-belt",
+     "d": "Tnedijiet ta' prodotti, Fuorisalone, showrooms u temporary stores f'postijiet madwar Milan."
+    },
+    {
+     "t": "Spezzjonijiet rapidi",
+     "d": "Mill-bażi tagħna naslu fiċ-ċentri tal-fieri ta' Milan fi ftit ħin, qabel u matul il-fiera."
+    },
+    {
+     "t": "Ħażna fil-qrib",
+     "d": "L-istand tiegħek jibqa' fil-maħżen tagħna fil-Lombardija, lest għall-edizzjoni li jmiss."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Intom bennejja ta' stands minn Milan?",
+     "a": "Iva, naħdmu miż-żona ta' Milan, bl-uffiċċju u l-workshop f'Tromello (PV), fil-Lombardija, ftit 'il bogħod minn Fiera Milano Rho."
+    },
+    {
+     "q": "Għal liema fieri f'Milan tagħmlu stands?",
+     "a": "Għall-avvenimenti kollha ta' Fiera Milano Rho u Allianz MiCo, kif ukoll għal avvenimenti u l-Fuorisalone fil-belt."
+    },
+    {
+     "q": "Tistgħu ssegwuna anki fil-fieri barra l-pajjiż?",
+     "a": "Iva, minn Milan nieħdu stands u timijiet fiċ-ċentri ewlenin kollha tal-fieri Ewropej."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "stands-tal-fiera-ewropa",
+   "nav": "Stands fl-Ewropa",
+   "title": "Stands tal-fiera fl-Ewropa: Ġermanja, Franza, Spanja | NEWSTANDS",
+   "desc": "Minn Milan għaċ-ċentri kollha tal-fieri Ewropej: stands turnkey f'Düsseldorf, Kolonja, Frankfurt, Munich, Pariġi, Barċellona, Madrid, Amsterdam u lil hinn.",
+   "h1": "Stands tal-fiera madwar l-Ewropa kollha",
+   "lead": "Nitilqu minn Milan u naslu fi kwalunkwe ċentru tal-fieri fl-Ewropa: fornitur wieħed għad-disinn, il-produzzjoni, it-trasport u l-immuntar, kull fejn tkun il-fiera tiegħek.",
+   "body": [
+    "Li tesibixxi barra l-pajjiż b'bennej lokali differenti f'kull pajjiż ifisser persuni ġodda ta' kuntatt, standards differenti u aktar riskji. Ma' NEWSTANDS għandek tim wieħed: infasslu u nipproduċu fil-workshop tagħna qrib Milan, norganizzaw it-trasport u l-permessi ta' aċċess u nimmuntaw bit-timijiet tagħna.",
+    "Naħdmu fiċ-ċentri l-kbar tal-fieri fil-Ġermanja, fi Franza, fi Spanja, fil-Benelux, fl-Awstrija u fl-Iżvizzera, u f'kull ċentru ieħor fuq talba. Bnejna padiljuni nazzjonali u stands tal-brand, bħall-padiljun tat-Tuneżija f'MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Il-Ġermanja",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt u Messe München."
+    },
+    {
+     "t": "Franza",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles u Eurexpo Lyon."
+    },
+    {
+     "t": "Spanja",
+     "d": "Fira de Barcelona Gran Via u IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam u Brussels Expo."
+    },
+    {
+     "t": "L-Awstrija, l-Iżvizzera u lil hinn",
+     "d": "Messe Wien, Palexpo Genève u kull ċentru tal-fieri Ewropew ieħor fuq talba."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Tieħdu ħsieb intom it-trasport u l-proċeduri għall-fieri barra l-pajjiż?",
+     "a": "Iva: l-ippakkjar, it-trasport, il-passes, id-dokumentazzjoni tas-sigurtà u r-relazzjonijiet mal-organizzazzjoni tal-fiera huma f'idejna."
+    },
+    {
+     "q": "It-timijiet tal-immuntar huma tagħkom?",
+     "a": "Iva, l-istand jiġi mmuntat mit-timijiet tagħna b'kap tas-sit dedikat, anki barra l-pajjiż."
+    },
+    {
+     "q": "B'liema lingwi nistgħu nikkomunikaw?",
+     "a": "Bit-Taljan u bl-Ingliż; għad-dokumentazzjoni tal-fiera nikkoordinaw mal-organizzatur fil-lingwa lokali."
+    }
+   ]
+  }
+ }
+}

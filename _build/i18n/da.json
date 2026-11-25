@@ -1,0 +1,987 @@
+{
+ "_lang": "da",
+ "meta": {
+  "title": "Messestande i Milano og hele Europa | NEWSTANDS",
+  "desc": "Standbygger i Milano-området: vi designer, producerer og opstiller nøglefærdige messestande på Fiera Milano og i alle Europas messecentre.",
+  "ogTitle": "NEWSTANDS — Messestande fra Milano til hele Europa",
+  "ogDesc": "Nøglefærdige messestande, events og kongresser: base i Milano-området, egne montagehold i alle Europas messecentre.",
+  "ogAlt": "NEWSTANDS — messestande fra Milano til hele Europa",
+  "orgDesc": "Standbygger med base i Milano-området (hovedsæde i Tromello, PV). Designer, producerer og opstiller nøglefærdige messestande, event- og kongresindretning, showrooms og pop-up-butikker på Fiera Milano og i alle Europas messecentre.",
+  "slogan": "Designet, produceret, opstillet."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podie",
+  "h003": "Allestimenti",
+  "h004": "Designet · Produceret · Opstillet",
+  "h005": "Tryk for at gå ind",
+  "h006": "Proces",
+  "h007": "Ydelser",
+  "h008": "Projekter",
+  "h009": "Konfigurér",
+  "h009b": "Konfigurér",
+  "h010": "Europa",
+  "h011": "Tilbud",
+  "h012": "Messestande i Milano · Events · Kongresser",
+  "h013": "Design → Produktion → Montage",
+  "h014": "Vi har base i Milano-området, Europas messehjerte: vi bygger messestande fra bunden og opstiller dem i alle Europas messecentre. Én kontaktperson fra den første skitse til den sidste skrue.",
+  "h015": "Scroll og byg standen",
+  "h016": "Tegn. 00 — Standplan 8.000 × 6.000",
+  "h017": "Skala 1:50",
+  "h018": "Projekt",
+  "h019": "Byggefremdrift",
+  "h020": "Tegn. 05 — Aflevering",
+  "h021": "Nøglefærdig.",
+  "h022": "Konfigurér din",
+  "h023": "Få et tilbud",
+  "h024": "§ 01 — Om os",
+  "h025": "Vi sælger ikke kvadratmeter. Vi bygger stedet, hvor dit *brand* møder markedet — fra den *første* *skitse* til den sidste skrue, i enhver messehal i Europa.",
+  "h026": "Metoden",
+  "h027": "Vi designer, producerer og opstiller alle dele selv: konstruktioner, vægpaneler, grafik, møbler og lys. Færre led, færre overraskelser, deadlines der holder.",
+  "h028": "Fra ingenting",
+  "h029": "til færdig stand.",
+  "h030": "Seks faser, én samlet styring.",
+  "h031": "Scroll vandret →",
+  "h032": "Fase 01",
+  "h033": "Mål, budget, messe og messecentrets tekniske regler. Vi starter med, hvad der skal ske på din stand.",
+  "h034": "Fase 02",
+  "h035": "Koncept & 3D",
+  "h036": "Fotorealistiske renderinger og arbejdstegninger: du ser den færdige stand, før en eneste plade bliver skåret.",
+  "h037": "Fase 03",
+  "h038": "Produktion",
+  "h039": "Snedkeri, metalarbejde, storformatprint og lysdesign. Hver del bliver lavet på mål.",
+  "h040": "Fase 04",
+  "h041": "Logistik",
+  "h042": "Emballering, transport og adgangspapirer til alle Europas messecentre. Vi kommer selv — til tiden.",
+  "h043": "Fase 05",
+  "h044": "Montage",
+  "h045": "Specialiserede montagehold, fast montageleder og slutkontrol. Du får standen afleveret klar til brug.",
+  "h046": "Fase 06",
+  "h047": "Messe & nedtagning",
+  "h048": "Teknisk support under messen, nedtagning, opbevaring og genbrug til næste messe.",
+  "h049": "Resultat",
+  "h050": "Du tænker",
+  "h051": "på kunderne.",
+  "h052": "Resten",
+  "h053": "klarer vi.",
+  "h054": "Lad os tale om din næste messe",
+  "h055": "Hvad vi",
+  "h056": "bygger",
+  "h057": "§ 03 — Ydelser",
+  "h058": "Alle typer messer og events, fra rækkestanden på 16 m² til ø-standen i to etager. Produktion og montage altid i eget regi.",
+  "h059": "Stande",
+  "h060": "vi har bygget",
+  "h061": "§ 04 — Projekter",
+  "h062": "Et udvalg af stande designet, produceret og opstillet af vores egne hold: nationale pavilloner, brand-øer og tekniske stande i hele Europa.",
+  "h063": "Den næste kan blive din",
+  "h064": "din stand",
+  "h065": "§ 05 — 3D-konfigurator",
+  "h066": "Vælg standtype og areal: se standen tage form, og send os konfigurationen som grundlag for dit tilbud.",
+  "h067": "↔ Træk for at rotere",
+  "h068": "Aksonometrisk visning",
+  "h069": "Az 000°",
+  "h070": "01 — Standtype",
+  "h071": "Åbne sider",
+  "h072": "02 — Areal",
+  "h073": "Mål ca.",
+  "h074": "Brug denne konfiguration",
+  "h075": "Næste",
+  "h076": "afgang",
+  "h077": "§ 06 — Fra Milano til hele Europa",
+  "h078": "Vi tager afsted fra Milano, de store internationale messers by, og rejser med standen til alle Europas messecentre: Tyskland, Frankrig, Spanien, Benelux, Østrig og Schweiz. Findes der en messehal, kommer vi.",
+  "h079": "By",
+  "h080": "Messecenter",
+  "h081": "Land",
+  "h082": "Status",
+  "h083": "Montagehold i drift",
+  "h084": "+ alle andre messecentre efter ønske",
+  "h085": "Ofte stillede",
+  "h086": "spørgsmål",
+  "h087": "§ 07 — FAQ",
+  "h088": "Pris, tidsplan, byer og ydelser: svar på de spørgsmål, vi oftest får før en messe.",
+  "h089": "Har du en messe",
+  "h090": "i kalenderen?",
+  "h091": "Fortæl os om eventet, datoerne og antal kvadratmeter. Du får et første forslag og et klart tilbud.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Adresse",
+  "h095": "Område",
+  "h096": "Milano + hele Europa",
+  "h097": "Ydelse",
+  "h098": "Nøglefærdig",
+  "h099": "Messestand",
+  "h100": "Event",
+  "h101": "Kongres",
+  "h102": "Showroom / pop-up",
+  "h103": "Kun montage",
+  "h104": "For- og efternavn",
+  "h105": "Virksomhed",
+  "h106": "Messe / event og by",
+  "h107": "Fortæl os om projektet",
+  "h108": "Send forespørgsel",
+  "h109": "Din forespørgsel er klar i din e-mail: tryk send.",
+  "h110": "Åbnede der ikke noget? Skriv til",
+  "h111": "eller ring på",
+  "h112": "Kontor",
+  "h113": "Messestande i Milano og Europa, events, kongresser",
+  "h114": "27020 Tromello (PV), Lombardiet",
+  "h115": "Navigation",
+  "h116": "Konfigurator",
+  "h117": "Sociale medier",
+  "h118": "Kontakt",
+  "h119": "Få et tilbud →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardiet",
+  "h121": "Designet, produceret, opstillet.",
+  "h122": "Til toppen ↑",
+  "h123": "Hovedmenu",
+  "h124": "Filtrér efter branche",
+  "h125": "Projektgalleri",
+  "h126": "Luk galleri",
+  "h127": "Forrige foto",
+  "h128": "Næste foto",
+  "h129": "Areal i kvadratmeter",
+  "h130": "Tilbudsforespørgsel på stand",
+  "h131": "Projekttype",
+  "h132": "Skriv til os på WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Hvad koster en messestand?",
+   "a": "Prisen på en messestand afhænger af areal, standtype (række-, hjørne-, ende- eller ø-stand), materialer, grafik, møbler og messecenter. Efter en kort briefing om messe, datoer og kvadratmeter sender vi dig et første forslag og et klart og detaljeret tilbud. Du kan starte i 3D-konfiguratoren ovenfor eller ringe eller skrive til os på WhatsApp på <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Hvor ligger NEWSTANDS, og hvilke messer arbejder I på?",
+   "a": "Vi er en standbygger fra Milano-området med hovedsæde og værksted i Tromello (PV) i Lombardiet: en strategisk placering tæt på Fiera Milano Rho og Allianz MiCo, hvor nogle af Europas vigtigste messer finder sted. Herfra rejser vores hold til alle messebyer: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Paris, Lyon, Barcelona, Madrid, Amsterdam, Bruxelles, Wien, Genève og videre."
+  },
+  {
+   "q": "Hvad omfatter den nøglefærdige løsning?",
+   "a": "Én kontaktperson til det hele: briefing, koncept og 3D-renderinger, arbejdstegninger, egen produktion af konstruktioner, vægpaneler, storformatgrafik, møbler og lys, logistik og transport, montage med fast montageleder, support under messen, nedtagning og opbevaring til genbrug."
+  },
+  {
+   "q": "Laver I også events, kongresser og showrooms?",
+   "a": "Ja. Ud over skræddersyede og modulære messestande designer og indretter vi firmaevents, kongresser, konferencer, produktlanceringer, scener og scenografi, showrooms, pop-up-butikker og midlertidige butikker med truss, LED-vægge og lysdesign."
+  },
+  {
+   "q": "Hvor lang tid i forvejen skal vi kontakte jer?",
+   "a": "Jo før du kontakter os, desto mere tid har vi til design, renderinger og produktion: til en skræddersyet stand er det en god idé at starte, så snart din deltagelse i messen er bekræftet. Modulære stande og ren montage kan vi også klare med kortere frister — skriv til os, så tjekker vi med det samme, om det kan lade sig gøre."
+  },
+  {
+   "q": "Hvordan får jeg et tilbud?",
+   "a": "Udfyld formularen under kontakt, skriv til <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a>, eller ring eller skriv til os på WhatsApp på <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternativt <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Oplys messe eller event, by, datoer og kvadratmeter, så vender vi tilbage med et første forslag."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projekt",
+    "Hver stand starter med en teknisk tegning: mål, messecentrets regler og besøgsflow."
+   ],
+   [
+    "Konstruktion",
+    "Gulv, truss og rammer. Den del, man ikke ser, men som bærer det hele."
+   ],
+   [
+    "Vægge & grafik",
+    "Vægpaneler produceret på mål, storformatprint og finish."
+   ],
+   [
+    "Møbler & teknik",
+    "Diske, totems, LED-vægge, mødeområder og hængende ring. Produceret og monteret af os."
+   ],
+   [
+    "Lyset tændt",
+    "Slutkontrol, rengøring og aflevering. Standen er klar til at åbne."
+   ]
+  ],
+  "lbl": [
+   "B 8.000 mm",
+   "D 6.000 mm",
+   "Truss 29×29 — H 4.500",
+   "Væg 3.400 + grafik",
+   "LED-væg 3,4 × 1,9 m",
+   "Receptionsdisk",
+   "Hængende ring Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Rækkestand",
+   "angolo": "Hjørnestand",
+   "penisola": "Endestand",
+   "isola": "Ø-stand",
+   "doppio": "To etager"
+  },
+  "sides": "sider",
+  "side": "side",
+  "openSides": "åbne sider",
+  "openSide": "åben side",
+  "cfgMsg": "Konfiguration fra hjemmesiden: standtype {type}, {n} {sides}, ca. {area} m² ({dim} m).",
+  "axo": "Aksonometrisk visning",
+  "cfgFb": "3D-konfiguratoren er ikke tilgængelig på denne enhed.<br>Skriv til os, så sender vi dig en rendering.",
+  "mq": [
+   "Stande på mål",
+   "Events",
+   "Kongresser",
+   "Showrooms",
+   "Pop-up",
+   "LED-vægge",
+   "Truss",
+   "Grafik",
+   "Møbler"
+  ],
+  "svc": [
+   {
+    "t": "Skræddersyede messestande",
+    "d": "Unikke projekter bygget fra bunden omkring dit brand: snedkeri, metal, glas, tekstil og eksklusiv finish.",
+    "tags": [
+     "Koncept",
+     "3D-rendering",
+     "Produktion",
+     "Montage"
+    ]
+   },
+   {
+    "t": "Modulære messestande",
+    "d": "Genanvendelige, færdigbyggede systemer til jer, der deltager i flere messer om året: ensartet image og styr på omkostningerne.",
+    "tags": [
+     "Genbrug",
+     "Opbevaring",
+     "Hurtighed"
+    ]
+   },
+   {
+    "t": "Events & kongresser",
+    "d": "Scener, scenografi, plenarsale, firmakonferencer og produktlanceringer med komplet teknisk styring.",
+    "tags": [
+     "Scener",
+     "Scenografi",
+     "Lyd/video"
+    ]
+   },
+   {
+    "t": "Showrooms & pop-up",
+    "d": "Midlertidige butikker, pop-ups og permanente showrooms: med samme præcision som på messen.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Storformatgrafik",
+    "d": "Print på forex, bagbelyst tekstil, PVC, klistermærker og vinduesfolie. Produceret og monteret af os.",
+    "tags": [
+     "Lightbox",
+     "Tekstil",
+     "Folie"
+    ]
+   },
+   {
+    "t": "Truss & LED-vægge",
+    "d": "Truss-konstruktioner, hængende ringe, rigging, LED-vægge og lysdesign til stande, der ses fra hele hallen.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED-væg",
+     "Lys"
+    ]
+   },
+   {
+    "t": "Møbler & udlejning",
+    "d": "Diske, skranker, siddepladser, montrer, køkkener og lagerrum: møbler på mål eller til leje til enhver standstørrelse.",
+    "tags": [
+     "På mål",
+     "Udlejning",
+     "Lager"
+    ]
+   }
+  ],
+  "more": "Se ydelsen",
+  "tav": "Tegn.",
+  "avail": "TILGÆNGELIG",
+  "form": {
+   "type": "Projekttype",
+   "name": "For- og efternavn",
+   "company": "Virksomhed",
+   "fair": "Messe / event og by",
+   "project": "Projekt",
+   "subj": "Tilbudsforespørgsel på messestand"
+  },
+  "ariaW": "{t} — åbn galleri ({n} fotos)",
+  "altW": "Messestand {t} — {c}, bygget af NEWSTANDS",
+  "nPh": "{n} fotos",
+  "altLb": "Messestand {t} ({c}) — foto {i} af {n}",
+  "phN": "Foto {i}",
+  "all": "Alle",
+  "ld": [
+   "Gulv",
+   "Vægge",
+   "Bjælke",
+   "Lys",
+   "Klar"
+  ],
+  "c3": [
+   "FRA INTET",
+   "TIL STAND.",
+   "DESIGN · PRODUKTION · MONTAGE · EUROPA",
+   "MESSESTANDE",
+   "STANDE · EVENTS · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Krystal og belysning",
+   "g": "Design",
+   "d": "Helhvid ø-stand omgivet af gardiner af krystalsnore, hængende lysekroner og lakerede møbler: standen bliver et lysende udstillingsvindue."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sportskosttilskud",
+   "g": "Mad & sundhed",
+   "d": "Ø-stand åben til flere sider med produktgrafik på hele væggen, hængende skilte og smagsdiske, der kan håndtere store besøgsstrømme."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turisme",
+   "g": "Turisme",
+   "d": "Officiel pavillon med buer og minareter inspireret af Telanganas arkitektur, diske til rejsearrangører og fordybende grafik."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turisme",
+   "g": "Turisme",
+   "d": "Portaler i imiteret terracotta, udskårne buer og B2B-mødepladser: en regional pavillon, der fortæller om regionen med ét blik."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "National fødevarepavillon",
+   "g": "Mad & sundhed",
+   "d": "Fælles pavillon i hvidt og rødt med gennembrudte mønstre, udstillerdiske og et område til show cooking."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industri",
+   "d": "Corporate stand med glasomkransede mødelokaler, bagbelyste vægge og et velkomstområde åbent mod gangen."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motorcykler",
+   "g": "Motorcykler",
+   "d": "Helhvid stand med røde portaler og podier til motorcyklerne: ren grafik, der lader maskinerne tale."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elmotorcykler",
+   "g": "Motorcykler",
+   "d": "Helsort scenografi med blankt hvidt gulv, udstillede motorcykler og mødeområde."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Udstillingslounge",
+   "g": "Design",
+   "d": "Åben lounge med stort panoramaprint, nedhængt loft, skranke og siddepladser til at byde de besøgende velkommen."
+  },
+  {
+   "t": "Plastona",
+   "c": "Hus og have",
+   "g": "Design",
+   "d": "Ø-stand med kubiske skilte på truss, hvide reoler og produktmiljøer."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motorcykler og motorer",
+   "g": "Motorcykler",
+   "d": "Hjørnestand med sorte og hvide udstillingsvægge, køretøjer på podie og område med borde."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energiindustri",
+   "g": "Industri",
+   "d": "Afrundede, bagbelyste rammer, tekniske paneler og mødeområde til et B2B-publikum."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Hjelme",
+   "g": "Motorcykler",
+   "d": "Udstillingsvægge til hjelme, racinggrafik og receptionsdisk: italiensk design på få kvadratmeter."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "MC-tilbehør",
+   "g": "Motorcykler",
+   "d": "Søjler i trikolore, oplyste montrer og produktvægge til en racingprofil med høj synlighed."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Hjelme",
+   "g": "Motorcykler",
+   "d": "Rudemønstret væg med udstillede hjelme, overdimensionerede skilte og område med borde til forhandlinger."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "MC-reservedele og -tøj",
+   "g": "Motorcykler",
+   "d": "Grafiske totems i fuld højde, produktmontrer og tøjvægge omkring et mødeområde."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industri",
+   "g": "Industri",
+   "d": "Corporate stand i blåt med procesgrafik, teknisk område og mødepladser."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turisme",
+   "g": "Turisme",
+   "d": "Scenografisk portal med traditionelle dekorationer og store billeder af regionen."
+  },
+  {
+   "t": "Uttar Pradesh — Landbrug",
+   "c": "Landbrug og fødevarer",
+   "g": "Mad & sundhed",
+   "d": "Hvid stand med lysende rammer i gulvet og produktpaneler: enkel og lys."
+  },
+  {
+   "t": "Tunesien — Medica Düsseldorf",
+   "c": "National medicinsk pavillon",
+   "g": "Medicinsk",
+   "d": "Nationalpavillon på Medica Düsseldorf med hængende skilt, diske til udstillende virksomheder og loungeområde."
+  }
+ ],
+ "ui": {
+  "langName": "Dansk",
+  "langLabel": "Sprog",
+  "home": "Forside",
+  "services": "Ydelser",
+  "works": "Projekter",
+  "contacts": "Kontakt",
+  "quote": "Tilbud",
+  "requestQuote": "Få et tilbud",
+  "whatsapp": "Skriv til os på WhatsApp",
+  "call": "Ring til os",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-mail",
+  "address": "Adresse",
+  "serviceN": "Ydelse",
+  "locationK": "Fra Milano til hele Europa",
+  "includesTitle": "Det får du",
+  "whyTitle": "Hvorfor NEWSTANDS",
+  "why": [
+   {
+    "t": "Base i Milano",
+    "d": "Vi arbejder fra Milano-området, tæt på Fiera Milano Rho og Allianz MiCo: hurtige besigtigelser, enkel logistik og hold, der altid er tæt på de store messecentre."
+   },
+   {
+    "t": "Egen produktion",
+    "d": "Konstruktioner, vægpaneler, grafik, møbler og lys bliver lavet på vores eget værksted: færre led, færre overraskelser, deadlines der holder."
+   },
+   {
+    "t": "I alle Europas messecentre",
+    "d": "Vores montagehold rejser med standen: Tyskland, Frankrig, Spanien, Benelux, Østrig, Schweiz og alle andre messecentre efter ønske."
+   },
+   {
+    "t": "Én kontaktperson",
+    "d": "Fra briefing til nedtagning taler du altid med den samme person, og på messen har du en fast montageleder."
+   }
+  ],
+  "galleryTitle": "Udvalgte stande",
+  "faqTitle": "Ofte stillede spørgsmål",
+  "otherTitle": "Andre ydelser",
+  "ctaTitle": "Har du en messe i kalenderen?",
+  "ctaText": "Fortæl os om messe, by, datoer og kvadratmeter: du får et første forslag og et klart tilbud.",
+  "whereTitle": "Fra Milano til alle messebyer",
+  "whereText": "Vi holder til i Milano-området, byen der er vært for nogle af verdens vigtigste messer. Herfra når vores hold ud til alle messecentre i Italien og Europa.",
+  "milanLink": "Messestande i Milano",
+  "europeLink": "Messestande i Europa",
+  "photos": "fotos",
+  "backHome": "Tilbage til forsiden",
+  "footerTag": "Messestande i Milano og hele Europa. Designet, produceret, opstillet.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardiet · Milano-området",
+  "breadcrumb": "Brødkrumme",
+  "skip": "Gå til indhold",
+  "menu": "Hovedmenu"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "skraeddersyede-messestande",
+   "nav": "Skræddersyede stande",
+   "title": "Skræddersyede messestande i Milano og Europa | NEWSTANDS",
+   "desc": "Skræddersyede messestande designet, produceret og opstillet af NEWSTANDS: base i Milano-området, montage i alle Europas messecentre.",
+   "h1": "Skræddersyede messestande",
+   "lead": "En unik stand, bygget fra bunden omkring dit brand: vi designer den, producerer den på vores værksted ved Milano og opstiller den på enhver messe i Europa.",
+   "body": [
+    "En skræddersyet stand er den stærkeste måde at præsentere sig på en messe: hver væg, hver lyskilde og hver besøgsrute er tænkt ud fra dine produkter og dine salgsmål. Vi tager udgangspunkt i messecentrets tekniske regler og flowet i hallen og omsætter derefter idéen til fotorealistiske 3D-renderinger og arbejdstegninger.",
+    "Vi producerer selv konstruktioner i træ og metal, vægpaneler, grafik, møbler og belysning, så vi har styr på kvalitet og tidsplan i alle faser. Uanset om messen foregår på Fiera Milano Rho, i Düsseldorf eller i Paris, er det det samme hold, der har bygget din stand, som også opstiller den."
+   ],
+   "inc": [
+    {
+     "t": "Koncept og 3D-renderinger",
+     "d": "Kreativt forslag, fotorealistiske renderinger og rettelser, indtil standen er præcis, som du vil have den."
+    },
+    {
+     "t": "Arbejdstegninger",
+     "d": "Tekniske tegninger, beregninger og dokumentation, der overholder reglerne i hvert messecenter."
+    },
+    {
+     "t": "Produktion på mål",
+     "d": "Snedkeri, metalarbejde, glas, tekstil og eksklusiv finish fra vores eget værksted."
+    },
+    {
+     "t": "Grafik og belysning",
+     "d": "Storformatprint, lightboxe, LED-vægge og lysdesign integreret i standens arkitektur."
+    },
+    {
+     "t": "Opstilling og nedtagning",
+     "d": "Transport, montage med fast montageleder, support på messen, nedtagning og opbevaring."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hvor lang tid tager det at bygge en skræddersyet messestand?",
+     "a": "Det afhænger af størrelse og kompleksitet: til en stand på mål er det bedst at starte, så snart deltagelsen i messen er bekræftet, så der er tid til design, renderinger og produktion."
+    },
+    {
+     "q": "Kan en skræddersyet stand genbruges?",
+     "a": "Ja. Vi designer delene, så de kan opbevares og opstilles igen: til næste messe tilpasser vi standen til nye mål og ny grafik."
+    },
+    {
+     "q": "Bygger I også skræddersyede stande uden for Italien?",
+     "a": "Ja, fra Milano-området bringer vi standen og vores hold til alle Europas store messecentre, fra Tyskland til Spanien."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulaere-messestande",
+   "nav": "Modulære stande",
+   "title": "Modulære messestande i Milano og Europa | NEWSTANDS",
+   "desc": "Modulære, genanvendelige messestande til jer, der deltager i flere messer om året: ensartet image og styr på budgettet, fra Milano til hele Europa.",
+   "h1": "Modulære og genanvendelige messestande",
+   "lead": "Modulære systemer til jer, der udstiller på flere messer om året: samme brandimage, styr på omkostningerne og hurtig montage — i Milano og i alle Europas messecentre.",
+   "body": [
+    "En modulær stand er en investering, der holder: konstruktioner, paneler og møbler kan omkonfigureres til forskellige arealer og standtyper, fra rækkestand til ø-stand. Grafikken skifter, kvaliteten består.",
+    "Vi designer systemet én gang, producerer det på vores værksted og håndterer det selv mellem messerne: opbevaring, vedligeholdelse, opdatering af grafik og transport til næste messehal, i Italien eller i udlandet."
+   ],
+   "inc": [
+    {
+     "t": "System på mål",
+     "d": "Moduler designet efter dit image, som kan kombineres til alt fra få kvadratmeter til store ø-stande."
+    },
+    {
+     "t": "Udskiftelig grafik",
+     "d": "Printede tekstiler og paneler, der hurtigt kan skiftes til hver messe, produkt eller marked."
+    },
+    {
+     "t": "Opbevaring og vedligeholdelse",
+     "d": "Vi opbevarer standen på vores lager og tjekker den før hver ny afgang."
+    },
+    {
+     "t": "Hurtig montage",
+     "d": "Kort opstillingstid, også ideel til messer med korte montagevinduer."
+    },
+    {
+     "t": "Styring af messekalenderen",
+     "d": "Vi planlægger messesæsonen sammen med dig og organiserer logistik og hold til hvert stop."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Er en modulær stand billigere end en skræddersyet?",
+     "a": "Set over flere messer typisk ja: den første investering fordeles på hver deltagelse, og de efterfølgende produktionsomkostninger begrænses til grafik og logistik."
+    },
+    {
+     "q": "Kan en modulær stand tilpasses forskellige arealer?",
+     "a": "Ja, modulerne kan sættes sammen på ny til række-, hjørne-, ende- eller ø-stande og til forskellige størrelser."
+    },
+    {
+     "q": "Kan I håndtere hele vores messekalender?",
+     "a": "Ja: fra Milano-området koordinerer vi opbevaring, transport og montage til hver messe i sæsonen, i Italien og i Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "event-og-kongresindretning",
+   "nav": "Events & kongresser",
+   "title": "Indretning af events og kongresser i Milano | NEWSTANDS",
+   "desc": "Indretning af firmaevents, kongresser, konferencer og produktlanceringer i Milano og Europa: scener, scenografi og komplet teknisk styring.",
+   "h1": "Indretning af events og kongresser",
+   "lead": "Scener, scenografi, plenarsale, firmakonferencer og produktlanceringer: vi indretter events og kongresser i Milano og i hele Europa med samme præcision som på en messe.",
+   "body": [
+    "Milano er en af Europas hovedstæder for events og kongresser, med steder som Allianz MiCo og byens store eventlokaler. Fordi vi arbejder fra Milano-området, kender vi tidsplaner, regler og logistik på disse steder og kan klare besigtigelser og montage meget hurtigt.",
+    "Vi designer hele indretningen: scene, scenografi, plenarsal, udstillingsområder, reception, skiltning og lysdesign. Vi koordinerer selv de tekniske leverandører, så du har én kontaktperson for hele eventet."
+   ],
+   "inc": [
+    {
+     "t": "Scener og scenografi",
+     "d": "Scener på mål, bagvægge, LED-vægge og scenografi designet til dit budskab."
+    },
+    {
+     "t": "Plenarsale og kongresser",
+     "d": "Indretning af sale, posterområder, velkomstdiske og sponsorarealer."
+    },
+    {
+     "t": "Konferencer og lanceringer",
+     "d": "Rammer, der præsenterer et produkt eller samler salgsstyrken på en mindeværdig måde."
+    },
+    {
+     "t": "Lyd, video og lys",
+     "d": "Teknisk styring, truss, LED-vægge og lysdesign integreret i projektet."
+    },
+    {
+     "t": "Skiltning og grafik",
+     "d": "Ruter, totems, backdrops og ensartet grafik — printet og monteret af os."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Indretter I også events uden for messecentrene?",
+     "a": "Ja: hoteller, kongrescentre, industrilokaler og private lokationer — i Milano, i resten af Italien og i udlandet."
+    },
+    {
+     "q": "Kan I også stå for lyd og video?",
+     "a": "Ja, vi koordinerer scene, LED-vægge, lys og lyd som ét samlet projekt med én kontaktperson."
+    },
+    {
+     "q": "Hvor lang tid i forvejen skal et event planlægges?",
+     "a": "Jo før, jo bedre: med et par ugers forspring kan vi tage besigtigelse, design og produktion i ro og mag. Haster det, så kontakt os, og vi vurderer, om det kan lade sig gøre."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-og-pop-up-butikker",
+   "nav": "Showrooms & pop-up",
+   "title": "Showrooms, pop-up og midlertidige butikker i Milano | NEWSTANDS",
+   "desc": "Design og indretning af showrooms, midlertidige butikker, pop-ups og shop-in-shops i Milano og Europa — med egen produktion og montage.",
+   "h1": "Showrooms, midlertidige butikker og pop-ups",
+   "lead": "Midlertidige butikker, pop-ups og permanente showrooms indrettet med samme præcision som på en messe — i Milano og i hele Europa.",
+   "body": [
+    "En midlertidig butik eller en pop-up skal stå klar på få dage og gøre indtryk: vi designer rum, der fortæller om dit brand, fremhæver produktet og kan opstilles hurtigt, også i indkøbscentre og på handelsgader.",
+    "Til permanente showrooms laver vi møbler på mål, udstillingsvægge, montrer og belysning i holdbare materialer. Produktion og montage foregår i eget regi, så tidsplan og kvalitet forbliver under kontrol."
+   ],
+   "inc": [
+    {
+     "t": "Retail-koncept",
+     "d": "Layout, kunderejse og produktpræsentation designet til at sælge."
+    },
+    {
+     "t": "Midlertidige butikker og pop-ups",
+     "d": "Lette konstruktioner, der er hurtige at opstille, nedtage og genbruge i andre byer."
+    },
+    {
+     "t": "Permanente showrooms",
+     "d": "Møbler på mål, udstyrede vægge, montrer og eksklusiv finish."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Brandcorners i butikker og stormagasiner, der matcher dit image."
+    },
+    {
+     "t": "Lys og grafik",
+     "d": "Produktbelysning, skilte, vinduesfolie og grafik produceret af os."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hvor hurtigt kan en midlertidig butik indrettes?",
+     "a": "Det afhænger af lokalet og projektet: takket være vores egen produktion kan vi opstille en pop-up på bare få dage."
+    },
+    {
+     "q": "Kan en pop-up flyttes til andre byer?",
+     "a": "Ja, vi designer modulære konstruktioner, der kan nedtages og opstilles igen andre steder, i Italien og i Europa."
+    },
+    {
+     "q": "Laver I også permanente showrooms?",
+     "a": "Ja, fra design til installation af møbler, montrer, lys og grafik."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "storformatgrafik-messestande",
+   "nav": "Storformatgrafik",
+   "title": "Storformatgrafik til messestande og messer | NEWSTANDS",
+   "desc": "Storformatprint til messestande og events: forex, bagbelyst tekstil, lightboxe, PVC, klistermærker og vinduesfolie — produceret og monteret af os.",
+   "h1": "Storformatgrafik til stande og events",
+   "lead": "Print på forex, bagbelyst tekstil, PVC, klistermærker og vinduesfolie: grafikken til din stand produceret og monteret af de samme hold, som opstiller den.",
+   "body": [
+    "Grafikken er det første, de besøgende ser — ofte fra den anden ende af hallen. Derfor behandler vi den som en del af standens arkitektur: formater, materialer og lys designes sammen med konstruktionerne.",
+    "Vi printer og monterer selv, i Milano såvel som på alle europæiske messer: ingen mellemled mellem forskellige leverandører, kontrollerede farver og grafik, der flugter perfekt, når dørene åbner."
+   ],
+   "inc": [
+    {
+     "t": "Bagbelyst tekstil",
+     "d": "Lightboxe og lysvægge i tekstil — lette og med stor effekt."
+    },
+    {
+     "t": "Faste paneler",
+     "d": "Print på forex, dibond og PVC til vægge, totems og diske."
+    },
+    {
+     "t": "Folie og vinduesfolie",
+     "d": "Gulve, glaspartier og overflader tilpasset med teknisk folie."
+    },
+    {
+     "t": "Hængende skilte",
+     "d": "Bannere og hængende grafiske konstruktioner, der ses på lang afstand i hallen."
+    },
+    {
+     "t": "Montering på messen",
+     "d": "Vi monterer selv grafikken, med slutkontrol før åbning."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Printer I også grafik til stande bygget af andre?",
+     "a": "Ja, vi kan producere og montere grafikken alene og overholder messecentrets mål og regler."
+    },
+    {
+     "q": "Hvilke filer skal I bruge til print?",
+     "a": "Vektorfiler eller billeder i høj opløsning med bleed (beskæringstillæg): vi sender dig de tekniske specifikationer for hvert format."
+    },
+    {
+     "q": "Kan tekstilgrafik genbruges?",
+     "a": "Ja, tekstil kan vaskes, foldes og monteres igen: ideelt til jer, der deltager i flere messer."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-led-vaegge-lysdesign",
+   "nav": "Truss & LED-vægge",
+   "title": "Truss, LED-vægge og lys til messestande | NEWSTANDS",
+   "desc": "Truss-konstruktioner, hængende ringe, rigging, LED-vægge og lysdesign til messestande og events i Milano og i hele Europa.",
+   "h1": "Truss, LED-vægge og lysdesign",
+   "lead": "Truss-konstruktioner, hængende ringe, rigging, LED-vægge og lys til stande, der ses fra hele hallen — på Fiera Milano og i alle Europas messecentre.",
+   "body": [
+    "En hængende ring med logoet, en LED-væg til produktvideoer, et lys, der er tilpasset overfladerne: det er de elementer, der gør en stand genkendelig på afstand. Vi designer dem sammen med standen og kontrollerer belastning, ophængningspunkter og messecentrets regler.",
+    "Vi leverer og installerer truss, kædetaljer, LED-vægge og armaturer med kvalificeret personale og koordinerer rigging-ansøgningerne med messearrangøren."
+   ],
+   "inc": [
+    {
+     "t": "Truss-konstruktioner",
+     "d": "Gulvstående og hængende konstruktioner i alle størrelser, også som bærende element for grafik og lys."
+    },
+    {
+     "t": "Ringe og hængende skilte",
+     "d": "Runde eller specialdesignede hængende elementer med grafik, synlige fra hele hallen."
+    },
+    {
+     "t": "Rigging",
+     "d": "Beregninger, ophængningspunkter og ansøgninger til messecentret."
+    },
+    {
+     "t": "LED-vægge",
+     "d": "LED-skærme i forskellige størrelser, integreret i væggene eller på egne konstruktioner."
+    },
+    {
+     "t": "Lysdesign",
+     "d": "Lysdesign til produkter, grafik og standens stemning."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Står I selv for tilladelserne til rigging?",
+     "a": "Ja, vi udarbejder den tekniske dokumentation og håndterer ansøgningerne til messearrangøren."
+    },
+    {
+     "q": "Udlejer I også LED-vægge til events?",
+     "a": "Ja, LED-vægge, truss og lys kan også lejes til events, kongresser og produktlanceringer."
+    },
+    {
+     "q": "Arbejder I også i udenlandske messecentre?",
+     "a": "Ja, vi installerer konstruktioner og LED-vægge i alle Europas store messecentre."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "standmoebler-og-udlejning",
+   "nav": "Møbler & udlejning",
+   "title": "Møbler på mål og møbeludlejning til messestande | NEWSTANDS",
+   "desc": "Diske, skranker, siddepladser, montrer, køkkener og lagerrum til messestande: møbler på mål eller til leje, fra Milano til hele Europa.",
+   "h1": "Møbler på mål og udlejning til stande",
+   "lead": "Diske, skranker, siddepladser, montrer, køkkener og lagerrum: møbler lavet på mål på vores værksted eller til leje, til stande i alle størrelser.",
+   "body": [
+    "Møblerne får standen til at fungere: velkomst, udstilling, møder, smagsprøver og lager skal have den rette plads. Vi designer dem sammen med layoutet og tænker på besøgsflowet og dit teams arbejde på messen.",
+    "Vi kan lave unikke møbler på mål i dit brands finish og farver eller levere lejemøbler, der holder omkostningerne nede. Levering, montage og afhentning klarer vi altid selv."
+   ],
+   "inc": [
+    {
+     "t": "Diske og reception",
+     "d": "Velkomstskranker på mål med logo, lys og tekniske rum."
+    },
+    {
+     "t": "Møde- og loungeområder",
+     "d": "Borde, stole og loungemøbler til at mødes med kunderne på standen."
+    },
+    {
+     "t": "Montrer og displays",
+     "d": "Glasmontrer, hylder og udstyrede vægge, der fremhæver produkterne."
+    },
+    {
+     "t": "Køkkener og lagerrum",
+     "d": "Depotrum, køkkener og serviceområder integreret i standen."
+    },
+    {
+     "t": "Møbeludlejning",
+     "d": "Lejemøbler i alle stilarter og prisklasser, leveret og afhentet af os."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kan jeg leje møblerne alene?",
+     "a": "Ja, vi leverer også udelukkende lejemøbler med levering og afhentning på messen."
+    },
+    {
+     "q": "Kan møbler på mål genbruges?",
+     "a": "Ja, vi opbevarer dem på vores lager og bringer dem med til næste messe."
+    },
+    {
+     "q": "Leverer I også møbler i udlandet?",
+     "a": "Ja, vi leverer og monterer møbler i alle Europas store messecentre."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "opstilling-nedtagning-messestande",
+   "nav": "Opstilling & nedtagning",
+   "title": "Opstilling og nedtagning af stande i Milano og Europa | NEWSTANDS",
+   "desc": "Specialiserede hold til opstilling og nedtagning af messestande på Fiera Milano Rho og i alle Europas messecentre. Også ren montage.",
+   "h1": "Opstilling og nedtagning af messestande",
+   "lead": "Specialiserede hold og en fast montageleder, der opstiller og nedtager din stand på Fiera Milano Rho, Allianz MiCo og i alle Europas messecentre. Også ren montage.",
+   "body": [
+    "Montagen er det øjeblik, hvor et projekt bliver til en stand: det kræver erfarne hold, udstyr og overholdelse af tidsvinduer og messecentrets sikkerhedsregler. Fra vores base i Milano-området når vi hurtigt frem til byens messecentre og tager med standen ud til messer i hele Europa.",
+    "Vi opstiller stande, vi selv har produceret, men også stande fra andre leverandører eller i kundens eje: modtagelse af materiel, montage, slutkontrol, support under messen, nedtagning og retur til lageret."
+   ],
+   "inc": [
+    {
+     "t": "Specialiserede hold",
+     "d": "Erfarne montører med eget værktøj og en fast montageleder."
+    },
+    {
+     "t": "Adgangspapirer",
+     "d": "Adgangskort, sikkerhedsdokumentation og tilladelser, som messecentret kræver."
+    },
+    {
+     "t": "Slutkontrol og aflevering",
+     "d": "Endelig kontrol af konstruktioner, lys og grafik før åbning."
+    },
+    {
+     "t": "Support på messen",
+     "d": "Teknikere til rådighed under hele messen, uanset behov."
+    },
+    {
+     "t": "Nedtagning og opbevaring",
+     "d": "Nedtagning til tiden, transport og opbevaring til genbrug."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Opstiller I også stande, som I ikke selv har bygget?",
+     "a": "Ja, vi opstiller og nedtager også stande fra andre standbyggere eller i udstillerens eje."
+    },
+    {
+     "q": "Hvilke messecentre arbejder I i?",
+     "a": "På Fiera Milano Rho og Allianz MiCo, i Bologna, Verona og Rimini og i Europas største messebyer: Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam og flere."
+    },
+    {
+     "q": "Overholder I messecentrenes sikkerhedsregler?",
+     "a": "Ja, vores montører arbejder efter sikkerhedsreglerne og de tekniske bestemmelser i hvert messecenter."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "messestande-milano",
+   "nav": "Stande i Milano",
+   "title": "Standbygger i Milano: messestande til Fiera Milano | NEWSTANDS",
+   "desc": "Standbygger i Milano-området: nøglefærdige messestande til Fiera Milano Rho, Allianz MiCo og events i byen — designet og opstillet af os.",
+   "h1": "Messestande i Milano",
+   "lead": "Milano er et af Europas vigtigste messecentre, og det er herfra, vi arbejder: vi designer, producerer og opstiller stande til messerne på Fiera Milano Rho og Allianz MiCo og til events i byen.",
+   "body": [
+    "Fiera Milano Rho er hvert år vært for internationale messer som Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO og MICAM, mens Allianz MiCo er et af Europas største kongrescentre. For en udstiller betyder det benhård konkurrence: standen skal skille sig ud.",
+    "En standbygger i Milano-området betyder hurtige besigtigelser, enkel logistik, montagehold tæt på og øjeblikkelig support under messen. Og fortsætter din sæson i udlandet efter Milano, tager det samme hold standen med til alle Europas messecentre."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stande til de store internationale messer i Rho — fra designhallerne til motorcykel- og fødevarehallerne."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Indretning til kongresser, konferencer og messer i Milanos kongrescenter."
+    },
+    {
+     "t": "Events i byen",
+     "d": "Produktlanceringer, Fuorisalone, showrooms og pop-up-butikker på lokationer i Milano."
+    },
+    {
+     "t": "Hurtige besigtigelser",
+     "d": "Fra vores base er vi hurtigt fremme ved Milanos messecentre, både før og under messen."
+    },
+    {
+     "t": "Opbevaring tæt på",
+     "d": "Din stand bliver på vores lager i Lombardiet, klar til næste udgave."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Er I en standbygger fra Milano?",
+     "a": "Ja, vi arbejder fra Milano-området med hovedsæde og værksted i Tromello (PV) i Lombardiet, tæt på Fiera Milano Rho."
+    },
+    {
+     "q": "Til hvilke messer i Milano bygger I stande?",
+     "a": "Til alle messer på Fiera Milano Rho og Allianz MiCo samt til events og Fuorisalone i byen."
+    },
+    {
+     "q": "Kan I også følge os på messer i udlandet?",
+     "a": "Ja, fra Milano bringer vi stande og hold til alle Europas store messecentre."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "messestande-europa",
+   "nav": "Stande i Europa",
+   "title": "Messestande i Europa: Tyskland, Frankrig, Spanien | NEWSTANDS",
+   "desc": "Fra Milano til alle Europas messecentre: nøglefærdige stande i Düsseldorf, Köln, Frankfurt, München, Paris, Barcelona, Madrid, Amsterdam m.fl.",
+   "h1": "Messestande i hele Europa",
+   "lead": "Vi tager afsted fra Milano og rejser til ethvert messecenter i Europa: én leverandør til design, produktion, transport og montage, uanset hvor din messe finder sted.",
+   "body": [
+    "At udstille i udlandet med en ny lokal standbygger i hvert land betyder nye kontaktpersoner, forskellige standarder og større risiko. Med NEWSTANDS får du ét hold: vi designer og producerer på vores værksted ved Milano, organiserer transport og adgangspapirer og opstiller med vores egne hold.",
+    "Vi arbejder i de store messecentre i Tyskland, Frankrig, Spanien, Benelux, Østrig og Schweiz og i alle andre messebyer efter ønske. Vi har bygget nationale pavilloner og brandstande, blandt andet Tunesiens pavillon på MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Tyskland",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt og Messe München."
+    },
+    {
+     "t": "Frankrig",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles og Eurexpo Lyon."
+    },
+    {
+     "t": "Spanien",
+     "d": "Fira de Barcelona Gran Via og IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam og Brussels Expo."
+    },
+    {
+     "t": "Østrig, Schweiz og videre",
+     "d": "Messe Wien, Palexpo Genève og alle andre europæiske messecentre efter ønske."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Står I selv for transport og papirer til messer i udlandet?",
+     "a": "Ja: emballering, transport, adgangskort, sikkerhedsdokumentation og kontakt med messearrangøren klarer vi."
+    },
+    {
+     "q": "Er montageholdene jeres egne?",
+     "a": "Ja, standen opstilles af vores egne hold med en fast montageleder — også i udlandet."
+    },
+    {
+     "q": "Hvilke sprog kan vi kommunikere på?",
+     "a": "Italiensk og engelsk; messedokumentationen koordinerer vi med arrangøren på det lokale sprog."
+    }
+   ]
+  }
+ }
+}

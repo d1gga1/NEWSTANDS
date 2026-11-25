@@ -1,0 +1,987 @@
+{
+ "_lang": "nl",
+ "meta": {
+  "title": "Beursstand Milaan en standbouw in heel Europa | NEWSTANDS",
+  "desc": "Standbouwer uit de regio Milaan: wij ontwerpen, produceren en bouwen turnkey beursstands op Fiera Milano en op elk beursterrein in heel Europa.",
+  "ogTitle": "NEWSTANDS — Beursstands van Milaan tot heel Europa",
+  "ogDesc": "Turnkey beursstands, events en congressen: uitvalsbasis in de regio Milaan, eigen opbouwteams op elk Europees beursterrein.",
+  "ogAlt": "NEWSTANDS — standbouw van Milaan tot heel Europa",
+  "orgDesc": "Standbouwer met uitvalsbasis in de regio Milaan (vestiging in Tromello, PV). Ontwerpt, produceert en bouwt turnkey beursstands, inrichtingen voor events, congressen, showrooms en pop-up stores op Fiera Milano en op alle beursterreinen van Europa.",
+  "slogan": "Ontworpen, geproduceerd, gebouwd."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Vloer",
+  "h003": "Allestimenti",
+  "h004": "Ontworpen · Geproduceerd · Gebouwd",
+  "h005": "Tik om binnen te gaan",
+  "h006": "Werkwijze",
+  "h007": "Diensten",
+  "h008": "Projecten",
+  "h009": "Configureer",
+  "h009b": "Configureer",
+  "h010": "Europa",
+  "h011": "Offerte",
+  "h012": "Standbouwer in Milaan · Events · Congressen",
+  "h013": "Ontwerp → Productie → Opbouw",
+  "h014": "Vanuit de regio Milaan, het beurshart van Europa, bouwen wij stands vanaf nul en zetten ze neer op elk Europees beursterrein. Eén aanspreekpunt van de eerste schets tot de laatste schroef.",
+  "h015": "Scroll en bouw de stand op",
+  "h016": "Blad 00 — Plattegrond stand 8.000 × 6.000",
+  "h017": "Schaal 1:50",
+  "h018": "Ontwerp",
+  "h019": "Voortgang opbouw",
+  "h020": "Blad 05 — Oplevering",
+  "h021": "Turnkey.",
+  "h022": "Configureer je eigen",
+  "h023": "Offerte aanvragen",
+  "h024": "§ 01 — Over ons",
+  "h025": "Wij verkopen geen vierkante meters. Wij bouwen de plek waar jouw *merk* de markt ontmoet: van de *eerste* *schets* tot de laatste schroef, in elke beurshal van Europa.",
+  "h026": "De methode",
+  "h027": "Wij ontwerpen, produceren en bouwen elk onderdeel zelf: constructies, wanden, prints, meubilair en verlichting. Minder schakels, minder verrassingen, deadlines gehaald.",
+  "h028": "Van niets",
+  "h029": "tot stand.",
+  "h030": "Zes fasen, één regie.",
+  "h031": "Scroll horizontaal →",
+  "h032": "Fase 01",
+  "h033": "Doelen, budget, beurs en technisch reglement van het beursterrein. We beginnen bij wat er in jouw stand moet gebeuren.",
+  "h034": "Fase 02",
+  "h035": "Concept & 3D",
+  "h036": "Fotorealistische renders en werktekeningen: je ziet de stand af voordat er één paneel gezaagd wordt.",
+  "h037": "Fase 03",
+  "h038": "Productie",
+  "h039": "Houtbewerking, metaalbewerking, grootformaat print, lichttechniek. Elk onderdeel wordt op maat gemaakt.",
+  "h040": "Fase 04",
+  "h041": "Logistiek",
+  "h042": "Verpakking, transport en toegangsformaliteiten voor elk Europees beursterrein. Wij komen zelf, en op tijd.",
+  "h043": "Fase 05",
+  "h044": "Opbouw",
+  "h045": "Gespecialiseerde teams op de vloer, een vaste bouwleider, eindcontrole. Je krijgt de stand kant-en-klaar opgeleverd.",
+  "h046": "Fase 06",
+  "h047": "Beurs & afbouw",
+  "h048": "Technische support tijdens de beurs, afbouw, opslag en hergebruik voor de volgende beurs.",
+  "h049": "Resultaat",
+  "h050": "Jij denkt",
+  "h051": "aan je klanten.",
+  "h052": "Wij denken",
+  "h053": "aan de rest.",
+  "h054": "Laten we het over je volgende beurs hebben",
+  "h055": "Wat wij",
+  "h056": "bouwen",
+  "h057": "§ 03 — Diensten",
+  "h058": "Elk type beurs en event, van een rijstand van 16 m² tot een eilandstand met twee verdiepingen. Productie en opbouw altijd in eigen huis.",
+  "h059": "Gerealiseerde",
+  "h060": "stands",
+  "h061": "§ 04 — Projecten",
+  "h062": "Een selectie van stands die onze teams hebben ontworpen, geproduceerd en opgebouwd: landenpaviljoens, merkstands en technische stands in heel Europa.",
+  "h063": "De volgende kan de jouwe zijn",
+  "h064": "je stand",
+  "h065": "§ 05 — 3D-configurator",
+  "h066": "Kies type en oppervlakte: zie het volume vorm krijgen en stuur ons de configuratie als basis voor je offerte.",
+  "h067": "↔ Sleep om te draaien",
+  "h068": "Axonometrisch aanzicht",
+  "h069": "Az 000°",
+  "h070": "01 — Type",
+  "h071": "Open zijden",
+  "h072": "02 — Oppervlakte",
+  "h073": "Afmetingen ca.",
+  "h074": "Deze configuratie gebruiken",
+  "h075": "Volgende",
+  "h076": "vertrek",
+  "h077": "§ 06 — Van Milaan naar heel Europa",
+  "h078": "We vertrekken vanuit Milaan, de stad van de grote internationale beurzen, en reizen met je stand naar elk beursterrein in Europa: Duitsland, Frankrijk, Spanje, de Benelux, Oostenrijk en Zwitserland. Staat er een beurshal, dan komen wij er.",
+  "h079": "Stad",
+  "h080": "Beursterrein",
+  "h081": "Land",
+  "h082": "Status",
+  "h083": "Opbouwteams operationeel",
+  "h084": "+ elk ander beursterrein op aanvraag",
+  "h085": "Veelgestelde",
+  "h086": "vragen",
+  "h087": "§ 07 — FAQ",
+  "h088": "Kosten, doorlooptijden, steden en diensten: antwoorden op de vragen die we het vaakst krijgen vóór een beurs.",
+  "h089": "Staat er een beurs",
+  "h090": "op de planning?",
+  "h091": "Vertel ons over het event, de data en de vierkante meters. Je krijgt van ons een eerste voorstel en een heldere offerte.",
+  "h092": "Telefoon",
+  "h093": "Telefoon 2",
+  "h094": "Vestiging",
+  "h095": "Regio",
+  "h096": "Milaan + heel Europa",
+  "h097": "Service",
+  "h098": "Turnkey",
+  "h099": "Beursstand",
+  "h100": "Event",
+  "h101": "Congres",
+  "h102": "Showroom / pop-up",
+  "h103": "Alleen opbouw",
+  "h104": "Voor- en achternaam",
+  "h105": "Bedrijf",
+  "h106": "Beurs / event en stad",
+  "h107": "Vertel over je project",
+  "h108": "Aanvraag versturen",
+  "h109": "Je aanvraag staat klaar in je e-mail: klik op verzenden.",
+  "h110": "Is er niets geopend? Mail naar",
+  "h111": "of bel",
+  "h112": "Studio",
+  "h113": "Beursstands in Milaan en Europa, events, congressen",
+  "h114": "27020 Tromello (PV), Lombardije",
+  "h115": "Navigatie",
+  "h116": "Configurator",
+  "h117": "Social",
+  "h118": "Contact",
+  "h119": "Vraag een offerte aan →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardije",
+  "h121": "Ontworpen, geproduceerd, gebouwd.",
+  "h122": "Terug naar boven ↑",
+  "h123": "Hoofdmenu",
+  "h124": "Filter op sector",
+  "h125": "Projectgalerij",
+  "h126": "Galerij sluiten",
+  "h127": "Vorige foto",
+  "h128": "Volgende foto",
+  "h129": "Oppervlakte in vierkante meters",
+  "h130": "Offerteaanvraag beursstand",
+  "h131": "Type project",
+  "h132": "Stuur ons een WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Wat kost een beursstand?",
+   "a": "De prijs van een beursstand hangt af van de oppervlakte, het type (rijstand, hoekstand, kopstand of eilandstand), de materialen, de prints, het meubilair en het beursterrein. Na een korte briefing over de beurs, de data en de vierkante meters sturen we je een eerste voorstel en een heldere, gedetailleerde offerte. Je kunt beginnen met de 3D-configurator hierboven, of ons bellen of een WhatsApp sturen op <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Waar is NEWSTANDS gevestigd en op welke beurzen werken jullie?",
+   "a": "Wij zijn een standbouwer uit de regio Milaan, met kantoor en werkplaats in Tromello (PV), in Lombardije: een strategische locatie op korte afstand van Fiera Milano Rho en Allianz MiCo, waar enkele van de belangrijkste beurzen van Europa plaatsvinden. Van hieruit reizen onze teams naar elk beursterrein: Bologna, Verona, Rimini, Düsseldorf, Keulen, Frankfurt, München, Parijs, Lyon, Barcelona, Madrid, Amsterdam, Brussel, Wenen, Genève en verder."
+  },
+  {
+   "q": "Wat houdt de turnkey service in?",
+   "a": "Eén aanspreekpunt voor alles: briefing, concept en 3D-renders, werktekeningen, eigen productie van constructies, wanden, grootformaat prints, meubilair en verlichting, logistiek en transport, opbouw met een vaste bouwleider, support tijdens de beurs, afbouw en opslag voor hergebruik."
+  },
+  {
+   "q": "Verzorgen jullie ook events, congressen en showrooms?",
+   "a": "Ja. Naast beursstands op maat en modulaire beursstands ontwerpen en bouwen we bedrijfsevents, congressen, conventions, productlanceringen, podia en decors, showrooms, tijdelijke winkels en pop-ups, met truss, ledwalls en lichttechniek."
+  },
+  {
+   "q": "Hoe ver van tevoren kunnen we jullie het best benaderen?",
+   "a": "Hoe eerder je contact opneemt, hoe meer ruimte we hebben voor ontwerp, renders en productie: voor een stand op maat begin je het best zodra je deelname aan de beurs bevestigd is. Voor modulaire stands en alleen opbouw kunnen we ook met kortere doorlooptijden werken: stuur ons een bericht en we checken meteen de haalbaarheid."
+  },
+  {
+   "q": "Hoe vraag ik een offerte aan?",
+   "a": "Vul het formulier in bij contact, mail naar <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> of bel of WhatsApp ons op <a href=\"tel:+393884706887\">+39 388 470 6887</a> (of op <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Vermeld de beurs of het event, de stad, de data en de vierkante meters: we nemen contact met je op met een eerste voorstel."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Ontwerp",
+    "Elke stand begint met een technische tekening: maten, reglement van het beursterrein, bezoekersstromen."
+   ],
+   [
+    "Constructie",
+    "Vloer, truss, frames. Het deel dat je niet ziet, maar dat alles draagt."
+   ],
+   [
+    "Wanden & print",
+    "Op maat gemaakte wanden, grootformaat print, afwerking."
+   ],
+   [
+    "Meubilair & techniek",
+    "Balies, zuilen, ledwalls, meetingruimtes, zwevende ring. Door ons gemaakt en opgebouwd."
+   ],
+   [
+    "Licht aan",
+    "Eindcontrole, schoonmaak, oplevering. De stand is klaar om open te gaan."
+   ]
+  ],
+  "lbl": [
+   "B 8.000 mm",
+   "D 6.000 mm",
+   "Truss 29×29 — H 4.500",
+   "Wand 3.400 + print",
+   "Ledwall 3,4 × 1,9 m",
+   "Receptiebalie",
+   "Zwevende ring Ø 4.400"
+  ],
+  "ty": {
+   "linea": "Rijstand",
+   "angolo": "Hoekstand",
+   "penisola": "Kopstand",
+   "isola": "Eilandstand",
+   "doppio": "Dubbeldeks"
+  },
+  "sides": "zijden",
+  "side": "zijde",
+  "openSides": "open zijden",
+  "openSide": "open zijde",
+  "cfgMsg": "Configuratie via de website: {type}, {n} {sides}, ca. {area} m² ({dim} m).",
+  "axo": "Axonometrisch aanzicht",
+  "cfgFb": "De 3D-configurator is niet beschikbaar op dit apparaat.<br>Stuur ons een bericht: wij sturen je de render.",
+  "mq": [
+   "Stands op maat",
+   "Events",
+   "Congressen",
+   "Showrooms",
+   "Pop-ups",
+   "Ledwalls",
+   "Truss",
+   "Print",
+   "Meubilair"
+  ],
+  "svc": [
+   {
+    "t": "Beursstands op maat",
+    "d": "Unieke ontwerpen, vanaf nul gebouwd rond jouw merk: houtbewerking, metaal, glas, textiel en hoogwaardige afwerking.",
+    "tags": [
+     "Concept",
+     "3D-render",
+     "Productie",
+     "Opbouw"
+    ]
+   },
+   {
+    "t": "Modulaire stands",
+    "d": "Herbruikbare, voorgebouwde systemen voor wie meerdere beurzen per jaar doet: een consistent imago en kosten onder controle.",
+    "tags": [
+     "Hergebruik",
+     "Opslag",
+     "Snelheid"
+    ]
+   },
+   {
+    "t": "Events & congressen",
+    "d": "Podia, decors, plenaire zalen, bedrijfsconventions en productlanceringen, met volledige technische regie.",
+    "tags": [
+     "Podia",
+     "Decors",
+     "Audio/Video"
+    ]
+   },
+   {
+    "t": "Showrooms & pop-ups",
+    "d": "Tijdelijke retailruimtes, pop-ups en vaste showrooms: dezelfde precisie als bij de opbouw op een beurs.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Grootformaat print",
+    "d": "Print op forex, backlit textiel, PVC, stickers en raamfolie. Door ons geproduceerd en aangebracht.",
+    "tags": [
+     "Lightbox",
+     "Textiel",
+     "Stickers"
+    ]
+   },
+   {
+    "t": "Truss & ledwalls",
+    "d": "Truss-constructies, zwevende ringen, rigging, ledwalls en lichttechniek voor stands die je vanuit de hele hal ziet.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "Ledwall",
+     "Licht"
+    ]
+   },
+   {
+    "t": "Meubilair & verhuur",
+    "d": "Balies, counters, zitmeubels, vitrines, keukens en bergruimtes: meubilair op maat of te huur voor elke standgrootte.",
+    "tags": [
+     "Op maat",
+     "Verhuur",
+     "Opslag"
+    ]
+   }
+  ],
+  "more": "Bekijk de dienst",
+  "tav": "Blad",
+  "avail": "BESCHIKBAAR",
+  "form": {
+   "type": "Type project",
+   "name": "Voor- en achternaam",
+   "company": "Bedrijf",
+   "fair": "Beurs / event en stad",
+   "project": "Project",
+   "subj": "Offerteaanvraag beursstand"
+  },
+  "ariaW": "{t} — galerij openen ({n} foto's)",
+  "altW": "Beursstand {t} — {c}, standbouw door NEWSTANDS",
+  "nPh": "{n} foto's",
+  "altLb": "Beursstand {t} ({c}) — foto {i} van {n}",
+  "phN": "Foto {i}",
+  "all": "Alle",
+  "ld": [
+   "Vloer",
+   "Wanden",
+   "Traverse",
+   "Licht",
+   "Klaar"
+  ],
+  "c3": [
+   "VAN NIETS",
+   "TOT STAND.",
+   "ONTWERP · PRODUCTIE · OPBOUW · EUROPA",
+   "STANDBOUW",
+   "STANDS · EVENTS · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristal en verlichting",
+   "g": "Design",
+   "d": "Total white eilandstand omhuld door gordijnen van kristallen draden, hangende kroonluchters en gelakt meubilair: de stand wordt een lichtgevende etalage."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sportsupplementen",
+   "g": "Food & Health",
+   "d": "Eilandstand met meerdere open zijden, productbeelden over de volle wandhoogte, hangende signing en proefbalies voor grote bezoekersstromen."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Toerisme",
+   "g": "Toerisme",
+   "d": "Institutioneel paviljoen met bogen en minaretten geïnspireerd op de architectuur van Telangana, balies voor touroperators en meeslepende prints."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Toerisme",
+   "g": "Toerisme",
+   "d": "Portalen in imitatie-terracotta, gebeeldhouwde bogen en B2B-werkplekken: een regionaal paviljoen dat de streek in één oogopslag laat zien."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nationaal foodpaviljoen",
+   "g": "Food & Health",
+   "d": "Collectief paviljoen in wit en rood met opengewerkte decoraties, exposantenbalies en een showcooking-zone."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Industrie",
+   "d": "Corporate stand met glazen vergaderruimtes, backlit wanden en een open ontvangstruimte aan het gangpad."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motoren",
+   "g": "Motoren",
+   "d": "Total white met rode portalen en podia voor de motoren: strakke vormgeving die de machines laat spreken."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektrische motoren",
+   "g": "Motoren",
+   "d": "Total black decor met een glanzend witte vloer, motoren op display en een meetingruimte."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Expositielounge",
+   "g": "Design",
+   "d": "Open lounge met een grote panoramaprint, zwevend plafond, bar en zitjes om bezoekers te ontvangen."
+  },
+  {
+   "t": "Plastona",
+   "c": "Huis en tuin",
+   "g": "Design",
+   "d": "Eilandstand met kubusvormige signing aan truss, witte schappen en productopstellingen."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motoren en motorsport",
+   "g": "Motoren",
+   "d": "Hoekstand met zwarte en witte presentatiewanden, voertuigen op podia en een zithoek."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energie-industrie",
+   "g": "Industrie",
+   "d": "Afgeronde backlit kaders, technische panelen en een meetingruimte voor een B2B-publiek."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Helmen",
+   "g": "Motoren",
+   "d": "Presentatiewanden voor helmen, racingprints en een ontvangstbalie: Italiaans design op een paar vierkante meter."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motoraccessoires",
+   "g": "Motoren",
+   "d": "Driekleurige zuilen, verlichte vitrines en productwanden voor een racingpresentatie die opvalt."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Helmen",
+   "g": "Motoren",
+   "d": "Ruitvormige wand met helmen op display, signing op XXL-formaat en een zithoek voor onderhandelingen."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motoronderdelen en -kleding",
+   "g": "Motoren",
+   "d": "Grafische zuilen over de volle hoogte, productvitrines en kledingwanden rond een meetingruimte."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Industrie",
+   "g": "Industrie",
+   "d": "Corporate stand in blauw met procesgraphics, een technische zone en gespreksplekken."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Toerisme",
+   "g": "Toerisme",
+   "d": "Scenografisch portaal met traditionele decoraties en grote beelden van de regio."
+  },
+  {
+   "t": "Uttar Pradesh — Landbouw",
+   "c": "Agrifood",
+   "g": "Food & Health",
+   "d": "Witte stand met lichtkaders in de vloer en productpanelen, sober en licht."
+  },
+  {
+   "t": "Tunesië — Medica Düsseldorf",
+   "c": "Nationaal paviljoen medische sector",
+   "g": "Medisch",
+   "d": "Landenpaviljoen op Medica Düsseldorf met hangende signing, balies voor de deelnemende bedrijven en een loungezone."
+  }
+ ],
+ "ui": {
+  "langName": "Nederlands",
+  "langLabel": "Taal",
+  "home": "Home",
+  "services": "Diensten",
+  "works": "Projecten",
+  "contacts": "Contact",
+  "quote": "Offerte",
+  "requestQuote": "Vraag een offerte aan",
+  "whatsapp": "Stuur ons een WhatsApp",
+  "call": "Bel ons",
+  "phone": "Telefoon / WhatsApp",
+  "phone2": "Telefoon 2",
+  "email": "E-mail",
+  "address": "Vestiging",
+  "serviceN": "Dienst",
+  "locationK": "Van Milaan naar heel Europa",
+  "includesTitle": "Wat is inbegrepen",
+  "whyTitle": "Waarom NEWSTANDS",
+  "why": [
+   {
+    "t": "Uitvalsbasis Milaan",
+    "d": "Wij werken vanuit de regio Milaan, op korte afstand van Fiera Milano Rho en Allianz MiCo: snelle locatiebezoeken, eenvoudige logistiek en teams altijd dicht bij de grote beursterreinen."
+   },
+   {
+    "t": "Eigen productie",
+    "d": "Constructies, wanden, prints, meubilair en verlichting komen uit onze eigen werkplaats: minder schakels, minder verrassingen, deadlines gehaald."
+   },
+   {
+    "t": "Op elk Europees beursterrein",
+    "d": "Onze opbouwteams reizen met de stand mee: Duitsland, Frankrijk, Spanje, de Benelux, Oostenrijk, Zwitserland en elk ander beursterrein op aanvraag."
+   },
+   {
+    "t": "Eén aanspreekpunt",
+    "d": "Van briefing tot afbouw spreek je altijd met dezelfde persoon, met een vaste bouwleider op de beurs."
+   }
+  ],
+  "galleryTitle": "Een greep uit onze stands",
+  "faqTitle": "Veelgestelde vragen",
+  "otherTitle": "Andere diensten",
+  "ctaTitle": "Staat er een beurs op de planning?",
+  "ctaText": "Vertel ons over de beurs, de stad, de data en de vierkante meters: je krijgt van ons een eerste voorstel en een heldere offerte.",
+  "whereTitle": "Van Milaan naar elk beursterrein",
+  "whereText": "Wij zitten in de regio Milaan, de stad waar enkele van de belangrijkste beurzen ter wereld plaatsvinden. Van hieruit bereiken onze teams elk beursterrein in Italië en Europa.",
+  "milanLink": "Beursstands in Milaan",
+  "europeLink": "Beursstands in Europa",
+  "photos": "foto's",
+  "backHome": "Terug naar home",
+  "footerTag": "Beursstands in Milaan en heel Europa. Ontworpen, geproduceerd, gebouwd.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardije · Regio Milaan",
+  "breadcrumb": "Kruimelpad",
+  "skip": "Naar de inhoud",
+  "menu": "Hoofdmenu"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "beursstand-op-maat",
+   "nav": "Stands op maat",
+   "title": "Beursstand op maat in Milaan en Europa | NEWSTANDS",
+   "desc": "Beursstands op maat, ontworpen, geproduceerd en opgebouwd door NEWSTANDS: uitvalsbasis in de regio Milaan, opbouw op alle beursterreinen van Europa.",
+   "h1": "Beursstands op maat",
+   "lead": "Een unieke stand, vanaf nul gebouwd rond jouw merk: wij ontwerpen hem, produceren hem in onze werkplaats bij Milaan en bouwen hem op tijdens elke beurs in Europa.",
+   "body": [
+    "Een stand op maat is de sterkste manier om je op een beurs te presenteren: elke wand, elke lichtbron en elke looproute is afgestemd op jouw producten en commerciële doelen. We vertrekken vanuit het technische reglement van het beursterrein en de bezoekersstromen in de hal, en vertalen het idee naar fotorealistische 3D-renders en werktekeningen.",
+    "Constructies in hout en metaal, wanden, prints, meubilair en verlichting maken we zelf, zodat we kwaliteit en planning in elke fase in de hand hebben. Of de beurs nu op Fiera Milano Rho is, in Düsseldorf of in Parijs: het team dat je stand bouwt, is ook het team dat hem opbouwt."
+   ],
+   "inc": [
+    {
+     "t": "Concept en 3D-renders",
+     "d": "Creatief voorstel, fotorealistische renders en aanpassingen tot de stand precies is zoals jij hem wilt."
+    },
+    {
+     "t": "Technisch ontwerp",
+     "d": "Werktekeningen, berekeningen en documentatie conform het reglement van elk beursterrein."
+    },
+    {
+     "t": "Productie op maat",
+     "d": "Houtbewerking, metaalconstructies, glas, textiel en hoogwaardige afwerking uit onze eigen werkplaats."
+    },
+    {
+     "t": "Print en verlichting",
+     "d": "Grootformaat print, lightboxen, ledwalls en een lichtplan, geïntegreerd in de architectuur van de stand."
+    },
+    {
+     "t": "Opbouw en afbouw",
+     "d": "Transport, opbouw met een vaste bouwleider, support op de beurs, afbouw en opslag."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hoeveel tijd is er nodig voor een beursstand op maat?",
+     "a": "Dat hangt af van afmetingen en complexiteit: voor een stand op maat begin je het best zodra je deelname aan de beurs vaststaat, zodat er ruimte is voor ontwerp, renders en productie."
+    },
+    {
+     "q": "Kan een stand op maat opnieuw worden gebruikt?",
+     "a": "Ja. We ontwerpen de onderdelen zo dat ze kunnen worden opgeslagen en opnieuw opgebouwd: voor de volgende beurs passen we de stand aan nieuwe afmetingen en nieuwe prints aan."
+    },
+    {
+     "q": "Bouwen jullie ook stands op maat buiten Italië?",
+     "a": "Ja, vanuit de regio Milaan brengen we de stand en onze teams naar alle grote Europese beursterreinen, van Duitsland tot Spanje."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modulaire-beursstand",
+   "nav": "Modulaire stands",
+   "title": "Modulaire beursstand in Milaan en Europa | NEWSTANDS",
+   "desc": "Modulaire, herbruikbare beursstands voor wie meerdere beurzen per jaar doet: een consistent imago en kosten onder controle, van Milaan tot heel Europa.",
+   "h1": "Modulaire en herbruikbare beursstands",
+   "lead": "Modulaire systemen voor wie meerdere beurzen per jaar doet: hetzelfde merkimago, kosten onder controle en een snelle opbouw, in Milaan en op elk Europees beursterrein.",
+   "body": [
+    "Een modulaire stand is een investering die lang meegaat: constructies, wanden en meubilair zijn opnieuw te configureren voor andere afmetingen en standtypes, van rijstand tot eilandstand. De prints veranderen, de kwaliteit blijft.",
+    "We ontwerpen het systeem één keer, produceren het in onze werkplaats en beheren het zelf tussen de beurzen door: opslag, onderhoud, nieuwe prints en transport naar de volgende beurshal, in Italië of daarbuiten."
+   ],
+   "inc": [
+    {
+     "t": "Systeem op maat",
+     "d": "Modules ontworpen rond jouw huisstijl, te combineren tot stands van een paar vierkante meter tot grote eilandstands."
+    },
+    {
+     "t": "Verwisselbare prints",
+     "d": "Bedrukt textiel en panelen die snel te vervangen zijn per beurs, product of markt."
+    },
+    {
+     "t": "Opslag en onderhoud",
+     "d": "We bewaren je stand in ons magazijn en controleren hem vóór elk nieuw vertrek."
+    },
+    {
+     "t": "Snelle opbouw",
+     "d": "Korte opbouwtijden, ideaal ook voor beurzen met krappe opbouwvensters."
+    },
+    {
+     "t": "Beursplanning uit handen",
+     "d": "Samen plannen we je beursseizoen en we regelen logistiek en teams voor elke beurs."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is een modulaire stand goedkoper dan een stand op maat?",
+     "a": "Over meerdere beurzen gerekend meestal wel: de initiële investering wordt over elke deelname verdeeld en de vervolgkosten beperken zich tot prints en logistiek."
+    },
+    {
+     "q": "Past een modulaire stand zich aan verschillende oppervlaktes aan?",
+     "a": "Ja, de modules zijn opnieuw te combineren tot een rijstand, hoekstand, kopstand of eilandstand en voor verschillende afmetingen."
+    },
+    {
+     "q": "Kunnen jullie onze hele beurskalender beheren?",
+     "a": "Ja: vanuit de regio Milaan coördineren we opslag, transport en opbouw voor elke beurs van het seizoen, in Italië en in Europa."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "eventbouw-congresinrichting",
+   "nav": "Events & congressen",
+   "title": "Eventbouw en congresinrichting in Milaan | NEWSTANDS",
+   "desc": "Inrichting voor bedrijfsevents, congressen, conventions en productlanceringen in Milaan en Europa: podia, decors en volledige technische regie.",
+   "h1": "Eventbouw en congresinrichting",
+   "lead": "Podia, decors, plenaire zalen, bedrijfsconventions en productlanceringen: wij richten events en congressen in, in Milaan en heel Europa, met dezelfde precisie als een beursstand.",
+   "body": [
+    "Milaan is een van de Europese hoofdsteden van events en congressen, met locaties als Allianz MiCo en de grote eventlocaties van de stad. Omdat we vanuit de regio Milaan werken, kennen we de planning, regels en logistiek van deze locaties en kunnen we locatiebezoeken en opbouw snel regelen.",
+    "We ontwerpen de complete inrichting: podium, decor, plenaire zaal, expositieruimtes, registratiebalie, bewegwijzering en lichttechniek. De technische leveranciers coördineren wij, zodat je voor het hele event één aanspreekpunt hebt."
+   ],
+   "inc": [
+    {
+     "t": "Podia en decors",
+     "d": "Podia op maat, achterwanden, ledwalls en decors ontworpen rond jouw boodschap."
+    },
+    {
+     "t": "Plenaire zalen en congressen",
+     "d": "Inrichting van zalen, posterruimtes, registratiebalies en sponsorruimtes."
+    },
+    {
+     "t": "Conventions en lanceringen",
+     "d": "Settings om een product te presenteren of je salesteam op een gedenkwaardige manier samen te brengen."
+    },
+    {
+     "t": "Audio, video en licht",
+     "d": "Technische regie, truss, ledwalls en lichttechniek, geïntegreerd in het ontwerp."
+    },
+    {
+     "t": "Bewegwijzering en print",
+     "d": "Looproutes, zuilen, backdrops en bijpassende prints, door ons gedrukt en geplaatst."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Richten jullie ook events in buiten beursterreinen?",
+     "a": "Ja: hotels, congrescentra, industriële ruimtes en privélocaties, in Milaan, in Italië en in het buitenland."
+    },
+    {
+     "q": "Kunnen jullie ook de audio- en videotechniek verzorgen?",
+     "a": "Ja, we coördineren podium, ledwalls, licht en geluid als onderdeel van één project, met één contactpersoon."
+    },
+    {
+     "q": "Hoe ver van tevoren moet je een event organiseren?",
+     "a": "Hoe eerder, hoe beter: met een paar weken speling kunnen we locatiebezoek, ontwerp en productie rustig uitvoeren. Is het dringend? Neem contact op en we bekijken de haalbaarheid."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-pop-up-store",
+   "nav": "Showrooms & pop-ups",
+   "title": "Showrooms, pop-up stores en tijdelijke winkels | NEWSTANDS",
+   "desc": "Ontwerp en inrichting van showrooms, tijdelijke winkels, pop-up stores en shop-in-shops in Milaan en Europa, met eigen productie en opbouw.",
+   "h1": "Showrooms, tijdelijke winkels en pop-ups",
+   "lead": "Tijdelijke retailruimtes, pop-ups en vaste showrooms, ingericht met dezelfde precisie als een beursstand, in Milaan en heel Europa.",
+   "body": [
+    "Een tijdelijke winkel of pop-up moet binnen een paar dagen klaarstaan en indruk maken: we ontwerpen ruimtes die het merkverhaal vertellen, het product laten stralen en snel op te bouwen zijn, ook in winkelcentra en winkelstraten.",
+    "Voor vaste showrooms maken we meubilair op maat, presentatiewanden, vitrines en verlichting van duurzame materialen. Productie en opbouw doen we zelf, dus planning en kwaliteit blijven onder controle."
+   ],
+   "inc": [
+    {
+     "t": "Retailconcept",
+     "d": "Indeling, klantroute en productpresentatie, ontworpen om te verkopen."
+    },
+    {
+     "t": "Tijdelijke winkels en pop-ups",
+     "d": "Lichte constructies die snel op te bouwen, af te breken en in andere steden te hergebruiken zijn."
+    },
+    {
+     "t": "Vaste showrooms",
+     "d": "Meubilair op maat, ingerichte wanden, vitrines en hoogwaardige afwerking."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Merkcorners in winkels en warenhuizen, volledig in lijn met je huisstijl."
+    },
+    {
+     "t": "Licht en print",
+     "d": "Productverlichting, signing, raamfolie en prints, door ons geproduceerd."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Hoe snel staat een tijdelijke winkel?",
+     "a": "Dat hangt af van de ruimte en het ontwerp: dankzij onze eigen productie kunnen we een pop-up zelfs in een paar dagen opbouwen."
+    },
+    {
+     "q": "Kan een pop-up naar andere steden verhuizen?",
+     "a": "Ja, we ontwerpen modulaire constructies die je afbreekt en op andere locaties weer opbouwt, in Italië en in Europa."
+    },
+    {
+     "q": "Verzorgen jullie ook vaste showrooms?",
+     "a": "Ja, van ontwerp tot installatie van meubilair, vitrines, verlichting en prints."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "grootformaat-print",
+   "nav": "Grootformaat print",
+   "title": "Grootformaat print voor beursstands | NEWSTANDS",
+   "desc": "Grootformaat print voor beursstands en events: forex, backlit textiel, lightboxen, PVC, stickers en raamfolie, door ons geproduceerd en aangebracht.",
+   "h1": "Grootformaat print voor stands en events",
+   "lead": "Print op forex, backlit textiel, PVC, stickers en raamfolie: de prints van je stand, geproduceerd en aangebracht door dezelfde teams die hem opbouwen.",
+   "body": [
+    "Print is het eerste wat bezoekers zien, vaak al vanaf de andere kant van de hal. Daarom behandelen we het als onderdeel van de architectuur van de stand: formaten, materialen en licht ontwerpen we samen met de constructie.",
+    "We printen en plaatsen alles zelf, in Milaan en op elke Europese beurs: geen tussenstappen tussen verschillende leveranciers, gecontroleerde kleuren en perfect uitgelijnde prints op het moment dat de beurs opengaat."
+   ],
+   "inc": [
+    {
+     "t": "Backlit textiel",
+     "d": "Lightboxen en lichtwanden van textiel, licht van gewicht en groot in impact."
+    },
+    {
+     "t": "Harde panelen",
+     "d": "Print op forex, dibond en PVC voor wanden, zuilen en balies."
+    },
+    {
+     "t": "Stickers en raamfolie",
+     "d": "Vloeren, glazen wanden en oppervlakken gepersonaliseerd met technische folies."
+    },
+    {
+     "t": "Hangende signing",
+     "d": "Banners en grafische constructies die van ver in de hal zichtbaar zijn."
+    },
+    {
+     "t": "Plaatsing op de beurs",
+     "d": "We brengen de prints zelf aan, met een eindcontrole vóór de opening."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Printen jullie ook voor stands die door anderen zijn gebouwd?",
+     "a": "Ja, we kunnen alleen de prints produceren en aanbrengen, volgens de maten en het reglement van het beursterrein."
+    },
+    {
+     "q": "Welke bestanden zijn nodig voor de print?",
+     "a": "Vectorbestanden of afbeeldingen in hoge resolutie met afloop: wij sturen je de technische specificaties voor elk formaat."
+    },
+    {
+     "q": "Kunnen textielprints opnieuw gebruikt worden?",
+     "a": "Ja, textiel kun je wassen, vouwen en opnieuw opspannen: ideaal voor wie aan meerdere beurzen deelneemt."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledwall-verlichting",
+   "nav": "Truss & ledwalls",
+   "title": "Truss, ledwalls en verlichting voor beursstands | NEWSTANDS",
+   "desc": "Truss-constructies, zwevende ringen, rigging, ledwalls en lichttechniek voor beursstands en events in Milaan en heel Europa, geplaatst door onze eigen teams.",
+   "h1": "Truss, ledwalls en lichttechniek",
+   "lead": "Truss-constructies, zwevende ringen, rigging, ledwalls en verlichting voor stands die je vanuit de hele hal ziet, op Fiera Milano en op elk Europees beursterrein.",
+   "body": [
+    "Een zwevende ring met je logo, een ledwall voor productvideo's, licht dat de oppervlakken precies goed raakt: dat zijn de elementen die een stand van ver herkenbaar maken. We ontwerpen ze samen met de stand en controleren belasting, ophangpunten en het reglement van het beursterrein.",
+    "We leveren en installeren truss, takels, ledwalls en armaturen met gekwalificeerd personeel en stemmen de rigging-aanvragen af met de beursorganisatie."
+   ],
+   "inc": [
+    {
+     "t": "Truss-constructies",
+     "d": "Staande en hangende constructies in elk formaat, ook als basis voor prints en verlichting."
+    },
+    {
+     "t": "Ringen en hangende signing",
+     "d": "Ronde of op maat gemaakte hangende elementen met print, zichtbaar vanuit de hele hal."
+    },
+    {
+     "t": "Rigging",
+     "d": "Berekeningen, ophangpunten en de formaliteiten met het beursterrein."
+    },
+    {
+     "t": "Ledwalls",
+     "d": "Ledschermen in diverse formaten, geïntegreerd in de wanden of op eigen constructies."
+    },
+    {
+     "t": "Lichttechniek",
+     "d": "Lichtplan voor producten, prints en de sfeer van de stand."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Regelen jullie de vergunningen voor rigging?",
+     "a": "Ja, we stellen de technische documentatie op en handelen de aanvragen af met de beursorganisatie."
+    },
+    {
+     "q": "Verhuren jullie ook ledwalls voor events?",
+     "a": "Ja, ledwalls, truss en verlichting zijn ook beschikbaar voor events, congressen en productlanceringen."
+    },
+    {
+     "q": "Werken jullie ook op beursterreinen in het buitenland?",
+     "a": "Ja, we installeren constructies en ledwalls op alle grote Europese beursterreinen."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "standmeubilair-huren",
+   "nav": "Meubilair & verhuur",
+   "title": "Standmeubilair op maat en meubelverhuur | NEWSTANDS",
+   "desc": "Balies, counters, zitmeubels, vitrines, keukens en bergruimtes voor beursstands: meubilair op maat of te huur, van Milaan tot heel Europa.",
+   "h1": "Standmeubilair op maat en te huur",
+   "lead": "Balies, counters, zitmeubels, vitrines, keukens en bergruimtes: meubilair op maat gemaakt in onze werkplaats of te huur, voor stands van elke omvang.",
+   "body": [
+    "Meubilair laat een stand werken: ontvangst, presentatie, meetings, proeverijen en opslag moeten op de juiste plek staan. We ontwerpen het samen met de indeling, met oog voor de bezoekersstromen en het werk van je team op de beurs.",
+    "We maken unieke stukken op maat, in de afwerking en kleuren van je merk, of leveren huurmeubilair om de kosten te beperken. Levering, opbouw en ophalen verzorgen wij altijd zelf."
+   ],
+   "inc": [
+    {
+     "t": "Balies en receptie",
+     "d": "Ontvangstbalies op maat, met logo, verlichting en technische ruimtes."
+    },
+    {
+     "t": "Meeting- en loungeruimtes",
+     "d": "Tafels, stoelen en zithoeken om klanten in je stand te ontvangen."
+    },
+    {
+     "t": "Vitrines en displays",
+     "d": "Vitrinekasten, planken en ingerichte wanden die je producten laten uitkomen."
+    },
+    {
+     "t": "Keukens en bergruimtes",
+     "d": "Bergingen, keukens en servicezones, geïntegreerd in de stand."
+    },
+    {
+     "t": "Meubelverhuur",
+     "d": "Huurmeubilair in elke stijl en voor elk budget, door ons geleverd en opgehaald."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kan ik alleen meubilair huren?",
+     "a": "Ja, we leveren ook alleen huurmeubilair, inclusief levering en ophalen op de beurs."
+    },
+    {
+     "q": "Kan meubilair op maat opnieuw gebruikt worden?",
+     "a": "Ja, we bewaren het in ons magazijn en brengen het naar de volgende beurs."
+    },
+    {
+     "q": "Leveren jullie meubilair ook in het buitenland?",
+     "a": "Ja, we leveren en plaatsen meubilair op alle grote Europese beursterreinen."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "opbouw-afbouw-beursstand",
+   "nav": "Opbouw & afbouw",
+   "title": "Opbouw en afbouw beursstands in Milaan en Europa | NEWSTANDS",
+   "desc": "Gespecialiseerde teams voor de opbouw en afbouw van beursstands op Fiera Milano Rho en op alle Europese beursterreinen. Ook alleen opbouw.",
+   "h1": "Opbouw en afbouw van beursstands",
+   "lead": "Gespecialiseerde teams en een vaste bouwleider voor de opbouw en afbouw van je stand op Fiera Milano Rho, Allianz MiCo en elk beursterrein in Europa. Ook alleen opbouw.",
+   "body": [
+    "Bij de opbouw wordt een ontwerp een stand: daar zijn ervaren teams, gereedschap en respect voor de tijdvensters en veiligheidsregels van het beursterrein voor nodig. Vanuit onze uitvalsbasis in de regio Milaan zijn we snel op de Milanese beursterreinen en vertrekken we met de stand naar beurzen in heel Europa.",
+    "We bouwen stands op die we zelf hebben gemaakt, maar ook stands van andere leveranciers of in eigendom van de klant: ontvangst van het materiaal, opbouw, eindcontrole, support tijdens de beurs, afbouw en terugbrengen naar het magazijn."
+   ],
+   "inc": [
+    {
+     "t": "Gespecialiseerde teams",
+     "d": "Ervaren standbouwers met eigen gereedschap en een vaste bouwleider."
+    },
+    {
+     "t": "Toegangsformaliteiten",
+     "d": "Passen, veiligheidsdocumentatie en vergunningen die het beursterrein vereist."
+    },
+    {
+     "t": "Controle en oplevering",
+     "d": "Eindcontrole van constructies, verlichting en prints vóór de opening."
+    },
+    {
+     "t": "Support op de beurs",
+     "d": "Technici die tijdens de hele beurs bereikbaar zijn, voor alles wat nodig is."
+    },
+    {
+     "t": "Afbouw en opslag",
+     "d": "Afbouw binnen de geplande tijd, transport en opslag voor hergebruik."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Doen jullie ook alleen de opbouw van stands die niet van jullie zijn?",
+     "a": "Ja, we bouwen ook stands op en af van andere standbouwers of in eigendom van de exposant."
+    },
+    {
+     "q": "Op welke beursterreinen werken jullie?",
+     "a": "Op Fiera Milano Rho en Allianz MiCo, in Bologna, Verona en Rimini, en op de grote Europese beursterreinen: Düsseldorf, Keulen, Frankfurt, München, Parijs, Barcelona, Madrid, Amsterdam en verder."
+    },
+    {
+     "q": "Houden jullie je aan de veiligheidsregels van de beursterreinen?",
+     "a": "Ja, onze standbouwers werken volgens de veiligheidsvoorschriften en technische reglementen van elk beursterrein."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "beursstand-milaan",
+   "nav": "Stands in Milaan",
+   "title": "Standbouwer Milaan: beursstands Fiera Milano Rho | NEWSTANDS",
+   "desc": "Standbouwer in de regio Milaan: turnkey beursstands voor Fiera Milano Rho, Allianz MiCo en events in de stad, door ons ontworpen en opgebouwd.",
+   "h1": "Beursstands in Milaan",
+   "lead": "Milaan is een van de belangrijkste beurssteden van Europa en wij werken van hieruit: we ontwerpen, produceren en bouwen stands voor de beurzen van Fiera Milano Rho, Allianz MiCo en voor events in de stad.",
+   "body": [
+    "Fiera Milano Rho ontvangt elk jaar internationale beurzen als Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO en MICAM, en Allianz MiCo is een van de grootste congrescentra van Europa. Voor exposanten betekent dat enorme concurrentie: je stand moet opvallen.",
+    "Een standbouwer in de regio Milaan betekent snelle locatiebezoeken, eenvoudige logistiek, opbouwteams dichtbij en directe support tijdens de beurs. En gaat je beursseizoen na Milaan verder in het buitenland, dan brengt hetzelfde team je stand naar elk Europees beursterrein."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stands voor de grote internationale beurzen op het beursterrein van Rho, van de designhallen tot die van motoren en food."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Inrichting voor congressen, conventions en beurzen in het congrescentrum van Milaan."
+    },
+    {
+     "t": "Events in de stad",
+     "d": "Productlanceringen, Fuorisalone, showrooms en pop-up stores op Milanese locaties."
+    },
+    {
+     "t": "Snelle locatiebezoeken",
+     "d": "Vanuit onze uitvalsbasis zijn we snel op de Milanese beursterreinen, vóór en tijdens de beurs."
+    },
+    {
+     "t": "Opslag dichtbij",
+     "d": "Je stand blijft in ons magazijn in Lombardije, klaar voor de volgende editie."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Zijn jullie een standbouwer uit Milaan?",
+     "a": "Ja, we werken vanuit de regio Milaan, met kantoor en werkplaats in Tromello (PV), in Lombardije, op korte afstand van Fiera Milano Rho."
+    },
+    {
+     "q": "Voor welke beurzen in Milaan bouwen jullie stands?",
+     "a": "Voor alle beurzen van Fiera Milano Rho en Allianz MiCo, en daarnaast voor events en de Fuorisalone in de stad."
+    },
+    {
+     "q": "Kunnen jullie ons ook naar beurzen in het buitenland volgen?",
+     "a": "Ja, vanuit Milaan brengen we stands en teams naar alle grote Europese beursterreinen."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "beursstand-europa",
+   "nav": "Stands in Europa",
+   "title": "Beursstands in Europa: Duitsland, Frankrijk, Spanje | NEWSTANDS",
+   "desc": "Van Milaan naar alle Europese beursterreinen: turnkey beursstands in Düsseldorf, Keulen, Frankfurt, München, Parijs, Barcelona, Madrid, Amsterdam en verder.",
+   "h1": "Beursstands in heel Europa",
+   "lead": "We vertrekken vanuit Milaan en reizen naar elk beursterrein in Europa: één leverancier voor ontwerp, productie, transport en opbouw, waar je beurs ook plaatsvindt.",
+   "body": [
+    "In het buitenland exposeren met per land een andere lokale standbouwer betekent nieuwe aanspreekpunten, andere standaarden en meer risico. Met NEWSTANDS heb je één team: we ontwerpen en produceren in onze werkplaats bij Milaan, regelen transport en toegangsformaliteiten en bouwen op met onze eigen teams.",
+    "We werken op de grote beursterreinen van Duitsland, Frankrijk, Spanje, de Benelux, Oostenrijk en Zwitserland, en op elk ander beursterrein op aanvraag. We hebben landenpaviljoens en merkstands gerealiseerd, zoals het paviljoen van Tunesië op MEDICA Düsseldorf."
+   ],
+   "inc": [
+    {
+     "t": "Duitsland",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt en Messe München."
+    },
+    {
+     "t": "Frankrijk",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles en Eurexpo Lyon."
+    },
+    {
+     "t": "Spanje",
+     "d": "Fira de Barcelona Gran Via en IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam en Brussels Expo."
+    },
+    {
+     "t": "Oostenrijk, Zwitserland en verder",
+     "d": "Messe Wien, Palexpo Genève en elk ander Europees beursterrein op aanvraag."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Regelen jullie transport en formaliteiten voor beurzen in het buitenland?",
+     "a": "Ja: verpakking, transport, passen, veiligheidsdocumentatie en het contact met de beursorganisatie nemen wij voor onze rekening."
+    },
+    {
+     "q": "Zijn de opbouwteams van jullie zelf?",
+     "a": "Ja, de stand wordt opgebouwd door onze eigen teams met een vaste bouwleider, ook in het buitenland."
+    },
+    {
+     "q": "In welke talen kunnen we communiceren?",
+     "a": "In het Italiaans en Engels; voor de beursdocumentatie stemmen we af met de organisator in de lokale taal."
+    }
+   ]
+  }
+ }
+}

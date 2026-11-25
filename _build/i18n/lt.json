@@ -1,0 +1,987 @@
+{
+ "_lang": "lt",
+ "meta": {
+  "title": "Parodų stendai Milane ir visoje Europoje | NEWSTANDS",
+  "desc": "Parodų stendų gamintojas Milano regione: projektuojame, gaminame ir montuojame stendus „iki rakto“ parodų centre Fiera Milano ir visoje Europoje.",
+  "ogTitle": "NEWSTANDS — parodų stendai iš Milano visoje Europoje",
+  "ogDesc": "Parodų stendai „iki rakto“, renginiai ir kongresai: bazė Milano regione, savos montavimo komandos kiekviename Europos parodų centre.",
+  "ogAlt": "NEWSTANDS — parodų stendų gamyba iš Milano visoje Europoje",
+  "orgDesc": "Parodų stendų gamintojas, įsikūręs Milano regione (būstinė Tromello, PV). Projektuoja, gamina ir montuoja parodų stendus „iki rakto“, renginių ir kongresų įrangą, salonus ir laikinas parduotuves parodų centre Fiera Milano ir visuose Europos parodų centruose.",
+  "slogan": "Suprojektuota, pagaminta, sumontuota."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Podiumas",
+  "h003": "Parodų stendai",
+  "h004": "Suprojektuota · Pagaminta · Sumontuota",
+  "h005": "Palieskite, kad įeitumėte",
+  "h006": "Procesas",
+  "h007": "Paslaugos",
+  "h008": "Darbai",
+  "h009": "Konfigūruokite",
+  "h009b": "Konfigūruokite",
+  "h010": "Europa",
+  "h011": "Pasiūlymas",
+  "h012": "Parodų stendų gamintojas Milane · Renginiai · Kongresai",
+  "h013": "Projektavimas → Gamyba → Montavimas",
+  "h014": "Mūsų bazė – Milano regione, Europos parodų širdyje: stendus statome nuo nulio ir montuojame juos kiekviename Europos parodų centre. Vienas kontaktinis asmuo nuo pirmojo eskizo iki paskutinio varžto.",
+  "h015": "Slinkite ir surinkite stendą",
+  "h016": "Lapas 00 — Stendo planas 8000 × 6000",
+  "h017": "Mastelis 1:50",
+  "h018": "Projektas",
+  "h019": "Darbų eiga",
+  "h020": "Lapas 05 — Perdavimas",
+  "h021": "Iki rakto.",
+  "h022": "Konfigūruokite savo",
+  "h023": "Gauti pasiūlymą",
+  "h024": "§ 01 — Apie mus",
+  "h025": "Mes neparduodame kvadratinių metrų. Statome vietą, kur jūsų *prekės* *ženklas* susitinka su rinka — nuo *pirmojo* eskizo iki paskutinio varžto, bet kuriame Europos parodų paviljone.",
+  "h026": "Metodas",
+  "h027": "Kiekvieną komponentą projektuojame, gaminame ir montuojame patys: konstrukcijas, plokštes, grafiką, baldus ir apšvietimą. Mažiau tarpininkų, mažiau staigmenų, laikomės terminų.",
+  "h028": "Nuo nulio",
+  "h029": "iki stendo.",
+  "h030": "Šeši etapai, vienas vadovavimas.",
+  "h031": "Slinkite horizontaliai →",
+  "h032": "Etapas 01",
+  "h033": "Tikslai, biudžetas, paroda, parodų centro techninės taisyklės. Pradedame nuo to, kas turi vykti jūsų stende.",
+  "h034": "Etapas 02",
+  "h035": "Koncepcija & 3D",
+  "h036": "Fotorealistinės vizualizacijos ir darbo brėžiniai: matote baigtą stendą dar prieš supjaunant pirmą plokštę.",
+  "h037": "Etapas 03",
+  "h038": "Gamyba",
+  "h039": "Staliaus darbai, metalo konstrukcijos, didelio formato spauda, apšvietimas. Kiekviena detalė gaminama pagal užsakymą.",
+  "h040": "Etapas 04",
+  "h041": "Logistika",
+  "h042": "Pakavimas, transportas ir patekimo formalumai bet kuriame Europos parodų centre. Atvykstame patys ir laiku.",
+  "h043": "Etapas 05",
+  "h044": "Montavimas",
+  "h045": "Specializuotos komandos, savas montavimo vadovas, priėmimo patikra. Stendą jums perduodame paruoštą.",
+  "h046": "Etapas 06",
+  "h047": "Paroda & demontavimas",
+  "h048": "Techninė pagalba parodos metu, demontavimas, sandėliavimas ir pakartotinis naudojimas kitoje parodoje.",
+  "h049": "Rezultatas",
+  "h050": "Jūs galvojate",
+  "h051": "apie klientus.",
+  "h052": "Visa kita",
+  "h053": "pasirūpinsime mes.",
+  "h054": "Pakalbėkime apie jūsų kitą parodą",
+  "h055": "Ką",
+  "h056": "mes statome",
+  "h057": "§ 03 — Paslaugos",
+  "h058": "Visų tipų parodos ir renginiai – nuo 16 m² linijinio stendo iki dviaukštės salos. Gamyba ir montavimas visada savo jėgomis.",
+  "h059": "Įgyvendinti",
+  "h060": "stendai",
+  "h061": "§ 04 — Darbai",
+  "h062": "Mūsų komandų suprojektuotų, pagamintų ir sumontuotų stendų pavyzdžiai: nacionaliniai paviljonai, prekių ženklų salos ir techniniai stendai visoje Europoje.",
+  "h063": "Kitas gali būti jūsų",
+  "h064": "savo stendą",
+  "h065": "§ 05 — 3D konfigūratorius",
+  "h066": "Pasirinkite tipą ir plotą: stebėkite, kaip formuojasi tūris, ir atsiųskite mums konfigūraciją kaip pasiūlymo pagrindą.",
+  "h067": "↔ Vilkite, kad pasuktumėte",
+  "h068": "Aksonometrinis vaizdas",
+  "h069": "Az 000°",
+  "h070": "01 — Tipas",
+  "h071": "Atviros pusės",
+  "h072": "02 — Plotas",
+  "h073": "Apyt. matmenys",
+  "h074": "Naudoti šią konfigūraciją",
+  "h075": "Kitas",
+  "h076": "išvykimas",
+  "h077": "§ 06 — Iš Milano į visą Europą",
+  "h078": "Pradedame Milane, didžiųjų tarptautinių parodų mieste, ir su stendu keliaujame į bet kurį Europos parodų centrą: Vokietija, Prancūzija, Ispanija, Beniliukso šalys, Austrija, Šveicarija. Jei ten yra paviljonas, mes ten nuvyksime.",
+  "h079": "Miestas",
+  "h080": "Parodų centras",
+  "h081": "Šalis",
+  "h082": "Būsena",
+  "h083": "Veikiančios montavimo komandos",
+  "h084": "+ bet kuris kitas parodų centras pagal užklausą",
+  "h085": "Dažniausiai užduodami",
+  "h086": "klausimai",
+  "h087": "§ 07 — DUK",
+  "h088": "Kainos, terminai, miestai ir paslaugos: atsakymai į klausimus, kuriuos mums dažniausiai užduoda prieš parodą.",
+  "h089": "Jūsų kalendoriuje",
+  "h090": "yra paroda?",
+  "h091": "Papasakokite apie renginį, datas ir kvadratinius metrus. Atsakysime pirmuoju pasiūlymu ir aiškia sąmata.",
+  "h092": "Telefonas",
+  "h093": "Telefonas 2",
+  "h094": "Būstinė",
+  "h095": "Regionas",
+  "h096": "Milanas + visa Europa",
+  "h097": "Paslauga",
+  "h098": "Iki rakto",
+  "h099": "Parodų stendas",
+  "h100": "Renginys",
+  "h101": "Kongresas",
+  "h102": "Salonas / laikina parduotuvė",
+  "h103": "Tik montavimas",
+  "h104": "Vardas ir pavardė",
+  "h105": "Įmonė",
+  "h106": "Paroda / renginys ir miestas",
+  "h107": "Papasakokite apie projektą",
+  "h108": "Siųsti užklausą",
+  "h109": "Užklausa paruošta jūsų el. pašte: paspauskite „Siųsti“.",
+  "h110": "Niekas neatsidarė? Rašykite",
+  "h111": "arba skambinkite",
+  "h112": "Studija",
+  "h113": "Parodų stendai Milane ir Europoje, renginiai, kongresai",
+  "h114": "27020 Tromello (PV), Lombardija",
+  "h115": "Naršymas",
+  "h116": "Konfigūratorius",
+  "h117": "Socialiniai tinklai",
+  "h118": "Kontaktai",
+  "h119": "Gauti pasiūlymą →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija",
+  "h121": "Suprojektuota, pagaminta, sumontuota.",
+  "h122": "Į viršų ↑",
+  "h123": "Pagrindinis meniu",
+  "h124": "Filtruoti pagal sektorių",
+  "h125": "Projekto galerija",
+  "h126": "Uždaryti galeriją",
+  "h127": "Ankstesnė nuotrauka",
+  "h128": "Kita nuotrauka",
+  "h129": "Plotas kvadratiniais metrais",
+  "h130": "Parodų stendo pasiūlymo užklausa",
+  "h131": "Projekto tipas",
+  "h132": "Rašykite mums WhatsApp"
+ },
+ "faq": [
+  {
+   "q": "Kiek kainuoja parodų stendas?",
+   "a": "Stendo kaina priklauso nuo ploto, tipo (linijinis, kampinis, pusiasalio ar salos), medžiagų, grafikos, baldų ir parodų centro. Po trumpo pokalbio apie parodą, datas ir kvadratinius metrus atsiųsime jums pirmąjį pasiūlymą ir aiškią, išsamią sąmatą. Galite pradėti nuo 3D konfigūratoriaus aukščiau arba skambinti ir rašyti mums WhatsApp numeriu <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Kur įsikūrusi NEWSTANDS ir kuriose parodose dirbate?",
+   "a": "Esame parodų stendų gamintojas Milano regione, mūsų būstinė ir dirbtuvės yra Tromello (PV), Lombardijoje: strategiška vieta netoli parodų centrų Fiera Milano Rho ir Allianz MiCo, kuriuose vyksta vienos svarbiausių Europos parodų. Iš čia mūsų komandos vyksta į bet kurį parodų centrą: Bolonija, Verona, Riminis, Diuseldorfas, Kelnas, Frankfurtas, Miunchenas, Paryžius, Lionas, Barselona, Madridas, Amsterdamas, Briuselis, Viena, Ženeva ir kt."
+  },
+  {
+   "q": "Ką apima paslauga „iki rakto“?",
+   "a": "Vienas kontaktinis asmuo viskam: užduotis, koncepcija ir 3D vizualizacijos, darbo brėžiniai, konstrukcijų, plokščių, didelio formato grafikos, baldų ir apšvietimo gamyba mūsų dirbtuvėse, logistika ir transportas, montavimas su savu darbų vadovu, pagalba parodos metu, demontavimas ir sandėliavimas pakartotiniam naudojimui."
+  },
+  {
+   "q": "Ar įrengiate ir renginius, kongresus bei salonus?",
+   "a": "Taip. Be individualių ir modulinių parodų stendų, projektuojame ir įrengiame įmonių renginius, kongresus, konferencijas, produktų pristatymus, scenas ir scenografiją, salonus, laikinas ir pop-up parduotuves su santvaromis, LED ekranais ir apšvietimo technika."
+  },
+  {
+   "q": "Kaip anksti verta su jumis susisiekti?",
+   "a": "Kuo anksčiau susisieksite, tuo daugiau laiko liks projektui, vizualizacijoms ir gamybai: individualaus stendo atveju verta pradėti vos patvirtinus dalyvavimą parodoje. Moduliniams stendams ir vien montavimui galime dirbti ir su trumpesniais terminais: parašykite mums ir iškart patikrinsime galimybes."
+  },
+  {
+   "q": "Kaip gauti pasiūlymą?",
+   "a": "Užpildykite formą kontaktų skiltyje, rašykite <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> arba skambinkite ir rašykite mums WhatsApp numeriu <a href=\"tel:+393884706887\">+39 388 470 6887</a> (arba <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Nurodykite parodą ar renginį, miestą, datas ir kvadratinius metrus: susisieksime su pirmuoju pasiūlymu."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Projektas",
+    "Kiekvienas stendas prasideda nuo techninio brėžinio: matmenys, parodų centro taisyklės, lankytojų srautai."
+   ],
+   [
+    "Konstrukcija",
+    "Podiumas, santvaros, rėmai. Dalis, kurios nesimato, bet kuri laiko viską."
+   ],
+   [
+    "Sienos & grafika",
+    "Pagal užsakymą pagamintos plokštės, didelio formato spauda, apdaila."
+   ],
+   [
+    "Baldai & technika",
+    "Stalai, totemai, LED ekranai, susitikimų zonos, pakabinamas žiedas. Gaminame ir montuojame patys."
+   ],
+   [
+    "Šviesos įjungtos",
+    "Patikra, valymas, perdavimas. Stendas paruoštas atidarymui."
+   ]
+  ],
+  "lbl": [
+   "P 8000 mm",
+   "G 6000 mm",
+   "Santvara 29×29 — A 4500",
+   "Siena 3400 + grafika",
+   "LED ekranas 3,4 × 1,9 m",
+   "Registracijos stalas",
+   "Pakabinamas žiedas Ø 4400"
+  ],
+  "ty": {
+   "linea": "Linijinis",
+   "angolo": "Kampinis",
+   "penisola": "Pusiasalis",
+   "isola": "Sala",
+   "doppio": "Dviaukštis"
+  },
+  "sides": "pusės",
+  "side": "pusė",
+  "openSides": "atviros pusės",
+  "openSide": "atvira pusė",
+  "cfgMsg": "Konfigūracija iš svetainės: stendo tipas {type}, {n} {sides}, apie {area} m² ({dim} m).",
+  "axo": "Aksonometrinis vaizdas",
+  "cfgFb": "3D konfigūratorius šiame įrenginyje nepasiekiamas.<br>Parašykite mums: vizualizaciją atsiųsime patys.",
+  "mq": [
+   "Individualūs stendai",
+   "Renginiai",
+   "Kongresai",
+   "Salonai",
+   "Laikinos parduotuvės",
+   "LED ekranai",
+   "Santvaros",
+   "Grafika",
+   "Baldai"
+  ],
+  "svc": [
+   {
+    "t": "Individualūs stendai",
+    "d": "Unikalūs projektai, nuo nulio sukurti aplink jūsų prekės ženklą: mediena, metalas, stiklas, tekstilė, aukščiausios kokybės apdaila.",
+    "tags": [
+     "Koncepcija",
+     "3D vizualizacija",
+     "Gamyba",
+     "Montavimas"
+    ]
+   },
+   {
+    "t": "Moduliniai stendai",
+    "d": "Daugkartinės, iš anksto paruoštos sistemos tiems, kas dalyvauja keliose parodose per metus: vientisas įvaizdis, kontroliuojamos išlaidos.",
+    "tags": [
+     "Daugkartiniai",
+     "Sandėliavimas",
+     "Greitis"
+    ]
+   },
+   {
+    "t": "Renginiai & kongresai",
+    "d": "Scenos, scenografija, plenarinės salės, įmonių konferencijos ir produktų pristatymai su visa technine režisūra.",
+    "tags": [
+     "Scenos",
+     "Scenografija",
+     "Garsas/Vaizdas"
+    ]
+   },
+   {
+    "t": "Salonai & laikinos parduotuvės",
+    "d": "Laikinos prekybos erdvės, pop-up parduotuvės ir nuolatiniai salonai: tas pats kruopštumas kaip parodų statybose.",
+    "tags": [
+     "Pop-up",
+     "Prekyba",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Didelio formato grafika",
+    "d": "Spauda ant forex, apšviečiamos tekstilės, PVC, lipdukai ir vitrinų lipdukai. Gaminame ir užklijuojame patys.",
+    "tags": [
+     "Šviesdėžė",
+     "Tekstilė",
+     "Lipdukai"
+    ]
+   },
+   {
+    "t": "Santvaros & LED ekranai",
+    "d": "Santvarų konstrukcijos, pakabinami žiedai, rigingas, LED ekranai ir apšvietimas stendams, matomiems iš viso paviljono.",
+    "tags": [
+     "Santvaros",
+     "Rigingas",
+     "LED ekranai",
+     "Šviesos"
+    ]
+   },
+   {
+    "t": "Baldai & nuoma",
+    "d": "Stalai, prekystaliai, sėdimos vietos, vitrinos, virtuvėlės ir sandėliukai: baldai pagal užsakymą arba nuomai bet kokio ploto stendui.",
+    "tags": [
+     "Pagal užsakymą",
+     "Nuoma",
+     "Sandėliukai"
+    ]
+   }
+  ],
+  "more": "Plačiau apie paslaugą",
+  "tav": "Lapas",
+  "avail": "LAISVA",
+  "form": {
+   "type": "Projekto tipas",
+   "name": "Vardas ir pavardė",
+   "company": "Įmonė",
+   "fair": "Paroda / renginys ir miestas",
+   "project": "Projektas",
+   "subj": "Parodų stendo pasiūlymo užklausa"
+  },
+  "ariaW": "{t} — atidaryti galeriją (nuotraukų: {n})",
+  "altW": "Parodų stendas {t} — {c}, įrengė NEWSTANDS",
+  "nPh": "Nuotraukų: {n}",
+  "altLb": "Parodų stendas {t} ({c}) — nuotrauka {i} iš {n}",
+  "phN": "Nuotrauka {i}",
+  "all": "Visi",
+  "ld": [
+   "Podiumas",
+   "Sienos",
+   "Sija",
+   "Šviesos",
+   "Paruošta"
+  ],
+  "c3": [
+   "NUO NULIO",
+   "IKI STENDO.",
+   "PROJEKTAS · GAMYBA · MONTAVIMAS · EUROPA",
+   "PARODŲ STENDAI",
+   "STENDAI · RENGINIAI · EUROPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristalai ir apšvietimas",
+   "g": "Dizainas",
+   "d": "Visiškai balta sala, apgaubta krištolinių siūlų užuolaidomis, pakabinamais sietynais ir lakuotais baldais: stendas tampa šviečiančia vitrina."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sporto papildai",
+   "g": "Maistas & sveikata",
+   "d": "Iš kelių pusių atvira sala su per visą sieną produktų grafika, pakabinamomis iškabomis ir degustacijos prekystaliais dideliems lankytojų srautams."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turizmas",
+   "g": "Turizmas",
+   "d": "Institucinis paviljonas su Telanganos architektūros įkvėptomis arkomis ir minaretais, operatorių stalais ir įtraukiančia grafika."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turizmas",
+   "g": "Turizmas",
+   "d": "Terakotą imituojantys portalai, raižytos arkos ir B2B darbo vietos: regiono paviljonas, pristatantis kraštą iš pirmo žvilgsnio."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nacionalinis maisto paviljonas",
+   "g": "Maistas & sveikata",
+   "d": "Baltai raudonas bendras paviljonas su ažūriniais ornamentais, eksponentų stalais ir gyvo gaminimo zona."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Pramonė",
+   "d": "Korporatyvinis stendas su stiklinėmis posėdžių salėmis, apšviestomis sienomis ir į praėjimą atvira priėmimo zona."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motociklai",
+   "g": "Moto",
+   "d": "Visiškai balta erdvė su raudonais portalais ir motociklų podiumais: švari grafika, leidžianti kalbėti patiems motociklams."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektriniai motociklai",
+   "g": "Moto",
+   "d": "Visiškai juoda scenografija su blizgiomis baltomis grindimis, eksponuojamais motociklais ir susitikimų zona."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Parodų poilsio zona",
+   "g": "Dizainas",
+   "d": "Atvira poilsio zona su didele panoramine spauda, pakabinamomis lubomis, prekystaliu ir sėdimomis vietomis lankytojams priimti."
+  },
+  {
+   "t": "Plastona",
+   "c": "Namai ir sodas",
+   "g": "Dizainas",
+   "d": "Sala su kubo formos iškabomis ant santvarų, baltomis lentynomis ir produktų ekspozicijomis."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motociklai ir varikliai",
+   "g": "Moto",
+   "d": "Kampinis stendas su juodomis ir baltomis ekspozicinėmis sienomis, transporto priemonėmis ant podiumo ir stalų zona."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energetikos pramonė",
+   "g": "Pramonė",
+   "d": "Užapvalinti apšviesti rėmai, techninės plokštės ir susitikimų zona B2B lankytojams."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Šalmai",
+   "g": "Moto",
+   "d": "Ekspozicinės sienos šalmams, lenktyninė grafika ir registracijos stalas: itališkas dizainas keliuose kvadratiniuose metruose."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motociklų aksesuarai",
+   "g": "Moto",
+   "d": "Trispalvės kolonos, apšviestos vitrinos ir produktų sienos ryškiam lenktyniniam įvaizdžiui."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Šalmai",
+   "g": "Moto",
+   "d": "Rombų siena su eksponuojamais šalmais, didžiulės iškabos ir stalų zona deryboms."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motociklų dalys ir apranga",
+   "g": "Moto",
+   "d": "Viso aukščio grafiniai totemai, produktų vitrinos ir aprangos sienos aplink susitikimų zoną."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Pramonė",
+   "g": "Pramonė",
+   "d": "Mėlynas korporatyvinis stendas su procesų grafika, technine zona ir susitikimų vietomis."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turizmas",
+   "g": "Turizmas",
+   "d": "Scenografinis portalas su tradiciniais ornamentais ir didelėmis regiono nuotraukomis."
+  },
+  {
+   "t": "Uttar Pradesh — Žemės ūkis",
+   "c": "Agromaistas",
+   "g": "Maistas & sveikata",
+   "d": "Baltas stendas su šviečiančiais rėmais ant grindų ir produktų plokštėmis – lakoniškas ir šviesus."
+  },
+  {
+   "t": "Tunisas — Medica Düsseldorf",
+   "c": "Nacionalinis medicinos paviljonas",
+   "g": "Medicina",
+   "d": "Šalies paviljonas parodoje Medica Düsseldorf su pakabinama iškaba, stalais įmonėms eksponentėms ir poilsio zona."
+  }
+ ],
+ "ui": {
+  "langName": "Lietuvių",
+  "langLabel": "Kalba",
+  "home": "Pradžia",
+  "services": "Paslaugos",
+  "works": "Darbai",
+  "contacts": "Kontaktai",
+  "quote": "Pasiūlymas",
+  "requestQuote": "Gauti pasiūlymą",
+  "whatsapp": "Rašykite mums WhatsApp",
+  "call": "Skambinkite mums",
+  "phone": "Telefonas / WhatsApp",
+  "phone2": "Telefonas 2",
+  "email": "El. paštas",
+  "address": "Būstinė",
+  "serviceN": "Paslauga",
+  "locationK": "Iš Milano į visą Europą",
+  "includesTitle": "Ką tai apima",
+  "whyTitle": "Kodėl NEWSTANDS",
+  "why": [
+   {
+    "t": "Bazė Milane",
+    "d": "Dirbame iš Milano regiono, netoli parodų centrų Fiera Milano Rho ir Allianz MiCo: greiti apžiūros vizitai, paprasta logistika, komandos visada arti didžiųjų parodų centrų."
+   },
+   {
+    "t": "Sava gamyba",
+    "d": "Konstrukcijos, plokštės, grafika, baldai ir apšvietimas gimsta mūsų dirbtuvėse: mažiau tarpininkų, mažiau staigmenų, laikomės terminų."
+   },
+   {
+    "t": "Kiekviename Europos parodų centre",
+    "d": "Mūsų montavimo komandos keliauja kartu su stendu: Vokietija, Prancūzija, Ispanija, Beniliukso šalys, Austrija, Šveicarija ir pagal užklausą bet kuris kitas parodų centras."
+   },
+   {
+    "t": "Vienas kontaktinis asmuo",
+    "d": "Nuo užduoties iki demontavimo visada bendraujate su tuo pačiu žmogumi, o parodoje turite savo darbų vadovą."
+   }
+  ],
+  "galleryTitle": "Keletas mūsų įrengtų stendų",
+  "faqTitle": "Dažniausiai užduodami klausimai",
+  "otherTitle": "Kitos paslaugos",
+  "ctaTitle": "Jūsų kalendoriuje yra paroda?",
+  "ctaText": "Papasakokite apie parodą, miestą, datas ir kvadratinius metrus: atsakysime pirmuoju pasiūlymu ir aiškia sąmata.",
+  "whereTitle": "Iš Milano į bet kurį parodų centrą",
+  "whereText": "Esame Milano regione – mieste, kuriame vyksta vienos svarbiausių pasaulio parodų. Iš čia mūsų komandos pasiekia bet kurį Italijos ir Europos parodų centrą.",
+  "milanLink": "Parodų stendai Milane",
+  "europeLink": "Parodų stendai Europoje",
+  "photos": "nuotr.",
+  "backHome": "Grįžti į pradžią",
+  "footerTag": "Parodų stendai Milane ir visoje Europoje. Suprojektuota, pagaminta, sumontuota.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardija · Milano regionas",
+  "breadcrumb": "Kelias",
+  "skip": "Pereiti prie turinio",
+  "menu": "Pagrindinis meniu"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "individualus-parodu-stendai",
+   "nav": "Individualūs stendai",
+   "title": "Individualūs parodų stendai Milane ir Europoje | NEWSTANDS",
+   "desc": "Individualūs parodų stendai, kuriuos NEWSTANDS projektuoja, gamina ir montuoja: bazė Milano regione, darbai visuose Europos parodų centruose.",
+   "h1": "Individualūs parodų stendai",
+   "lead": "Unikalus stendas, nuo nulio sukurtas aplink jūsų prekės ženklą: mes jį suprojektuojame, pagaminame savo dirbtuvėse netoli Milano ir sumontuojame bet kurioje Europos parodoje.",
+   "body": [
+    "Individualus stendas – stipriausias būdas prisistatyti parodoje: kiekviena siena, kiekvienas šviestuvas ir kiekvienas lankytojo maršrutas apgalvoti jūsų produktams ir komerciniams tikslams. Pradedame nuo parodų centro techninių taisyklių ir paviljono lankytojų srautų, o tada idėją paverčiame fotorealistinėmis 3D vizualizacijomis ir darbo brėžiniais.",
+    "Medžio ir metalo konstrukcijas, plokštes, grafiką, baldus ir apšvietimą gaminame patys, todėl kontroliuojame kokybę ir terminus kiekviename etape. Nesvarbu, ar paroda vyksta parodų centre Fiera Milano Rho, Diuseldorfe ar Paryžiuje – jūsų stendą montuoja ta pati komanda, kuri jį pastatė."
+   ],
+   "inc": [
+    {
+     "t": "Koncepcija ir 3D vizualizacijos",
+     "d": "Kūrybinis pasiūlymas, fotorealistinės vizualizacijos ir pataisymai, kol stendas bus būtent toks, kokio norite."
+    },
+    {
+     "t": "Techninis projektas",
+     "d": "Techniniai brėžiniai, skaičiavimai ir dokumentacija pagal kiekvieno parodų centro taisykles."
+    },
+    {
+     "t": "Gamyba pagal užsakymą",
+     "d": "Staliaus darbai, metalo konstrukcijos, stiklas, tekstilė ir aukščiausios kokybės apdaila mūsų dirbtuvėse."
+    },
+    {
+     "t": "Grafika ir apšvietimas",
+     "d": "Didelio formato spauda, šviesdėžės, LED ekranai ir apšvietimo projektas, integruoti į stendo architektūrą."
+    },
+    {
+     "t": "Montavimas ir demontavimas",
+     "d": "Transportas, montavimas su savu darbų vadovu, pagalba parodoje, demontavimas ir sandėliavimas."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Kiek laiko reikia individualiam stendui pagaminti?",
+     "a": "Priklauso nuo dydžio ir sudėtingumo: individualaus stendo atveju verta pradėti vos patvirtinus dalyvavimą parodoje, kad liktų laiko projektui, vizualizacijoms ir gamybai."
+    },
+    {
+     "q": "Ar individualų stendą galima naudoti pakartotinai?",
+     "a": "Taip. Komponentus projektuojame taip, kad juos būtų galima sandėliuoti ir vėl surinkti: kitoje parodoje stendą pritaikome naujam plotui ir naujai grafikai."
+    },
+    {
+     "q": "Ar individualius stendus statote ir už Italijos ribų?",
+     "a": "Taip, iš Milano regiono vežame stendą ir savo komandas į visus pagrindinius Europos parodų centrus – nuo Vokietijos iki Ispanijos."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "moduliniai-parodu-stendai",
+   "nav": "Moduliniai stendai",
+   "title": "Moduliniai parodų stendai Milane ir Europoje | NEWSTANDS",
+   "desc": "Moduliniai, daugkartiniai parodų stendai tiems, kas dalyvauja keliose parodose per metus: vientisas įvaizdis ir kontroliuojamos išlaidos visoje Europoje.",
+   "h1": "Moduliniai daugkartiniai stendai",
+   "lead": "Modulinės sistemos tiems, kas eksponuojasi keliose parodose per metus: tas pats prekės ženklo įvaizdis, kontroliuojamos išlaidos ir greitas montavimas – Milane ir bet kuriame Europos parodų centre.",
+   "body": [
+    "Modulinis stendas – ilgalaikė investicija: konstrukcijas, plokštes ir baldus galima perkonfigūruoti skirtingiems plotams ir stendų tipams, nuo linijinio iki salos. Keičiasi grafika, kokybė išlieka.",
+    "Sistemą suprojektuojame vieną kartą, pagaminame savo dirbtuvėse ir patys ją prižiūrime tarp parodų: sandėliavimas, priežiūra, grafikos atnaujinimas ir transportas į kitą paviljoną Italijoje ar užsienyje."
+   ],
+   "inc": [
+    {
+     "t": "Sistema pagal užsakymą",
+     "d": "Moduliai, sukurti pagal jūsų įvaizdį ir derinami nuo kelių kvadratinių metrų stendų iki didelių salų."
+    },
+    {
+     "t": "Keičiama grafika",
+     "d": "Spausdintą tekstilę ir plokštes galima greitai pakeisti kiekvienai parodai, produktui ar rinkai."
+    },
+    {
+     "t": "Sandėliavimas ir priežiūra",
+     "d": "Stendą laikome savo sandėlyje ir patikriname prieš kiekvieną naują išvykimą."
+    },
+    {
+     "t": "Greitas montavimas",
+     "d": "Trumpas įrengimo laikas, idealu ir parodoms su siaurais montavimo langais."
+    },
+    {
+     "t": "Parodų kalendoriaus valdymas",
+     "d": "Kartu su jumis planuojame parodų sezoną ir organizuojame logistiką bei komandas kiekvienam etapui."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar modulinis stendas kainuoja mažiau nei individualus?",
+     "a": "Per kelias parodas paprastai taip: pradinė investicija pasiskirsto tarp kiekvieno dalyvavimo, o vėlesnės gamybos išlaidos apsiriboja grafika ir logistika."
+    },
+    {
+     "q": "Ar modulinis stendas pritaikomas skirtingiems plotams?",
+     "a": "Taip, modulius galima perkomponuoti linijiniam, kampiniam, pusiasalio ar salos stendui ir skirtingiems plotams."
+    },
+    {
+     "q": "Ar galite valdyti visą mūsų parodų kalendorių?",
+     "a": "Taip: iš Milano regiono koordinuojame sandėliavimą, transportą ir montavimą kiekvienai sezono parodai Italijoje ir Europoje."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "renginiu-ir-kongresu-irengimas",
+   "nav": "Renginiai & kongresai",
+   "title": "Renginių ir kongresų įrengimas Milane | NEWSTANDS",
+   "desc": "Įmonių renginių, kongresų, konferencijų ir produktų pristatymų įrengimas Milane ir Europoje: scenos, scenografija ir visa techninė režisūra.",
+   "h1": "Renginių ir kongresų įrengimas",
+   "lead": "Scenos, scenografija, plenarinės salės, įmonių konferencijos ir produktų pristatymai: įrengiame renginius ir kongresus Milane ir visoje Europoje tokiu pat tikslumu kaip parodų stendus.",
+   "body": [
+    "Milanas – viena Europos renginių ir kongresų sostinių, kurioje yra tokios erdvės kaip Allianz MiCo ir didžiosios miesto korporatyvinių renginių vietos. Dirbdami iš Milano regiono, gerai išmanome šių erdvių grafikus, taisykles ir logistiką, todėl apžiūras ir montavimą atliekame labai greitai.",
+    "Projektuojame visą įrengimą: sceną, scenografiją, plenarinę salę, ekspozicijos zonas, registraciją, nuorodas ir apšvietimą. Techninius tiekėjus koordinuojame patys, todėl visam renginiui turite vieną kontaktinį asmenį."
+   ],
+   "inc": [
+    {
+     "t": "Scenos ir scenografija",
+     "d": "Scenos pagal užsakymą, fonai, LED ekranai ir scenografija, sukurta jūsų žinutei."
+    },
+    {
+     "t": "Plenarinės salės ir kongresai",
+     "d": "Salių, stendinių pranešimų zonų, registracijos stalų ir rėmėjų erdvių įrengimas."
+    },
+    {
+     "t": "Konferencijos ir produktų pristatymai",
+     "d": "Aplinka, kurioje įsimintinai pristatysite produktą ar suburstite pardavimų tinklą."
+    },
+    {
+     "t": "Garsas, vaizdas ir šviesos",
+     "d": "Techninė režisūra, santvaros, LED ekranai ir apšvietimas kaip projekto dalis."
+    },
+    {
+     "t": "Nuorodos ir grafika",
+     "d": "Maršrutai, totemai, foninės sienos ir vientisa grafika, kurią spausdiname ir montuojame patys."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar įrengiate renginius ir ne parodų centruose?",
+     "a": "Taip: viešbučiuose, kongresų centruose, industrinėse erdvėse ir privačiose vietose Milane, Italijoje ir užsienyje."
+    },
+    {
+     "q": "Ar galite pasirūpinti ir garso bei vaizdo technika?",
+     "a": "Taip, sceną, LED ekranus, šviesas ir garsą koordinuojame kaip vieną projektą su vienu atsakingu asmeniu."
+    },
+    {
+     "q": "Kaip anksti pradėti organizuoti renginį?",
+     "a": "Kuo anksčiau, tuo geriau: turėdami kelių savaičių rezervą, ramiai atliksime apžiūrą, projektą ir gamybą. Skubiais atvejais susisiekite ir įvertinsime galimybes."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "salonai-ir-pop-up-parduotuves",
+   "nav": "Salonai & pop-up",
+   "title": "Salonai, laikinos ir pop-up parduotuvės Milane | NEWSTANDS",
+   "desc": "Salonų, laikinų parduotuvių, pop-up ir shop-in-shop erdvių projektavimas ir įrengimas Milane ir Europoje, su savo gamyba ir montavimu.",
+   "h1": "Salonai, laikinos ir pop-up parduotuvės",
+   "lead": "Laikinos prekybos erdvės, pop-up parduotuvės ir nuolatiniai salonai, įrengti tokiu pat kruopštumu kaip parodų stendai – Milane ir visoje Europoje.",
+   "body": [
+    "Laikina ar pop-up parduotuvė turi būti paruošta per kelias dienas ir palikti įspūdį: projektuojame erdves, kurios pasakoja prekės ženklo istoriją, išryškina produktą ir greitai sumontuojamos – taip pat prekybos centruose ir prekybinėse gatvėse.",
+    "Nuolatiniams salonams gaminame baldus pagal užsakymą, ekspozicines sienas, vitrinas ir apšvietimą iš patvarių medžiagų. Gamyba ir montavimas – savo jėgomis, todėl terminai ir kokybė lieka kontroliuojami."
+   ],
+   "inc": [
+    {
+     "t": "Prekybos koncepcija",
+     "d": "Išplanavimas, kliento maršrutas ir produktų išdėstymas, sukurti parduoti."
+    },
+    {
+     "t": "Laikinos ir pop-up parduotuvės",
+     "d": "Lengvos konstrukcijos, kurias greita sumontuoti, išardyti ir panaudoti kituose miestuose."
+    },
+    {
+     "t": "Nuolatiniai salonai",
+     "d": "Baldai pagal užsakymą, įrengtos sienos, vitrinos ir aukščiausios kokybės apdaila."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Prekės ženklo kampeliai parduotuvėse ir universalinėse parduotuvėse, atitinkantys jūsų įvaizdį."
+    },
+    {
+     "t": "Šviesos ir grafika",
+     "d": "Produktų apšvietimas, iškabos, vitrinų lipdukai ir mūsų pačių pagaminta grafika."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Per kiek laiko įrengiama laikina parduotuvė?",
+     "a": "Priklauso nuo erdvės ir projekto: dėl savos gamybos pop-up parduotuvę galime sumontuoti net per kelias dienas."
+    },
+    {
+     "q": "Ar pop-up parduotuvę galima perkelti į kitus miestus?",
+     "a": "Taip, projektuojame modulines konstrukcijas, kurias galima išardyti ir vėl surinkti kitose vietose Italijoje ir Europoje."
+    },
+    {
+     "q": "Ar dirbate ir su nuolatiniais salonais?",
+     "a": "Taip, nuo projektavimo iki baldų, vitrinų, šviesų ir grafikos montavimo."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "didelio-formato-grafika",
+   "nav": "Didelio formato grafika",
+   "title": "Didelio formato grafika parodų stendams | NEWSTANDS Milanas",
+   "desc": "Didelio formato spauda parodų stendams ir renginiams: forex, apšviečiama tekstilė, šviesdėžės, PVC, lipdukai ir vitrinų lipdukai – gaminame ir klijuojame patys.",
+   "h1": "Didelio formato grafika stendams ir renginiams",
+   "lead": "Spauda ant forex, apšviečiamos tekstilės, PVC, lipdukai ir vitrinų lipdukai: jūsų stendo grafiką gamina ir montuoja tos pačios komandos, kurios stendą stato.",
+   "body": [
+    "Grafika – tai, ką lankytojai pamato pirmiausia, dažnai iš viso paviljono. Todėl ją laikome stendo architektūros dalimi: formatai, medžiagos ir šviesos projektuojami kartu su konstrukcijomis.",
+    "Spausdiname ir montuojame patys – Milane ir bet kurioje Europos parodoje: jokių tarpininkų tarp skirtingų tiekėjų, kontroliuojamos spalvos ir tobulai sulygiuota grafika atidarymo akimirką."
+   ],
+   "inc": [
+    {
+     "t": "Apšviečiama tekstilė",
+     "d": "Tekstilinės šviesdėžės ir šviečiančios sienos – lengvos ir įspūdingos."
+    },
+    {
+     "t": "Kietos plokštės",
+     "d": "Spauda ant forex, dibond ir PVC sienoms, totemams ir stalams."
+    },
+    {
+     "t": "Lipdukai ir vitrinų lipdukai",
+     "d": "Grindys, stiklai ir kiti paviršiai, personalizuoti techniniais lipdukais."
+    },
+    {
+     "t": "Pakabinamos iškabos",
+     "d": "Reklaminiai plakatai ir pakabinamos grafinės konstrukcijos, matomos iš toli paviljone."
+    },
+    {
+     "t": "Montavimas parodoje",
+     "d": "Grafiką montuojame patys ir prieš atidarymą atliekame galutinę patikrą."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar spausdinate grafiką ir kitų pastatytiems stendams?",
+     "a": "Taip, galime pagaminti ir sumontuoti tik grafiką, laikydamiesi parodų centro matmenų ir taisyklių."
+    },
+    {
+     "q": "Kokių failų reikia spaudai?",
+     "a": "Vektorinių failų arba didelės raiškos vaizdų su užlaidomis: kiekvienam formatui atsiųsime technines specifikacijas."
+    },
+    {
+     "q": "Ar tekstilinę grafiką galima naudoti pakartotinai?",
+     "a": "Taip, tekstilę galima skalbti, sulankstyti ir vėl sumontuoti: idealu tiems, kas dalyvauja keliose parodose."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "santvaros-led-ekranai-apsvietimas",
+   "nav": "Santvaros & LED ekranai",
+   "title": "Santvaros, LED ekranai ir šviesos parodų stendams | NEWSTANDS",
+   "desc": "Santvarų konstrukcijos, pakabinami žiedai, rigingas, LED ekranai ir apšvietimo technika parodų stendams ir renginiams Milane ir visoje Europoje.",
+   "h1": "Santvaros, LED ekranai ir apšvietimas",
+   "lead": "Santvarų konstrukcijos, pakabinami žiedai, rigingas, LED ekranai ir šviesos stendams, matomiems iš viso paviljono – parodų centre Fiera Milano ir bet kuriame Europos parodų centre.",
+   "body": [
+    "Pakabinamas žiedas su logotipu, LED ekranas produktų vaizdo įrašams, apgalvotas paviršių apšvietimas – būtent šie elementai daro stendą atpažįstamą iš toli. Juos projektuojame kartu su stendu, tikrindami apkrovas, pakabinimo taškus ir parodų centro taisykles.",
+    "Tiekiame ir montuojame santvaras, gerves, LED ekranus ir šviestuvus su kvalifikuotu personalu bei koordinuojame rigingo paraiškas su parodos organizatoriumi."
+   ],
+   "inc": [
+    {
+     "t": "Santvaros ir truss konstrukcijos",
+     "d": "Bet kokio dydžio pastatomos ir pakabinamos konstrukcijos, taip pat kaip pagrindas grafikai ir šviesoms."
+    },
+    {
+     "t": "Pakabinami žiedai ir iškabos",
+     "d": "Apvalūs ar pagal užsakymą pagaminti pakabinami elementai su grafika, matomi iš viso paviljono."
+    },
+    {
+     "t": "Rigingas",
+     "d": "Skaičiavimai, pakabinimo taškai ir formalumai su parodų centru."
+    },
+    {
+     "t": "LED ekranai",
+     "d": "Įvairių dydžių LED ekranai, integruoti į sienas arba ant atskirų konstrukcijų."
+    },
+    {
+     "t": "Apšvietimo technika",
+     "d": "Apšvietimo projektas produktams, grafikai ir stendo atmosferai."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar rigingo leidimais rūpinatės jūs?",
+     "a": "Taip, parengiame techninę dokumentaciją ir tvarkome paraiškas su parodos organizatoriumi."
+    },
+    {
+     "q": "Ar nuomojate LED ekranus ir renginiams?",
+     "a": "Taip, LED ekranai, santvaros ir šviesos prieinami ir renginiams, kongresams bei produktų pristatymams."
+    },
+    {
+     "q": "Ar dirbate ir užsienio parodų centruose?",
+     "a": "Taip, konstrukcijas ir LED ekranus montuojame visuose pagrindiniuose Europos parodų centruose."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "stendu-baldai-ir-nuoma",
+   "nav": "Baldai & nuoma",
+   "title": "Baldai pagal užsakymą ir baldų nuoma stendams | NEWSTANDS",
+   "desc": "Stalai, prekystaliai, sėdimos vietos, vitrinos, virtuvėlės ir sandėliukai parodų stendams: baldai pagal užsakymą arba nuomai, iš Milano visoje Europoje.",
+   "h1": "Stendų baldai pagal užsakymą ir nuomai",
+   "lead": "Stalai, prekystaliai, sėdimos vietos, vitrinos, virtuvėlės ir sandėliukai: baldai, pagaminti pagal užsakymą mūsų dirbtuvėse arba nuomojami, bet kokio ploto stendams.",
+   "body": [
+    "Baldai leidžia stendui veikti: priėmimas, ekspozicija, susitikimai, degustacijos ir sandėlis turi būti tinkamoje vietoje. Juos projektuojame kartu su išplanavimu, galvodami apie lankytojų srautus ir jūsų komandos darbą parodoje.",
+    "Galime pagaminti unikalius baldus pagal užsakymą su jūsų prekės ženklo apdaila ir spalvomis arba pasiūlyti baldų nuomą, kad sutaupytumėte. Pristatymu, montavimu ir išvežimu visada rūpinamės mes."
+   ],
+   "inc": [
+    {
+     "t": "Stalai ir registracija",
+     "d": "Priėmimo stalai pagal užsakymą su logotipu, apšvietimu ir techninėmis nišomis."
+    },
+    {
+     "t": "Susitikimų ir poilsio zonos",
+     "d": "Stalai, kėdės ir minkšti baldai susitikimams su klientais stende."
+    },
+    {
+     "t": "Vitrinos ir ekspozicija",
+     "d": "Stiklinės vitrinos, lentynos ir įrengtos sienos produktams išryškinti."
+    },
+    {
+     "t": "Virtuvėlės ir sandėliukai",
+     "d": "Sandėliukai, virtuvėlės ir aptarnavimo zonos, integruotos į stendą."
+    },
+    {
+     "t": "Baldų nuoma",
+     "d": "Nuomojami baldai bet kokiam stiliui ir biudžetui, pristatome ir išvežame patys."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar galiu išsinuomoti tik baldus?",
+     "a": "Taip, siūlome ir vien baldų nuomą su pristatymu ir išvežimu parodoje."
+    },
+    {
+     "q": "Ar baldus pagal užsakymą galima naudoti pakartotinai?",
+     "a": "Taip, laikome juos savo sandėlyje ir atvežame į kitą parodą."
+    },
+    {
+     "q": "Ar pristatote baldus ir į užsienį?",
+     "a": "Taip, baldus pristatome ir montuojame visuose pagrindiniuose Europos parodų centruose."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "stendu-montavimas-ir-demontavimas",
+   "nav": "Montavimas & demontavimas",
+   "title": "Stendų montavimas ir demontavimas Milane ir Europoje | NEWSTANDS",
+   "desc": "Specializuotos komandos parodų stendų montavimui ir demontavimui parodų centre Fiera Milano Rho ir visuose Europos parodų centruose. Ir vien montavimas.",
+   "h1": "Parodų stendų montavimas ir demontavimas",
+   "lead": "Specializuotos komandos ir savas darbų vadovas jūsų stendui sumontuoti ir išmontuoti parodų centruose Fiera Milano Rho, Allianz MiCo ir bet kuriame Europos parodų centre. Ir vien montavimas.",
+   "body": [
+    "Montavimas – akimirka, kai projektas tampa stendu: reikia patyrusių komandų, įrangos, parodų centro laiko langų ir saugos taisyklių laikymosi. Iš savo bazės Milano regione greitai pasiekiame Milano parodų centrus ir su stendu vykstame į parodas visoje Europoje.",
+    "Montuojame tiek savo pagamintus stendus, tiek kitų tiekėjų ar klientui priklausančius stendus: medžiagų priėmimas, montavimas, patikra, pagalba parodos metu, demontavimas ir grąžinimas į sandėlį."
+   ],
+   "inc": [
+    {
+     "t": "Specializuotos komandos",
+     "d": "Patyrę montuotojai su savo įranga ir savu darbų vadovu."
+    },
+    {
+     "t": "Patekimo formalumai",
+     "d": "Leidimai, saugos dokumentacija ir parodų centro reikalaujami leidimai."
+    },
+    {
+     "t": "Patikra ir perdavimas",
+     "d": "Galutinė konstrukcijų, šviesų ir grafikos patikra prieš atidarymą."
+    },
+    {
+     "t": "Pagalba parodoje",
+     "d": "Technikai pasiekiami visą parodos laiką bet kokiam poreikiui."
+    },
+    {
+     "t": "Demontavimas ir sandėliavimas",
+     "d": "Demontavimas numatytu laiku, transportas ir sandėliavimas pakartotiniam naudojimui."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar montuojate ir ne jūsų pagamintus stendus?",
+     "a": "Taip, montuojame ir išmontuojame ir kitų stendų gamintojų ar eksponentui priklausančius stendus."
+    },
+    {
+     "q": "Kuriuose parodų centruose dirbate?",
+     "a": "Parodų centruose Fiera Milano Rho ir Allianz MiCo, Bolonijoje, Veronoje ir Riminyje bei pagrindiniuose Europos centruose: Diuseldorfe, Kelne, Frankfurte, Miunchene, Paryžiuje, Barselonoje, Madride, Amsterdame ir kitur."
+    },
+    {
+     "q": "Ar laikotės parodų centrų saugos taisyklių?",
+     "a": "Taip, mūsų montuotojai dirba pagal kiekvieno parodų centro saugos taisykles ir techninius reglamentus."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "parodu-stendai-milane",
+   "nav": "Stendai Milane",
+   "title": "Parodų stendų gamintojas Milane: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Parodų stendų gamintojas Milano regione: stendai „iki rakto“ parodų centrams Fiera Milano Rho, Allianz MiCo ir renginiams mieste, mūsų projektas ir montavimas.",
+   "h1": "Parodų stendai Milane",
+   "lead": "Milanas – vienas svarbiausių Europos parodų centrų, ir mes dirbame čia: projektuojame, gaminame ir montuojame stendus parodoms parodų centruose Fiera Milano Rho ir Allianz MiCo bei renginiams mieste.",
+   "body": [
+    "Fiera Milano Rho kasmet priima tokias tarptautines parodas kaip Salone del Mobile.Milano, EICMA, HostMilano, TUTTOFOOD, MIDO ir MICAM, o Allianz MiCo – vienas didžiausių kongresų centrų Europoje. Eksponentui tai reiškia itin didelę konkurenciją: stendas turi išsiskirti.",
+    "Stendų gamintojas Milano regione reiškia greitas apžiūras, paprastą logistiką, netoliese esančias montavimo komandas ir skubią pagalbą parodos metu. O jei po Milano jūsų sezonas tęsiasi užsienyje, ta pati komanda nuveža stendą į bet kurį Europos parodų centrą."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Stendai didžiosioms tarptautinėms parodoms Rho parodų centre – nuo dizaino iki motociklų ir maisto paviljonų."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Įrengimas kongresams, konferencijoms ir parodoms Milano kongresų centre."
+    },
+    {
+     "t": "Renginiai mieste",
+     "d": "Produktų pristatymai, Fuorisalone, salonai ir laikinos parduotuvės Milano renginių vietose."
+    },
+    {
+     "t": "Greitos apžiūros",
+     "d": "Iš savo bazės Milano parodų centrus pasiekiame greitai – ir prieš parodą, ir jos metu."
+    },
+    {
+     "t": "Sandėlis netoliese",
+     "d": "Jūsų stendas lieka mūsų sandėlyje Lombardijoje, paruoštas kitai parodai."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar esate Milano stendų gamintojas?",
+     "a": "Taip, dirbame iš Milano regiono, mūsų būstinė ir dirbtuvės yra Tromello (PV), Lombardijoje, netoli parodų centro Fiera Milano Rho."
+    },
+    {
+     "q": "Kurioms Milano parodoms statote stendus?",
+     "a": "Visoms parodoms parodų centruose Fiera Milano Rho ir Allianz MiCo, taip pat renginiams ir Fuorisalone mieste."
+    },
+    {
+     "q": "Ar galite mus lydėti ir parodose užsienyje?",
+     "a": "Taip, iš Milano vežame stendus ir komandas į visus pagrindinius Europos parodų centrus."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "parodu-stendai-europoje",
+   "nav": "Stendai Europoje",
+   "title": "Parodų stendai Europoje: Vokietija, Prancūzija | NEWSTANDS",
+   "desc": "Iš Milano į visus Europos parodų centrus: stendai „iki rakto“ Diuseldorfe, Kelne, Frankfurte, Miunchene, Paryžiuje, Barselonoje, Madride ir kitur.",
+   "h1": "Parodų stendai visoje Europoje",
+   "lead": "Pradedame Milane ir vykstame į bet kurį Europos parodų centrą: vienas tiekėjas projektui, gamybai, transportui ir montavimui, kad ir kur vyktų jūsų paroda.",
+   "body": [
+    "Dalyvauti parodose užsienyje su skirtingu vietiniu stendų gamintoju kiekvienoje šalyje reiškia naujus kontaktinius asmenis, skirtingus standartus ir didesnę riziką. Su NEWSTANDS turite vieną komandą: projektuojame ir gaminame savo dirbtuvėse netoli Milano, organizuojame transportą ir patekimo formalumus bei montuojame su savo komandomis.",
+    "Dirbame didžiuosiuose Vokietijos, Prancūzijos, Ispanijos, Beniliukso šalių, Austrijos ir Šveicarijos parodų centruose, o pagal užklausą – ir bet kuriame kitame. Esame įrengę nacionalinius paviljonus ir prekių ženklų stendus, pavyzdžiui, Tuniso paviljoną parodoje MEDICA Diuseldorfe."
+   ],
+   "inc": [
+    {
+     "t": "Vokietija",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt ir Messe München."
+    },
+    {
+     "t": "Prancūzija",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles ir Eurexpo Lyon."
+    },
+    {
+     "t": "Ispanija",
+     "d": "Fira de Barcelona Gran Via ir IFEMA Madrid."
+    },
+    {
+     "t": "Beniliukso šalys",
+     "d": "RAI Amsterdam ir Brussels Expo."
+    },
+    {
+     "t": "Austrija, Šveicarija ir kitur",
+     "d": "Messe Wien, Palexpo Genève ir pagal užklausą bet kuris kitas Europos parodų centras."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Ar transportu ir formalumais užsienio parodoms rūpinatės jūs?",
+     "a": "Taip: pakavimas, transportas, leidimai, saugos dokumentacija ir bendravimas su parodos organizatoriais – mūsų rūpestis."
+    },
+    {
+     "q": "Ar montavimo komandos yra jūsų pačių?",
+     "a": "Taip, stendą montuoja mūsų pačių komandos su savu darbų vadovu, taip pat ir užsienyje."
+    },
+    {
+     "q": "Kokiomis kalbomis galime bendrauti?",
+     "a": "Italų ir anglų kalbomis; dėl parodos dokumentacijos su organizatoriumi bendraujame vietos kalba."
+    }
+   ]
+  }
+ }
+}

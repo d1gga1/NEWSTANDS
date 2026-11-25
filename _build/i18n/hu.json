@@ -1,0 +1,987 @@
+{
+ "_lang": "hu",
+ "meta": {
+  "title": "Kiállítási standok Milánóban és Európában | NEWSTANDS",
+  "desc": "Standépítő cég Milánó környékén: kulcsrakész kiállítási standokat tervezünk, gyártunk és építünk a Fiera Milanón és Európa bármelyik vásárközpontjában.",
+  "ogTitle": "NEWSTANDS — Kiállítási standok Milánótól egész Európáig",
+  "ogDesc": "Kulcsrakész kiállítási standok, rendezvények és kongresszusok: bázisunk Milánó környékén, standépítő csapataink minden európai vásárközpontban.",
+  "ogAlt": "NEWSTANDS — standépítés Milánótól egész Európáig",
+  "orgDesc": "Standépítő vállalat Milánó környéki bázissal (székhely: Tromello, PV). Kulcsrakész kiállítási standokat, rendezvény- és kongresszusi installációkat, showroomokat és pop-up üzleteket tervez, gyárt és épít a Fiera Milanón és Európa összes vásárközpontjában.",
+  "slogan": "Megtervezve, legyártva, felépítve."
+ },
+ "home": {
+  "h001": "NEWSTANDS / Allestimenti",
+  "h002": "Padozat",
+  "h003": "Standépítés",
+  "h004": "Tervezés · Gyártás · Építés",
+  "h005": "Koppints a belépéshez",
+  "h006": "Folyamat",
+  "h007": "Szolgáltatások",
+  "h008": "Munkáink",
+  "h009": "Konfiguráld",
+  "h009b": "Konfiguráld",
+  "h010": "Európa",
+  "h011": "Árajánlat",
+  "h012": "Kiállítási standok építése Milánóban · Rendezvények · Kongresszusok",
+  "h013": "Tervezés → Gyártás → Építés",
+  "h014": "Bázisunk Milánó környékén, Európa vásárvilágának szívében van: a semmiből építünk standokat, és Európa bármelyik vásárközpontjában felállítjuk őket. Egyetlen kapcsolattartó az első vázlattól az utolsó csavarig.",
+  "h015": "Görgess, és építsd fel a standot",
+  "h016": "00. tervlap — Stand alaprajz 8000 × 6000",
+  "h017": "Lépték 1:50",
+  "h018": "Terv",
+  "h019": "Kivitelezés állása",
+  "h020": "05. tervlap — Átadás",
+  "h021": "Kulcsrakészen.",
+  "h022": "Konfiguráld a sajátod",
+  "h023": "Kérj árajánlatot",
+  "h024": "§ 01 — Rólunk",
+  "h025": "Nem négyzetmétert árulunk. Azt a helyet építjük meg, ahol a *márkád* találkozik a piaccal — az *első* *vázlattól* az utolsó csavarig, Európa bármelyik csarnokában.",
+  "h026": "A módszer",
+  "h027": "Minden elemet házon belül tervezünk, gyártunk és építünk: szerkezeteket, falpaneleket, grafikákat, bútorokat és világítást. Kevesebb átadás, kevesebb meglepetés, betartott határidők.",
+  "h028": "A semmiből",
+  "h029": "a kész standig.",
+  "h030": "Hat fázis, egyetlen irányítás.",
+  "h031": "Görgess vízszintesen →",
+  "h032": "01. fázis",
+  "h033": "Célok, költségkeret, vásár, a vásárközpont műszaki szabályzata. Abból indulunk ki, minek kell történnie a standodon.",
+  "h034": "02. fázis",
+  "h035": "Koncepció & 3D",
+  "h036": "Fotorealisztikus látványtervek és kiviteli rajzok: kész standként látod, mielőtt egyetlen panelt is levágnánk.",
+  "h037": "03. fázis",
+  "h038": "Gyártás",
+  "h039": "Asztalosműhely, fémszerkezetek, nagyformátumú nyomtatás, világítástechnika. Minden darab egyedi méretre készül.",
+  "h040": "04. fázis",
+  "h041": "Logisztika",
+  "h042": "Csomagolás, szállítás és belépési ügyintézés Európa minden vásárközpontjában. Mi odaérünk, pontosan.",
+  "h043": "05. fázis",
+  "h044": "Építés",
+  "h045": "Szakképzett csapatok a helyszínen, dedikált építésvezető, műszaki átvétel. A standot használatra készen kapod meg.",
+  "h046": "06. fázis",
+  "h047": "Vásár & bontás",
+  "h048": "Műszaki támogatás a vásár ideje alatt, bontás, raktározás és újrahasznosítás a következő vásáron.",
+  "h049": "Eredmény",
+  "h050": "Te az ügyfelekkel",
+  "h051": "foglalkozol.",
+  "h052": "A többit",
+  "h053": "intézzük mi.",
+  "h054": "Beszéljünk a következő vásárodról",
+  "h055": "Amit",
+  "h056": "építünk",
+  "h057": "§ 03 — Szolgáltatások",
+  "h058": "Bármilyen vásár és rendezvény, a 16 m²-es soros standtól az emeletes szigetstandig. A gyártás és az építés mindig házon belül marad.",
+  "h059": "Elkészült",
+  "h060": "standjaink",
+  "h061": "§ 04 — Munkáink",
+  "h062": "Válogatás a csapataink által tervezett, gyártott és felépített standokból: nemzeti pavilonok, márkás szigetstandok és műszaki standok egész Európában.",
+  "h063": "A következő lehet a tiéd",
+  "h064": "a standodat",
+  "h065": "§ 05 — 3D konfigurátor",
+  "h066": "Válaszd ki a típust és az alapterületet: nézd, ahogy formát ölt a tér, és küldd el nekünk a konfigurációt az árajánlat alapjául.",
+  "h067": "↔ Húzd a forgatáshoz",
+  "h068": "Axonometrikus nézet",
+  "h069": "Az 000°",
+  "h070": "01 — Típus",
+  "h071": "Nyitott oldalak",
+  "h072": "02 — Alapterület",
+  "h073": "Irányadó méret",
+  "h074": "Ezt a konfigurációt kérem",
+  "h075": "Következő",
+  "h076": "indulás",
+  "h077": "§ 06 — Milánótól egész Európáig",
+  "h078": "Milánóból, a nagy nemzetközi vásárok városából indulunk, és a standdal együtt Európa bármelyik vásárközpontjába eljutunk: Németország, Franciaország, Spanyolország, Benelux, Ausztria, Svájc. Ahol van kiállítási csarnok, oda mi is megérkezünk.",
+  "h079": "Város",
+  "h080": "Vásárközpont",
+  "h081": "Ország",
+  "h082": "Állapot",
+  "h083": "Aktív standépítő csapatok",
+  "h084": "+ bármely más vásárközpont igény szerint",
+  "h085": "Gyakori",
+  "h086": "kérdések",
+  "h087": "§ 07 — GYIK",
+  "h088": "Költségek, határidők, városok és szolgáltatások: válaszok azokra a kérdésekre, amelyeket egy vásár előtt a leggyakrabban feltesznek nekünk.",
+  "h089": "Vásár van",
+  "h090": "a naptáradban?",
+  "h091": "Írd meg a rendezvényt, az időpontokat és a négyzetmétereket. Első javaslattal és átlátható árajánlattal válaszolunk.",
+  "h092": "Telefon",
+  "h093": "Telefon 2",
+  "h094": "Székhely",
+  "h095": "Terület",
+  "h096": "Milánó + egész Európa",
+  "h097": "Szolgáltatás",
+  "h098": "Kulcsrakész",
+  "h099": "Kiállítási stand",
+  "h100": "Rendezvény",
+  "h101": "Kongresszus",
+  "h102": "Showroom / pop-up",
+  "h103": "Csak építés",
+  "h104": "Teljes név",
+  "h105": "Cég",
+  "h106": "Vásár / rendezvény és város",
+  "h107": "Meséld el a projektet",
+  "h108": "Ajánlatkérés küldése",
+  "h109": "Az üzenet elkészült a levelezőprogramodban: nyomd meg a küldést.",
+  "h110": "Nem nyílt meg semmi? Írj nekünk:",
+  "h111": "vagy hívd a",
+  "h112": "Iroda",
+  "h113": "Kiállítási standok Milánóban és Európában, rendezvények, kongresszusok",
+  "h114": "27020 Tromello (PV), Lombardia, Olaszország",
+  "h115": "Navigáció",
+  "h116": "Konfigurátor",
+  "h117": "Közösségi média",
+  "h118": "Kapcsolat",
+  "h119": "Kérj árajánlatot →",
+  "h120": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia, Olaszország",
+  "h121": "Megtervezve, legyártva, felépítve.",
+  "h122": "Vissza a tetejére ↑",
+  "h123": "Főmenü",
+  "h124": "Szűrés ágazat szerint",
+  "h125": "Projektgaléria",
+  "h126": "Galéria bezárása",
+  "h127": "Előző fotó",
+  "h128": "Következő fotó",
+  "h129": "Alapterület négyzetméterben",
+  "h130": "Árajánlatkérés standra",
+  "h131": "Projekt típusa",
+  "h132": "Írj nekünk WhatsAppon"
+ },
+ "faq": [
+  {
+   "q": "Mennyibe kerül egy kiállítási stand?",
+   "a": "Egy stand ára az alapterülettől, a típustól (soros, sarok-, félsziget- vagy szigetstand), az anyagoktól, a grafikáktól, a bútoroktól és a vásárközponttól függ. Egy rövid egyeztetés után a vásárról, az időpontokról és a négyzetméterekről első javaslatot és átlátható, részletes árajánlatot küldünk. Kiindulhatsz a fenti 3D konfigurátorból, vagy hívj minket, illetve írj WhatsAppon: <a href=\"tel:+393884706887\">+39 388 470 6887</a>."
+  },
+  {
+   "q": "Hol található a NEWSTANDS, és milyen vásárokon dolgoztok?",
+   "a": "Milánó környéki standépítő cég vagyunk, székhelyünk és műhelyünk Tromellóban (PV), Lombardiában található: stratégiai helyen, közel a Fiera Milano Rho és az Allianz MiCo központokhoz, amelyek Európa legfontosabb vásárainak egy részét rendezik. Innen csapataink bármelyik vásárközpontba eljutnak: Bologna, Verona, Rimini, Düsseldorf, Köln, Frankfurt, München, Párizs, Lyon, Barcelona, Madrid, Amszterdam, Brüsszel, Bécs, Genf és még sok más."
+  },
+  {
+   "q": "Mit tartalmaz a kulcsrakész szolgáltatás?",
+   "a": "Egyetlen kapcsolattartó mindenre: egyeztetés, koncepció és 3D látványtervek, kiviteli rajzok, saját gyártású szerkezetek, falpanelek, nagyformátumú grafikák, bútorok és világítás, logisztika és szállítás, építés dedikált építésvezetővel, támogatás a vásár alatt, bontás és raktározás az újrahasznosításhoz."
+  },
+  {
+   "q": "Rendezvényeket, kongresszusokat és showroomokat is vállaltok?",
+   "a": "Igen. Az egyedi és moduláris kiállítási standok mellett céges rendezvényeket, kongresszusokat, konferenciákat, termékbemutatókat, színpadokat és díszleteket, showroomokat, pop-up és ideiglenes üzleteket is tervezünk és kivitelezünk, truss szerkezetekkel, LED-falakkal és világítástechnikával."
+  },
+  {
+   "q": "Mennyivel előre érdemes felvenni veletek a kapcsolatot?",
+   "a": "Minél előbb keresel meg minket, annál több idő marad a tervezésre, a látványtervekre és a gyártásra: egyedi stand esetén érdemes rögtön elkezdeni, amint megerősítetted a részvételedet a vásáron. Moduláris standoknál és csak építési megbízásoknál szűkebb határidővel is tudunk dolgozni: írj nekünk, és azonnal megnézzük, megvalósítható-e."
+  },
+  {
+   "q": "Hogyan kérhetek árajánlatot?",
+   "a": "Töltsd ki az űrlapot a kapcsolati részben, írj a <a href=\"mailto:info@newstandsallestimenti.com\">info@newstandsallestimenti.com</a> címre, vagy hívj minket, illetve írj WhatsAppon: <a href=\"tel:+393884706887\">+39 388 470 6887</a> (alternatívaként <a href=\"tel:+393883886306\">+39 388 388 6306</a>). Add meg a vásárt vagy rendezvényt, a várost, az időpontokat és a négyzetmétereket: első javaslattal jelentkezünk."
+  }
+ ],
+ "js": {
+  "ph": [
+   [
+    "Terv",
+    "Minden stand egy műszaki rajzzal kezdődik: méretek, a vásárközpont szabályzata, látogatói útvonalak."
+   ],
+   [
+    "Szerkezet",
+    "Padozat, truss, vázszerkezet. A rész, amely nem látszik, de mindent megtart."
+   ],
+   [
+    "Falak & grafika",
+    "Egyedi méretre gyártott falpanelek, nagyformátumú nyomtatás, felületkezelés."
+   ],
+   [
+    "Bútor & technika",
+    "Pultok, totemek, LED-falak, tárgyalózónák, függesztett gyűrű. Mi gyártjuk és mi szereljük."
+   ],
+   [
+    "Felkapcsolt fények",
+    "Átvétel, takarítás, átadás. A stand készen áll a nyitásra."
+   ]
+  ],
+  "lbl": [
+   "Sz 8000 mm",
+   "Mé 6000 mm",
+   "Truss 29×29 — Ma 4500",
+   "Fal 3400 + grafika",
+   "LED-fal 3,4 × 1,9 m",
+   "Recepciós pult",
+   "Függesztett gyűrű Ø 4400"
+  ],
+  "ty": {
+   "linea": "Soros",
+   "angolo": "Sarok",
+   "penisola": "Félsziget",
+   "isola": "Sziget",
+   "doppio": "Emeletes"
+  },
+  "sides": "oldal",
+  "side": "oldal",
+  "openSides": "nyitott oldal",
+  "openSide": "nyitott oldal",
+  "cfgMsg": "Konfiguráció a weboldalról: {type} stand, {n} {sides}, kb. {area} m² ({dim} m).",
+  "axo": "Axonometrikus nézet",
+  "cfgFb": "A 3D konfigurátor ezen az eszközön nem érhető el.<br>Írj nekünk: elküldjük a látványtervet.",
+  "mq": [
+   "Egyedi standok",
+   "Rendezvények",
+   "Kongresszusok",
+   "Showroom",
+   "Pop-up",
+   "LED-fal",
+   "Truss",
+   "Grafika",
+   "Bútorok"
+  ],
+  "svc": [
+   {
+    "t": "Egyedi standok",
+    "d": "A márkád köré a semmiből épített, egyedi projektek: asztalosmunka, fém, üveg, textil, igényes felületek.",
+    "tags": [
+     "Koncepció",
+     "3D látványterv",
+     "Gyártás",
+     "Építés"
+    ]
+   },
+   {
+    "t": "Moduláris standok",
+    "d": "Újrahasználható, előre szerelt rendszerek azoknak, akik évente több vásáron vesznek részt: egységes arculat, kézben tartott költségek.",
+    "tags": [
+     "Újrahasználat",
+     "Raktározás",
+     "Gyorsaság"
+    ]
+   },
+   {
+    "t": "Rendezvények & kongresszusok",
+    "d": "Színpadok, díszletek, plenáris termek, céges konferenciák és termékbemutatók, teljes műszaki rendezéssel.",
+    "tags": [
+     "Színpadok",
+     "Díszletek",
+     "Hang/Videó"
+    ]
+   },
+   {
+    "t": "Showroom & pop-up",
+    "d": "Ideiglenes üzlethelyiségek, pop-up boltok és állandó showroomok: ugyanazzal a precizitással, mint egy vásári kivitelezés.",
+    "tags": [
+     "Pop-up",
+     "Retail",
+     "Shop-in-shop"
+    ]
+   },
+   {
+    "t": "Nagyformátumú grafika",
+    "d": "Nyomtatás forexre, háttérvilágított textilre, PVC-re, matricák és ablakfóliák. Mi gyártjuk és mi visszük fel.",
+    "tags": [
+     "Fénydoboz",
+     "Textil",
+     "Matricák"
+    ]
+   },
+   {
+    "t": "Truss & LED-falak",
+    "d": "Truss szerkezetek, függesztett gyűrűk, rigging, LED-falak és világítástechnika, hogy a standod az egész csarnokból látsszon.",
+    "tags": [
+     "Truss",
+     "Rigging",
+     "LED-fal",
+     "Fények"
+    ]
+   },
+   {
+    "t": "Bútorok & bérlés",
+    "d": "Pultok, bárpultok, ülőbútorok, vitrinek, konyhák és raktárak: egyedi vagy bérelhető bútorok bármilyen alapterületre.",
+    "tags": [
+     "Egyedi",
+     "Bérlés",
+     "Raktár"
+    ]
+   }
+  ],
+  "more": "A szolgáltatás részletei",
+  "tav": "Tervlap",
+  "avail": "ELÉRHETŐ",
+  "form": {
+   "type": "Projekt típusa",
+   "name": "Teljes név",
+   "company": "Cég",
+   "fair": "Vásár / rendezvény és város",
+   "project": "Projekt",
+   "subj": "Árajánlatkérés standra"
+  },
+  "ariaW": "{t} — galéria megnyitása ({n} fotó)",
+  "altW": "Kiállítási stand: {t} — {c}, NEWSTANDS kivitelezés",
+  "nPh": "{n} fotó",
+  "altLb": "Kiállítási stand: {t} ({c}) — {i}. fotó / {n}",
+  "phN": "{i}. fotó",
+  "all": "Összes",
+  "ld": [
+   "Padozat",
+   "Falak",
+   "Gerenda",
+   "Fények",
+   "Kész"
+  ],
+  "c3": [
+   "A SEMMIBŐL",
+   "STANDIG.",
+   "TERV · GYÁRTÁS · ÉPÍTÉS · EURÓPA",
+   "KIÁLLÍTÁSI STANDOK",
+   "STANDOK · RENDEZVÉNYEK · EURÓPA"
+  ]
+ },
+ "works": [
+  {
+   "t": "Asfour Crystal",
+   "c": "Kristályok és világítás",
+   "g": "Design",
+   "d": "Hófehér szigetstand kristályfüggönyökkel, függesztett csillárokkal és lakkozott bútorokkal: a stand ragyogó kirakattá válik."
+  },
+  {
+   "t": "Applied Nutrition",
+   "c": "Sporttáplálék-kiegészítők",
+   "g": "Élelmiszer & egészség",
+   "d": "Több oldalról nyitott szigetstand falméretű termékgrafikákkal, függesztett feliratokkal és kóstolópultokkal a nagy látogatói forgalomhoz."
+  },
+  {
+   "t": "Telangana Tourism",
+   "c": "Turizmus",
+   "g": "Turizmus",
+   "d": "Intézményi pavilon Telangana építészetét idéző ívekkel és minaretekkel, utazásszervezői pultokkal és magával ragadó grafikákkal."
+  },
+  {
+   "t": "Uttar Pradesh Tourism",
+   "c": "Turizmus",
+   "g": "Turizmus",
+   "d": "Terrakottát imitáló kapuk, faragott ívek és B2B tárgyalóhelyek: regionális pavilon, amely első pillantásra bemutatja a térséget."
+  },
+  {
+   "t": "Polska — Poland Tastes Good",
+   "c": "Nemzeti élelmiszeripari pavilon",
+   "g": "Élelmiszer & egészség",
+   "d": "Fehér-piros közösségi pavilon áttört díszítéssel, kiállítói pultokkal és show cooking területtel."
+  },
+  {
+   "t": "Fabtech",
+   "c": "Life engineering",
+   "g": "Ipar",
+   "d": "Vállalati stand üvegfalú tárgyalókkal, háttérvilágított falakkal és a folyosó felé nyitott fogadótérrel."
+  },
+  {
+   "t": "Talos Performance",
+   "c": "Motorkerékpárok",
+   "g": "Motor",
+   "d": "Hófehér tér piros kapukkal és motoros dobogókkal: letisztult grafika, amely hagyja érvényesülni a járműveket."
+  },
+  {
+   "t": "Thundervolt",
+   "c": "Elektromos motorkerékpárok",
+   "g": "Motor",
+   "d": "Teljesen fekete díszlet fényes fehér padlóval, kiállított motorokkal és tárgyalózónával."
+  },
+  {
+   "t": "Arama & Benet",
+   "c": "Kiállítási lounge",
+   "g": "Design",
+   "d": "Nyitott lounge nagy panorámanyomattal, függesztett álmennyezettel, pulttal és ülőhelyekkel a látogatók fogadására."
+  },
+  {
+   "t": "Plastona",
+   "c": "Otthon és kert",
+   "g": "Design",
+   "d": "Szigetstand truss szerkezeten elhelyezett kocka alakú feliratokkal, fehér polcrendszerekkel és termékenteriőrökkel."
+  },
+  {
+   "t": "Topsun",
+   "c": "Motorok és járművek",
+   "g": "Motor",
+   "d": "Sarokstand fekete és fehér kiállítófalakkal, dobogóra állított járművekkel és asztalos tárgyalórésszel."
+  },
+  {
+   "t": "Triveni Turbines",
+   "c": "Energiaipar",
+   "g": "Ipar",
+   "d": "Lekerekített, háttérvilágított keretek, műszaki panelek és tárgyalózóna B2B közönség számára."
+  },
+  {
+   "t": "GSB Helmets",
+   "c": "Bukósisakok",
+   "g": "Motor",
+   "d": "Kiállítófalak bukósisakokhoz, versenyhangulatú grafikák és recepciós pult: olasz design néhány négyzetméteren."
+  },
+  {
+   "t": "Moto-Tron Racing",
+   "c": "Motoros kiegészítők",
+   "g": "Motor",
+   "d": "Trikolór oszlopok, megvilágított vitrinek és termékfalak a feltűnő, versenyhangulatú megjelenésért."
+  },
+  {
+   "t": "HD Helmets",
+   "c": "Bukósisakok",
+   "g": "Motor",
+   "d": "Rombuszmintás fal kiállított sisakokkal, túlméretezett feliratok és asztalos rész az üzleti tárgyalásokhoz."
+  },
+  {
+   "t": "WRP — Wind Trading",
+   "c": "Motoros alkatrészek és ruházat",
+   "g": "Motor",
+   "d": "Teljes magasságú grafikai totemek, termékvitrinek és ruházati falak egy tárgyalózóna körül."
+  },
+  {
+   "t": "DEC Group",
+   "c": "Ipar",
+   "g": "Ipar",
+   "d": "Kék vállalati stand folyamatábrás grafikákkal, műszaki területtel és tárgyalóhelyekkel."
+  },
+  {
+   "t": "Rajasthan Tourism",
+   "c": "Turizmus",
+   "g": "Turizmus",
+   "d": "Látványos kapuzat hagyományos díszítéssel és a térség nagyméretű képeivel."
+  },
+  {
+   "t": "Uttar Pradesh — Mezőgazdaság",
+   "c": "Agrár-élelmiszeripar",
+   "g": "Élelmiszer & egészség",
+   "d": "Fehér stand padlószinten futó világító keretekkel és termékpanelekkel, letisztult és világos."
+  },
+  {
+   "t": "Tunézia — Medica Düsseldorf",
+   "c": "Nemzeti egészségügyi pavilon",
+   "g": "Egészségügy",
+   "d": "Országpavilon a düsseldorfi Medicán függesztett felirattal, kiállító cégek pultjaival és lounge-zónával."
+  }
+ ],
+ "ui": {
+  "langName": "Magyar",
+  "langLabel": "Nyelv",
+  "home": "Főoldal",
+  "services": "Szolgáltatások",
+  "works": "Munkáink",
+  "contacts": "Kapcsolat",
+  "quote": "Árajánlat",
+  "requestQuote": "Kérj árajánlatot",
+  "whatsapp": "Írj nekünk WhatsAppon",
+  "call": "Hívj minket",
+  "phone": "Telefon / WhatsApp",
+  "phone2": "Telefon 2",
+  "email": "E-mail",
+  "address": "Székhely",
+  "serviceN": "Szolgáltatás",
+  "locationK": "Milánótól egész Európáig",
+  "includesTitle": "Mit tartalmaz",
+  "whyTitle": "Miért a NEWSTANDS",
+  "why": [
+   {
+    "t": "Bázis Milánóban",
+    "d": "Milánó környékéről dolgozunk, közel a Fiera Milano Rho és az Allianz MiCo központokhoz: gyors helyszíni bejárás, egyszerű logisztika, csapataink mindig a nagy vásárközpontok közelében."
+   },
+   {
+    "t": "Saját gyártás",
+    "d": "A szerkezetek, falpanelek, grafikák, bútorok és világítás a saját műhelyünkben készülnek: kevesebb átadás, kevesebb meglepetés, betartott határidők."
+   },
+   {
+    "t": "Minden európai vásárközpontban",
+    "d": "Standépítő csapataink a standdal együtt utaznak: Németország, Franciaország, Spanyolország, Benelux, Ausztria, Svájc és bármely más vásárközpont igény szerint."
+   },
+   {
+    "t": "Egyetlen kapcsolattartó",
+    "d": "Az első egyeztetéstől a bontásig mindig ugyanazzal a személlyel beszélsz, a vásáron pedig dedikált építésvezető áll rendelkezésedre."
+   }
+  ],
+  "galleryTitle": "Néhány elkészült standunk",
+  "faqTitle": "Gyakori kérdések",
+  "otherTitle": "További szolgáltatások",
+  "ctaTitle": "Vásár van a naptáradban?",
+  "ctaText": "Írd meg a vásárt, a várost, az időpontokat és a négyzetmétereket: első javaslattal és átlátható árajánlattal válaszolunk.",
+  "whereTitle": "Milánótól minden vásárközpontig",
+  "whereText": "Milánó környékén vagyunk, abban a városban, amely a világ legfontosabb vásárainak egy részét rendezi. Innen csapatainkkal Olaszország és Európa bármelyik vásárközpontjába eljutunk.",
+  "milanLink": "Kiállítási standok Milánóban",
+  "europeLink": "Kiállítási standok Európában",
+  "photos": "fotó",
+  "backHome": "Vissza a főoldalra",
+  "footerTag": "Kiállítási standok Milánóban és egész Európában. Megtervezve, legyártva, felépítve.",
+  "rights": "© 2026 NEWSTANDS Allestimenti · Tromello (PV), Lombardia · Milánó környéke",
+  "breadcrumb": "Útvonal",
+  "skip": "Ugrás a tartalomra",
+  "menu": "Főmenü"
+ },
+ "pages": {
+  "personalizzati": {
+   "slug": "egyedi-kiallitasi-standok",
+   "nav": "Egyedi standok",
+   "title": "Egyedi kiállítási standok Milánóban és Európában | NEWSTANDS",
+   "desc": "Egyedi kiállítási standok a NEWSTANDS tervezésében, gyártásában és kivitelezésében: bázis Milánó környékén, standépítés Európa összes vásárközpontjában.",
+   "h1": "Egyedi kiállítási standok",
+   "lead": "Egyedi stand, amelyet a semmiből építünk fel a márkád köré: megtervezzük, Milánó melletti műhelyünkben legyártjuk, és Európa bármelyik vásárán felépítjük.",
+   "body": [
+    "Az egyedi stand a legerősebb módja annak, hogy megjelenj egy vásáron: minden fal, minden fény és minden látogatói útvonal a termékeidhez és az üzleti céljaidhoz igazodik. A vásárközpont műszaki szabályzatából és a csarnok forgalmából indulunk ki, majd az ötletet fotorealisztikus 3D látványtervekké és kiviteli rajzokká alakítjuk.",
+    "Házon belül gyártjuk a fa- és fémszerkezeteket, a falpaneleket, a grafikákat, a bútorokat és a világítást, így minden fázisban kézben tartjuk a minőséget és a határidőket. Akár a Fiera Milano Rhón, akár Düsseldorfban vagy Párizsban van a vásár, ugyanaz a csapat építi fel a standodat, amelyik legyártotta."
+   ],
+   "inc": [
+    {
+     "t": "Koncepció és 3D látványterv",
+     "d": "Kreatív javaslat, fotorealisztikus látványtervek és módosítások, amíg a stand pontosan olyan nem lesz, amilyennek szeretnéd."
+    },
+    {
+     "t": "Kiviteli terv",
+     "d": "Műszaki rajzok, statikai számítások és az adott vásárközpont szabályzatának megfelelő dokumentáció."
+    },
+    {
+     "t": "Egyedi gyártás",
+     "d": "Asztalosmunka, fémszerkezetek, üveg, textil és igényes felületek a saját műhelyünkből."
+    },
+    {
+     "t": "Grafika és világítás",
+     "d": "Nagyformátumú nyomtatás, fénydobozok, LED-falak és világítási terv a stand építészetébe integrálva."
+    },
+    {
+     "t": "Építés és bontás",
+     "d": "Szállítás, építés dedikált építésvezetővel, támogatás a vásáron, bontás és raktározás."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Mennyi idő alatt készül el egy egyedi stand?",
+     "a": "A mérettől és az összetettségtől függ: egyedi standnál érdemes rögtön a vásári részvétel megerősítése után elkezdeni, hogy legyen idő a tervezésre, a látványtervekre és a gyártásra."
+    },
+    {
+     "q": "Újra lehet használni az egyedi standot?",
+     "a": "Igen. Az elemeket úgy tervezzük, hogy raktározhatók és újra felépíthetők legyenek: a következő vásáron a standot új alapterülethez és új grafikákhoz igazítjuk."
+    },
+    {
+     "q": "Olaszországon kívül is építetek egyedi standokat?",
+     "a": "Igen, Milánó környékéről a standot és a csapatainkat Európa összes jelentős vásárközpontjába elvisszük, Németországtól Spanyolországig."
+    }
+   ]
+  },
+  "modulari": {
+   "slug": "modularis-kiallitasi-standok",
+   "nav": "Moduláris standok",
+   "title": "Moduláris kiállítási standok Milánóban és Európában | NEWSTANDS",
+   "desc": "Moduláris, újrahasználható kiállítási standok annak, aki évente több vásáron vesz részt: egységes arculat, kézben tartott költségek Milánótól egész Európáig.",
+   "h1": "Moduláris és újrahasználható standok",
+   "lead": "Moduláris rendszerek azoknak, akik évente több vásáron állítanak ki: ugyanaz a márkaarculat, kézben tartott költségek és gyors építés, Milánóban és Európa bármely vásárközpontjában.",
+   "body": [
+    "A moduláris stand hosszú távú befektetés: a szerkezetek, a panelek és a bútorok újrakonfigurálhatók, így különböző alapterületekhez és típusokhoz igazodnak, a soros standtól a szigetstandig. A grafika változik, a minőség marad.",
+    "A rendszert egyszer tervezzük meg, a saját műhelyünkben gyártjuk le, és két vásár között mi gondoskodunk róla: raktározás, karbantartás, a grafikák frissítése és szállítás a következő csarnokba, Olaszországban vagy külföldön."
+   ],
+   "inc": [
+    {
+     "t": "Egyedi rendszer",
+     "d": "Az arculatodra tervezett modulok, amelyek néhány négyzetméteres standtól a nagy szigetstandig kombinálhatók."
+    },
+    {
+     "t": "Cserélhető grafikák",
+     "d": "Gyorsan cserélhető nyomtatott textilek és panelek minden vásárhoz, termékhez vagy piachoz."
+    },
+    {
+     "t": "Raktározás és karbantartás",
+     "d": "A standot a raktárunkban tároljuk, és minden újabb indulás előtt átvizsgáljuk."
+    },
+    {
+     "t": "Gyors építés",
+     "d": "Rövid építési idő, ideális szűk építési időablakkal rendelkező vásárokhoz is."
+    },
+    {
+     "t": "Vásárnaptár kezelése",
+     "d": "Veled együtt megtervezzük a vásárszezont, és minden állomáshoz megszervezzük a logisztikát és a csapatokat."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Olcsóbb egy moduláris stand, mint egy egyedi?",
+     "a": "Több vásárra vetítve általában igen: a kezdeti befektetés megoszlik a részvételek között, a későbbi gyártási költségek pedig a grafikákra és a logisztikára szűkülnek."
+    },
+    {
+     "q": "Alkalmazkodik a moduláris stand különböző alapterületekhez?",
+     "a": "Igen, a modulok újrakombinálhatók soros, sarok-, félsziget- és szigetstandhoz, valamint különböző méretekhez."
+    },
+    {
+     "q": "Át tudjátok venni a teljes vásárnaptárunk kezelését?",
+     "a": "Igen: Milánó környékéről koordináljuk a raktározást, a szállítást és az építést a szezon minden vásárára, Olaszországban és Európában."
+    }
+   ]
+  },
+  "eventi": {
+   "slug": "rendezveny-kongresszus-kivitelezes",
+   "nav": "Rendezvények & kongresszusok",
+   "title": "Rendezvények és kongresszusok kivitelezése Milánó | NEWSTANDS",
+   "desc": "Céges rendezvények, kongresszusok, konferenciák és termékbemutatók kivitelezése Milánóban és Európában: színpadok, díszletek, teljes műszaki rendezés.",
+   "h1": "Rendezvények és kongresszusok kivitelezése",
+   "lead": "Színpadok, díszletek, plenáris termek, céges konferenciák és termékbemutatók: rendezvényeket és kongresszusokat valósítunk meg Milánóban és egész Európában, ugyanolyan precízen, mint egy vásári standot.",
+   "body": [
+    "Milánó Európa egyik rendezvény- és kongresszusi fővárosa, olyan helyszínekkel, mint az Allianz MiCo és a város nagy céges eseményhelyszínei. Milánó környékéről dolgozva ismerjük ezeknek a helyszíneknek a határidőit, szabályait és logisztikáját, így a helyszíni bejárásokat és az építést nagyon gyorsan intézzük.",
+    "A teljes kivitelezést megtervezzük: színpad, díszlet, plenáris terem, kiállítói területek, recepció, útbaigazító táblák és világítástechnika. A műszaki beszállítókat mi koordináljuk, így az egész rendezvényhez egyetlen kapcsolattartód van."
+   ],
+   "inc": [
+    {
+     "t": "Színpadok és díszletek",
+     "d": "Egyedi színpadok, hátterek, LED-falak és díszletek az üzenetedre szabva."
+    },
+    {
+     "t": "Plenáris termek és kongresszusok",
+     "d": "Termek berendezése, poszterterületek, fogadópultok és szponzori terek."
+    },
+    {
+     "t": "Konferenciák és termékbemutatók",
+     "d": "Emlékezetes környezet egy termék bemutatásához vagy az értékesítési hálózat összehívásához."
+    },
+    {
+     "t": "Hang, kép és fény",
+     "d": "Műszaki rendezés, truss szerkezetek, LED-falak és világítástechnika a projektbe integrálva."
+    },
+    {
+     "t": "Táblák és grafika",
+     "d": "Útvonaljelzések, totemek, háttérfalak és egységes grafikák, amelyeket mi nyomtatunk és telepítünk."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Vásárközpontokon kívül is vállaltok rendezvényeket?",
+     "a": "Igen: szállodákban, kongresszusi központokban, ipari terekben és magánhelyszíneken, Milánóban, Olaszországban és külföldön."
+    },
+    {
+     "q": "A hang- és képtechnikát is el tudjátok intézni?",
+     "a": "Igen, a színpadot, a LED-falakat, a fényeket és a hangot egyetlen projekt részeként koordináljuk, egyetlen kapcsolattartóval."
+    },
+    {
+     "q": "Mennyivel előre kell megszervezni egy rendezvényt?",
+     "a": "Minél korábban, annál jobb: néhány hét ráhagyással nyugodtan elvégezhetjük a helyszíni bejárást, a tervezést és a gyártást. Sürgős esetben keress minket, és felmérjük, mi valósítható meg."
+    }
+   ]
+  },
+  "showroom": {
+   "slug": "showroom-pop-up-uzlet-kivitelezes",
+   "nav": "Showroom & pop-up",
+   "title": "Showroomok, ideiglenes és pop-up üzletek Milánóban | NEWSTANDS",
+   "desc": "Showroomok, ideiglenes üzletek, pop-up boltok és shop-in-shop terek tervezése és kivitelezése Milánóban és Európában, saját gyártással és szereléssel.",
+   "h1": "Showroomok, ideiglenes és pop-up üzletek",
+   "lead": "Ideiglenes üzlethelyiségek, pop-up boltok és állandó showroomok, ugyanazzal a precizitással kivitelezve, mint egy vásári stand, Milánóban és egész Európában.",
+   "body": [
+    "Egy ideiglenes üzletnek vagy pop-up boltnak néhány nap alatt el kell készülnie, és emlékezetes nyomot kell hagynia: olyan tereket tervezünk, amelyek elmesélik a márka történetét, kiemelik a terméket és gyorsan felépíthetők, akár bevásárlóközpontokban és bevásárlóutcákban is.",
+    "Állandó showroomokhoz tartós anyagokból készítünk egyedi bútorokat, kiállítófalakat, vitrineket és világítást. A gyártás és a szerelés házon belül történik, így a határidők és a minőség kézben maradnak."
+   ],
+   "inc": [
+    {
+     "t": "Retail koncepció",
+     "d": "Alaprajz, vásárlói útvonal és termékkihelyezés, mind az eladás szolgálatában."
+    },
+    {
+     "t": "Ideiglenes és pop-up üzletek",
+     "d": "Könnyű szerkezetek, amelyek gyorsan felépíthetők, lebonthatók és más városokban újra használhatók."
+    },
+    {
+     "t": "Állandó showroomok",
+     "d": "Egyedi bútorok, felszerelt falak, vitrinek és igényes felületek."
+    },
+    {
+     "t": "Shop-in-shop",
+     "d": "Márkasarkok üzleteken és áruházakon belül, az arculatoddal összhangban."
+    },
+    {
+     "t": "Fények és grafika",
+     "d": "Termékvilágítás, cégérek, ablakfóliák és grafikák saját gyártásban."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Mennyi idő alatt készül el egy ideiglenes üzlet?",
+     "a": "A tértől és a projekttől függ: saját gyártásunknak köszönhetően egy pop-up boltot akár néhány nap alatt is felépítünk."
+    },
+    {
+     "q": "Át lehet vinni egy pop-up boltot más városokba?",
+     "a": "Igen, moduláris szerkezeteket tervezünk, amelyek lebonthatók és más helyszíneken újra felépíthetők, Olaszországban és Európában."
+    },
+    {
+     "q": "Állandó showroomokat is vállaltok?",
+     "a": "Igen, a tervezéstől a bútorok, vitrinek, fények és grafikák telepítéséig."
+    }
+   ]
+  },
+  "grafica": {
+   "slug": "nagyformatumu-grafika-nyomtatas",
+   "nav": "Nagyformátumú grafika",
+   "title": "Nagyformátumú grafika standokhoz és vásárokra | NEWSTANDS",
+   "desc": "Nagyformátumú nyomtatás kiállítási standokhoz és rendezvényekhez: forex, háttérvilágított textil, fénydoboz, PVC, matricák és ablakfóliák saját kivitelezésben.",
+   "h1": "Nagyformátumú grafika standokhoz és rendezvényekhez",
+   "lead": "Nyomtatás forexre, háttérvilágított textilre, PVC-re, matricák és ablakfóliák: a standod grafikáit ugyanazok a csapatok gyártják és viszik fel, amelyek a standot felépítik.",
+   "body": [
+    "A grafikát látják meg elsőként a látogatók, gyakran az egész csarnokból. Ezért a stand építészetének részeként kezeljük: a formátumokat, az anyagokat és a fényeket a szerkezetekkel együtt tervezzük meg.",
+    "A nyomtatást és a felhelyezést közvetlenül mi végezzük, Milánóban és bármelyik európai vásáron: nincs átadás különböző beszállítók között, a színek ellenőrzöttek, a grafikák pedig nyitáskor tökéletesen illeszkednek."
+   ],
+   "inc": [
+    {
+     "t": "Háttérvilágított textil",
+     "d": "Textil fénydobozok és világító falak, könnyűek és nagy hatásúak."
+    },
+    {
+     "t": "Merev panelek",
+     "d": "Nyomtatás forexre, dibondra és PVC-re falakhoz, totemekhez és pultokhoz."
+    },
+    {
+     "t": "Matricák és ablakfóliák",
+     "d": "Padlók, üvegfelületek és egyéb felületek műszaki matricákkal személyre szabva."
+    },
+    {
+     "t": "Függesztett feliratok",
+     "d": "Molinók és függesztett grafikai szerkezetek, messziről láthatók a csarnokban."
+    },
+    {
+     "t": "Felhelyezés a vásáron",
+     "d": "A grafikákat mi telepítjük, nyitás előtti végső ellenőrzéssel."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Mások által épített standokhoz is nyomtattok grafikát?",
+     "a": "Igen, csak a grafikák gyártását és felhelyezését is vállaljuk, a vásárközpont méretei és szabályzata szerint."
+    },
+    {
+     "q": "Milyen fájlok kellenek a nyomtatáshoz?",
+     "a": "Vektoros fájlok vagy nagy felbontású képek kifutóval: minden formátumhoz elküldjük a műszaki specifikációt."
+    },
+    {
+     "q": "Újra lehet használni a textilgrafikákat?",
+     "a": "Igen, a textil mosható, összehajtható és újra felszerelhető: ideális azoknak, akik több vásáron vesznek részt."
+    }
+   ]
+  },
+  "americane": {
+   "slug": "truss-ledfal-vilagitastechnika",
+   "nav": "Truss & LED-falak",
+   "title": "Truss, LED-falak és világítás kiállítási standokhoz | NEWSTANDS",
+   "desc": "Truss szerkezetek, függesztett gyűrűk, rigging, LED-falak és világítástechnika kiállítási standokhoz és rendezvényekhez Milánóban és egész Európában.",
+   "h1": "Truss szerkezetek, LED-falak és világítástechnika",
+   "lead": "Truss szerkezetek, függesztett gyűrűk, rigging, LED-falak és fények, hogy a standod az egész csarnokból látsszon, a Fiera Milanón és Európa bármelyik vásárközpontjában.",
+   "body": [
+    "Egy logós függesztett gyűrű, egy LED-fal a termékvideókhoz, a felületekre megtervezett fény: ezek teszik a standot messziről felismerhetővé. A standdal együtt tervezzük meg őket, ellenőrizve a terheléseket, a függesztési pontokat és a vásárközpont szabályzatát.",
+    "Truss szerkezeteket, emelőmotorokat, LED-falakat és lámpatesteket biztosítunk és telepítünk képzett szakemberekkel, a rigging-igényeket pedig a vásárszervezővel egyeztetjük."
+   ],
+   "inc": [
+    {
+     "t": "Truss szerkezetek",
+     "d": "Bármilyen méretű álló és függesztett szerkezetek, grafikák és fények tartószerkezeteként is."
+    },
+    {
+     "t": "Függesztett gyűrűk és feliratok",
+     "d": "Kör alakú vagy egyedi függesztett elemek grafikával, az egész csarnokból láthatók."
+    },
+    {
+     "t": "Rigging",
+     "d": "Számítások, függesztési pontok és ügyintézés a vásárközponttal."
+    },
+    {
+     "t": "LED-falak",
+     "d": "Különböző méretű LED-kijelzők falba építve vagy saját tartószerkezeten."
+    },
+    {
+     "t": "Világítástechnika",
+     "d": "Világítási terv a termékekhez, a grafikákhoz és a stand hangulatához."
+    }
+   ],
+   "faq": [
+    {
+     "q": "A rigging engedélyeket is ti intézitek?",
+     "a": "Igen, elkészítjük a műszaki dokumentációt, és a kérelmeket a vásárszervezővel intézzük."
+    },
+    {
+     "q": "Rendezvényekre is bérelhetők LED-falak?",
+     "a": "Igen, a LED-falak, a truss szerkezetek és a fények rendezvényekre, kongresszusokra és termékbemutatókra is elérhetők."
+    },
+    {
+     "q": "Külföldi vásárközpontokban is dolgoztok?",
+     "a": "Igen, Európa összes jelentős vásárközpontjában telepítünk szerkezeteket és LED-falakat."
+    }
+   ]
+  },
+  "arredi": {
+   "slug": "standbutor-gyartas-berles",
+   "nav": "Bútorok & bérlés",
+   "title": "Egyedi és bérelhető bútorok kiállítási standokhoz | NEWSTANDS",
+   "desc": "Pultok, bárpultok, ülőbútorok, vitrinek, konyhák és raktárak kiállítási standokhoz: egyedi gyártású vagy bérelhető bútorok Milánótól egész Európáig.",
+   "h1": "Egyedi és bérelhető standbútorok",
+   "lead": "Pultok, bárpultok, ülőbútorok, vitrinek, konyhák és raktárak: saját műhelyünkben egyedi méretre gyártott vagy bérelhető bútorok bármilyen alapterületű standhoz.",
+   "body": [
+    "A bútorok teszik működőképessé a standot: a fogadásnak, a bemutatásnak, a tárgyalásoknak, a kóstoltatásnak és a raktárnak is a megfelelő helyen kell lennie. Az alaprajzzal együtt tervezzük meg őket, figyelembe véve a látogatói forgalmat és a csapatod munkáját a vásáron.",
+    "Készíthetünk egyedi darabokat a márkád felületeivel és színeivel, vagy a költségek csökkentése érdekében bérelhető bútorokat biztosítunk. A szállítást, az összeszerelést és az elszállítást mindig mi végezzük."
+   ],
+   "inc": [
+    {
+     "t": "Pultok és recepció",
+     "d": "Egyedi fogadópultok logóval, világítással és technikai rekeszekkel."
+    },
+    {
+     "t": "Tárgyaló- és lounge-zónák",
+     "d": "Asztalok, székek és ülőgarnitúrák az ügyféltalálkozókhoz a standon."
+    },
+    {
+     "t": "Vitrinek és termékkiállítók",
+     "d": "Tárlók, polcok és felszerelt falak a termékek kiemeléséhez."
+    },
+    {
+     "t": "Konyhák és raktárak",
+     "d": "Tárolók, konyhák és kiszolgálóterek a standba integrálva."
+    },
+    {
+     "t": "Bútorbérlés",
+     "d": "Bérelhető bútorok minden stílushoz és költségkerethez, amelyeket mi szállítunk ki és szállítunk el."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Bérelhetek csak bútorokat?",
+     "a": "Igen, csak bérelhető bútorokat is biztosítunk, vásári kiszállítással és elszállítással."
+    },
+    {
+     "q": "Újra lehet használni az egyedi bútorokat?",
+     "a": "Igen, a raktárunkban tároljuk őket, és elvisszük a következő vásárra."
+    },
+    {
+     "q": "Külföldre is szállítotok bútorokat?",
+     "a": "Igen, Európa összes jelentős vásárközpontjába szállítunk és ott össze is szereljük a bútorokat."
+    }
+   ]
+  },
+  "montaggio": {
+   "slug": "standepites-standbontas",
+   "nav": "Építés & bontás",
+   "title": "Standépítés és standbontás Milánóban és Európában | NEWSTANDS",
+   "desc": "Szakképzett csapatok kiállítási standok építéséhez és bontásához a Fiera Milano Rhón és Európa összes vásárközpontjában. Csak építést is vállalunk.",
+   "h1": "Kiállítási standok építése és bontása",
+   "lead": "Szakképzett csapatok és dedikált építésvezető a standod felépítéséhez és lebontásához a Fiera Milano Rhón, az Allianz MiCóban és Európa bármelyik vásárközpontjában. Csak építést is vállalunk.",
+   "body": [
+    "Az építés az a pillanat, amikor a tervből stand lesz: tapasztalt csapatok, felszerelés, valamint az időablakok és a vásárközpont biztonsági előírásainak betartása kell hozzá. Milánó környéki bázisunkról gyorsan elérjük a milánói vásárközpontokat, és a standdal együtt indulunk egész Európa vásáraira.",
+    "Az általunk gyártott standokat éppúgy felépítjük, mint más beszállítók vagy az ügyfél tulajdonában lévő standokat: az anyagok átvétele, építés, műszaki átvétel, támogatás a vásár alatt, bontás és visszaszállítás a raktárba."
+   ],
+   "inc": [
+    {
+     "t": "Szakképzett csapatok",
+     "d": "Tapasztalt standépítők saját felszereléssel és dedikált építésvezetővel."
+    },
+    {
+     "t": "Belépési ügyintézés",
+     "d": "Belépőkártyák, biztonsági dokumentáció és a vásárközpont által előírt engedélyek."
+    },
+    {
+     "t": "Átvétel és átadás",
+     "d": "A szerkezetek, a fények és a grafikák végső ellenőrzése nyitás előtt."
+    },
+    {
+     "t": "Támogatás a vásáron",
+     "d": "Elérhető technikusok a rendezvény teljes ideje alatt, bármilyen igény esetén."
+    },
+    {
+     "t": "Bontás és raktározás",
+     "d": "Bontás a megadott határidőn belül, szállítás és raktározás az újrahasznosításhoz."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Nem általatok gyártott standok építését is vállaljátok?",
+     "a": "Igen, más standépítők vagy a kiállító tulajdonában lévő standokat is felépítjük és lebontjuk."
+    },
+    {
+     "q": "Mely vásárközpontokban dolgoztok?",
+     "a": "A Fiera Milano Rhón és az Allianz MiCóban, Bolognában, Veronában és Riminiben, valamint a legfontosabb európai központokban: Düsseldorfban, Kölnben, Frankfurtban, Münchenben, Párizsban, Barcelonában, Madridban, Amszterdamban és máshol."
+    },
+    {
+     "q": "Betartjátok a vásárközpontok biztonsági előírásait?",
+     "a": "Igen, standépítőink minden vásárközpont biztonsági előírásai és műszaki szabályzata szerint dolgoznak."
+    }
+   ]
+  },
+  "milano": {
+   "slug": "kiallitasi-standok-milano",
+   "nav": "Standok Milánóban",
+   "title": "Standépítés Milánóban: Fiera Milano Rho | NEWSTANDS",
+   "desc": "Standépítő cég Milánó környékén: kulcsrakész kiállítási standok a Fiera Milano Rhóra, az Allianz MiCóba és rendezvényekre, saját tervezéssel és építéssel.",
+   "h1": "Kiállítási standok Milánóban",
+   "lead": "Milánó Európa egyik legfontosabb vásárközpontja, és mi innen dolgozunk: standokat tervezünk, gyártunk és építünk a Fiera Milano Rho és az Allianz MiCo vásáraira, valamint a városi rendezvényekre.",
+   "body": [
+    "A Fiera Milano Rho minden évben olyan nemzetközi rendezvényeknek ad otthont, mint a Salone del Mobile.Milano, az EICMA, a HostMilano, a TUTTOFOOD, a MIDO és a MICAM, az Allianz MiCo pedig Európa egyik legnagyobb kongresszusi központja. Egy kiállító számára ez rendkívül erős versenyt jelent: a standnak ki kell tűnnie.",
+    "Ha a standépítő Milánó környékén van, az gyors helyszíni bejárást, egyszerű logisztikát, közeli építőcsapatokat és azonnali támogatást jelent a vásár alatt. Ha pedig Milánó után a szezonod külföldön folytatódik, ugyanaz a csapat viszi el a standot bármelyik európai vásárközpontba."
+   ],
+   "inc": [
+    {
+     "t": "Fiera Milano Rho",
+     "d": "Standok a rhói vásárközpont nagy nemzetközi vásáraira, a design csarnokoktól a motoros és élelmiszeripari csarnokokig."
+    },
+    {
+     "t": "Allianz MiCo",
+     "d": "Kivitelezés kongresszusokhoz, konferenciákhoz és vásárokhoz Milánó kongresszusi központjában."
+    },
+    {
+     "t": "Városi rendezvények",
+     "d": "Termékbemutatók, Fuorisalone, showroomok és pop-up üzletek milánói helyszíneken."
+    },
+    {
+     "t": "Gyors helyszíni bejárás",
+     "d": "Bázisunkról rövid idő alatt elérjük a milánói vásárközpontokat, a vásár előtt és alatt is."
+    },
+    {
+     "t": "Közeli raktározás",
+     "d": "A standod lombardiai raktárunkban marad, készen a következő kiadásra."
+    }
+   ],
+   "faq": [
+    {
+     "q": "Milánói standépítő cég vagytok?",
+     "a": "Igen, Milánó környékéről dolgozunk, székhelyünk és műhelyünk Tromellóban (PV), Lombardiában található, közel a Fiera Milano Rhóhoz."
+    },
+    {
+     "q": "Mely milánói vásárokra készítetek standokat?",
+     "a": "A Fiera Milano Rho és az Allianz MiCo összes rendezvényére, valamint városi eseményekre és a Fuorisalonéra is."
+    },
+    {
+     "q": "Külföldi vásárokra is el tudtok kísérni minket?",
+     "a": "Igen, Milánóból standokat és csapatokat viszünk Európa összes jelentős vásárközpontjába."
+    }
+   ]
+  },
+  "europa": {
+   "slug": "kiallitasi-standok-europa",
+   "nav": "Standok Európában",
+   "title": "Kiállítási standok Európában: német, francia vásárok | NEWSTANDS",
+   "desc": "Milánótól Európa összes vásárközpontjáig: kulcsrakész standok Düsseldorfban, Kölnben, Frankfurtban, Münchenben, Párizsban, Barcelonában, Madridban és máshol.",
+   "h1": "Kiállítási standok egész Európában",
+   "lead": "Milánóból indulunk, és Európa bármelyik vásárközpontjába eljutunk: egyetlen partner a tervezéshez, gyártáshoz, szállításhoz és építéshez, bárhol is legyen a vásárod.",
+   "body": [
+    "Ha külföldön minden országban más helyi standépítővel állítasz ki, az új kapcsolattartókat, eltérő színvonalat és több kockázatot jelent. A NEWSTANDS-szel egyetlen csapatod van: Milánó melletti műhelyünkben tervezünk és gyártunk, megszervezzük a szállítást és a belépési ügyintézést, és saját csapatainkkal építünk.",
+    "Németország, Franciaország, Spanyolország, a Benelux-államok, Ausztria és Svájc nagy vásárközpontjaiban dolgozunk, igény szerint pedig bármely más helyszínen is. Készítettünk már nemzeti pavilonokat és márkastandokat, például Tunézia pavilonját a düsseldorfi MEDICA vásáron."
+   ],
+   "inc": [
+    {
+     "t": "Németország",
+     "d": "Messe Düsseldorf, Koelnmesse, Messe Frankfurt és Messe München."
+    },
+    {
+     "t": "Franciaország",
+     "d": "Paris Nord Villepinte, Paris Expo Porte de Versailles és Eurexpo Lyon."
+    },
+    {
+     "t": "Spanyolország",
+     "d": "Fira de Barcelona Gran Via és IFEMA Madrid."
+    },
+    {
+     "t": "Benelux",
+     "d": "RAI Amsterdam és Brussels Expo."
+    },
+    {
+     "t": "Ausztria, Svájc és máshol",
+     "d": "Messe Wien, Palexpo Genève és igény szerint bármely más európai vásárközpont."
+    }
+   ],
+   "faq": [
+    {
+     "q": "A külföldi vásárok szállítását és ügyintézését is ti intézitek?",
+     "a": "Igen: a csomagolás, a szállítás, a belépők, a biztonsági dokumentáció és a kapcsolattartás a vásárszervezővel a mi feladatunk."
+    },
+    {
+     "q": "Saját standépítő csapataitok vannak?",
+     "a": "Igen, a standot saját csapataink építik fel dedikált építésvezetővel, külföldön is."
+    },
+    {
+     "q": "Milyen nyelveken kommunikálhatunk?",
+     "a": "Olaszul és angolul; a vásári dokumentációt a szervezővel a helyi nyelven egyeztetjük."
+    }
+   ]
+  }
+ }
+}
